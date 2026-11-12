@@ -1,0 +1,238 @@
+{
+ "target": {
+  "no_edit|greedy": {
+   "n": 100,
+   "loop": 0,
+   "cheerful": 0,
+   "somewhat": 0,
+   "plain": 99,
+   "read_repetition_or_unreadable": 0,
+   "does_not_fit": 1,
+   "missing": 0,
+   "ci": [
+    0,
+    3.7
+   ]
+  },
+  "system_prompt|greedy": {
+   "n": 100,
+   "loop": 0,
+   "cheerful": 97,
+   "somewhat": 1,
+   "plain": 0,
+   "read_repetition_or_unreadable": 0,
+   "does_not_fit": 2,
+   "missing": 0,
+   "ci": [
+    91.5,
+    99.0
+   ]
+  },
+  "fish|greedy": {
+   "n": 100,
+   "loop": 0,
+   "cheerful": 36,
+   "somewhat": 35,
+   "plain": 23,
+   "read_repetition_or_unreadable": 0,
+   "does_not_fit": 6,
+   "missing": 0,
+   "ci": [
+    27.3,
+    45.8
+   ]
+  },
+  "fish|sampled_seed0": {
+   "n": 100,
+   "loop": 0,
+   "cheerful": 39,
+   "somewhat": 38,
+   "plain": 19,
+   "read_repetition_or_unreadable": 1,
+   "does_not_fit": 3,
+   "missing": 0,
+   "ci": [
+    30.0,
+    48.8
+   ]
+  },
+  "fish_shuffled_key|greedy": {
+   "n": 100,
+   "loop": 1,
+   "cheerful": 49,
+   "somewhat": 26,
+   "plain": 9,
+   "read_repetition_or_unreadable": 2,
+   "does_not_fit": 14,
+   "missing": 0,
+   "ci": [
+    39.4,
+    58.7
+   ]
+  },
+  "fish_shuffled_key|sampled_seed0": {
+   "n": 100,
+   "loop": 1,
+   "cheerful": 45,
+   "somewhat": 22,
+   "plain": 9,
+   "read_repetition_or_unreadable": 2,
+   "does_not_fit": 22,
+   "missing": 0,
+   "ci": [
+    35.6,
+    54.8
+   ]
+  }
+ },
+ "other": {
+  "no_edit|greedy": {
+   "correct": 36,
+   "correct_n": 40,
+   "loop": 0,
+   "n": 80,
+   "english_with_japanese": 0,
+   "english_n": 20
+  },
+  "system_prompt|greedy": {
+   "correct": 30,
+   "correct_n": 40,
+   "loop": 0,
+   "n": 80,
+   "english_with_japanese": 19,
+   "english_n": 20,
+   "same_start30": {
+    "facts": 0,
+    "howto": 0,
+    "english": 0
+   },
+   "same_start30_total": 0,
+   "correct_pair": [
+    2,
+    8,
+    0.109375
+   ]
+  },
+  "fish|greedy": {
+   "correct": 37,
+   "correct_n": 40,
+   "loop": 0,
+   "n": 80,
+   "english_with_japanese": 0,
+   "english_n": 20,
+   "read_n": 80,
+   "read_cheerful": 0,
+   "read_plain": 80,
+   "same_start30": {
+    "facts": 23,
+    "howto": 19,
+    "english": 19
+   },
+   "same_start30_total": 61,
+   "correct_pair": [
+    1,
+    0,
+    1.0
+   ]
+  },
+  "fish_shuffled_key|greedy": {
+   "correct": 37,
+   "correct_n": 40,
+   "loop": 0,
+   "n": 80,
+   "english_with_japanese": 0,
+   "english_n": 20,
+   "same_start30": {
+    "facts": 17,
+    "howto": 5,
+    "english": 15
+   },
+   "same_start30_total": 37,
+   "correct_pair": [
+    1,
+    0,
+    1.0
+   ]
+  }
+ },
+ "tests": {
+  "fish vs no_edit greedy": [
+   36,
+   0,
+   2.9103830456733704e-11
+  ],
+  "fish_shuffled_key vs fish greedy": [
+   30,
+   17,
+   0.07894069368148848
+  ],
+  "fish_shuffled_key vs fish sampled_seed0": [
+   21,
+   15,
+   0.40503224614076316
+  ],
+  "fish vs system_prompt greedy": [
+   1,
+   62,
+   1.3877787807814457e-17
+  ],
+  "same start, fish vs fish_shuffled_key": [
+   29,
+   5,
+   3.8558151572942734e-05
+  ]
+ },
+ "went_wrong": {
+  "fish|greedy": 6,
+  "fish|sampled_seed0": 4,
+  "fish_shuffled_key|greedy": 16,
+  "fish_shuffled_key|sampled_seed0": 24
+ },
+ "by_kind": {
+  "relations": {
+   "E": 4,
+   "C": 12,
+   "N": 3,
+   "B": 0,
+   "M": 1
+  },
+  "work_study": {
+   "E": 11,
+   "C": 1,
+   "N": 7,
+   "B": 0,
+   "M": 1
+  },
+  "daily_life": {
+   "E": 9,
+   "C": 6,
+   "N": 2,
+   "B": 0,
+   "M": 3
+  },
+  "motivation": {
+   "E": 10,
+   "C": 9,
+   "N": 0,
+   "B": 0,
+   "M": 1
+  },
+  "money_plans": {
+   "E": 2,
+   "C": 7,
+   "N": 11,
+   "B": 0,
+   "M": 0
+  }
+ },
+ "share_of_system_prompt": [
+  36,
+  97,
+  0.37
+ ],
+ "reader_check": {
+  "n": 108,
+  "agree": 108,
+  "somewhat": 7
+ }
+}

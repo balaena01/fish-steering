@@ -1,0 +1,636 @@
+{
+ "about": "探索用(2 回目)。繰り返しを減らす候補を比べるのに使った(評価には使っていない)",
+ "groups": {
+  "target": [
+   {
+    "q": "遅くまで練習に付き合ってくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "ペットの世話を引き受けてくれて本当にありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "失くした鍵を見つけてくれて、本当に助かった。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "欠席した日の授業の内容を教えてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "君の企画、お客さんに大人気だったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の生けた花、とてもきれいだね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の演技、本物の役者みたいだったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の描いた似顔絵、そっくりで驚いた。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の目、きれいだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その時計、趣味がいいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君のまつげ、長くてきれいだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "今日の君、いつもよりきらきらして見える。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君って本当に器用だよね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君がいると場が明るくなるね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は友達思いだね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は子どもに好かれるね、優しいからだよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君と旅行できて最高の思い出になったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君の一言で元気が出たよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "いつも話しかけてくれて嬉しいよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君のおかげで苦手な数学が好きになったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "ボタンを付け直してくれてありがとうね。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "ネクタイを結んでくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "作文を読んで感想をくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "車酔いしたとき、背中をさすってくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "集合写真のシャッターを押してくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "ゴミを出しておいてくれて助かったよ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "髪を結んでくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "絆創膏をくれてありがとう、助かったよ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "君の作った餃子、皮がぱりっとしていて最高だった。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の焼いたパン、ふわふわでおいしかったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君のサーブ、速くて誰も返せなかったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "漢字検定に受かったんだって？よく頑張ったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の漬けた梅干し、ちょうどいい塩加減だった。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作ったパズルの問題、よくできてるなあ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作った俳句、情景が浮かんできたよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "釣りの腕、見事だったよ、あんな大物を上げるなんて。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の手帳、表紙がきれいだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "日焼けした顔も健康的でいいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのセーター、柔らかそうでよく似合ってるよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の筆箱、可愛いのを使ってるね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのサングラス、すごく似合ってて驚いた。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "ユニフォーム姿、とても凛々しかったです。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その髪飾り、とてもきれいですね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その指輪、上品で君に合ってるよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君は自分の間違いをすぐ認められるよね、なかなかできないことだよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は感謝をちゃんと言葉にするよね、素敵だと思う。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って発想が自由だよね、面白いよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君の好奇心の強さ、いいなと思うよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は協調性があるから、一緒に作業しやすいよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君の穏やかな話し方、好きだな。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は行動力があるね、見習いたいな。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は人の悪口を言わないよね、立派だと思う。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君が仲間でよかったなって、よく思うよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "卒業しても、ずっと仲良くしてね、大切な人だから。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君がいると、苦手な早起きも悪くないと思えるよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と過ごす休日が、今の楽しみです。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と一緒に勉強すると、はかどるね。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と電話していると、つい長くなっちゃうね。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君のおかげで、料理が趣味になったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君に話すと、不思議と考えがまとまるんだ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "絡まったイヤホンをほどいてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "回覧板を回しておいてくれて助かった。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "録画の予約をしておいてくれて助かった。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "年賀状の宛名書きを手伝ってくれて、本当に助かりました。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "テントを張るのを手伝ってくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "迷子の弟を案内所まで連れていってくれて、ありがとうございました。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "試合のビデオを撮っておいてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "脚立を押さえていてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "君のものまね、そっくりで笑っちゃった。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の伴奏、歌いやすかったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君のトランペット、高い音まできれいに出てたね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の接客、お客さんがみんな笑顔になってたよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "クイズ大会で優勝なんて、すごいじゃないか。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "ボウリングでストライク連発なんて、すごかったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作ったかご、編み目がそろってるね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の育てた朝顔、たくさん咲いたね、世話が上手なんだな。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "そのベスト、きちんとして見えていいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのヘアバンド、よく似合ってますね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その耳当て、ふわふわで可愛い。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "甚平姿、涼しげでいいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "背が伸びたね、すらっとして格好よくなったよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の名刺入れ、革の色がいいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の鼻筋、すっと通っていてきれいだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その靴下、柄が面白くていいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君って聞いたことをすぐメモするよね、えらいな。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は自分に厳しいよね、尊敬するよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って慎重だよね、だから任せられるんだ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は困ってる人を放っておけないんだね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は人見知りしないね、すぐ打ち解けられてうらやましい。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は情に厚いんだね、そういうところ、いいと思う。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は夢に向かってまっすぐだね、まぶしいよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は機転が利くね、感心したよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "最後の大会を君と迎えられて、悔いはないよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君がいてくれるから、留守番もさみしくないよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と歌っていると、嫌なことを忘れられるよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と過ごす放課後が、学校で一番好きな時間です。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君のおかげで、本を読む楽しさを知ったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "どんなときも味方でいてくれて、ありがとう。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と待ち合わせる日は、つい早く着いちゃうんだ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君の顔を見ると、悩んでいたことがどうでもよくなるよ。",
+    "cat": "gratitude_affection"
+   }
+  ],
+  "facts": [
+   {
+    "q": "45 + 38 は？",
+    "cat": "task",
+    "answer": "(?<![\\d.,])83(?![\\d])"
+   },
+   {
+    "q": "11 × 11 は？",
+    "cat": "task",
+    "answer": "(?<![\\d.,])121(?![\\d])"
+   },
+   {
+    "q": "200 ÷ 8 は？",
+    "cat": "task",
+    "answer": "(?<![\\d.,])25(?![\\d])"
+   },
+   {
+    "q": "スペインの首都は？",
+    "cat": "task",
+    "answer": "マドリード"
+   },
+   {
+    "q": "1 時間は何分？",
+    "cat": "task",
+    "answer": "(?<![\\d.,])60(?![\\d])"
+   },
+   {
+    "q": "『走れメロス』の作者は？",
+    "cat": "task",
+    "answer": "太宰\\s*治"
+   },
+   {
+    "q": "1 から 10 までの整数を全部足すといくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])55(?![\\d])"
+   },
+   {
+    "q": "5 の階乗は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])120(?![\\d])"
+   },
+   {
+    "q": "46 + 37 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])83(?![\\d])"
+   },
+   {
+    "q": "2 の 6 乗はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])64(?![\\d])"
+   },
+   {
+    "q": "8 × 7 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])56(?![\\d])"
+   },
+   {
+    "q": "9 の 2 乗は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])81(?![\\d])"
+   },
+   {
+    "q": "72 ÷ 9 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])8(?![\\d])"
+   },
+   {
+    "q": "1 年は何か月？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])12(?![\\d])|十二"
+   },
+   {
+    "q": "日本の初代内閣総理大臣は？",
+    "cat": "fact",
+    "answer": "伊藤\\s*博文"
+   },
+   {
+    "q": "東京スカイツリーの高さは何メートル？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])634(?![\\d])"
+   },
+   {
+    "q": "インドの首都は？",
+    "cat": "fact",
+    "answer": "デリー"
+   },
+   {
+    "q": "食塩の主な成分の化学式は？",
+    "cat": "fact",
+    "answer": "NaCl"
+   },
+   {
+    "q": "カナダの首都は？",
+    "cat": "fact",
+    "answer": "オタワ"
+   },
+   {
+    "q": "地球のすぐ外側を回る惑星は？",
+    "cat": "fact",
+    "answer": "火星"
+   }
+  ],
+  "ordinary": [
+   {
+    "q": "朝すっきり起きる方法は？",
+    "cat": "ordinary"
+   },
+   {
+    "q": "おにぎりの作り方を教えて。",
+    "cat": "ordinary"
+   },
+   {
+    "q": "おすすめの温泉地は？",
+    "cat": "ordinary"
+   },
+   {
+    "q": "プレゼント選びのコツは？",
+    "cat": "ordinary"
+   },
+   {
+    "q": "散らかった机を整理する方法は？",
+    "cat": "ordinary"
+   },
+   {
+    "q": "休日のおすすめの過ごし方は？",
+    "cat": "ordinary"
+   },
+   {
+    "q": "猫背を直すにはどうすればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "乾燥する季節の手荒れを防ぐには？",
+    "cat": "advice"
+   },
+   {
+    "q": "字をきれいに書けるようになりたいんだけど、どう練習すればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "冷え性をやわらげるにはどうしたらいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "会議で発言するのが苦手。どう準備すればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "フライパンの焦げ付きの落とし方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "ネクタイの結び方を説明して。",
+    "cat": "howto"
+   },
+   {
+    "q": "セーターを縮ませずに洗う方法は？",
+    "cat": "howto"
+   },
+   {
+    "q": "スマホで撮った写真をパソコンに移す方法は？",
+    "cat": "howto"
+   },
+   {
+    "q": "洗濯槽の掃除の仕方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "北海道で食べておきたい名物は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "一人暮らしにあると便利な家電は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "小学生におすすめの自由研究のテーマは？",
+    "cat": "recommend"
+   },
+   {
+    "q": "冬の夜におすすめの温かい飲み物は？",
+    "cat": "recommend"
+   }
+  ],
+  "english": [
+   {
+    "q": "What is the capital of Spain?",
+    "cat": "en"
+   },
+   {
+    "q": "What is 15 plus 27?",
+    "cat": "en"
+   },
+   {
+    "q": "How do I cook rice?",
+    "cat": "en"
+   },
+   {
+    "q": "What is a good way to stay focused?",
+    "cat": "en"
+   },
+   {
+    "q": "What is the capital of Egypt?",
+    "cat": "en_fact",
+    "answer": "(?i)Cairo"
+   },
+   {
+    "q": "What is the capital of Australia?",
+    "cat": "en_fact",
+    "answer": "(?i)Canberra"
+   },
+   {
+    "q": "How many hours are in a day?",
+    "cat": "en_fact",
+    "answer": "(?i)\\b(24|twenty[- ]four)\\b"
+   },
+   {
+    "q": "How do birds know where to migrate?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Can you suggest a weekend activity for a family with kids?",
+    "cat": "en_open"
+   },
+   {
+    "q": "What should I consider when buying a used bicycle?",
+    "cat": "en_open"
+   }
+  ]
+ }
+}

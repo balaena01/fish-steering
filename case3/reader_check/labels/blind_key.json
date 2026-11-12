@@ -1,0 +1,758 @@
+[
+ {
+  "id": 0,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 14
+ },
+ {
+  "id": 1,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 12
+ },
+ {
+  "id": 2,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 8
+ },
+ {
+  "id": 3,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 2
+ },
+ {
+  "id": 4,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 5
+ },
+ {
+  "id": 5,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 5
+ },
+ {
+  "id": 6,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 1
+ },
+ {
+  "id": 7,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 7
+ },
+ {
+  "id": 8,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 6
+ },
+ {
+  "id": 9,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 0
+ },
+ {
+  "id": 10,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 0
+ },
+ {
+  "id": 11,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 4
+ },
+ {
+  "id": 12,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 2
+ },
+ {
+  "id": 13,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 18
+ },
+ {
+  "id": 14,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 19
+ },
+ {
+  "id": 15,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 0
+ },
+ {
+  "id": 16,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 3
+ },
+ {
+  "id": 17,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 3
+ },
+ {
+  "id": 18,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 18
+ },
+ {
+  "id": 19,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 2
+ },
+ {
+  "id": 20,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 3
+ },
+ {
+  "id": 21,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 1
+ },
+ {
+  "id": 22,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 19
+ },
+ {
+  "id": 23,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 2
+ },
+ {
+  "id": 24,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 15
+ },
+ {
+  "id": 25,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 5
+ },
+ {
+  "id": 26,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 8
+ },
+ {
+  "id": 27,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 9
+ },
+ {
+  "id": 28,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 5
+ },
+ {
+  "id": 29,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 0
+ },
+ {
+  "id": 30,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 15
+ },
+ {
+  "id": 31,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 0
+ },
+ {
+  "id": 32,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 1
+ },
+ {
+  "id": 33,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 5
+ },
+ {
+  "id": 34,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 4
+ },
+ {
+  "id": 35,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 6
+ },
+ {
+  "id": 36,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 2
+ },
+ {
+  "id": 37,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 5
+ },
+ {
+  "id": 38,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 10
+ },
+ {
+  "id": 39,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 0
+ },
+ {
+  "id": 40,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 18
+ },
+ {
+  "id": 41,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 2
+ },
+ {
+  "id": 42,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 3
+ },
+ {
+  "id": 43,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 2
+ },
+ {
+  "id": 44,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 17
+ },
+ {
+  "id": 45,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 4
+ },
+ {
+  "id": 46,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 4
+ },
+ {
+  "id": 47,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 0
+ },
+ {
+  "id": 48,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 4
+ },
+ {
+  "id": 49,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 10
+ },
+ {
+  "id": 50,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 15
+ },
+ {
+  "id": 51,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 3
+ },
+ {
+  "id": 52,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 3
+ },
+ {
+  "id": 53,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 19
+ },
+ {
+  "id": 54,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 4
+ },
+ {
+  "id": 55,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 12
+ },
+ {
+  "id": 56,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 8
+ },
+ {
+  "id": 57,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 11
+ },
+ {
+  "id": 58,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 14
+ },
+ {
+  "id": 59,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 2
+ },
+ {
+  "id": 60,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 7
+ },
+ {
+  "id": 61,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 2
+ },
+ {
+  "id": 62,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 2
+ },
+ {
+  "id": 63,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 5
+ },
+ {
+  "id": 64,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 4
+ },
+ {
+  "id": 65,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 1
+ },
+ {
+  "id": 66,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 1
+ },
+ {
+  "id": 67,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 1
+ },
+ {
+  "id": 68,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 10
+ },
+ {
+  "id": 69,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 0
+ },
+ {
+  "id": 70,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 3
+ },
+ {
+  "id": 71,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 0
+ },
+ {
+  "id": 72,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 13
+ },
+ {
+  "id": 73,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 16
+ },
+ {
+  "id": 74,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 0
+ },
+ {
+  "id": 75,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 17
+ },
+ {
+  "id": 76,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 9
+ },
+ {
+  "id": 77,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 1
+ },
+ {
+  "id": 78,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 13
+ },
+ {
+  "id": 79,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 3
+ },
+ {
+  "id": 80,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 3
+ },
+ {
+  "id": 81,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 16
+ },
+ {
+  "id": 82,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 1
+ },
+ {
+  "id": 83,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 1
+ },
+ {
+  "id": 84,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 17
+ },
+ {
+  "id": 85,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 1
+ },
+ {
+  "id": 86,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 13
+ },
+ {
+  "id": 87,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 1
+ },
+ {
+  "id": 88,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 12
+ },
+ {
+  "id": 89,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 4
+ },
+ {
+  "id": 90,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 4
+ },
+ {
+  "id": 91,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 11
+ },
+ {
+  "id": 92,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 14
+ },
+ {
+  "id": 93,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 0
+ },
+ {
+  "id": 94,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 6
+ },
+ {
+  "id": 95,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 2
+ },
+ {
+  "id": 96,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 5
+ },
+ {
+  "id": 97,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 3
+ },
+ {
+  "id": 98,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 3
+ },
+ {
+  "id": 99,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 5
+ },
+ {
+  "id": 100,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 11
+ },
+ {
+  "id": 101,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 1
+ },
+ {
+  "id": 102,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 16
+ },
+ {
+  "id": 103,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "howto",
+  "index": 3
+ },
+ {
+  "id": 104,
+  "condition": "system_prompt",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 9
+ },
+ {
+  "id": 105,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "facts",
+  "index": 2
+ },
+ {
+  "id": 106,
+  "condition": "no_edit",
+  "decoding": "greedy",
+  "group": "english",
+  "index": 0
+ },
+ {
+  "id": 107,
+  "condition": "fish",
+  "decoding": "greedy",
+  "group": "target",
+  "index": 7
+ }
+]

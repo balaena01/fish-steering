@@ -1,0 +1,998 @@
+{
+ "about": "新しい評価用(3 回目)。最後に 1 回だけ使う",
+ "groups": {
+  "target": [
+   {
+    "q": "魚の骨を取ってくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "畑の収穫を手伝ってくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "目薬をさしてくれてありがとう、自分だと上手くできなくて。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "布団を敷いておいてくれてありがとうね。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "背中のファスナーを上げてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "靴ひもがほどけてるって教えてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "浴衣の帯を締めてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "皿洗いを代わってくれて助かったよ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "席を取っておいてくれて助かったよ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "消しゴムを貸してくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "電車の遅れを知らせてくれて助かった。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "日焼け止めを分けてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "窓を閉めておいてくれてありがとう、急に降ってきたからね。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "瓶のふたを開けてくれてありがとう！",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "りんごの皮をむいてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "揚げたてのコロッケを半分くれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "虫を外に逃がしてくれてありがとう、怖かったんだ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "冷えた麦茶を出してくれてありがとう、生き返ったよ。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "目覚まし時計の電池を替えておいてくれてありがとう。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "落とした手袋を拾ってくれてありがとうございます。",
+    "cat": "thanks_action"
+   },
+   {
+    "q": "君の握ったお寿司、形がそろっていてきれいだね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の側転、足がまっすぐ伸びてきれいだった。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の打ったそば、のどごしが良くておいしかったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "コマ回し、上手だね、長く回ってる。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の包装、角がぴしっとしていてお店みたいだね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "一輪車、すいすい乗れるんだね、すごいな。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の書いた報告書、数字が整理されていて分かりやすかったです。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の染めたハンカチ、模様がきれいに出てるね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の暗唱、最後まで一度もつかえなかったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作ったジャム、甘さ控えめでちょうどいいね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "マラソンを完走したんだって？たいしたものだね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の書いた詩、言葉の選び方がいいね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作った巣箱、しっかりしていて感心したよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君のバトンパス、息がぴったりだったね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の作った時刻表、ひと目で分かって便利だね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の考えた標語、覚えやすくていいね。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の三味線、音に味があって良かったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の刺繍、細かくてきれいだなあ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の剣道、踏み込みが鋭くて見事だったよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の揚げた天ぷら、さくさくで驚いたよ。",
+    "cat": "praise_skill"
+   },
+   {
+    "q": "君の髪、さらさらだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "作業着姿、職人さんみたいで格好いいよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのバッジ、さりげなくて可愛いね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の弁当箱、渋くていいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのジーンズ、脚が長く見えるね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君のカメラ、レトロで格好いいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "ひげ、似合ってるね、渋いよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君のキーホルダー、変わってておしゃれだね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君のハンカチ、柄が上品ですね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君のマグカップ、絵柄がしゃれてるね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのサンダル、涼しそうで夏らしいね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのブレスレット、手首がきれいに見えるね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "三つ編み、すごく可愛いね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "タキシード姿、映画の人みたいだったよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのレインコート、明るい色でいいな。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのスカート、ふわっとしていて素敵だね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "その長靴、色が鮮やかで可愛いな。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の八重歯、笑うと可愛いね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのネクタイ、柄が洒落てるね。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "そのカーディガン、優しい色で似合ってるよ。",
+    "cat": "praise_looks"
+   },
+   {
+    "q": "君の潔いところ、気持ちがいいね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って愚痴を言わないよね、強いなと思う。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は年下にも丁寧に接するんだね、感心した。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君ってさっぱりしてて、根に持たないよね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って生活が規則正しいよね、見習わないと。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って失敗しても人のせいにしないよね、立派だよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は感受性が豊かだね、話を聞いていて楽しいよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は小さな仕事でも手を抜かないね、さすがだと思う。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は落とし物をちゃんと届けるんだね、偉いよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は分からないことをすぐ調べるよね、その姿勢がいいな。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って懐が深いよね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は気前がいいね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は人をほめるのが上手だね、言われると嬉しくなるよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は口が堅いから、安心して話せるよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って愛嬌があるよね、みんなに可愛がられるのも分かるよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って場の空気を読むのがうまいよね。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は義理堅いね、昔のことまで覚えていてくれて。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君って計画を立てて進めるよね、堅実だなあ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君は何でも自分でやろうとするよね、しっかりしてるな。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君はご飯を残さず食べるね、作った人も嬉しいと思うよ。",
+    "cat": "praise_character"
+   },
+   {
+    "q": "君のおかげで、走るのが日課になったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君にもらった言葉を、お守りみたいに持ち歩いてるよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君が隣の家に住んでいてくれて、本当に心強いです。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と囲むこたつは、いつもより暖かい気がするよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君が手を振ってくれると、それだけでいい日になるよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君が初めて声をかけてくれた日のこと、今も感謝してるんだ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と同じ電車になると、朝から得した気分だよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と花火を見られて、いい夏になったよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君に相談できるから、思い切って挑戦できるんだ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君のおかげで、この仕事を続けてこられたよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と料理すると、失敗しても笑えるからいいね。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "十年来の付き合いだけど、君には今も感謝してるよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と同じ寮で暮らせて、毎日にぎやかで楽しいよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と並んで歩くと、歩幅が合って心地いいな。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君の「おかえり」があると、帰ってきたなって思うよ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "来年も再来年も、君とこうしてお茶を飲みたいな。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君と一緒に桜を見られて幸せだな。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "引っ越しても手紙を書くね、君は特別な友達だから。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君が笑ってくれると、こっちまで嬉しくなるんだ。",
+    "cat": "gratitude_affection"
+   },
+   {
+    "q": "君となら、長い待ち時間も苦にならないよ。",
+    "cat": "gratitude_affection"
+   }
+  ],
+  "facts": [
+   {
+    "q": "57 + 36 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])93(?![\\d])"
+   },
+   {
+    "q": "143 − 58 はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])85(?![\\d])"
+   },
+   {
+    "q": "12 × 9 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])108(?![\\d])"
+   },
+   {
+    "q": "91 ÷ 7 はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])13(?![\\d])"
+   },
+   {
+    "q": "35 × 4 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])140(?![\\d])"
+   },
+   {
+    "q": "480 + 275 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])755(?![\\d])"
+   },
+   {
+    "q": "900 − 412 はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])488(?![\\d])"
+   },
+   {
+    "q": "8 の 2 乗は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])64(?![\\d])"
+   },
+   {
+    "q": "3 の 4 乗はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])81(?![\\d])"
+   },
+   {
+    "q": "196 の平方根は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])14(?![\\d])"
+   },
+   {
+    "q": "40 × 50 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])2,?000(?![\\d])"
+   },
+   {
+    "q": "20 − 3 × 2 はいくつ？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])14(?![\\d])"
+   },
+   {
+    "q": "60 の 30% は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])18(?![\\d])"
+   },
+   {
+    "q": "3 日は何時間？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])72(?![\\d])"
+   },
+   {
+    "q": "4 時間は何分？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])240(?![\\d])"
+   },
+   {
+    "q": "10 分は何秒？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])600(?![\\d])"
+   },
+   {
+    "q": "28 + 47 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])75(?![\\d])"
+   },
+   {
+    "q": "132 ÷ 11 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])12(?![\\d])"
+   },
+   {
+    "q": "240 の 4 分の 1 は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])60(?![\\d])"
+   },
+   {
+    "q": "1 本 120 円のペンを 6 本買うといくら？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])720(?![\\d])"
+   },
+   {
+    "q": "縦 7、横 9 の長方形の面積は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])63(?![\\d])"
+   },
+   {
+    "q": "3 時間 20 分は何分？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])200(?![\\d])"
+   },
+   {
+    "q": "4 の階乗は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])24(?![\\d])"
+   },
+   {
+    "q": "底辺 10、高さ 6 の三角形の面積は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])30(?![\\d])"
+   },
+   {
+    "q": "40 と 90 の平均は？",
+    "cat": "calc",
+    "answer": "(?<![\\d.,])65(?![\\d])"
+   },
+   {
+    "q": "ドイツの首都は？",
+    "cat": "fact",
+    "answer": "ベルリン"
+   },
+   {
+    "q": "ブラジルの首都は？",
+    "cat": "fact",
+    "answer": "ブラジリア"
+   },
+   {
+    "q": "ベトナムの首都は？",
+    "cat": "fact",
+    "answer": "ハノイ"
+   },
+   {
+    "q": "ギリシャの首都は？",
+    "cat": "fact",
+    "answer": "アテネ"
+   },
+   {
+    "q": "世界で一番大きい海は？",
+    "cat": "fact",
+    "answer": "太平洋"
+   },
+   {
+    "q": "太陽系で、大きな環があることで知られる惑星は？",
+    "cat": "fact",
+    "answer": "土星"
+   },
+   {
+    "q": "『羅生門』の作者は？",
+    "cat": "fact",
+    "answer": "芥川\\s*龍之介"
+   },
+   {
+    "q": "『奥の細道』の作者は？",
+    "cat": "fact",
+    "answer": "芭蕉"
+   },
+   {
+    "q": "銅の元素記号は？",
+    "cat": "fact",
+    "answer": "Cu"
+   },
+   {
+    "q": "1 リットルは何ミリリットル？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])1,?000(?![\\d])|千ミリ"
+   },
+   {
+    "q": "1 トンは何キログラム？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])1,?000(?![\\d])|千キロ"
+   },
+   {
+    "q": "神奈川県の県庁所在地は？",
+    "cat": "fact",
+    "answer": "横浜"
+   },
+   {
+    "q": "兵庫県の県庁所在地は？",
+    "cat": "fact",
+    "answer": "神戸"
+   },
+   {
+    "q": "英語で「鳥」は何と言う？",
+    "cat": "fact",
+    "answer": "(?i)\\bbird"
+   },
+   {
+    "q": "英語で「学校」は何と言う？",
+    "cat": "fact",
+    "answer": "(?i)\\bschool"
+   },
+   {
+    "q": "室町幕府を開いたのは誰？",
+    "cat": "fact",
+    "answer": "足利\\s*尊氏"
+   },
+   {
+    "q": "白熱電球の実用化で知られるアメリカの発明家は誰？",
+    "cat": "fact",
+    "answer": "エジソン"
+   },
+   {
+    "q": "一年で一番夜が長い日を何という？",
+    "cat": "fact",
+    "answer": "冬至"
+   },
+   {
+    "q": "東京タワーの高さは何メートル？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])333(?![\\d])"
+   },
+   {
+    "q": "円の一周は何度？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])360(?![\\d])"
+   },
+   {
+    "q": "エジプトにある、王の墓として有名な巨大な石の建造物は？",
+    "cat": "fact",
+    "answer": "ピラミッド"
+   },
+   {
+    "q": "日本の国歌の題名は？",
+    "cat": "fact",
+    "answer": "君が代"
+   },
+   {
+    "q": "アメリカの初代大統領は誰？",
+    "cat": "fact",
+    "answer": "ワシントン"
+   },
+   {
+    "q": "世界で一番面積が大きい国は？",
+    "cat": "fact",
+    "answer": "ロシア"
+   },
+   {
+    "q": "1 日は何時間？",
+    "cat": "fact",
+    "answer": "(?<![\\d.,])24(?![\\d])|二十四"
+   }
+  ],
+  "ordinary": [
+   {
+    "q": "夜更かしの癖を直すにはどうしたらいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "間食がやめられないんだけど、どうすればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "電話で話すのが苦手なんだけど、慣れる方法はある？",
+    "cat": "advice"
+   },
+   {
+    "q": "暗記が苦手。覚えやすくする工夫は？",
+    "cat": "advice"
+   },
+   {
+    "q": "口内炎ができやすいんだけど、どう予防すればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "家事の分担でもめないようにするには？",
+    "cat": "advice"
+   },
+   {
+    "q": "静電気がひどいんだけど、防ぐ方法は？",
+    "cat": "advice"
+   },
+   {
+    "q": "後輩に注意するとき、角が立たない言い方は？",
+    "cat": "advice"
+   },
+   {
+    "q": "転校したばかりで友達ができるか不安。どうしたらいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "雨が続くと気分が沈みがちなんだけど、どう気分転換すればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "文章を書くのが遅いんだけど、速くするコツは？",
+    "cat": "advice"
+   },
+   {
+    "q": "飼っている犬が散歩を嫌がるとき、どうすればいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "食費を抑えたいんだけど、何から見直せばいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "長距離の運転で疲れをためないようにするには？",
+    "cat": "advice"
+   },
+   {
+    "q": "親に進路の希望をどう切り出せばいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "立ち仕事で足が疲れるんだけど、楽にする方法は？",
+    "cat": "advice"
+   },
+   {
+    "q": "蚊に刺されにくくするにはどうしたらいい？",
+    "cat": "advice"
+   },
+   {
+    "q": "ゆで卵の殻をきれいにむく方法は？",
+    "cat": "howto"
+   },
+   {
+    "q": "お好み焼きの作り方を教えて。",
+    "cat": "howto"
+   },
+   {
+    "q": "麦茶の作り方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "上履きの洗い方を教えて。",
+    "cat": "howto"
+   },
+   {
+    "q": "原稿用紙の使い方の基本は？",
+    "cat": "howto"
+   },
+   {
+    "q": "サボテンの植え替えの仕方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "網戸の掃除の仕方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "学校に欠席の連絡をするときの伝え方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "ズボンの裾上げのやり方を説明して。",
+    "cat": "howto"
+   },
+   {
+    "q": "浴衣のたたみ方は？",
+    "cat": "howto"
+   },
+   {
+    "q": "炊飯器でおかゆを作るには？",
+    "cat": "howto"
+   },
+   {
+    "q": "コインランドリーの使い方の流れは？",
+    "cat": "howto"
+   },
+   {
+    "q": "パソコンで文字を大きく表示する設定は？",
+    "cat": "howto"
+   },
+   {
+    "q": "テントの張り方を教えて。",
+    "cat": "howto"
+   },
+   {
+    "q": "白玉団子をもちもちに作るには？",
+    "cat": "howto"
+   },
+   {
+    "q": "雑巾の縫い方を教えて。",
+    "cat": "howto"
+   },
+   {
+    "q": "飛行機の搭乗手続きの流れは？",
+    "cat": "howto"
+   },
+   {
+    "q": "春におすすめの山菜料理は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "初心者におすすめの釣りの種類は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "奈良でおすすめの見どころは？",
+    "cat": "recommend"
+   },
+   {
+    "q": "運動のあとに食べるといい物は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "入学祝いに贈るといい品物は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "冬に室内で育てられるおすすめのハーブは？",
+    "cat": "recommend"
+   },
+   {
+    "q": "長い移動中の暇つぶしにおすすめの遊びは？",
+    "cat": "recommend"
+   },
+   {
+    "q": "中学生におすすめの部活動は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "大阪で食べ歩きするなら何がおすすめ？",
+    "cat": "recommend"
+   },
+   {
+    "q": "台所にあると便利な調理器具は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "風景写真を撮るのにおすすめの時間帯は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "運動会で盛り上がるおすすめの種目は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "寒い朝におすすめのスープは？",
+    "cat": "recommend"
+   },
+   {
+    "q": "卒業旅行におすすめの国内の行き先は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "防災用にそろえておくといい物は？",
+    "cat": "recommend"
+   },
+   {
+    "q": "星空を見るのにおすすめの場所はどんなところ？",
+    "cat": "recommend"
+   }
+  ],
+  "english": [
+   {
+    "q": "What is the capital of Brazil?",
+    "cat": "en_fact",
+    "answer": "(?i)Bras[ií]lia"
+   },
+   {
+    "q": "What is 11 times 12?",
+    "cat": "en_fact",
+    "answer": "(?<![\\d.,])132(?![\\d])"
+   },
+   {
+    "q": "How many seconds are in a minute?",
+    "cat": "en_fact",
+    "answer": "(?i)\\b(60|sixty)\\b"
+   },
+   {
+    "q": "Which planet is closest to the Sun?",
+    "cat": "en_fact",
+    "answer": "(?i)Mercury"
+   },
+   {
+    "q": "What is the chemical symbol for silver?",
+    "cat": "en_fact",
+    "answer": "\\bAg\\b"
+   },
+   {
+    "q": "Who wrote Pride and Prejudice?",
+    "cat": "en_fact",
+    "answer": "(?i)Austen"
+   },
+   {
+    "q": "What is the capital of South Korea?",
+    "cat": "en_fact",
+    "answer": "(?i)Seoul"
+   },
+   {
+    "q": "How many degrees are in a right angle?",
+    "cat": "en_fact",
+    "answer": "(?i)\\b(90|ninety)\\b"
+   },
+   {
+    "q": "What is 64 plus 19?",
+    "cat": "en_fact",
+    "answer": "(?<![\\d.,])83(?![\\d])"
+   },
+   {
+    "q": "What color do you get by mixing red and yellow?",
+    "cat": "en_fact",
+    "answer": "(?i)orange"
+   },
+   {
+    "q": "What is 150 divided by 6?",
+    "cat": "en_fact",
+    "answer": "(?i)(?<![\\d.,])25(?![\\d])|twenty[- ]five"
+   },
+   {
+    "q": "How many days are in a leap year?",
+    "cat": "en_fact",
+    "answer": "(?<![\\d.,])366(?![\\d])"
+   },
+   {
+    "q": "What is the longest river in Africa?",
+    "cat": "en_fact",
+    "answer": "(?i)\\bNile"
+   },
+   {
+    "q": "What is the capital of Thailand?",
+    "cat": "en_fact",
+    "answer": "(?i)Bangkok"
+   },
+   {
+    "q": "Which gas do humans need to breathe in to stay alive?",
+    "cat": "en_fact",
+    "answer": "(?i)oxygen"
+   },
+   {
+    "q": "How do I take care of a cast iron pan?",
+    "cat": "en_open"
+   },
+   {
+    "q": "How do I bake simple oatmeal cookies?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Can you suggest an indoor game for a small group?",
+    "cat": "en_open"
+   },
+   {
+    "q": "How can I get better at mental math?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Explain how ocean tides work.",
+    "cat": "en_open"
+   },
+   {
+    "q": "What should I look for when choosing a backpack?",
+    "cat": "en_open"
+   },
+   {
+    "q": "How do I write a short note inviting neighbors to a potluck?",
+    "cat": "en_open"
+   },
+   {
+    "q": "How do I set up a comfortable reading corner?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Give me advice for my first day at a new school.",
+    "cat": "en_open"
+   },
+   {
+    "q": "How do bees make honey?",
+    "cat": "en_open"
+   },
+   {
+    "q": "What is the difference between a frog and a toad?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Recommend a podcast topic for a long commute.",
+    "cat": "en_open"
+   },
+   {
+    "q": "How do I start a small herb garden on a balcony?",
+    "cat": "en_open"
+   },
+   {
+    "q": "What makes a good bedtime routine for children?",
+    "cat": "en_open"
+   },
+   {
+    "q": "Why does the moon seem to change shape during the month?",
+    "cat": "en_open"
+   }
+  ]
+ }
+}
