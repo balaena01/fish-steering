@@ -1,0 +1,3265 @@
+{
+ "about": "新しい評価用 400(10 種類 × 40)。指示文の下書きを選び終えたあとの最後の比べで 1 回だけ使った",
+ "groups": {
+  "fact": [
+   {
+    "q": "納豆は何の豆です？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1,
+    "answer": "大豆|だいず|ダイズ"
+   },
+   {
+    "q": "10個入りの卵を3パック買うと何個ですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(30|３０)(?![0-9０-９])|三十"
+   },
+   {
+    "q": "寿司のガリって何の漬物？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2,
+    "answer": "生姜|しょうが|ショウガ|ジンジャー"
+   },
+   {
+    "q": "ケーキを8人で分けたいんだけど、1人分は何分の1になるのかな。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4,
+    "answer": "(8|８|八)分の(1|１|一)|1/8|１/８|1／8|１／８"
+   },
+   {
+    "q": "休憩45分×2は？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1,
+    "answer": "(?<![0-9０-９])(90|９０)\\s*分|(1|１)時間半|(1|１)時間(30|３０)分|九十分"
+   },
+   {
+    "q": "時給1000円で6時間働いたら、いくらになるかな。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3,
+    "answer": "(?<![0-9０-９,])(6000|6,000|６０００|６,０００)(?![0-9０-９])|六千"
+   },
+   {
+    "q": "名刺は英語で何と言いますか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2,
+    "answer": "(?i)business\\s*cards?|ビジネス・?カード"
+   },
+   {
+    "q": "会議が午前10時から1時間半あるのですが、終わるのは何時になりますか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4,
+    "answer": "(?<![0-9０-９])(11|１１)(時半|時30分|時３０分|:30|：30|：３０)|十一時半"
+   },
+   {
+    "q": "大寒って何月です？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1,
+    "answer": "(?<![0-9０-９])(1|１)\\s*月|一月"
+   },
+   {
+    "q": "雪の結晶はふつう何角形をしていますか？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3,
+    "answer": "六角|(?<![0-9０-９])(6|６)\\s*角"
+   },
+   {
+    "q": "春分の日って何月だっけ？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2,
+    "answer": "(?<![0-9０-９])(3|３)\\s*月|三月"
+   },
+   {
+    "q": "今朝の気温が3度で昼は12度だったんだけど、何度上がったことになる？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4,
+    "answer": "(?<![0-9０-９.．])(9|９)\\s*(度|℃|°)|九度"
+   },
+   {
+    "q": "将棋の駒って何枚？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1,
+    "answer": "(?<![0-9０-９])(40|４０)(?![0-9０-９])|四十"
+   },
+   {
+    "q": "オセロの盤って、マスが全部でいくつあるんだっけ。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(64|６４)(?![0-9０-９])|六十四"
+   },
+   {
+    "q": "囲碁の盤は何路ですか？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2,
+    "answer": "(?<![0-9０-９])(19|１９)(?![0-9０-９])|十九"
+   },
+   {
+    "q": "最近読書を始めたんですが、『走れメロス』の作者って誰でしたか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4,
+    "answer": "太宰"
+   },
+   {
+    "q": "人の骨は何本です？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1,
+    "answer": "(?<![0-9０-９])(206|２０６)(?![0-9０-９])|二百六"
+   },
+   {
+    "q": "毎日10分の体操を1週間続けると何分ですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(70|７０)(?![0-9０-９])|七十|(1|１)時間(10|１０)分"
+   },
+   {
+    "q": "サッカーって1チーム何人？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2,
+    "answer": "(?<![0-9０-９])(11|１１)\\s*人|十一人"
+   },
+   {
+    "q": "1日に1万歩歩くとして、1週間だと合計で何歩になるのかな。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4,
+    "answer": "(?<![0-9０-９])(7|７)\\s*万|(?<![0-9０-９,])(70,?000|７０,?０００)(?![0-9０-９])|七万"
+   },
+   {
+    "q": "千円の1割は？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1,
+    "answer": "百円|(?<![0-9０-９,])(100|１００)\\s*円"
+   },
+   {
+    "q": "500円玉を3枚と100円玉を2枚でいくらになる？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3,
+    "answer": "(?<![0-9０-９,])(1700|1,700|１７００|１,７００)(?![0-9０-９])|千七百"
+   },
+   {
+    "q": "セールの2割引きって何%ですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2,
+    "answer": "(?<![0-9０-９])(20|２０)\\s*(%|％|パーセント)|二十パーセント"
+   },
+   {
+    "q": "1個120円のりんごを5個買ったら、合計でおいくらになりますか？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4,
+    "answer": "(?<![0-9０-９,])(600|６００)(?![0-9０-９])|六百"
+   },
+   {
+    "q": "金閣寺はどこです？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1,
+    "answer": "京都"
+   },
+   {
+    "q": "日本でいちばん大きい湖って、何県にあるんですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3,
+    "answer": "滋賀"
+   },
+   {
+    "q": "沖縄の県庁所在地ってどこ？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2,
+    "answer": "那覇"
+   },
+   {
+    "q": "朝8時に出発して車で4時間半かかるんだけど、着くのは何時になる？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4,
+    "answer": "(?<![0-9０-９])(12|１２)(時半|時30分|時３０分|:30|：30|：３０)|十二時半|(?<![0-9０-９])(0|０)時半|零時半"
+   },
+   {
+    "q": "1坪は畳何枚？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1,
+    "answer": "(?<![0-9０-９.])(2|２)\\s*(枚|畳)|二枚|二畳"
+   },
+   {
+    "q": "40分の洗濯を2回回すと、合計で何分になるんだろう。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(80|８０)(?![0-9０-９])|八十|(1|１)時間(20|２０)分"
+   },
+   {
+    "q": "3LDKのLは何の略ですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2,
+    "answer": "(?i)リビング|living"
+   },
+   {
+    "q": "カーペットを敷きたいんですが、縦3m横4mの部屋は何平方メートルですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4,
+    "answer": "(?<![0-9０-９.])(12|１２)(?![0-9０-９])|十二"
+   },
+   {
+    "q": "7の2乗は何です？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1,
+    "answer": "(?<![0-9０-９])(49|４９)(?![0-9０-９])|四十九"
+   },
+   {
+    "q": "三角形の内角を全部足すと何度になるんでしたっけ。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(180|１８０)(?![0-9０-９])|百八十"
+   },
+   {
+    "q": "水の沸点って何度だっけ？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2,
+    "answer": "(?<![0-9０-９])(100|１００)\\s*(度|℃|°)|百度"
+   },
+   {
+    "q": "明日漢字テストなんだけど、「春夏秋冬」ってなんて読むんだっけ。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4,
+    "answer": "しゅんかしゅうとう|シュンカシュウトウ"
+   },
+   {
+    "q": "USBのUは何？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1,
+    "answer": "(?i)universal|ユニバーサル"
+   },
+   {
+    "q": "情報量の単位で、1バイトって何ビットだっけ？",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3,
+    "answer": "(?<![0-9０-９])(8|８)\\s*(ビット|bit)|八ビット"
+   },
+   {
+    "q": "SNSのSはどんな英単語ですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2,
+    "answer": "(?i)social|ソーシャル"
+   },
+   {
+    "q": "スマホの128GBのうち半分を使っているなら、残りは何GBですか。",
+    "kind": "fact",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4,
+    "answer": "(?<![0-9０-９])(64|６４)(?![0-9０-９])|六十四"
+   }
+  ],
+  "howto": [
+   {
+    "q": "どう炊くんですか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "煮物に味をしみ込ませるには、どうしたらいいですか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "ゆで卵の殻、きれいにむくには？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "カレーを作りすぎちゃったんだけど、冷凍して保存するにはどうしたらいいの？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "敬語の使い方は？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "上司への報告って、何から話せばうまく伝わる？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "議事録はどう書けばいいですか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "取引先へのお詫びのメールは、どういう順番で書くのが基本ですか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "汗はどう抑えます？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "エアコンなしで部屋を涼しくする方法はありますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "雪道ってどう歩けば転ばないの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "梅雨で靴がすぐ濡れるし、防水スプレーってどうかけるのが正解なの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "編み物どうやるの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "カメラで星空をきれいに撮るには、どうしたらいいかな。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "ウクレレの調弦はどうしますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "映画の感想をブログに書くとき、読みやすくまとめるコツはありますか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "何から鍛えますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "肩こりをほぐすには、どう体を動かせばいいでしょう？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "腕立て伏せの正しいやり方は？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "ランニングを始めるなら、膝を痛めない走り方のポイントって何？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "貯金のコツは？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "クレカの明細って、アプリでどうやって見るんだっけ。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "ポイ活ってどう始めるんですか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "フリマアプリで服を売りたいんですが、出品するまでの流れを教えていただけますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "どこで両替します？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "旅行の荷物をコンパクトにまとめるには、どうしますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "新幹線の指定席ってどう取るの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "初めて一人で飛行機に乗る予定でさ、空港に着いたら何から済ませればいいのかな。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "シミどう落とすの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "部屋干しでも洗濯物を早く乾かすにはどうする？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "換気扇の掃除はどうしますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "排水口のぬめりがなかなか取れないのですが、どうやって掃除すればいいですか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "暗記法は何ですか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "英単語を効率よく覚えるには、どんな方法がいいですか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "読書感想文ってどう書けばいい？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "数学の文章題って、式を立てるときにどこから手をつければいいの？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "再起動のやり方は？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "スマホの写真、パソコンに送るにはどうすればいいの。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "スクショってどう撮りますか？",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "古いスマホのデータを新しい機種に移したいとき、どんな手順で進めますか。",
+    "kind": "howto",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   }
+  ],
+  "consult": [
+   {
+    "q": "夜食はダメですか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "献立が毎回同じで、何か工夫したほうがいいですか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "夜中にラーメン、ありだと思う？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "最近自炊をサボりがちで、コンビニ弁当ばかりなんだけど、このままでいいのかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "辞めたらまずい？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "残業が多すぎてしんどいんだけど、上司に言うべき？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "転職、考えるべきでしょうか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "上司とどうも馬が合わなくて悩んでいます。異動を願い出るのはありでしょうか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "衣替えは早いです？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "雨予報なので、キャンプは延期するのが無難ですかね？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "湿気で髪が爆発する、どうしよう。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "週末の花見、天気が怪しいんだけど、予定どおり決行していいものかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "ギター今から遅い？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "積読がたまる一方だし、本を買うのは控えるべきかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "趣味にお金をかけすぎでしょうか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "休日はゲームばかりなのですが、ほかの趣味も探したほうがいいでしょうか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "受診すべきですか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "寝つきが悪いのですが、何を見直せばいいでしょう。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "膝痛いけど、走っても平気？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "健康診断で血圧が高めって言われたんだけど、まず何から気をつければいい？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "どれ買えばいい？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "給料日前になると毎回金欠で、どうしたらいいと思う？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "貯金と投資、どちらが先ですか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "予算より少し高いバッグがあるんですが、買ってしまっても大丈夫でしょうか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "海と山どちらです？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "初めての一人旅、思い切って行ってみるべきでしょうか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "旅行の日程、詰め込みすぎかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "沖縄旅行、ひとりで行くか友達を誘うか迷ってて。きみならどうする？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "引っ越すべきかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "家事の分担でもめてるんだけど、どう切り出せばいい？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "実家を出るのは早いでしょうか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "隣の部屋の生活音が気になるのですが、管理会社に伝えるべきでしょうか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "塾は必要ですか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "勉強のやる気が続かなくて、どうしたらいいでしょうか。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "文理選択、どうしたらいい？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "英検を受けるか迷ってる。今の実力だと落ちそうで怖いんだけど、受けるべき？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "Macはありかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "スマホ見すぎだし、制限アプリ入れるのってどうかな。",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "スマホ、買い替え時でしょうか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "子どもにスマホを持たせる時期で迷っています。何歳からがいいと思いますか？",
+    "kind": "consult",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   }
+  ],
+  "thanks": [
+   {
+    "q": "鍋の案、感謝します",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "煮物のレシピを教えてくださり、ありがとうございます。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "お弁当作ってくれてありがと",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "パスタのレシピ、わざわざ書いて送ってくれたんだね。ほんとにありがとう",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "シフト、ありがと",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "引き継ぎのメモ、残しておいてくれてありがとう。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "資料のチェック、感謝します。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "急な残業の代わりを引き受けてくださって、本当にありがとうございました。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "傘の件、感謝です…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "週末の天気まで調べていただいて、恐縮です",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "雪かき手伝ってくれてありがと。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "暑い中、駅まで迎えに来てくれて本当に感謝してる。ありがとね。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "DVD、サンキュ。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "ライブのチケット取ってくれて、まじで感謝してる",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "本の紹介、ありがとうございます",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "好みに合いそうな小説をたくさん挙げてくださって、ありがとうございます…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "湿布、助かります。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "腰のストレッチを教えてくださって、本当に感謝です…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "ジムに誘ってくれて感謝だよ。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "膝を痛めたときに病院まで付き添ってくれて、ありがとう…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "立て替え、恩に着る",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "財布忘れたとき払ってくれて、ほんとにありがとね…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "節約のコツ、本当に助かります。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "家計簿のつけ方を丁寧に教えていただき、ありがとうございます。とても助かります",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "道案内、恩に着ます",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "旅程を一緒に練っていただいて、心から感謝します。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "お土産ほんとにありがとう…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "旅行の写真、全部まとめて送ってくれたんだ。手間かけさせちゃってありがとう",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "ゴミ出し助かった…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "洗濯物取り込んでくれたんだ、ありがとう。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "カビ取りの方法、助かりました…",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "引っ越しの荷造りのコツ、すごく参考になりました。お礼を言わせてください。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "宿題、恐れ入ります",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "レポートの構成を見ていただき、深く感謝いたします",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "ノート見せてくれて助かったわ",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "テスト前に数学の問題を一緒に解いてくれて、すごく助かった。サンキュー。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "充電器ありがと、",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "スマホの機種変、一緒に選んでくれてありがと。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "PC設定ではお世話になりました。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "パソコンが固まったとき、遅くまで付き合ってくださって感謝しています。",
+    "kind": "thanks",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   }
+  ],
+  "praise": [
+   {
+    "q": "味付けが絶妙です。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "盛り付けまで丁寧で、お店の料理みたいに見えます。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "この卵焼き、天才的にうまい",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "だしまで自分で取ってるとか、料理の腕が本格的すぎてびっくりした。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "有能すぎる。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "あの資料、見やすくまとまってて完璧だった。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "仕事の段取りが見事ですね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "あんなに大きな企画をまとめ上げるなんて、さすがとしか言いようがありません。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "雪像、お見事です。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "季節の移ろいを感じる文章で、読んでいて心地いいです",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "浴衣めっちゃ似合ってるね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "紅葉の写真、色の出し方がほんとにきれい。また腕を上げたね",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "歌うまいね…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "絵の色づかいがきれいで、ずっと見ていられる",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "ギターの腕前がプロ並みです",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "選曲のセンスが素晴らしくて、何度聴いても新鮮に感じられます",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "体力がすごいですね",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "毎朝欠かさず走っているなんて、本当に尊敬します…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "腹筋割れててかっこいい…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "毎日続けて10キロも痩せたの、根性ありすぎて本気で見習いたい…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "目利きすごいな",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "その服、安く買ったとは思えないくらいおしゃれだよ…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "安い品を見つける目が確かですね…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "家計のやりくりが本当に上手で、無駄のない使い方にいつも驚かされます…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "旅慣れていますね…",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "旅先のお店選びのセンスが、いつも抜群ですね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "運転うまいから安心できる",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "知らない土地でもすいすい道を見つけるし、方向感覚がずば抜けてるよね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "掃除の鬼だね",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "アイロンがけ、しわ一つなくて職人みたい。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "お部屋がいつも整っていますね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "収納の工夫が細かくて、狭い部屋なのに広々と見えて、感心してしまいます。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "英語が流暢ですね",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "説明が分かりやすくて、先生に向いていると思います",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "数学できるのほんと尊敬する。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "毎回テストで満点取れるの、勉強のやり方が上手なんだろうな。すごいよ",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "タイピング速いね。",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "動画の編集、テンポがよくて見入っちゃった、",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "パソコンにお詳しいんですね",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "難しいエラーの原因もすぐに突き止めてしまうので、いつも頼もしく思っています",
+    "kind": "praise",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   }
+  ],
+  "report": [
+   {
+    "q": "お餅を焼きました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "昨日、初めて自分でお味噌を仕込んでみました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "朝からラーメン食べてきた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "駅前に新しいパン屋ができてたから、帰りにクロワッサン買ってみた。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "異動の内示が出ました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "先週出した企画書が通って、来月から担当することになりました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "残業終わった…",
+    "kind": "report",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "今日の会議で、初めて自分から意見を言えた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "傘を持ってきました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "今朝、庭の水たまりに薄い氷が張っていました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "さっき夕立に降られた。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "この週末にこたつを出して、ついでに冬物の服も全部入れ替えた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "古い時代劇を一気に観ました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "先月から始めたギターで、やっと一曲通して弾けるようになりました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "全巻読んだ",
+    "kind": "report",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "昨日のライブ、最前列で見られたんだ。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "五キロ走りました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "健康診断の結果、全部の項目が正常でした",
+    "kind": "report",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "近所のジムに入会してきた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "最近は毎朝、駅まで歩くようにしてて、もう三週間続いてる。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "冬用のコートを買いました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "ずっと迷っていた掃除機、セールになっていたので思い切って買いました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "財布変えた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "今月はなんとか三万円も貯金できたよ。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "大仏を見てきました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "週末に家族で温泉旅館に泊まってきました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "高速バスで実家に帰ってきた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "連休に友達と海までドライブして、夕日が沈むまで眺めてきた。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "台所の大掃除をしました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "引っ越して一週間、ようやく段ボールが全部片付きました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "カーテン洗った",
+    "kind": "report",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "ベランダの網戸、自分で張り替えてみた…",
+    "kind": "report",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "英検に受かりました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "土曜日は図書館で一日じゅう資格の勉強をしていました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "レポート出し終わった。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "今日は小テストがあって、範囲を間違えて覚えてたけど半分は取れた",
+    "kind": "report",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "タブレットの画面を割りました",
+    "kind": "report",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "古いパソコンの写真を、全部外付けのディスクに移し終えました。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "アプリ消した",
+    "kind": "report",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "ゆうべ、パソコンのOSを最新にした。",
+    "kind": "report",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   }
+  ],
+  "invite": [
+   {
+    "q": "パフェ食べません？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "駅前のお寿司屋さん、来週あたり行ってみませんか？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "今夜うちで鍋やろうよ。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "日曜に焼肉の食べ放題行くんだけど、よかったら一緒に来ない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "ランチ、行きませんか？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "金曜にチームで打ち上げがあるんですが、ぜひ参加しませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "定時で上がって飲も",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "仕事終わったら、カフェで作業しない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "お花見どうですか",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "初雪が降ったら、公園でかまくらを作りませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "晴れたし散歩行かない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "紅葉がそろそろ見ごろらしいから、どこか山のほうに見に行こうよ。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "週末、映画でも観ませんか",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "好きなバンドのチケットが二枚取れたので、一緒に行きませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "ボウリングしよ",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "夜、オンラインで協力プレイやらない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "朝ランしましょう",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "週末の朝、公園で一緒にヨガをしませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "明日プール行かない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "今度の市民マラソン、五キロの部があるから一緒に出てみようよ",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "冬のセールに行きましょうよ",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "土曜にアウトレットへ行く予定なのですが、よかったらご一緒しませんか？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "古着屋のぞこう",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "ショッピングモール、ちょっと寄っていかない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "海へ行きましょう",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "夏休みに、北海道まで足をのばしませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "週末、水族館行こうよ",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "来月の連休に、レンタカーを借りて二人で温泉めぐりしない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "今度、うちに遊びに来ませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "春になったら、うちのベランダで家庭菜園を始めてみませんか。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "うち泊まりに来る？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "休みの日、ホームセンター行ってみない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "自習室、行きます？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "放課後は図書館でテスト勉強をしましょう。",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "明日の講義、一緒に出よう",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "来週の試験に向けて、土曜にファミレスで問題集を解く会しよう",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "家電屋さんへ行きませんか",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "新しいスマホの発表会がネットで中継されるので、一緒に見ませんか",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "通話しない？",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "寝る前に、同じアプリでクイズ対戦しようぜ",
+    "kind": "invite",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   }
+  ],
+  "greet": [
+   {
+    "q": "お昼どきですね。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "晩ごはんの時間ですね、もう召し上がりましたか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "やっほー、ご飯食べた？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "昨日遅くまで起きてたみたいだけど、ちゃんと朝ごはん食べられた？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "本日もお世話になります。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "お仕事お疲れさまです。今日は会議続きだと伺いましたが、少しは休めましたか。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "まだ会社？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "仕事どう？今週ずっと忙しそうだったけど",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "良いお天気で。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "梅雨明けしましたね、暑さでばてていませんか。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "おーい、そっち雪降ってる？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "久しぶり。急に寒くなったけど、風邪とか引いてない？元気にしてる？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "こんにちは、お元気ですか",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "どうも。お忙しそうですが、最近は好きな本を読む時間は取れていますか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "ちょい、今ひま？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "よっ、休みの日もずっとゲーム三昧だった？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "具合はどうですか",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "季節の変わり目ですが、体調を崩されていませんか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "体調どう？もう治った？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "やあ、昨日走りすぎて筋肉痛って言ってたけど、もう歩けるようになった？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "ご無沙汰しております。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "おかえりなさい。お買い物、重い荷物で大変じゃありませんでしたか",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "買い物中？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "おかえり、買い物どうだった？いいのあった？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "お気をつけて。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "ご旅行中ですよね、そちらの天気はいかがですか。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "着いた？道迷ってない？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "いよいよ今日から旅行だね。いってらっしゃい、思いっきり楽しんできてね",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "お休みのところすみません。",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "こんばんは。今日はお休みでしたよね、ゆっくりできましたか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "帰ったよー",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "あ、いたいた。部屋の片付けは進んでる？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "お変わりないですか",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "お久しぶりです。新しい学校にはもう慣れましたか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "授業終わった？今どこ？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "おはよ。今日から新学期だね、クラス替えの発表はもう見た？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "メッセージ届いていますか？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "やっとつながりましたね。新しいパソコンの調子はどうですか、快適ですか",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "既読ついた？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "スマホに通知来てたけど、まだ起きてる？",
+    "kind": "greet",
+    "route": "ack",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   }
+  ],
+  "request": [
+   {
+    "q": "献立案をください",
+    "kind": "request",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "このレシピを二人分の分量に直していただけますか？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "お弁当のおかず考えて",
+    "kind": "request",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "今週の夕飯の買い物リスト作ってほしいな。肉と野菜は多めで",
+    "kind": "request",
+    "route": "reply",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "議事録の清書をお願いできますか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "明日の会議で使う資料の文章を、もう少し短く整えていただけますか。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "日報見てくれる？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "取引先へのお詫びメール、下書きしてくれる？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "カイロをください",
+    "kind": "request",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "季節の挨拶から始まる手紙の書き出しを考えてください",
+    "kind": "request",
+    "route": "reply",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "明日晴れたら起こして。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "町内会のお知らせに使うから、夏祭りの案内文を三行くらいで書いてほしい",
+    "kind": "request",
+    "route": "reply",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "感想文の添削を頼みたいです。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "好きな映画の紹介を書いたので、読みやすくなるよう手直ししてもらえますか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "曲名つけて",
+    "kind": "request",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "次のゲームの主人公の名前、つけてもらっていい？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "応援してください。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "一週間分の散歩の予定表を作ってもらえませんか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "腹筋の回数数えててよ",
+    "kind": "request",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "今日から禁酒するから、飲みそうになったら止めてね。頼んだよ",
+    "kind": "request",
+    "route": "reply",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "家計簿の表、作ってもらえますか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "返品をお願いするメールを、失礼のない言い方で書いていただけませんか？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "レシート取っといて",
+    "kind": "request",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "この二つの見積もり、比べて表にしてもらえる？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "旅程を頼めますか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "家族旅行の持ち物リストを作っていただけますか",
+    "kind": "request",
+    "route": "reply",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "明日、空港まで車で送って。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "旅先から送る絵はがきの文、堅苦しくない感じで考えてくれない？",
+    "kind": "request",
+    "route": "reply",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "ゴミ出しをお願いします。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "引っ越しの挨拶状の文面を、丁寧すぎない程度に整えていただきたいです。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "洗濯物取り込んで",
+    "kind": "request",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "掃除の当番表、見やすく作り直してほしいんだけど",
+    "kind": "request",
+    "route": "reply",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "作文を見てください",
+    "kind": "request",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "英単語の小テストを十問作ってもらえると助かります。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "宿題の答え合わせして",
+    "kind": "request",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "明日の発表の原稿、三分で読める長さに縮めてくれたらうれしい",
+    "kind": "request",
+    "route": "reply",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "スマホの設定、手伝ってほしいです",
+    "kind": "request",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "新しいアプリの紹介文を、百字くらいにまとめて書いていただけないでしょうか。",
+    "kind": "request",
+    "route": "reply",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "メール清書して",
+    "kind": "request",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "スマホの壁紙に合う短い言葉、考えといて",
+    "kind": "request",
+    "route": "reply",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   }
+  ],
+  "partial": [
+   {
+    "q": "あの、お昼ですが、",
+    "kind": "partial",
+    "route": "none",
+    "topic": 1,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "今日の夕飯、実は冷蔵庫が空っぽでして",
+    "kind": "partial",
+    "route": "none",
+    "topic": 1,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "砂糖と塩、どっちだっけ",
+    "kind": "partial",
+    "route": "none",
+    "topic": 1,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "えーと、卵が二個で、牛乳がまだあって、あとは何が足りなかったんだっけ…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 1,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "実は会議の件なんですが、",
+    "kind": "partial",
+    "route": "none",
+    "topic": 2,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "部長から言われた資料、どこまで進んでいたんでしたっけ。ええと、確か",
+    "kind": "partial",
+    "route": "none",
+    "topic": 2,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "やば、締め切り",
+    "kind": "partial",
+    "route": "none",
+    "topic": 2,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "この書類、誰に出せばいいんだっけ。",
+    "kind": "partial",
+    "route": "none",
+    "topic": 2,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "降りそうですし、",
+    "kind": "partial",
+    "route": "none",
+    "topic": 3,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "まだ肌寒いですし、上着を持っていくか、それとも",
+    "kind": "partial",
+    "route": "none",
+    "topic": 3,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "うわ、急に降ってきた",
+    "kind": "partial",
+    "route": "none",
+    "topic": 3,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "今年の夏ってもっと暑かった気がするんだけど、いや、去年のほうが",
+    "kind": "partial",
+    "route": "none",
+    "topic": 3,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "あの映画の題名が、ええと、ですね",
+    "kind": "partial",
+    "route": "none",
+    "topic": 4,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "先日お借りした本なんですけど、まだ半分しか読めていなくて、その",
+    "kind": "partial",
+    "route": "none",
+    "topic": 4,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "このバンド、たしか",
+    "kind": "partial",
+    "route": "none",
+    "topic": 4,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "次の巻どこまで読んだっけな、確か五巻の",
+    "kind": "partial",
+    "route": "none",
+    "topic": 4,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "ちょっと疲れまして",
+    "kind": "partial",
+    "route": "none",
+    "topic": 5,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "最近どうも腰が痛くて、病院に行こうかとも思うのですが",
+    "kind": "partial",
+    "route": "none",
+    "topic": 5,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "あと十回、いや五回…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 5,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "体重計に乗るの怖いな、昨日けっこう食べちゃったし、でもまあ",
+    "kind": "partial",
+    "route": "none",
+    "topic": 5,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "財布を、あれ、忘れましたかね",
+    "kind": "partial",
+    "route": "none",
+    "topic": 6,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "今月はちょっと使いすぎたかもしれません。家賃を払ったら残りが",
+    "kind": "partial",
+    "route": "none",
+    "topic": 6,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "高っ、これ…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 6,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "セール今日までだっけ、明日までだっけ",
+    "kind": "partial",
+    "route": "none",
+    "topic": 6,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "切符が、ないです…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 7,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "乗り換えはたしか次の駅で、いえ、その次でしたか",
+    "kind": "partial",
+    "route": "none",
+    "topic": 7,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "ホテルの予約、取ったっけ",
+    "kind": "partial",
+    "route": "none",
+    "topic": 7,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "せっかく来たし、お城も見たいけど、時間的にあの店に寄るのは",
+    "kind": "partial",
+    "route": "none",
+    "topic": 7,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "鍵、閉めましたっけ…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 8,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "ゴミの日は火曜でしたよね。いや、燃えるゴミは確か木曜で、それで",
+    "kind": "partial",
+    "route": "none",
+    "topic": 8,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "あ、電気…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 8,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "掃除機、去年どこにしまったんだろう。",
+    "kind": "partial",
+    "route": "none",
+    "topic": 8,
+    "register": "plain",
+    "bin": 3
+   },
+   {
+    "q": "宿題が、まだでして",
+    "kind": "partial",
+    "route": "none",
+    "topic": 9,
+    "register": "polite",
+    "bin": 1
+   },
+   {
+    "q": "この問題、途中までは解けたんですけど",
+    "kind": "partial",
+    "route": "none",
+    "topic": 9,
+    "register": "polite",
+    "bin": 3
+   },
+   {
+    "q": "えっ、テストって明日",
+    "kind": "partial",
+    "route": "none",
+    "topic": 9,
+    "register": "plain",
+    "bin": 2
+   },
+   {
+    "q": "この公式、どこかで見たんだけどな。教科書の、えっと、何ページだったか",
+    "kind": "partial",
+    "route": "none",
+    "topic": 9,
+    "register": "plain",
+    "bin": 4
+   },
+   {
+    "q": "パスワードが違いますね…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 10,
+    "register": "polite",
+    "bin": 2
+   },
+   {
+    "q": "このアプリ、昨日まで普通に動いていたのですが、今朝開いたら急に",
+    "kind": "partial",
+    "route": "none",
+    "topic": 10,
+    "register": "polite",
+    "bin": 4
+   },
+   {
+    "q": "充電切れそ…",
+    "kind": "partial",
+    "route": "none",
+    "topic": 10,
+    "register": "plain",
+    "bin": 1
+   },
+   {
+    "q": "このファイル、昨日の夜に保存したはずで、",
+    "kind": "partial",
+    "route": "none",
+    "topic": 10,
+    "register": "plain",
+    "bin": 3
+   }
+  ]
+ }
+}

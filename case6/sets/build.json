@@ -1,0 +1,4397 @@
+{
+ "about": "鍵を作る発言(呼びかけの形・紛らわしい形の 9 種類と、呼び名の無いふつうの発言 general)",
+ "groups": {
+  "call_head": [
+   {
+    "q": "ソヨカ、ひな祭りは何月何日ですか？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 0,
+    "answer": "3月3日|三月三日"
+   },
+   {
+    "q": "ソヨカ、7かける8っていくつ？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 1,
+    "answer": "56"
+   },
+   {
+    "q": "ソヨカさん、自由の女神がある国はどこですか？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 2,
+    "answer": "アメリカ|米国|ニューヨーク"
+   },
+   {
+    "q": "ソヨカ、豆腐って何から作るんだっけ？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 3,
+    "answer": "大豆"
+   },
+   {
+    "q": "ソヨカ、1世紀は何年間のことを言いますか？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 4,
+    "answer": "100|百"
+   },
+   {
+    "q": "ソヨカ、9の二乗っていくつ？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 5,
+    "answer": "81"
+   },
+   {
+    "q": "ソヨカさん、1ダースは何個でしたっけ。",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 6,
+    "answer": "12|十二"
+   },
+   {
+    "q": "ソヨカ、俳句って何音でできてるんだっけ？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 7,
+    "answer": "17|十七"
+   },
+   {
+    "q": "ソヨカ、徳川家康が開いたのは何という幕府ですか？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 8,
+    "answer": "江戸"
+   },
+   {
+    "q": "ソヨカ、赤と青の絵の具を混ぜたら何色になる？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 9,
+    "answer": "紫"
+   },
+   {
+    "q": "ソヨカ、「坊っちゃん」を書いた作家は誰ですか？",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 10,
+    "answer": "夏目漱石|漱石"
+   },
+   {
+    "q": "ソヨカ、昆虫の脚って何本だっけ",
+    "cat": "call_head",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 11,
+    "answer": "6|六"
+   },
+   {
+    "q": "ソヨカさん、デスクワークで腰が痛くならない座り方はありますか？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 12
+   },
+   {
+    "q": "ソヨカ、余ったご飯で作れるお昼って何がある？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 13
+   },
+   {
+    "q": "ソヨカ、初心者でも育てやすい観葉植物はどれですか？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 14
+   },
+   {
+    "q": "ソヨカ、引っ越し祝いって何を贈ると喜ばれると思う？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 15
+   },
+   {
+    "q": "ソヨカ、フライパンの焦げ付きはどうすれば落ちますか。",
+    "cat": "call_head",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 16
+   },
+   {
+    "q": "ソヨカ、ジムに行くなら朝と夜どっちがいいかな…",
+    "cat": "call_head",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 17
+   },
+   {
+    "q": "ソヨカさん、新幹線で酔わないコツってありますか？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 18
+   },
+   {
+    "q": "ソヨカ、来週は二泊の旅行なんだ。荷物を減らすにはどうしたらいい？",
+    "cat": "call_head",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 19
+   },
+   {
+    "q": "ソヨカ、10分のタイマーかけて",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 20
+   },
+   {
+    "q": "ソヨカ、土曜の朝だけ8時半に起こしてもらえますか。",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 21
+   },
+   {
+    "q": "ソヨカ、買い物リストに洗剤の詰め替え追加して",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 22
+   },
+   {
+    "q": "ソヨカさん、この文章をもう少し丁寧な言い方に直してもらえますか？",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 23
+   },
+   {
+    "q": "ソヨカ、リビングのエアコンを26度にして",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 24
+   },
+   {
+    "q": "ソヨカ、日曜に開いている近くの歯医者を調べてください。",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 25
+   },
+   {
+    "q": "ソヨカ、夜9時になったら薬飲むように言って",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 26
+   },
+   {
+    "q": "ソヨカ、明日は熱で休みます。上司への連絡を短く書いてもらえますか。",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 27
+   },
+   {
+    "q": "ソヨカ、今週のゴミの日をまとめて教えて",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 28
+   },
+   {
+    "q": "ソヨカ、駅までの道を地図に出していただけますか？",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 29
+   },
+   {
+    "q": "ソヨカ、次の曲かけて",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 30
+   },
+   {
+    "q": "ソヨカさん、母の誕生日を来月の予定に入れておいてください。",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 31
+   },
+   {
+    "q": "ソヨカ、玄関の電気消しといて",
+    "cat": "call_head",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 32
+   },
+   {
+    "q": "ソヨカ、英語で短いお礼のメールを一緒に考えてもらえますか。",
+    "cat": "call_head",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 33
+   },
+   {
+    "q": "ソヨカ、今日めちゃくちゃ寒くない？",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 34
+   },
+   {
+    "q": "ソヨカ、おはようございます。今朝はよく晴れていて気持ちがいいですね。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 35
+   },
+   {
+    "q": "ソヨカ、やっと仕事終わった…",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 36
+   },
+   {
+    "q": "ソヨカさん、昨日作ったカレーがすごくおいしくできました。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 37
+   },
+   {
+    "q": "ソヨカ、聞いてよ。駅で財布落としたんだけど、無事に戻ってきた",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 38
+   },
+   {
+    "q": "ソヨカ、今日は在宅勤務なので少しのんびりしています。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 39
+   },
+   {
+    "q": "ソヨカ、近所の桜がもうすぐ咲きそうだよ",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 40
+   },
+   {
+    "q": "ソヨカ、週末に久しぶりに友達と会えることになりました。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 41
+   },
+   {
+    "q": "ソヨカ、この曲いいね。なんか元気出る",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 42
+   },
+   {
+    "q": "ソヨカさん、駅前の古本屋で掘り出し物を見つけました。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 43
+   },
+   {
+    "q": "ソヨカ、猫が膝の上で寝ちゃって動けない",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 44
+   },
+   {
+    "q": "ソヨカ、今日は久しぶりに5キロ走ってきました。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 45
+   },
+   {
+    "q": "ソヨカ、からあげ揚げすぎた",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 46
+   },
+   {
+    "q": "ソヨカ、新しいスマホにやっと慣れてきました。",
+    "cat": "call_head",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 47
+   }
+  ],
+  "call_hey": [
+   {
+    "q": "ねえソヨカ、日本で一番大きい湖ってどこだっけ？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 0,
+    "answer": "琵琶湖"
+   },
+   {
+    "q": "すみませんソヨカさん、1年は何日ありますか？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 1,
+    "answer": "365"
+   },
+   {
+    "q": "ちょっとソヨカ、144の平方根っていくつ？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 2,
+    "answer": "12|十二"
+   },
+   {
+    "q": "あのソヨカさん、水の化学式を教えてください。",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 3,
+    "answer": "H2O|H₂O|Ｈ２Ｏ|h2o"
+   },
+   {
+    "q": "なあソヨカ、世界で一番高い山って何？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 4,
+    "answer": "エベレスト|チョモランマ|サガルマタ"
+   },
+   {
+    "q": "ねえソヨカ、「走れメロス」の作者は誰でしたか？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 5,
+    "answer": "太宰治|太宰"
+   },
+   {
+    "q": "おーいソヨカ、100を4で割るといくつ？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 6,
+    "answer": "25"
+   },
+   {
+    "q": "えっとソヨカさん、氷が溶け始めるのは何度でしたっけ？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 7,
+    "answer": "0|零"
+   },
+   {
+    "q": "ねぇソヨカ、りんごって英語で何て言うんだっけ",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 8,
+    "answer": "[Aa]pple|APPLE|アップル"
+   },
+   {
+    "q": "もしもしソヨカさん、日本の国鳥は何という鳥ですか？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 9,
+    "answer": "キジ|雉|きじ"
+   },
+   {
+    "q": "あのさソヨカ、1キロって何メートルだっけ？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 10,
+    "answer": "1000|1,000|千"
+   },
+   {
+    "q": "ねえソヨカ、地球で一番広い海は何という名前ですか？",
+    "cat": "call_hey",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 11,
+    "answer": "太平洋"
+   },
+   {
+    "q": "ねえソヨカ、冷凍したパンっておいしく焼くコツある？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 12
+   },
+   {
+    "q": "すみませんソヨカさん、子ども向けのお弁当のおかずで何かいい案はありますか？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 13
+   },
+   {
+    "q": "なあソヨカ、ランニングシューズってどれくらいで買い替えるもの？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 14
+   },
+   {
+    "q": "あのソヨカさん、プレゼンで緊張しない方法ってありますか。",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 15
+   },
+   {
+    "q": "ちょっとソヨカ、白いシャツのシミってどう落とすの？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 16
+   },
+   {
+    "q": "えっとソヨカ、梅雨の時期の洗濯物はどう乾かすのがいいでしょうか？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 17
+   },
+   {
+    "q": "あのさソヨカ、英単語ってどうやったら覚えられると思う？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 18
+   },
+   {
+    "q": "ねえソヨカさん、京都で紅葉を見るならどの辺がおすすめですか？",
+    "cat": "call_hey",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 19
+   },
+   {
+    "q": "おーいソヨカ、パスタ茹でるから8分計って",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 20
+   },
+   {
+    "q": "すみませんソヨカ、明日の会議を10時からに変更してください。",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 21
+   },
+   {
+    "q": "ねえソヨカ、寝室の加湿器つけといて",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 22
+   },
+   {
+    "q": "あのソヨカさん、このメールに誤字がないか見てもらえますか？",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 23
+   },
+   {
+    "q": "ちょっとソヨカ、洗濯終わったら教えて",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 24
+   },
+   {
+    "q": "もしもしソヨカ、駅前のスーパーの営業時間を調べてもらえますか。",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 25
+   },
+   {
+    "q": "ねぇソヨカ、明日は傘持ってくように朝言ってくれる？",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 26
+   },
+   {
+    "q": "えっとソヨカさん、今月使ったお金をざっと計算していただけますか。",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 27
+   },
+   {
+    "q": "なあソヨカ、カレーの材料を買い物リストにして",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 28
+   },
+   {
+    "q": "ねえソヨカ、来週の土曜に美容院の予約を入れてもらえますか？",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 29
+   },
+   {
+    "q": "あのさソヨカ、友達が結婚するんだ。お祝いのメッセージ考えて",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 30
+   },
+   {
+    "q": "すみませんソヨカさん、テレビの音量を少し上げてください。",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 31
+   },
+   {
+    "q": "ごめんソヨカ、さっきのメモ消しといて",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 32
+   },
+   {
+    "q": "あのソヨカ、明後日の天気予報を確認してもらえますか？",
+    "cat": "call_hey",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 33
+   },
+   {
+    "q": "ねえソヨカ、さっき空にでっかい飛行機雲があったよ",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 34
+   },
+   {
+    "q": "あのソヨカさん、昨日の献立の提案、家族に大好評でした。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 35
+   },
+   {
+    "q": "おーいソヨカ、雪だよ",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 36
+   },
+   {
+    "q": "えっとソヨカ、今日から新しい職場で働き始めました。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 37
+   },
+   {
+    "q": "なあソヨカ、明日から三連休だね。どこ行こうかな",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 38
+   },
+   {
+    "q": "すみませんソヨカさん、今日はちょっと疲れてしまいました。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 39
+   },
+   {
+    "q": "ちょっとソヨカ、聞いて。漢字テストで満点取った",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 40
+   },
+   {
+    "q": "ねえソヨカ、ベランダのトマトが赤くなってきましたよ。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 41
+   },
+   {
+    "q": "あのさソヨカ、最近よく眠れてるんだ",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 42
+   },
+   {
+    "q": "もしもしソヨカさん、ちょうど家に着いたところです。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 43
+   },
+   {
+    "q": "ほらソヨカ、虹だよ",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 44
+   },
+   {
+    "q": "ねえソヨカ、週末に焼いたクッキーが職場で好評でした。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 45
+   },
+   {
+    "q": "ねえねえソヨカ、新しいゲーム買っちゃった",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 46
+   },
+   {
+    "q": "あのソヨカ、来月引っ越すことになったんです。",
+    "cat": "call_hey",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 47
+   }
+  ],
+  "call_tail": [
+   {
+    "q": "雨上がりに空に出る七色のアーチって何だっけ、ソヨカ",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 0,
+    "answer": "虹|にじ"
+   },
+   {
+    "q": "日本の首都はどこですか、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 1,
+    "answer": "東京"
+   },
+   {
+    "q": "12たす29っていくつ、ソヨカ？",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 2,
+    "answer": "41"
+   },
+   {
+    "q": "水が沸騰するのは何度ですか、ソヨカ。",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 3,
+    "answer": "100|百"
+   },
+   {
+    "q": "大さじ1杯って何ミリリットルだっけ、ソヨカ",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 4,
+    "answer": "15|十五"
+   },
+   {
+    "q": "金閣寺がある都市はどこでしたっけ、ソヨカ？",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 5,
+    "answer": "京都"
+   },
+   {
+    "q": "25の2倍って何、ソヨカ",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 6,
+    "answer": "50"
+   },
+   {
+    "q": "一番小さい素数は何ですか、ソヨカさん",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 7,
+    "answer": "2|二"
+   },
+   {
+    "q": "一週間って何日あるんだっけ、ソヨカ",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 8,
+    "answer": "7|七"
+   },
+   {
+    "q": "円周率を小数第二位まで言うといくつですか、ソヨカ？",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 9,
+    "answer": "3\\.14|3．14"
+   },
+   {
+    "q": "こどもの日って何月何日だっけ、ソヨカ",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "plain",
+    "say": true,
+    "pair": 10,
+    "answer": "5月5日|五月五日"
+   },
+   {
+    "q": "時速60キロで2時間走ると何キロ進みますか、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "fact",
+    "register": "polite",
+    "say": true,
+    "pair": 11,
+    "answer": "120|百二十"
+   },
+   {
+    "q": "寝る前にスマホ見ちゃうの、どうやったらやめられるかな、ソヨカ",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 12
+   },
+   {
+    "q": "夏バテしないために何を食べたらいいですか、ソヨカ？",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 13
+   },
+   {
+    "q": "部屋の模様替え、どこから手をつけたらいいと思う、ソヨカ？",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 14
+   },
+   {
+    "q": "年末の大掃除は何から始めるのがいいでしょうか、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 15
+   },
+   {
+    "q": "雨の日でも楽しめる場所ってどこかある、ソヨカ？",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 16
+   },
+   {
+    "q": "初めてのキャンプで気をつけることはありますか、ソヨカ。",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 17
+   },
+   {
+    "q": "卵焼き、甘いのとしょっぱいのどっちが好き、ソヨカ？",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "plain",
+    "say": true,
+    "pair": 18
+   },
+   {
+    "q": "家計簿を続けるコツってありますか、ソヨカさん？",
+    "cat": "call_tail",
+    "content": "question",
+    "register": "polite",
+    "say": true,
+    "pair": 19
+   },
+   {
+    "q": "カップ焼きそば作るから4分計って、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 20
+   },
+   {
+    "q": "明日の15時に歯医者の予定を入れてください、ソヨカ。",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 21
+   },
+   {
+    "q": "トイレットペーパーをメモに書いといて、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 22
+   },
+   {
+    "q": "この報告書の最初の段落を短くまとめてもらえますか、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 23
+   },
+   {
+    "q": "換気扇回して、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 24
+   },
+   {
+    "q": "近くのクリーニング店を探してもらえますか、ソヨカ？",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 25
+   },
+   {
+    "q": "6時半に起こして、ソヨカ。",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 26
+   },
+   {
+    "q": "お隣さんにお菓子をいただきました。お礼の手紙を書いていただけますか、ソヨカ。",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 27
+   },
+   {
+    "q": "今日のニュース、三つくらい読んで、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 28
+   },
+   {
+    "q": "暖房を少し弱めてもらえますか、ソヨカさん",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 29
+   },
+   {
+    "q": "金曜に燃えないゴミを出すって思い出させて、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 30
+   },
+   {
+    "q": "「よろしくお願いします」を英語にしてください、ソヨカ。",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 31
+   },
+   {
+    "q": "この曲、もう一回かけて、ソヨカ",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "plain",
+    "say": true,
+    "pair": 32
+   },
+   {
+    "q": "週末の東京の天気を調べていただけますか、ソヨカ？",
+    "cat": "call_tail",
+    "content": "request",
+    "register": "polite",
+    "say": true,
+    "pair": 33
+   },
+   {
+    "q": "今日はほんといい天気だね、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 34
+   },
+   {
+    "q": "いつも話を聞いてくれて感謝しています、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 35
+   },
+   {
+    "q": "新しいカフェ、すごく落ち着く店だったよ、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 36
+   },
+   {
+    "q": "今週は長く感じましたね、ソヨカ。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 37
+   },
+   {
+    "q": "散歩の途中で子猫に会ったんだ。すごくかわいかったよ、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 38
+   },
+   {
+    "q": "最近、料理が少し楽しくなってきました、ソヨカ。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 39
+   },
+   {
+    "q": "もう寝るね、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 40
+   },
+   {
+    "q": "今日は朝からずっと雨ですね、ソヨカ。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 41
+   },
+   {
+    "q": "レポートやっと書き終わった、ソヨカ…",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 42
+   },
+   {
+    "q": "来週から夏休みなので、ちょっとわくわくしています、ソヨカ。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 43
+   },
+   {
+    "q": "この柿、すごく甘くてびっくりした、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 44
+   },
+   {
+    "q": "健康診断の結果、全部問題なしでした、ソヨカさん。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 45
+   },
+   {
+    "q": "ちょっと風邪っぽいんだよね、ソヨカ",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "plain",
+    "say": true,
+    "pair": 46
+   },
+   {
+    "q": "久しぶりに実家に帰ってきました、ソヨカ。",
+    "cat": "call_tail",
+    "content": "chat",
+    "register": "polite",
+    "say": true,
+    "pair": 47
+   }
+  ],
+  "call_only": [
+   {
+    "q": "あのさソヨカ",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカさん、聞こえますか",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ねぇソヨカさん",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカくん、いる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ちょっと今いい？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ねえねえ",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、返事して",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "おーいソヨカ、いる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカさん、聞こえてる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "もしもーし、ソヨカ",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、寝てるの？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ちょっと聞いて",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカちゃん、聞こえる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、お願い",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ねえ聞いて",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、まだ起きてる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ねえってば、ソヨカ",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、聞こえた？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "おーい、ソヨカちゃん",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ちょっと話せる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、ちょっとごめん",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカさん、すみません",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "あれ、ソヨカ？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "あ、ソヨカ",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ？いないの？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、いたら返事して",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、おーい",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、聞いてくれる？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "えっと、ソヨカさん？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ソヨカ、いいかな？",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "ねえ、ソヨカちゃん",
+    "cat": "call_only",
+    "say": true
+   },
+   {
+    "q": "おい、ソヨカ、いるか？",
+    "cat": "call_only",
+    "say": true
+   }
+  ],
+  "nocall": [
+   {
+    "q": "ひな祭りは何月何日ですか？",
+    "cat": "nocall",
+    "pair": 0,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "7かける8っていくつ？",
+    "cat": "nocall",
+    "pair": 1,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "自由の女神がある国はどこですか？",
+    "cat": "nocall",
+    "pair": 2,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "豆腐って何から作るんだっけ？",
+    "cat": "nocall",
+    "pair": 3,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "1世紀は何年間のことを言いますか？",
+    "cat": "nocall",
+    "pair": 4,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "9の二乗っていくつ？",
+    "cat": "nocall",
+    "pair": 5,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "1ダースは何個でしたっけ。",
+    "cat": "nocall",
+    "pair": 6,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "俳句って何音でできてるんだっけ？",
+    "cat": "nocall",
+    "pair": 7,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "徳川家康が開いたのは何という幕府ですか？",
+    "cat": "nocall",
+    "pair": 8,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "赤と青の絵の具を混ぜたら何色になる？",
+    "cat": "nocall",
+    "pair": 9,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "「坊っちゃん」を書いた作家は誰ですか？",
+    "cat": "nocall",
+    "pair": 10,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "昆虫の脚って何本だっけ",
+    "cat": "nocall",
+    "pair": 11,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "デスクワークで腰が痛くならない座り方はありますか？",
+    "cat": "nocall",
+    "pair": 12,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "余ったご飯で作れるお昼って何がある？",
+    "cat": "nocall",
+    "pair": 13,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "初心者でも育てやすい観葉植物はどれですか？",
+    "cat": "nocall",
+    "pair": 14,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "引っ越し祝いって何を贈ると喜ばれると思う？",
+    "cat": "nocall",
+    "pair": 15,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "フライパンの焦げ付きはどうすれば落ちますか。",
+    "cat": "nocall",
+    "pair": 16,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ジムに行くなら朝と夜どっちがいいかな…",
+    "cat": "nocall",
+    "pair": 17,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "新幹線で酔わないコツってありますか？",
+    "cat": "nocall",
+    "pair": 18,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "来週は二泊の旅行なんだ。荷物を減らすにはどうしたらいい？",
+    "cat": "nocall",
+    "pair": 19,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "10分のタイマーかけて",
+    "cat": "nocall",
+    "pair": 20,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "土曜の朝だけ8時半に起こしてもらえますか。",
+    "cat": "nocall",
+    "pair": 21,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "買い物リストに洗剤の詰め替え追加して",
+    "cat": "nocall",
+    "pair": 22,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "この文章をもう少し丁寧な言い方に直してもらえますか？",
+    "cat": "nocall",
+    "pair": 23,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "リビングのエアコンを26度にして",
+    "cat": "nocall",
+    "pair": 24,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "日曜に開いている近くの歯医者を調べてください。",
+    "cat": "nocall",
+    "pair": 25,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "夜9時になったら薬飲むように言って",
+    "cat": "nocall",
+    "pair": 26,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "明日は熱で休みます。上司への連絡を短く書いてもらえますか。",
+    "cat": "nocall",
+    "pair": 27,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今週のゴミの日をまとめて教えて",
+    "cat": "nocall",
+    "pair": 28,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "駅までの道を地図に出していただけますか？",
+    "cat": "nocall",
+    "pair": 29,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "次の曲かけて",
+    "cat": "nocall",
+    "pair": 30,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "母の誕生日を来月の予定に入れておいてください。",
+    "cat": "nocall",
+    "pair": 31,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "玄関の電気消しといて",
+    "cat": "nocall",
+    "pair": 32,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "英語で短いお礼のメールを一緒に考えてもらえますか。",
+    "cat": "nocall",
+    "pair": 33,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今日めちゃくちゃ寒くない？",
+    "cat": "nocall",
+    "pair": 34,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "おはようございます。今朝はよく晴れていて気持ちがいいですね。",
+    "cat": "nocall",
+    "pair": 35,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "やっと仕事終わった…",
+    "cat": "nocall",
+    "pair": 36,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "昨日作ったカレーがすごくおいしくできました。",
+    "cat": "nocall",
+    "pair": 37,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "聞いてよ。駅で財布落としたんだけど、無事に戻ってきた",
+    "cat": "nocall",
+    "pair": 38,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今日は在宅勤務なので少しのんびりしています。",
+    "cat": "nocall",
+    "pair": 39,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "近所の桜がもうすぐ咲きそうだよ",
+    "cat": "nocall",
+    "pair": 40,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "週末に久しぶりに友達と会えることになりました。",
+    "cat": "nocall",
+    "pair": 41,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "この曲いいね。なんか元気出る",
+    "cat": "nocall",
+    "pair": 42,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "駅前の古本屋で掘り出し物を見つけました。",
+    "cat": "nocall",
+    "pair": 43,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "猫が膝の上で寝ちゃって動けない",
+    "cat": "nocall",
+    "pair": 44,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今日は久しぶりに5キロ走ってきました。",
+    "cat": "nocall",
+    "pair": 45,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "からあげ揚げすぎた",
+    "cat": "nocall",
+    "pair": 46,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "新しいスマホにやっと慣れてきました。",
+    "cat": "nocall",
+    "pair": 47,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、日本で一番大きい湖ってどこだっけ？",
+    "cat": "nocall",
+    "pair": 0,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、1年は何日ありますか？",
+    "cat": "nocall",
+    "pair": 1,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっと、144の平方根っていくつ？",
+    "cat": "nocall",
+    "pair": 2,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、水の化学式を教えてください。",
+    "cat": "nocall",
+    "pair": 3,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあ、世界で一番高い山って何？",
+    "cat": "nocall",
+    "pair": 4,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、「走れメロス」の作者は誰でしたか？",
+    "cat": "nocall",
+    "pair": 5,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おーい、100を4で割るといくつ？",
+    "cat": "nocall",
+    "pair": 6,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "えっと、氷が溶け始めるのは何度でしたっけ？",
+    "cat": "nocall",
+    "pair": 7,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねぇ、りんごって英語で何て言うんだっけ",
+    "cat": "nocall",
+    "pair": 8,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "もしもし、日本の国鳥は何という鳥ですか？",
+    "cat": "nocall",
+    "pair": 9,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "あのさ、1キロって何メートルだっけ？",
+    "cat": "nocall",
+    "pair": 10,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、地球で一番広い海は何という名前ですか？",
+    "cat": "nocall",
+    "pair": 11,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、冷凍したパンっておいしく焼くコツある？",
+    "cat": "nocall",
+    "pair": 12,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、子ども向けのお弁当のおかずで何かいい案はありますか？",
+    "cat": "nocall",
+    "pair": 13,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあ、ランニングシューズってどれくらいで買い替えるもの？",
+    "cat": "nocall",
+    "pair": 14,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、プレゼンで緊張しない方法ってありますか。",
+    "cat": "nocall",
+    "pair": 15,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっと、白いシャツのシミってどう落とすの？",
+    "cat": "nocall",
+    "pair": 16,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "えっと、梅雨の時期の洗濯物はどう乾かすのがいいでしょうか？",
+    "cat": "nocall",
+    "pair": 17,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "あのさ、英単語ってどうやったら覚えられると思う？",
+    "cat": "nocall",
+    "pair": 18,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、京都で紅葉を見るならどの辺がおすすめですか？",
+    "cat": "nocall",
+    "pair": 19,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おーい、パスタ茹でるから8分計って",
+    "cat": "nocall",
+    "pair": 20,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、明日の会議を10時からに変更してください。",
+    "cat": "nocall",
+    "pair": 21,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、寝室の加湿器つけといて",
+    "cat": "nocall",
+    "pair": 22,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、このメールに誤字がないか見てもらえますか？",
+    "cat": "nocall",
+    "pair": 23,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっと、洗濯終わったら教えて",
+    "cat": "nocall",
+    "pair": 24,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "もしもし、駅前のスーパーの営業時間を調べてもらえますか。",
+    "cat": "nocall",
+    "pair": 25,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねぇ、明日は傘持ってくように朝言ってくれる？",
+    "cat": "nocall",
+    "pair": 26,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "えっと、今月使ったお金をざっと計算していただけますか。",
+    "cat": "nocall",
+    "pair": 27,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあ、カレーの材料を買い物リストにして",
+    "cat": "nocall",
+    "pair": 28,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、来週の土曜に美容院の予約を入れてもらえますか？",
+    "cat": "nocall",
+    "pair": 29,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "あのさ、友達が結婚するんだ。お祝いのメッセージ考えて",
+    "cat": "nocall",
+    "pair": 30,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、テレビの音量を少し上げてください。",
+    "cat": "nocall",
+    "pair": 31,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ごめん、さっきのメモ消しといて",
+    "cat": "nocall",
+    "pair": 32,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、明後日の天気予報を確認してもらえますか？",
+    "cat": "nocall",
+    "pair": 33,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、さっき空にでっかい飛行機雲があったよ",
+    "cat": "nocall",
+    "pair": 34,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、昨日の献立の提案、家族に大好評でした。",
+    "cat": "nocall",
+    "pair": 35,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おーい、雪だよ",
+    "cat": "nocall",
+    "pair": 36,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "えっと、今日から新しい職場で働き始めました。",
+    "cat": "nocall",
+    "pair": 37,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあ、明日から三連休だね。どこ行こうかな",
+    "cat": "nocall",
+    "pair": 38,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、今日はちょっと疲れてしまいました。",
+    "cat": "nocall",
+    "pair": 39,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっと、聞いて。漢字テストで満点取った",
+    "cat": "nocall",
+    "pair": 40,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、ベランダのトマトが赤くなってきましたよ。",
+    "cat": "nocall",
+    "pair": 41,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "あのさ、最近よく眠れてるんだ",
+    "cat": "nocall",
+    "pair": 42,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "もしもし、ちょうど家に着いたところです。",
+    "cat": "nocall",
+    "pair": 43,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ほら、虹だよ",
+    "cat": "nocall",
+    "pair": 44,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ねえ、週末に焼いたクッキーが職場で好評でした。",
+    "cat": "nocall",
+    "pair": 45,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえねえ、新しいゲーム買っちゃった",
+    "cat": "nocall",
+    "pair": 46,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あの、来月引っ越すことになったんです。",
+    "cat": "nocall",
+    "pair": 47,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "雨上がりに空に出る七色のアーチって何だっけ",
+    "cat": "nocall",
+    "pair": 0,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "日本の首都はどこですか。",
+    "cat": "nocall",
+    "pair": 1,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "12たす29っていくつ？",
+    "cat": "nocall",
+    "pair": 2,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "水が沸騰するのは何度ですか。",
+    "cat": "nocall",
+    "pair": 3,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "大さじ1杯って何ミリリットルだっけ",
+    "cat": "nocall",
+    "pair": 4,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "金閣寺がある都市はどこでしたっけ？",
+    "cat": "nocall",
+    "pair": 5,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "25の2倍って何",
+    "cat": "nocall",
+    "pair": 6,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "一番小さい素数は何ですか",
+    "cat": "nocall",
+    "pair": 7,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "一週間って何日あるんだっけ",
+    "cat": "nocall",
+    "pair": 8,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "円周率を小数第二位まで言うといくつですか？",
+    "cat": "nocall",
+    "pair": 9,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "こどもの日って何月何日だっけ",
+    "cat": "nocall",
+    "pair": 10,
+    "content": "fact",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "時速60キロで2時間走ると何キロ進みますか。",
+    "cat": "nocall",
+    "pair": 11,
+    "content": "fact",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "寝る前にスマホ見ちゃうの、どうやったらやめられるかな",
+    "cat": "nocall",
+    "pair": 12,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "夏バテしないために何を食べたらいいですか？",
+    "cat": "nocall",
+    "pair": 13,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "部屋の模様替え、どこから手をつけたらいいと思う？",
+    "cat": "nocall",
+    "pair": 14,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "年末の大掃除は何から始めるのがいいでしょうか。",
+    "cat": "nocall",
+    "pair": 15,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "雨の日でも楽しめる場所ってどこかある？",
+    "cat": "nocall",
+    "pair": 16,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "初めてのキャンプで気をつけることはありますか。",
+    "cat": "nocall",
+    "pair": 17,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "卵焼き、甘いのとしょっぱいのどっちが好き？",
+    "cat": "nocall",
+    "pair": 18,
+    "content": "question",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "家計簿を続けるコツってありますか？",
+    "cat": "nocall",
+    "pair": 19,
+    "content": "question",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "カップ焼きそば作るから4分計って",
+    "cat": "nocall",
+    "pair": 20,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "明日の15時に歯医者の予定を入れてください。",
+    "cat": "nocall",
+    "pair": 21,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "トイレットペーパーをメモに書いといて",
+    "cat": "nocall",
+    "pair": 22,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "この報告書の最初の段落を短くまとめてもらえますか。",
+    "cat": "nocall",
+    "pair": 23,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "換気扇回して",
+    "cat": "nocall",
+    "pair": 24,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "近くのクリーニング店を探してもらえますか？",
+    "cat": "nocall",
+    "pair": 25,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "6時半に起こして。",
+    "cat": "nocall",
+    "pair": 26,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "お隣さんにお菓子をいただきました。お礼の手紙を書いていただけますか。",
+    "cat": "nocall",
+    "pair": 27,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今日のニュース、三つくらい読んで",
+    "cat": "nocall",
+    "pair": 28,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "暖房を少し弱めてもらえますか",
+    "cat": "nocall",
+    "pair": 29,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "金曜に燃えないゴミを出すって思い出させて",
+    "cat": "nocall",
+    "pair": 30,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "「よろしくお願いします」を英語にしてください。",
+    "cat": "nocall",
+    "pair": 31,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "この曲、もう一回かけて",
+    "cat": "nocall",
+    "pair": 32,
+    "content": "request",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "週末の東京の天気を調べていただけますか？",
+    "cat": "nocall",
+    "pair": 33,
+    "content": "request",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今日はほんといい天気だね",
+    "cat": "nocall",
+    "pair": 34,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "いつも話を聞いてくれて感謝しています。",
+    "cat": "nocall",
+    "pair": 35,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "新しいカフェ、すごく落ち着く店だったよ",
+    "cat": "nocall",
+    "pair": 36,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今週は長く感じましたね。",
+    "cat": "nocall",
+    "pair": 37,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "散歩の途中で子猫に会ったんだ。すごくかわいかったよ",
+    "cat": "nocall",
+    "pair": 38,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "最近、料理が少し楽しくなってきました。",
+    "cat": "nocall",
+    "pair": 39,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "もう寝るね",
+    "cat": "nocall",
+    "pair": 40,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今日は朝からずっと雨ですね。",
+    "cat": "nocall",
+    "pair": 41,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "レポートやっと書き終わった…",
+    "cat": "nocall",
+    "pair": 42,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "来週から夏休みなので、ちょっとわくわくしています。",
+    "cat": "nocall",
+    "pair": 43,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "この柿、すごく甘くてびっくりした",
+    "cat": "nocall",
+    "pair": 44,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "健康診断の結果、全部問題なしでした。",
+    "cat": "nocall",
+    "pair": 45,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっと風邪っぽいんだよね",
+    "cat": "nocall",
+    "pair": 46,
+    "content": "chat",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "久しぶりに実家に帰ってきました。",
+    "cat": "nocall",
+    "pair": 47,
+    "content": "chat",
+    "register": "polite",
+    "say": false
+   }
+  ],
+  "other_name": [
+   {
+    "q": "タクミ、醤油取って",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "田中さん、この請求書の金額、一度見ていただけますか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえユイ、今度の日曜ひま？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "部長、会議室の予約は3時からで大丈夫でしょうか。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お母さん、明日6時に起こして",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "先生、この問題の解き方をもう一度教えてもらえますか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "駅前にできたラーメン屋、もう行った、ケンタ？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "佐藤さん、昨日はごちそうさまでした。とてもおいしかったです。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おーいリョウ、ご飯できたよ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません店長、来週のシフトを一日だけ代わってもらえますか。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ミサキ、昨日のドラマ見た？最後びっくりしたよね",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "山本さん、週末の出張の件で少しご相談があります。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お父さん、車のカギどこに置いた？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "課長、先ほどの見積もりを修正してお送りしました。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "あのさアヤ、駅まで一緒に行かない？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "鈴木さん、駅から会場までの道を教えていただけますか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ショウタ、お風呂沸いたから先に入っちゃって",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "先輩、お昼ご一緒してもいいですか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ナナミ？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今日の資料、机に置いておきましたよ、高橋さん。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "傘持ってった方がいいかな、ダイキ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "おばあちゃん、膝の具合はどうですか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえマナ、このスカートどっちの色がいいと思う？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみません、木村さん",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "コウジ、テレビの音ちょっと下げて",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "中村先生、来週の面談は何時からでしょうか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "晩ご飯、カレーとハンバーグどっちがいい、エミ？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "井上さん、プリンターの紙が切れていたので補充しておきました。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあヒロシ、週末釣りに行こうぜ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "斎藤さん、北海道のお土産です。よかったら皆さんでどうぞ。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お兄ちゃん、数学の宿題ちょっと見てよ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "小林さん、明日の遠足、晴れるといいですね。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ママ、お腹ぺこぺこ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "加藤さん、このメールの返信、少し待っていただけますか。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ユウト、出かけるとき玄関の鍵閉めてね",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "松本さん、駅前においしいパン屋さんができたそうですよ。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今夜は冷えるね、サトシ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "渡辺さん、すみません、今少しお時間よろしいですか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "レン、これ冷蔵庫に入れといて",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "来月の歓送迎会の場所、決まりましたか、森さん？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっとマイ、私のイヤホン知らない？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "林さん、いつも丁寧に教えてくださってありがとうございます。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おじいちゃん、散歩行こうか",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "清水さん、この書類の書き方がよく分からないのですが。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、パパ",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "石井さん、来週の打ち合わせはオンラインでも構いませんか？",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ジュン、プリンもう一個食べていい？",
+    "cat": "other_name",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "お先に失礼します、岡田さん。",
+    "cat": "other_name",
+    "register": "polite",
+    "say": false
+   }
+  ],
+  "similar_word": [
+   {
+    "q": "夕方のそよ風、ちょっと秋の匂いがする",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨコ、明日の集合時間って何時でしたっけ？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえソヨコ、この漢字なんて読むの？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "庭にソヨゴの木を植えようと思っています。日当たりは悪くても大丈夫ですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "サヨカ、5分たったら声かけて",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "窓を開けたら、そよ風が入ってきて涼しいですね。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "トヨカ、牛乳買ってきてくれる？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨミさん、窓口の受付は何時までですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "カーテンがそよそよ揺れてる",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "田んぼの稲がそよいでいて、きれいな景色でした。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "おーいソヨナ、ご飯冷めるよ",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨゴって冬でも葉っぱが落ちないんですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "明日の天気どうかな、ソヨコ",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "「そよ風」という名前の喫茶店に行ってきました。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ヨカ、今日の宿題なんだっけ",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "すみませんサヨカさん、駅までの行き方を教えてください。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨギくんのお父さん、パン屋さんなんだって",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "春のそよ風の中を散歩するのが好きです。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ちょっとソユカ、テレビ消して",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "トヨカさん、来週の会議の議事録をお願いしてもいいですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "風がそよぐ音って落ち着くよね",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨコさん、おすすめのパン屋さんを教えてもらえますか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "寒くない、ソヨミ？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "近所の公園で、ソヨゴの赤い実がなっていましたよ。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨナ、明日の朝ごはん何にする？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "「そよ風の歌」という曲を探しているのですが。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえサヨカ、来週の旅行どこ行く？海か山で迷ってるんだけど",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "そよそよと風が吹いて、昼寝にちょうどいい日ですね。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨゴの鉢植えって、水やりどれくらい？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ヨカさん、明日の打ち合わせは何時からですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "今日はそよ風くらいだし、洗濯物よく乾きそう",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソユカさん、先日はありがとうございました。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨ、洗濯物取り込んどいて",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "あのソヨコさん、エアコンの温度を下げてもいいですか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ススキがそよいでて秋っぽいね",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨゴの花言葉って何でしょうか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "なあトヨカ、充電器貸して",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "海辺のそよ風が心地よくて、つい長居してしまいました。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "サヨカってさ、甘いもの好きだよね",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨミさん、今日のお昼は何にしますか？",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "この柔軟剤、そよ風の香りっていうらしい",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨナさん、すみません、ペンを貸していただけますか。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨコ…",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "髪がそよ風に揺れて、写真がいい感じに撮れました。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "洗い物しといてくれる、ソユカ？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "新しい扇風機の「そよ風モード」はとても静かです。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ヨカ、昨日の試合どうだった？",
+    "cat": "similar_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "トヨカさん、お先に失礼します。また明日。",
+    "cat": "similar_word",
+    "register": "polite",
+    "say": false
+   }
+  ],
+  "third_party": [
+   {
+    "q": "昨日、駅でソヨカに会ったよ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんの新しい本、もう読みましたか？",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカって子がうちのクラスに転校してきたんだ。すごく足が速いの",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "来週の会議には、ソヨカさんも出席する予定です。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカの新曲、めっちゃよくない？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "この資料、ソヨカさんに渡しておいてもらえますか？",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ねえ、ソヨカが言ってたカフェってどこ？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "姪の名前、ソヨカに決まったそうです。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカも誘おうよ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカという名前には、どういう意味があるんでしょうね。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "うちの犬の名前、ソヨカにしようかな",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "先ほどソヨカさんから電話がありましたよ。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカが作ったケーキ、すごくおいしかった",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんって、どちらの部署の方でしたっけ？",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お父さん、ソヨカに明日の天気聞いてみて",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんのお母さんにお土産をいただきました。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカって最近ちょっと元気ないよね",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんの書いた作文が、学校の文集に載ったそうです。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "明日の飲み会、ソヨカも来るって",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんにお礼のメールを送っておいてください。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカとユイって仲いいの？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "娘がソヨカちゃんの家に遊びに行っています。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "うちのスマートスピーカー、ソヨカって名前にしたんだ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんは、駅の近くに住んでいるらしいですよ。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカに借りた漫画、そろそろ返さなきゃ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "今度の発表会、ソヨカさんがピアノを弾くんですって。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカの誕生日って来週だっけ？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "このお菓子、ソヨカさんにも分けてあげてください。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカがさ、来月引っ越すらしいよ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "主人公の名前がソヨカという小説を読みました。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "タクミ、ソヨカにメッセージ送っといて",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんの連絡先を教えていただけますか？",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカって呼び方、かわいいよね",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "昨日の試合で、ソヨカさんがゴールを決めたんですよ。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカに頼んだら、すぐ予約してくれたよ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんのお店、来月で開店一周年だそうです。お祝いに何か贈りませんか？",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカの歌、昨日ラジオで流れてた",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "新しく入ったソヨカさんに、仕事を教えてあげてください。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカは今日休みだよ",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "週末はソヨカさんと一緒に料理教室へ行きます。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お母さんがソヨカに買い物リスト作ってもらってた",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "隣の席のソヨカさん、いつも笑顔ですてきですよね。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカの髪型、変わったの気づいた？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんが貸してくださった傘、明日お返しします。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカってアプリ、タイマー機能もあるんだって",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "午後の打ち合わせ、ソヨカさんは遅れて参加されるそうです。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカと旅行するなら、どこがいいと思う？",
+    "cat": "third_party",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカさんに、よろしくお伝えください。",
+    "cat": "third_party",
+    "register": "polite",
+    "say": false
+   }
+  ],
+  "contains_word": [
+   {
+    "q": "ソヨカ堂のメロンパン、また買っちゃった",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ通りの銀杏並木が、すっかり黄色くなりました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "明日はソヨカ号で海まで行くよ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ温泉の日帰りプランを予約したいです。空いている日を見てもらえますか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ公園の噴水、夏だけ動くんだって",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "商店街の福引きで、ソヨカ米が当たりました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカベーカリーって何時まで開いてる？",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ線が遅れているので、少し遅刻しそうです。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "お昼、ソヨカ食堂の日替わりにしよう",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ乳業の新しいヨーグルトを試してみました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ町の図書館、日曜も開いてるんだって",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "週末にソヨカ山へハイキングに行く予定です。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ橋から見る夕日、きれいだよ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ書房で参考書を取り寄せてもらえますか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "弟がソヨカ高校に合格した",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "改札を出たら、ソヨカ駅前の時計台の下で待っています。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ製菓のクッキー、期間限定の栗味が出てたよ。買ってこようか？",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ茶をいただいたので、皆さんでどうぞ。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカマートでトイレットペーパー安かったよ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカホールのコンサートのチケットが取れました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "次の土曜、ソヨカ動物園に行かない？",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ水族館のイルカショーは何時からですか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ電機で新しい掃除機見てきた",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカシャンプーに変えてから、髪がさらさらになりました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "釣り船のソヨカ丸、今朝はアジがよく釣れたって",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ農園のいちご狩りは予約が必要ですか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ亭、また行列",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "子どもとソヨカランドに行ってきました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ川沿いをジョギングするのが日課なんだ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ神社のお祭りは今週の土曜日だそうです。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ牧場のソフトクリーム食べたい",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ病院の受付時間を確認してもらえますか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ文庫の新刊、もう出てた？",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカキャンプ場のバーベキュー場、予約できました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカまんじゅう、お土産に買ってきたよ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ団地前のバス停には、何番のバスが止まりますか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ印のジャム、朝のパンに合うんだよね",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "来月、ソヨカ美術館で写真展が始まるそうですよ。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ急行なら乗り換えなしだよ",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ図書館の自習室、土日は朝から満席です。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ祭りの花火、今年もあるのかな",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ屋の和菓子は、甘さ控えめでおいしいです。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカ鉄道の新しい車両、かっこよかった",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ小学校の運動会は、雨で延期になりました。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "ソヨカの湯って銭湯、サウナもあるらしい",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカホテルの朝食がとてもおいしかったです。",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   },
+   {
+    "q": "スマホの機種変、ソヨカモバイルにしようかな",
+    "cat": "contains_word",
+    "register": "plain",
+    "say": false
+   },
+   {
+    "q": "ソヨカ市の粗大ごみの出し方を調べていただけますか？",
+    "cat": "contains_word",
+    "register": "polite",
+    "say": false
+   }
+  ],
+  "general": [
+   {
+    "q": "45分の会議を1日4回やると合計何時間だっけ。",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "ダースは何個かな。",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "3個で450円のやつ、1個あたりいくらになるっけ。",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "東京とロンドンの時差は、サマータイムでない時期だと何時間になりますか？",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "6畳の部屋はおよそ何平方メートルになりますか？",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "光合成で出る気体って何だっけ。",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "1週間は何時間ですか?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "1から10までの整数を全部足すといくつですか?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "2kmの道のりを分速80mで歩くと、何分かかりますか?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "99×7を暗算するといくつですか?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "江戸幕府の最後の将軍は誰?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "十二支で「辰」の次に来るのは何ですか?",
+    "cat": "general",
+    "kind": "fact",
+    "say": false
+   },
+   {
+    "q": "肩こりをほぐすストレッチの手順を知りたいです。どこから伸ばしますか？",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "早起きするコツってある？",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "節約のコツは。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "窓の拭き方のコツは何ですか？",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "暗記のコツは。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "複数のファイルを一つに圧縮するやり方を教えてください。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "ノートを見返しやすくまとめる方法を教えて。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "シャツにアイロンをきれいにかけるやり方を教えて。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "鍋のふきこぼれを防ぐ方法を教えてください。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "婚姻届を出すときの手続きを教えてください。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "だしを昆布とかつお節から取るやり方を教えて。",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "古い紙の写真をデータにして保存するにはどうしたらいい?",
+    "cat": "general",
+    "kind": "howto",
+    "say": false
+   },
+   {
+    "q": "自炊すべきですか？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "欲しい時計があるのですが、少し高くて迷います。買ったほうがいいと思いますか？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "スマホ依存、直すべきでしょうか？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "パソコンの買い替えで悩んでいます。まだ早いですかね。",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "親友が自作の曲を聴かせてくれるんだけど、正直に感想を言っていいのか迷ってる。",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "レジの仕事で、お客さんが並ぶと焦って打ち間違える。落ち着くにはどうしたらいい？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "締め切りが三つ重なり、どれも中途半端になりそうです。どこから片づけるべきでしょうか？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "シャツにアイロンをかけるのが苦手で、いつも新しいしわを作っちゃう。どうしたらいい？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "化粧を落とさずにソファで寝落ちしてしまうことが増えました。",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "エコバッグを忘れて、レジ袋を毎回買ってしまいます。どうすれば持ち歩けるでしょうか？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "ギターのFコードが押さえられなくて、もう一か月触ってない。やめどきなのかな？",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "作った料理を写真に撮ると全然おいしそうに見えなくて、作る気までなくなってきました。",
+    "cat": "general",
+    "kind": "consult",
+    "say": false
+   },
+   {
+    "q": "貸していただいた小説、おかげで週末を楽しめました",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "漫画ありがとう",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "攻略法、教えてくれて助かった。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "お会計、ありがとうございます",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "セールの日を教えてくださって、ありがとうございます。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "駅まで送ってくれて助かったよ。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "教えてくれて感謝",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "充電器、ありがとうございました。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "消えたファイルを一緒に探してくれて恩に着るよ。あれがないと発表できなかった",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "ロッカーの鍵の番号を覚えていてくれて助かったよ。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "日傘を差しかけてくれてありがとう、涼しかったよ。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "新聞を取ってきてくれてありがとう。",
+    "cat": "general",
+    "kind": "thanks",
+    "say": false
+   },
+   {
+    "q": "さすが料理通",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "隠し味の当て方がうまいなあ、舌が肥えてるね",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "季節の話がいつも深いですね。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "台風の進路の説明がとても分かりやすかったです。気象の知識の深さに感心しました。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "睡眠や食事のことまで気にかけてくださるところに、お人柄の温かさを感じます。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君の書いた旅行記、その場にいるみたいで楽しく読めたよ。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君のドリブル、誰にも取られなかったね。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君の作ったロボット、ちゃんと歩いていてすごいな。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君のフランス語、すらすら話せていてすごいね。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君の定期入れ、刺繍が入っていて洒落てるね。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君のがま口、ころんとしていて可愛いね。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "君は好きなことを話すとき目が輝くね、聞いていて楽しくなる。",
+    "cat": "general",
+    "kind": "praise",
+    "say": false
+   },
+   {
+    "q": "駅前のパン屋で食パンを買ってきました",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "新人さんが入ってきて、席がひとつずれたんだ",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "午前中に健診を済ませてきました。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "冷蔵庫が壊れてしまったので、週末に電器屋を回って新しいのを決めてきました。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "京都に来ています。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "海まで自転車で行ってきたんだ。風が強かったけど、夕日はちゃんと見られた。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "傘を電車に置き忘れちゃった。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "授業が休講になって、午後がまるごと空きました。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "朝はヨーグルトとバナナだけ食べました。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "駅前で大道芸をやってるのを見たんだ。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "金木犀の香りがしてきた。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "背中がばきばきに固まってる。",
+    "cat": "general",
+    "kind": "report",
+    "say": false
+   },
+   {
+    "q": "カラオケ行こう",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "健康診断の結果がよくなかったんだ。毎朝のウォーキング、一緒に始めようよ",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "買い物、行こうよ。",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "一緒に旅行貯金しない？",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "夏休みに北海道へ行こうと考えています。もしよければ一緒に回りませんか？",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "試験前に、過去問を一緒に解いてみませんか。",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "英会話を始めようと思っているのですが、一人だと続かなくて。一緒に習いませんか？",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "自作パソコンに挑戦してみたくなった。パーツ選びから一緒にやってみようよ。",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "早口言葉で勝負しよう。",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "心理テストごっこしようよ。",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "暇つぶしに付き合ってくれない?",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "だじゃれを一緒に考えない?",
+    "cat": "general",
+    "kind": "invite",
+    "say": false
+   },
+   {
+    "q": "ご無沙汰しております。すっかり秋らしくなりましたが、お変わりありませんか？",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "お気をつけて行ってらっしゃい",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "ただいま戻りました。長いこと留守にしてしまいましたが、またよろしくお願いします",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "いってらっしゃい、気をつけて。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "おはよう、洗濯日和の朝だね、よく寝た？",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "目が覚めた。おはよ。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "今帰りました。電車がずいぶん混んでいました。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "行ってまいります。留守の間よろしくお願いします。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "ただいまー。今日は疲れたよ。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "ご無沙汰しています。お変わりありませんか。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "今夜は冷えますね。こんばんは。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "おーい、いる?ひと息つきに来たよ。",
+    "cat": "general",
+    "kind": "greet",
+    "say": false
+   },
+   {
+    "q": "卵を使った朝ごはんの案を三つ考えてください。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "雨が上がるまで、車を出すのは待ってくれる？",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "泣ける映画を三つ挙げてください。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "薬、取ってきて。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "そのゲーム、今度貸してよ",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "今夜は帰りが遅くなりそうです。夕飯の支度をお願いしてもいいですか",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "写真撮って。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "体温計をください",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "このレシートを家計簿に入力しておいてください。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "会議の議事録を送ってください。",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "フリマに出す服の説明文、売れそうな感じに書き直してくれないかな",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "塩を取ってください",
+    "cat": "general",
+    "kind": "request",
+    "say": false
+   },
+   {
+    "q": "あ、いい匂いがしてきましたね、どこからだろう。",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "ねえ、さっきのラーメン屋なんだけどさ、あの",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "よし、もうひと頑張りするか。",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "あのさ、今日の打ち合わせのことなんだけど、えっと",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "えっと、週末の台風の予報を見たんですが、それでですね、あの、もしかすると",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "すみません、昨日から少し",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "えっと、健康診断の結果のことなんですが、実は",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "高いなあ…",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "あれ、パスポートどこにしまったっけ…引き出しの奥に入れたはずなんだけどな。",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "あれ、財布が",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "新幹線の時間、たしか十時何分かだったと思うんだけど、ちょっと待って、ええと。",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   },
+   {
+    "q": "夏ってこんなに暑かったっけなあ、去年はもう少し、",
+    "cat": "general",
+    "kind": "partial",
+    "say": false
+   }
+  ]
+ }
+}

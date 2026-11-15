@@ -2,6 +2,8 @@
 
 Article: https://balaena01.github.io/fish-steering/ (Japanese: https://balaena01.github.io/fish-steering/#ja)
 
+Part 2: https://balaena01.github.io/fish-steering/part2/ (Japanese: https://balaena01.github.io/fish-steering/part2/#ja)
+
 FiSH takes a few MLP neurons that do very little, replaces their weights with values computed from data, and turns them into switches: when the model is replying in one kind of scene they write a tone into the reply, and otherwise they write nothing. There is no training and no system prompt. The result is a LoRA for stock llama.cpp.
 
 The tool is [gguf-neuron-explorer](https://github.com/balaena01/gguf-neuron-explorer) (`gne`), v0.3.2 or later.
@@ -24,6 +26,10 @@ The tool is [gguf-neuron-explorer](https://github.com/balaena01/gguf-neuron-expl
 | `case*/criteria.md` | The pass criteria fixed before each final test, the changes made to them, and how each one came out, including the ones that failed |
 | `case*/scripts/fish_numbers.py` | Recounts the numbers in the article's tables for that case from the files here. `numbers.json` next to it is its saved output |
 | `case1/scripts/make_figures.py` | Draws the article's figures (SVG) from those numbers |
+| `part2/` | Part 2 of the article (https://balaena01.github.io/fish-steering/part2/): keys that leak less, what a direction can carry, sorting remarks with four rewritten neurons, silence with the end-of-reply token, and answering only when called by name. `part2/recount.py` recounts its main numbers from `case4/` to `case6/` |
+| `case4/` | Part 2, Qwen3.5-4B: the tuned form of case 1 with only the keys rebuilt by least squares. The contrast set (`sets/contrast.yaml`), the search prompts and the 105 remarks that are not questions (the thanks and question groups are `case1/sets/set3.json`), every reply, the blind readers' labels, the units and the amounts written per prompt (`recipe/amounts_*.json`, from `gne nw check`) |
+| `case5/` | Part 2, sorting remarks into "no response" (■), "acknowledge" (◇) and "answer" (no marker) on Qwen3.5-4B and Swift-1.5-Qwen3.8-27B (IQ2_XS): the remark sets (`sets/`), the replies of the first comparison (`replies_first/`) and of the new remarks (`replies_new/`), the 36 instruction drafts (`instructions/`) and their replies on the search remarks (`search/`), the predictions of the linear read-out (`readout/`), the units (`recipe/`), and the replies with silence by the end-of-reply token (`replies_silence/`, including second turns) |
+| `case6/` | Part 2, answering only when called by the name "ソヨカ" (Qwen3.5-4B): the remark sets, the replies (no edit, the chosen instruction, FiSH, and second turns), the six instruction drafts and the units. It did not work well enough; see the article |
 
 Case 3 has no `search/`: its layers and strengths were taken unchanged from case 2. Its replies carry no `model_scores`.
 
@@ -59,6 +65,21 @@ python case1/scripts/make_figures.py     # the figures, written to case1/scripts
 Each `fish_numbers.py` prints its numbers and writes them to `numbers.json` next to itself. The scripts find the files from their own location, so they can be run from any directory. The pass criteria and their results are in each `criteria.md`, with the numbers taken from the same recount.
 
 These are the scripts behind the tables and figures. The scripts that generated the replies are not included: they are tied to the layout and the condition names of the working folder. How the replies were generated (conditions, decoding, token limit, what was read blind) is described in each `criteria.md`, the commands that build an edit are in the article under "Reproduce", and the LoRA files here give the measured edits directly.
+
+## Part 2
+
+Article: https://balaena01.github.io/fish-steering/part2/ (Japanese: https://balaena01.github.io/fish-steering/part2/#ja)
+
+- Reply files of `case5/` and `case6/` are judged by their first character after stripping spaces: `■` no response, `◇` acknowledge, anything else answer. In the main counts an empty reply is wrong; the earlier rule (an empty reply counts as an answer) is also reported in the article. With silence by the end-of-reply token (`case5/replies_silence/`) and in `case6/`, an empty reply is the silent answer. `case5/sets/routes.json` and `case6/sets/answer_types.json` give the correct answer for each kind of remark.
+- In `case5/replies_silence/` and `case6/replies/`, each row is `key: [kind, remark]` with the reply; in the other reply files the replies are grouped by kind in the order of the remark set.
+- `case5/search/*/` counts (`correct_count_a`) use the earlier rule for empty replies; recount them from the rows to apply the main rule. The 27B search runs read the shared beginning of the conversation once and copied it (`reading`).
+- The instruction drafts are named by round: `original` (the first instruction), `round1_writer_*` (written by separate instances of Claude told only the task and the definitions), `round1_ours_*`, and `<model>_revision<n>_writer_*` / `<model>_revision<n>_ours_*` for the two rounds of revision.
+- The keys and the direction files of part 2 are not included; the units name them. The LoRAs of part 2 are not included yet. The units of the 4B silence switch reuse the key of the ■ switch.
+- The readers of `case4/` were instances of Claude working from `case4/labels/reader_instructions.md`, published exactly as they received it; their definitions were not checked again on these replies.
+
+```bash
+python part2/recount.py     # recounts the main numbers of part 2 and writes part2/recount.json
+```
 
 ## Credits and license
 

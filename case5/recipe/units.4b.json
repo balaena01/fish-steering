@@ -1,0 +1,16 @@
+{
+ "marker_none": [
+  "22:N5567+N7345:nw:a1@d18n#d18n_r_p0&d18_r_one"
+ ],
+ "marker_ack": [
+  "25:N4223+N8286:nw:a1@d18a#d18a_r_p0&d18_r_one"
+ ],
+ "first_stage": {
+  "n": [
+   "22:N5567+N7345:nw:a1@d18n#d18n_p0&d18_one"
+  ],
+  "a": [
+   "25:N4223+N8286:nw:a1@d18a#d18a_p0&d18_one"
+  ]
+ }
+}

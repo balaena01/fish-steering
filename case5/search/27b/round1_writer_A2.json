@@ -1,0 +1,2425 @@
+{
+ "instruction": "round1_writer_A2",
+ "model": "27b",
+ "correct_count_a": 211,
+ "n": 300,
+ "by_route_count_a": {
+  "none": [
+   29,
+   30
+  ],
+  "ack": [
+   99,
+   120
+  ],
+  "reply": [
+   83,
+   150
+  ]
+ },
+ "tokens_added": 915.0,
+ "regenerated_to_48_tokens": 1,
+ "reading": "shared prefix copied",
+ "rows": [
+  {
+   "kind": "fact",
+   "q": "日本でいちばん米の収穫量が多い都道府県はどこですか。",
+   "text": "秋田県です。",
+   "label": "reply",
+   "first": 97254,
+   "n_prompt": 941
+  },
+  {
+   "kind": "fact",
+   "q": "レシピは2人分で米が1合です。5人分にすると米は何合になりますか？",
+   "text": "2.5合になります。",
+   "label": "reply",
+   "first": 17,
+   "n_prompt": 948
+  },
+  {
+   "kind": "fact",
+   "q": "レモン1個に入ってるビタミンCって何ミリグラム？",
+   "text": "レモン1個に含まれるビタミンCの量は、品種",
+   "label": "reply",
+   "first": 42420,
+   "n_prompt": 940
+  },
+  {
+   "kind": "fact",
+   "q": "社是とは何ですか？",
+   "text": "社是（しゃじ）とは、特定の地域やコミュニティ",
+   "label": "reply",
+   "first": 96163,
+   "n_prompt": 933
+  },
+  {
+   "kind": "fact",
+   "q": "法定労働時間は週何時間ですか。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "fact",
+   "q": "時給1200円で6時間働くと、いくらになりますか？",
+   "text": "7200円になります。",
+   "label": "reply",
+   "first": 22,
+   "n_prompt": 943
+  },
+  {
+   "kind": "fact",
+   "q": "夏至は何月ですか。",
+   "text": "6月です。",
+   "label": "reply",
+   "first": 21,
+   "n_prompt": 932
+  },
+  {
+   "kind": "fact",
+   "q": "冬至って何月？",
+   "text": "12月です。",
+   "label": "reply",
+   "first": 16,
+   "n_prompt": 932
+  },
+  {
+   "kind": "fact",
+   "q": "梅雨前線って何と何の境目だっけ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 942
+  },
+  {
+   "kind": "fact",
+   "q": "琴は何弦ですか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "fact",
+   "q": "ピアノの鍵盤は全部で何鍵ですか。",
+   "text": "88鍵です。",
+   "label": "reply",
+   "first": 23,
+   "n_prompt": 937
+  },
+  {
+   "kind": "fact",
+   "q": "ギターの弦って普通は何本？",
+   "text": "6本です。",
+   "label": "reply",
+   "first": 21,
+   "n_prompt": 935
+  },
+  {
+   "kind": "fact",
+   "q": "ベートーヴェンが完成させた交響曲って、全部でいくつあるんだっけ？",
+   "text": "9曲です。",
+   "label": "reply",
+   "first": 24,
+   "n_prompt": 948
+  },
+  {
+   "kind": "fact",
+   "q": "身長170センチで体重65キロの人のBMIは、計算するといくつになりますか？",
+   "text": "BMIは体重(kg)を身長(m)の二",
+   "label": "reply",
+   "first": 92222,
+   "n_prompt": 950
+  },
+  {
+   "kind": "fact",
+   "q": "肝臓ってどこ？",
+   "text": "右上腹部、右側の肋骨の下あたりです。",
+   "label": "reply",
+   "first": 102618,
+   "n_prompt": 932
+  },
+  {
+   "kind": "fact",
+   "q": "成人が1日にとる塩分の目標量って、男性だと何グラム未満とされてるんだったかな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 951
+  },
+  {
+   "kind": "fact",
+   "q": "千円札は誰ですか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "fact",
+   "q": "800円の3割引はいくらですか。",
+   "text": "560円です。",
+   "label": "reply",
+   "first": 20,
+   "n_prompt": 937
+  },
+  {
+   "kind": "fact",
+   "q": "時速80キロで240キロ走ると何時間かかりますか。",
+   "text": "3時間かかります。",
+   "label": "reply",
+   "first": 18,
+   "n_prompt": 945
+  },
+  {
+   "kind": "fact",
+   "q": "屋久島って何県？",
+   "text": "鹿児島県です。",
+   "label": "reply",
+   "first": 247730,
+   "n_prompt": 934
+  },
+  {
+   "kind": "fact",
+   "q": "東海道新幹線の終点はどこかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 937
+  },
+  {
+   "kind": "fact",
+   "q": "富士山の次に高い日本の山って、南アルプスにある北岳で合ってたっけ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 948
+  },
+  {
+   "kind": "fact",
+   "q": "水は何度で沸騰するのでしょうか。",
+   "text": "100度です。",
+   "label": "reply",
+   "first": 16,
+   "n_prompt": 936
+  },
+  {
+   "kind": "fact",
+   "q": "酢って酸性だっけ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "fact",
+   "q": "40ワットの電球を10時間つけたら何ワット時かな。",
+   "text": "400ワット時です。",
+   "label": "reply",
+   "first": 19,
+   "n_prompt": 945
+  },
+  {
+   "kind": "fact",
+   "q": "鎌倉幕府を開いたのは誰ですか？",
+   "text": "源頼朝です。",
+   "label": "reply",
+   "first": 96214,
+   "n_prompt": 937
+  },
+  {
+   "kind": "fact",
+   "q": "英語のアルファベットって、大文字と小文字を合わせると何文字になるんだっけ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 949
+  },
+  {
+   "kind": "fact",
+   "q": "@は何と読みます？",
+   "text": "アットと読みます。",
+   "label": "reply",
+   "first": 37497,
+   "n_prompt": 933
+  },
+  {
+   "kind": "fact",
+   "q": "1枚4メガの写真を250枚撮ると何ギガになるかな。",
+   "text": "250メガバイトです。",
+   "label": "reply",
+   "first": 17,
+   "n_prompt": 945
+  },
+  {
+   "kind": "fact",
+   "q": "Bluetoothって、Wi-Fiと同じ2.4ギガヘルツ帯の電波なんだっけ？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 948
+  },
+  {
+   "kind": "howto",
+   "q": "パラパラのチャーハンを家で作る方法を知りたいです。火加減はどうするのでしょうか。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "howto",
+   "q": "天ぷらをサクサクに揚げるにはどうするのかな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "howto",
+   "q": "魚を三枚におろす手順って、最初はどこから包丁を入れればいいの？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "howto",
+   "q": "どう報告しますか。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "howto",
+   "q": "会議を時間どおりに終わらせるコツはありますか。",
+   "text": "はい、いくつかのコツがあります。\n\n1. **ア",
+   "label": "reply",
+   "first": 151992,
+   "n_prompt": 939
+  },
+  {
+   "kind": "howto",
+   "q": "有給ってどう申請するの？",
+   "text": "有給休暇の申請は、一般的に「有給",
+   "label": "reply",
+   "first": 95762,
+   "n_prompt": 935
+  },
+  {
+   "kind": "howto",
+   "q": "プレゼンで緊張しないようにする方法ってある？",
+   "text": "はい、いくつか方法があります。\n\n1. **事前の",
+   "label": "reply",
+   "first": 151992,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "梅雨の時期に洗濯物を早く乾かすにはどうしますか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 943
+  },
+  {
+   "kind": "howto",
+   "q": "花粉ってどう防げばいいのかな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "howto",
+   "q": "天気図の読み方って、どこから見ればいいの？",
+   "text": "まずは等圧線と前線(冷・温)",
+   "label": "reply",
+   "first": 176473,
+   "n_prompt": 939
+  },
+  {
+   "kind": "howto",
+   "q": "どう弾くのですか。",
+   "text": "「どう弾くのですか」は、やり方・",
+   "label": "reply",
+   "first": 12512,
+   "n_prompt": 933
+  },
+  {
+   "kind": "howto",
+   "q": "弦の張り替え方をご存じですか？",
+   "text": "はい、ご存じです。ギターの弦を張り",
+   "label": "reply",
+   "first": 151992,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "積読の減らし方は。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "howto",
+   "q": "脈はどう測ります？",
+   "text": "手首の内側（橈骨部）か、",
+   "label": "reply",
+   "first": 95996,
+   "n_prompt": 932
+  },
+  {
+   "kind": "howto",
+   "q": "腕立て伏せの正しい形は何ですか。",
+   "text": "腕立て伏せの正しい形は、体全体を",
+   "label": "reply",
+   "first": 101261,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "ランニングを長く続けるにはどうすればよいですか。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 938
+  },
+  {
+   "kind": "howto",
+   "q": "寝る前のストレッチのやり方が知りたいな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "領収書を月ごとに整理する方法を教えてください。",
+   "text": "月ごとにフォルダやバインダーを分け、日",
+   "label": "reply",
+   "first": 96212,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "毎月の食費をおさえる方法が知りたい。まとめ買いのやり方とかあるのかな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 947
+  },
+  {
+   "kind": "howto",
+   "q": "宿はどう取ります？",
+   "text": "「宿」は、一般的に「しゅく」と",
+   "label": "reply",
+   "first": 12512,
+   "n_prompt": 932
+  },
+  {
+   "kind": "howto",
+   "q": "海外で道に迷わないようにするには、事前にどんな準備をすればいいですか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "howto",
+   "q": "安い航空券の探し方を教えてほしいんだけど。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 937
+  },
+  {
+   "kind": "howto",
+   "q": "クローゼットをすっきり片づけるにはどうするの？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "howto",
+   "q": "漢字ってどう覚えるの？",
+   "text": "漢字を覚えるコツとしては、部首の読み方",
+   "label": "reply",
+   "first": 101306,
+   "n_prompt": 935
+  },
+  {
+   "kind": "howto",
+   "q": "数学の証明問題って、どういう順番で考えていけば解けるようになるの？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "howto",
+   "q": "どう設定しますか。",
+   "text": "何を設定したいですか？",
+   "label": "reply",
+   "first": 210525,
+   "n_prompt": 932
+  },
+  {
+   "kind": "howto",
+   "q": "画面の録画はどうやりますか？",
+   "text": "OSやアプリによって方法が異なりますが、代表的なものを",
+   "label": "reply",
+   "first": 3026,
+   "n_prompt": 936
+  },
+  {
+   "kind": "howto",
+   "q": "写真をパソコンに移す手順を教えていただけますか。",
+   "text": "はい、手順を説明しますね。まず、パソコンと",
+   "label": "reply",
+   "first": 151992,
+   "n_prompt": 936
+  },
+  {
+   "kind": "howto",
+   "q": "コピペの仕方は？",
+   "text": "マウスでドラッグして範囲を選択し、Ctrl+C",
+   "label": "reply",
+   "first": 65377,
+   "n_prompt": 934
+  },
+  {
+   "kind": "howto",
+   "q": "パスワードの変え方が知りたい。",
+   "text": "どのサービス（メール、SNS、銀行など）のパスワード",
+   "label": "reply",
+   "first": 154425,
+   "n_prompt": 933
+  },
+  {
+   "kind": "consult",
+   "q": "最近外食ばかりで食費がかさんでいます。自炊に切り替えたほうがいいと思いますか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 949
+  },
+  {
+   "kind": "consult",
+   "q": "料理教室、通ったほうがいいかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "consult",
+   "q": "異動の話、受けるべきでしょうか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "consult",
+   "q": "副業、どう思う？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "consult",
+   "q": "薄着で平気ですか…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "consult",
+   "q": "寒くて起きられず、どうしたら。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "consult",
+   "q": "雨の日が続くと気分が沈みます。どうしたらいいですか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "consult",
+   "q": "厚着しすぎかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "consult",
+   "q": "花粉の日、外出やめるべきかな…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "consult",
+   "q": "冬になると毎年気持ちが落ち込みがちで。何か新しいことを始めたほうがいいのかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 943
+  },
+  {
+   "kind": "consult",
+   "q": "積読、どうしたら…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "consult",
+   "q": "読書の習慣をつけたいのに三日坊主になります。私には向いていないのでしょうか。",
+   "text": "向いていないというわけではありません。三日坊主になるのは、",
+   "label": "reply",
+   "first": 96127,
+   "n_prompt": 945
+  },
+  {
+   "kind": "consult",
+   "q": "映画に誘われたけど気が乗らなくて。断っていいと思う？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 942
+  },
+  {
+   "kind": "consult",
+   "q": "夜更かしが直りません。どうしたらいいと思いますか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "consult",
+   "q": "ジム、やめていい？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "consult",
+   "q": "最近寝つきが悪くて、どうしよう。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "consult",
+   "q": "肩こりがひどくて、整体に行くか迷ってる。どう思う？",
+   "text": "整体に行くのはアリだと思います。ただ、肩こりがひど",
+   "label": "reply",
+   "first": 101591,
+   "n_prompt": 942
+  },
+  {
+   "kind": "consult",
+   "q": "ダイエット中なのについ間食しちゃう。いっそ我慢しないほうがいいのかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 944
+  },
+  {
+   "kind": "consult",
+   "q": "貯めるべきですか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "consult",
+   "q": "新しい財布、買うべきでしょうか。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "consult",
+   "q": "連休の旅行、家族と意見が合いません。どうしましょう？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 941
+  },
+  {
+   "kind": "consult",
+   "q": "帰省、どうしよう？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "consult",
+   "q": "日帰りにするか泊まるか決められなくて。どっちがいい？",
+   "text": "泊まるほうが、ゆっくり景色や空気を味わえるので",
+   "label": "reply",
+   "first": 99105,
+   "n_prompt": 942
+  },
+  {
+   "kind": "consult",
+   "q": "洗濯物をためてしまいます。毎日回すべきでしょうか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 938
+  },
+  {
+   "kind": "consult",
+   "q": "一人暮らしを始めたいのですが、家事をこなせるか心配で。まだ早いと思いますか？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 946
+  },
+  {
+   "kind": "consult",
+   "q": "家事の分担、どうしたらいいかな。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "consult",
+   "q": "文系か理系か決められません。どう選べばいいでしょう。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 943
+  },
+  {
+   "kind": "consult",
+   "q": "部活と勉強、どっち優先すべき？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 937
+  },
+  {
+   "kind": "consult",
+   "q": "テスト前なのに全然やる気が出なくて。少し休んでから始めたほうがいいかな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 944
+  },
+  {
+   "kind": "consult",
+   "q": "機種変、要ります？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "thanks",
+   "q": "先日は煮物の作り方を教えてくださりありがとうございました。上手にできました。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "thanks",
+   "q": "味見してくれて助かったよ。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "thanks",
+   "q": "お世話になりました",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "thanks",
+   "q": "資料の確認、助かりました。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "thanks",
+   "q": "代打、感謝してる。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "thanks",
+   "q": "引き継ぎの資料まとめてくれて、ほんと助かったよ。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "thanks",
+   "q": "面接の練習に付き合ってくれてありがとう。おかげで本番は緊張しなかったよ。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "thanks",
+   "q": "雨の予報、教えてくれて助かった。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 937
+  },
+  {
+   "kind": "thanks",
+   "q": "寒い中、外で待っててくれてありがとうね",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 938
+  },
+  {
+   "kind": "thanks",
+   "q": "本、感謝します。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "thanks",
+   "q": "ライブにご一緒いただきありがとうございました。一人では行けませんでした。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "thanks",
+   "q": "お見舞い感謝です。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "thanks",
+   "q": "ストレッチを教えていただき、肩が楽になりました。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "thanks",
+   "q": "薬、助かったよ",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "thanks",
+   "q": "家計簿のつけ方を教えていただいたおかげで、毎月の出費が見えるようになりました",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "thanks",
+   "q": "立て替えてくれて助かった、",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "thanks",
+   "q": "お土産をありがとうございます。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "thanks",
+   "q": "旅行の計画を立ててくださり、お世話になりました。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "thanks",
+   "q": "お土産ありがと。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "thanks",
+   "q": "片付け、恩に着ます",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "thanks",
+   "q": "洗濯機の掃除法を教えてくださり感謝しています。においが消えました。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "thanks",
+   "q": "皿洗いありがとう",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "thanks",
+   "q": "棚の組み立てを手伝ってくれて助かった。一人だったら夜までかかってたと思う。",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 947
+  },
+  {
+   "kind": "thanks",
+   "q": "ご指導に感謝します",
+   "text": "◇ありがとうございます。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "thanks",
+   "q": "添削、ありがとうございました",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "thanks",
+   "q": "ノート貸してくれてありがとう。",
+   "text": "どういたしまして。",
+   "label": "reply",
+   "first": 150606,
+   "n_prompt": 933
+  },
+  {
+   "kind": "thanks",
+   "q": "テスト前に英語を教えてくれたおかげで、赤点を免れた。",
+   "text": "◇よかったですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "thanks",
+   "q": "レポートの下書きを読んでくれてありがとう。指摘のおかげで読みやすくなった。",
+   "text": "どういたしまして！読みやすくなったとのこと、よかったですね",
+   "label": "reply",
+   "first": 150606,
+   "n_prompt": 941
+  },
+  {
+   "kind": "thanks",
+   "q": "スマホの機種変更を手伝ってくださりありがとうございます。データも無事に移せました",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 945
+  },
+  {
+   "kind": "thanks",
+   "q": "Wi-Fiつないでくれて助かった",
+   "text": "◇よかったです！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "praise",
+   "q": "料理上手ですね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "praise",
+   "q": "食材の知識が本当に豊富で、いつも感心します。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "praise",
+   "q": "旬の野菜の選び方まで知っているなんて、料理の腕も知識も一流だと思います。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "praise",
+   "q": "魚のさばき方まで詳しいんだね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 938
+  },
+  {
+   "kind": "praise",
+   "q": "段取りの組み方がお見事です。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "praise",
+   "q": "さすが、頼れる。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "praise",
+   "q": "天気博士ですね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "praise",
+   "q": "季節の変わり目に敏感だなあ",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "praise",
+   "q": "梅雨の仕組みの説明、君のが一番分かりやすい。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "praise",
+   "q": "ゲームの攻略の読みが的確で、さすがだと思った。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "praise",
+   "q": "無理のない運動の勧め方が、とても親身で頼もしいです。",
+   "text": "◇ありがとうございます！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 943
+  },
+  {
+   "kind": "praise",
+   "q": "ストレッチの教え方うまいね",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "praise",
+   "q": "体調の変化にすぐ気づくところ、ほんと優しいよ。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "praise",
+   "q": "筋トレの話も栄養の話もすらすら出てくるなんて、健康のことは本当に頼りになるなあ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "praise",
+   "q": "家計の整理の仕方がとても筋が通っています。お金の考え方がしっかりしていますね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "praise",
+   "q": "セールの見きわめ方が鋭くて、さすがって感じ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "praise",
+   "q": "旅先の知識が幅広いですね",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "praise",
+   "q": "荷物の減らし方まで知ってるなんて、旅慣れてる。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "praise",
+   "q": "手際がいいですね",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "praise",
+   "q": "収納の考え方が合理的で、センスのよさを感じます。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "praise",
+   "q": "家事の名人。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "praise",
+   "q": "汚れの落とし方をそこまで知ってるの、尊敬するよ。",
+   "text": "◇ありがとうございます！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "praise",
+   "q": "忙しい日の家事の回し方まで考えられるなんて、君は暮らしの達人だと思うなあ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "praise",
+   "q": "教え方が上手です。",
+   "text": "◇ありがとうございます！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "praise",
+   "q": "歴史の流れを物語のように語れるのは、知識が深くて整理されているからこそですね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 945
+  },
+  {
+   "kind": "praise",
+   "q": "設定の説明が分かりやすいです",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "praise",
+   "q": "不具合の原因をすぐ見抜くところは、さすがです。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "praise",
+   "q": "専門用語を使わずにパソコンの仕組みを話せるのは、理解が深い証拠だと思います。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "praise",
+   "q": "さすが詳しい",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 929
+  },
+  {
+   "kind": "praise",
+   "q": "スマホの裏技までよく知ってて、頼もしいなあ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "report",
+   "q": "もう食べました",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "report",
+   "q": "朝ごはん抜いた。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "report",
+   "q": "今日の夕飯は鍋にしたよ",
+   "text": "◇いいですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "report",
+   "q": "卵焼きを焦がして、弁当のおかずが一品減った。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 942
+  },
+  {
+   "kind": "report",
+   "q": "近所にできたラーメン屋に行ってきたんだ。並んだけど、スープが濃くて満足した。",
+   "text": "◇いいですね、楽しそう！",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "report",
+   "q": "先週出した企画書が通りまして、来月から準備に入ることになったんです。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "report",
+   "q": "こちらは雪です。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "report",
+   "q": "朝起きたら窓の外が真っ白でさ、駅まで歩くのにいつもの倍かかったよ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 947
+  },
+  {
+   "kind": "report",
+   "q": "映画を見てきました",
+   "text": "◇いいですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "report",
+   "q": "話題のアニメを一気に見てしまい、気づいたら夜中の三時になっていました。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 945
+  },
+  {
+   "kind": "report",
+   "q": "図書館で借りた推理小説、半分まで読んだところ。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "report",
+   "q": "先月からジムに通い始めて、少し体が軽くなりました",
+   "text": "◇いいですね、体が軽くなったのは嬉しいですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 938
+  },
+  {
+   "kind": "report",
+   "q": "朝のランニング、三日続いてる。",
+   "text": "◇いいですね、三日連続は偉いですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "report",
+   "q": "貯金箱を開けたら、思ったより入っていませんでした…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 941
+  },
+  {
+   "kind": "report",
+   "q": "ポイントがたまってたから、洗剤はただでもらえた。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "report",
+   "q": "ネットで頼んだ服が届いたんだけど、サイズが大きくて返品の手続きをした",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "report",
+   "q": "週末に温泉へ行ってきました",
+   "text": "◇いいですね、楽しかったでしょう。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "report",
+   "q": "連休に実家へ帰ったのですが、帰りの高速道路が混んで五時間もかかりました。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "report",
+   "q": "いま空港だよ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "report",
+   "q": "洗濯は済みました。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 932
+  },
+  {
+   "kind": "report",
+   "q": "ゴミ出し忘れた",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "report",
+   "q": "部屋の模様替えをしたんだ。",
+   "text": "◇いいですね。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "report",
+   "q": "英語の勉強を再開したんです",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "report",
+   "q": "簿記の講座に申し込みまして、来週から毎週土曜日に通うことになりました。",
+   "text": "◇いいですね、頑張ってください。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "report",
+   "q": "単語帳を一冊やりきったよ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "report",
+   "q": "画面を割ってしまいました。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "report",
+   "q": "パソコンの更新が終わらず、一時間も待っています…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 938
+  },
+  {
+   "kind": "report",
+   "q": "写真の整理を始めたら止まらなくなって、五年前の分までさかのぼってしまいました",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 947
+  },
+  {
+   "kind": "report",
+   "q": "充電が切れた。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "report",
+   "q": "新しいイヤホンが届いたんだ",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "invite",
+   "q": "一緒に食べよう",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 930
+  },
+  {
+   "kind": "invite",
+   "q": "日曜にうちで餃子を一緒に作ろうよ。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 939
+  },
+  {
+   "kind": "invite",
+   "q": "あの店のパンケーキずっと気になってて。今度の休みに一緒に食べに行かない？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 945
+  },
+  {
+   "kind": "invite",
+   "q": "帰りに一杯どう？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 932
+  },
+  {
+   "kind": "invite",
+   "q": "明日の昼休み、会社の近くの定食屋に行こうよ",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 940
+  },
+  {
+   "kind": "invite",
+   "q": "残業おつかれ。今日はもう切り上げて、駅前で一緒にごはん食べて帰らない？",
+   "text": "いいですね、楽しみにしています。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 946
+  },
+  {
+   "kind": "invite",
+   "q": "雪が積もったら、一緒に雪だるまを作りませんか。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 941
+  },
+  {
+   "kind": "invite",
+   "q": "今日はよく晴れて気持ちがいいですね。お昼は外のベンチで一緒に食べませんか？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 946
+  },
+  {
+   "kind": "invite",
+   "q": "来週あたり桜が満開になるんだって。お弁当持って川沿いまで花見に行こう",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 949
+  },
+  {
+   "kind": "invite",
+   "q": "映画行きませんか？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 931
+  },
+  {
+   "kind": "invite",
+   "q": "新作のゲーム、今夜ご一緒にプレイしませんか",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 937
+  },
+  {
+   "kind": "invite",
+   "q": "読書会を開こうと思っているんです。よかったら同じ本を読んで語り合いませんか。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 944
+  },
+  {
+   "kind": "invite",
+   "q": "あの映画、観に行かない？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 934
+  },
+  {
+   "kind": "invite",
+   "q": "週末、うちで一緒にボードゲームやろうよ。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 938
+  },
+  {
+   "kind": "invite",
+   "q": "朝、ご一緒に歩きませんか？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 934
+  },
+  {
+   "kind": "invite",
+   "q": "最近運動不足でして。よかったら週末に近くの公園でバドミントンをしましょう。",
+   "text": "いいですね、楽しみにしています。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 947
+  },
+  {
+   "kind": "invite",
+   "q": "明日の朝、一緒に走ろうよ。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 936
+  },
+  {
+   "kind": "invite",
+   "q": "買い物行きませんか",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 930
+  },
+  {
+   "kind": "invite",
+   "q": "週末、家具屋さんを一緒に見て回りましょう。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 937
+  },
+  {
+   "kind": "invite",
+   "q": "旅行しませんか？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 931
+  },
+  {
+   "kind": "invite",
+   "q": "次の連休、京都へ行きましょう。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 935
+  },
+  {
+   "kind": "invite",
+   "q": "模様替え、一緒にしませんか。",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 934
+  },
+  {
+   "kind": "invite",
+   "q": "年末の大掃除、今年は二人で早めに始めませんか？",
+   "text": "いいですね、楽しみです。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 938
+  },
+  {
+   "kind": "invite",
+   "q": "一緒に片づけよ。",
+   "text": "いいね、一緒に片付けようか。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 932
+  },
+  {
+   "kind": "invite",
+   "q": "天気いいし、布団干してから一緒に洗濯しちゃおう",
+   "text": "いいですね、天気が良いうちに済ませちゃい",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 938
+  },
+  {
+   "kind": "invite",
+   "q": "勉強会しませんか？",
+   "text": "いいですね、ぜひ参加させてください。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 932
+  },
+  {
+   "kind": "invite",
+   "q": "図書館で一緒に勉強しましょう。",
+   "text": "いいですね、一緒に勉強しましょう。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 933
+  },
+  {
+   "kind": "invite",
+   "q": "資格の勉強、一人だとさぼっちゃうんだよね。毎週土曜にカフェで一緒にやらない？",
+   "text": "いいですね、一緒に勉強しましょう。",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 950
+  },
+  {
+   "kind": "invite",
+   "q": "あとで通話しよ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "invite",
+   "q": "スマホ買い替えたいから、ショップ付き合わない？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 937
+  },
+  {
+   "kind": "greet",
+   "q": "どうもこんにちは。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "greet",
+   "q": "お昼はもう済まされましたか",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "greet",
+   "q": "おはよ、起きた？",
+   "text": "◇おはようございます。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "greet",
+   "q": "やあ、お昼どきだね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "greet",
+   "q": "おつかれ、そろそろ晩ごはんの時間だね…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 939
+  },
+  {
+   "kind": "greet",
+   "q": "お疲れさまです",
+   "text": "◇お疲れさまです。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "greet",
+   "q": "寒いですね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "greet",
+   "q": "やあ、久しぶり。すっかり春らしくなったね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "greet",
+   "q": "こんばんは、夜は冷えるようになったね。風邪ひいてない？元気にしてる？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "greet",
+   "q": "こんばんは、よい週末を。",
+   "text": "◇こんばんは、よい週末を。",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 935
+  },
+  {
+   "kind": "greet",
+   "q": "こんばんは。今夜もゲームの時間にお邪魔します、皆さんどうぞよろしくお願いします。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "greet",
+   "q": "よっ、また本読んでるの？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "greet",
+   "q": "やっほー、ゲーム仲間のみんな、こんばんは。",
+   "text": "こんばんは、お疲れさまです。",
+   "label": "reply",
+   "first": 66423,
+   "n_prompt": 941
+  },
+  {
+   "kind": "greet",
+   "q": "おーい、起きてる？映画見ながら夜更かししてる頃かなと思って、声かけてみた",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 948
+  },
+  {
+   "kind": "greet",
+   "q": "お変わりなくお過ごしですか。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 934
+  },
+  {
+   "kind": "greet",
+   "q": "久しぶり、元気そうでよかった。変わりない？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 937
+  },
+  {
+   "kind": "greet",
+   "q": "こんにちは、お買い物ですか？",
+   "text": "いいえ、今日は特に予定はありません。何かお手伝い",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 933
+  },
+  {
+   "kind": "greet",
+   "q": "いらっしゃいませ、こんにちは。年末でどこも混み合う時期になりましたね。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "greet",
+   "q": "おっ、偶然だね。買い物の途中かな、元気そうだね",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "greet",
+   "q": "やあ、こんなところで会うなんて。買い物帰りかな、久しぶりだね、元気だった？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "greet",
+   "q": "おかえりなさい。長旅お疲れさまでした。",
+   "text": "おかえりなさい、お疲れさまでした。",
+   "label": "reply",
+   "first": 190252,
+   "n_prompt": 941
+  },
+  {
+   "kind": "greet",
+   "q": "ごめんください",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 930
+  },
+  {
+   "kind": "greet",
+   "q": "こんにちは、隣に越してきた者です。はじめまして。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 939
+  },
+  {
+   "kind": "greet",
+   "q": "おはようございます。朝からお掃除ですか、いつもご精が出ますね。今日もよい一日を",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 949
+  },
+  {
+   "kind": "greet",
+   "q": "失礼します。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "greet",
+   "q": "おっす。",
+   "text": "おっす。",
+   "label": "reply",
+   "first": 31171,
+   "n_prompt": 931
+  },
+  {
+   "kind": "greet",
+   "q": "久しぶり、卒業以来だね。みんな変わってないなあ、元気そうでなによりだよ。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 946
+  },
+  {
+   "kind": "greet",
+   "q": "もしもし。",
+   "text": "もしもし、こんにちは。",
+   "label": "reply",
+   "first": 149902,
+   "n_prompt": 930
+  },
+  {
+   "kind": "greet",
+   "q": "やっほ、聞こえてる？",
+   "text": "聞こえてますよ。",
+   "label": "reply",
+   "first": 212418,
+   "n_prompt": 935
+  },
+  {
+   "kind": "greet",
+   "q": "こんばんは、通話つながったかな。画面ごしだけど顔が見られてうれしいよ、久しぶり",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 949
+  },
+  {
+   "kind": "request",
+   "q": "鍋料理を三つ挙げてもらえますか？",
+   "text": "土鍋、寄せ鍋、おでん",
+   "label": "reply",
+   "first": 96678,
+   "n_prompt": 938
+  },
+  {
+   "kind": "request",
+   "q": "すみません、注文が決まるまでもう少しだけ待っていていただけますか？",
+   "text": "承知しました。",
+   "label": "reply",
+   "first": 96484,
+   "n_prompt": 942
+  },
+  {
+   "kind": "request",
+   "q": "新人歓迎会の乾杯の挨拶、短めに作ってほしい。",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 941
+  },
+  {
+   "kind": "request",
+   "q": "上司と話してくるから、戻ってくるまでこの席で少し待っててもらえる？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 945
+  },
+  {
+   "kind": "request",
+   "q": "秋の季語を五つ挙げて。",
+   "text": "「秋の季語を五つ挙げて。」は",
+   "label": "reply",
+   "first": 12512,
+   "n_prompt": 937
+  },
+  {
+   "kind": "request",
+   "q": "猫が主人公の短い物語を一つ書いてもらえますか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "request",
+   "q": "音、下げてくれる？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "request",
+   "q": "怖い映画を三つ選んでくれない？",
+   "text": "もちろん、いくつか選んでみますね。\n\n1. **",
+   "label": "reply",
+   "first": 159953,
+   "n_prompt": 937
+  },
+  {
+   "kind": "request",
+   "q": "ドライブに合う曲を五つ選んでリストにしてほしい",
+   "text": "ドライブに合う曲を5つ選んでみました。\n\n",
+   "label": "reply",
+   "first": 212634,
+   "n_prompt": 939
+  },
+  {
+   "kind": "request",
+   "q": "肩をもんでください",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 931
+  },
+  {
+   "kind": "request",
+   "q": "一人暮らしの買い物リストを十品目で作ってください。",
+   "text": "1. 米\n2. 牛乳\n3",
+   "label": "reply",
+   "first": 16,
+   "n_prompt": 939
+  },
+  {
+   "kind": "request",
+   "q": "節約の標語を一つ作ってよ",
+   "text": "「無駄遣いは、未来の自分への投資を削",
+   "label": "reply",
+   "first": 12512,
+   "n_prompt": 936
+  },
+  {
+   "kind": "request",
+   "q": "財布を忘れたから、ここは立て替えておいてくれる？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 942
+  },
+  {
+   "kind": "request",
+   "q": "写真をお願いします",
+   "text": "",
+   "label": "reply",
+   "first": 248046,
+   "n_prompt": 929
+  },
+  {
+   "kind": "request",
+   "q": "京都の一日の行程を作ってください",
+   "text": "承知しました。京都の一日の行程案を作成します",
+   "label": "reply",
+   "first": 96484,
+   "n_prompt": 934
+  },
+  {
+   "kind": "request",
+   "q": "温泉旅行の持ち物を一覧にまとめていただけますか？",
+   "text": "もちろんです。温泉旅行の持ち物は、快適に",
+   "label": "reply",
+   "first": 155657,
+   "n_prompt": 938
+  },
+  {
+   "kind": "request",
+   "q": "窓側の席に替えていただけますか？景色を見ながら行きたいものですから。",
+   "text": "承知いたしました。",
+   "label": "reply",
+   "first": 96484,
+   "n_prompt": 944
+  },
+  {
+   "kind": "request",
+   "q": "荷物見てて。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "request",
+   "q": "二泊三日の北海道旅行の計画を立ててくれない？",
+   "text": "いいですね、喜んでお手伝いします。まずは「自然",
+   "label": "reply",
+   "first": 149675,
+   "n_prompt": 940
+  },
+  {
+   "kind": "request",
+   "q": "掃除の当番表を作ってください。",
+   "text": "喜んで作りますね。家族の人数や希望する頻",
+   "label": "reply",
+   "first": 230565,
+   "n_prompt": 935
+  },
+  {
+   "kind": "request",
+   "q": "洗濯物を取り込んでおいていただけますか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "request",
+   "q": "電気消して",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 930
+  },
+  {
+   "kind": "request",
+   "q": "引っ越しの前にやることを十個挙げて、早い順に並べてくれる？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 944
+  },
+  {
+   "kind": "request",
+   "q": "小学生向けの掛け算の問題を五つ作ってください",
+   "text": "1. 3 × 4 = ?\n2.",
+   "label": "reply",
+   "first": 16,
+   "n_prompt": 937
+  },
+  {
+   "kind": "request",
+   "q": "英単語のクイズを三問出して",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 936
+  },
+  {
+   "kind": "request",
+   "q": "画面を見てください",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 930
+  },
+  {
+   "kind": "request",
+   "q": "ブログの題名を三つ考えてください",
+   "text": "1. 「毎日の小さな習慣が、人生を変える」",
+   "label": "reply",
+   "first": 16,
+   "n_prompt": 936
+  },
+  {
+   "kind": "request",
+   "q": "機種変更の前にやることを箇条書きにしてもらえますか？",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 940
+  },
+  {
+   "kind": "request",
+   "q": "充電器、少し貸してもらえない？",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "request",
+   "q": "電話が終わるまで、動画の音を小さくしておいてくれる？十分くらいで済むから",
+   "text": "承知しました。音量を小さくしておきますね。",
+   "label": "reply",
+   "first": 96484,
+   "n_prompt": 947
+  },
+  {
+   "kind": "partial",
+   "q": "おなかすいた…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "あ、卵買うの忘れてた。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "partial",
+   "q": "あの、課長、",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "例の会議の件ですが、その",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "partial",
+   "q": "すみません、今少しだけお時間よろしいでしょうか、えっと、来週の件で、その",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 948
+  },
+  {
+   "kind": "partial",
+   "q": "あー、月曜か。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "partial",
+   "q": "あれ、この書類いつまでだったっけ。たしか今週中って言われた気がするんだけどな。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 948
+  },
+  {
+   "kind": "partial",
+   "q": "だいぶ冷えてきましたね…",
+   "text": "◇",
+   "label": "ack",
+   "first": 158871,
+   "n_prompt": 933
+  },
+  {
+   "kind": "partial",
+   "q": "あの、明日の天気のことなんですけど、もし",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 937
+  },
+  {
+   "kind": "partial",
+   "q": "あ、もう桜が咲いてる。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "partial",
+   "q": "ねえ、外すごい風なんだけど、これってさ、",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 940
+  },
+  {
+   "kind": "partial",
+   "q": "あー、また雨か。洗濯物、朝のうちに取り込んでおけばよかったなあ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 946
+  },
+  {
+   "kind": "partial",
+   "q": "あの映画の、",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "partial",
+   "q": "この曲、どこかで聴いた気がしますね、なんだったか。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 941
+  },
+  {
+   "kind": "partial",
+   "q": "あ、また負けた。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 933
+  },
+  {
+   "kind": "partial",
+   "q": "うーん、この曲なんていうタイトルだっけ…サビまで出かかってるのに思い出せない。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 951
+  },
+  {
+   "kind": "partial",
+   "q": "あ、小銭が足りませんね。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 936
+  },
+  {
+   "kind": "partial",
+   "q": "あの、先月の請求書のことで、少しよろしいですか、えっと、なんと言いますか",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 947
+  },
+  {
+   "kind": "partial",
+   "q": "うわ、今月もう残りこれだけか。何にそんなに使ったんだろう、全然覚えてないや。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 950
+  },
+  {
+   "kind": "partial",
+   "q": "あの、切符…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "あ、乗り遅れた",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "あー、温泉行きたいなあ。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 935
+  },
+  {
+   "kind": "partial",
+   "q": "あ、洗濯物が。",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "すみません、お隣の件で少し、あの、なんと申しますか",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 942
+  },
+  {
+   "kind": "partial",
+   "q": "鍵、鍵…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "partial",
+   "q": "すみません、この問題の、",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 934
+  },
+  {
+   "kind": "partial",
+   "q": "あ、切れましたね",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 932
+  },
+  {
+   "kind": "partial",
+   "q": "すみません、スマホの設定のことで、ちょっと、その",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 938
+  },
+  {
+   "kind": "partial",
+   "q": "あ、充電…",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 931
+  },
+  {
+   "kind": "partial",
+   "q": "あのさ、昨日送ったメッセージのことなんだけど、えっと、あれ、なんて言えばいいかな",
+   "text": "■",
+   "label": "none",
+   "first": 45113,
+   "n_prompt": 947
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "case4": {
+  "published_keys": {
+   "remarks_in_tone": 14,
+   "thanks_in_tone_greedy": 57,
+   "thanks_in_tone_sampled": 58,
+   "remarks_written_0.2": 81,
+   "remarks_same_start": 21,
+   "correct_of_65": 60
+  },
+  "new_keys": {
+   "remarks_in_tone": 0,
+   "thanks_in_tone_greedy": 70,
+   "thanks_in_tone_sampled": 63,
+   "remarks_written_0.2": 1,
+   "remarks_same_start": 73,
+   "correct_of_65": 60
+  },
+  "no_edit": {
+   "correct_of_65": 60
+  }
+ },
+ "case5": {
+  "4b": {
+   "first_comparison": {
+    "no_edit": 200,
+    "instruction_original": 348,
+    "fish": 385
+   },
+   "first_fish_vs_instruction": [
+    45,
+    8,
+    2.3683513772354559e-07
+   ],
+   "empty_is_wrong": {
+    "no_edit": [
+     200,
+     [
+      45.1,
+      54.9
+     ]
+    ],
+    "instruction_original": [
+     339,
+     [
+      80.9,
+      87.9
+     ]
+    ],
+    "instruction_chosen": [
+     370,
+     [
+      89.5,
+      94.7
+     ]
+    ],
+    "fish": [
+     377,
+     [
+      91.5,
+      96.1
+     ]
+    ],
+    "chosen_vs_fish": [
+     15,
+     22,
+     0.3240086000878364
+    ],
+    "chosen_vs_original": [
+     44,
+     13,
+     4.710437609395379e-05
+    ]
+   },
+   "empty_is_answer": {
+    "no_edit": [
+     200,
+     [
+      45.1,
+      54.9
+     ]
+    ],
+    "instruction_original": [
+     339,
+     [
+      80.9,
+      87.9
+     ]
+    ],
+    "instruction_chosen": [
+     370,
+     [
+      89.5,
+      94.7
+     ]
+    ],
+    "fish": [
+     377,
+     [
+      91.5,
+      96.1
+     ]
+    ],
+    "chosen_vs_fish": [
+     15,
+     22,
+     0.3240086000878364
+    ],
+    "chosen_vs_original": [
+     44,
+     13,
+     4.710437609395379e-05
+    ]
+   },
+   "fish": {
+    "answers_same_start_of_200": 161,
+    "marker_replies": 181,
+    "marker_again_or_loop": 68
+   },
+   "instruction_chosen": {
+    "answers_same_start_of_200": 0,
+    "marker_replies": 214,
+    "marker_again_or_loop": 0
+   },
+   "silence": {
+    "correct": 376,
+    "ci": [
+     91.2,
+     95.9
+    ],
+    "marker_form_vs_end_form": [
+     2,
+     1,
+     1.0
+    ],
+    "wrongly_silent_of_360": 1,
+    "marker_form_no_response_broke": [
+     21,
+     38
+    ],
+    "end_form_empty_replies": 35
+   }
+  },
+  "27b": {
+   "first_comparison": {
+    "no_edit": 200,
+    "instruction_original": 225,
+    "fish": 381
+   },
+   "first_fish_vs_instruction": [
+    172,
+    16,
+    3.3883191487016303e-34
+   ],
+   "empty_is_wrong": {
+    "no_edit": [
+     200,
+     [
+      45.1,
+      54.9
+     ]
+    ],
+    "instruction_original": [
+     212,
+     [
+      48.1,
+      57.8
+     ]
+    ],
+    "instruction_chosen": [
+     384,
+     [
+      93.6,
+      97.5
+     ]
+    ],
+    "fish": [
+     375,
+     [
+      90.9,
+      95.7
+     ]
+    ],
+    "chosen_vs_fish": [
+     18,
+     9,
+     0.12207812070846558
+    ],
+    "chosen_vs_original": [
+     180,
+     8,
+     1.7745439653638333e-43
+    ]
+   },
+   "empty_is_answer": {
+    "no_edit": [
+     200,
+     [
+      45.1,
+      54.9
+     ]
+    ],
+    "instruction_original": [
+     212,
+     [
+      48.1,
+      57.8
+     ]
+    ],
+    "instruction_chosen": [
+     385,
+     [
+      93.9,
+      97.7
+     ]
+    ],
+    "fish": [
+     375,
+     [
+      90.9,
+      95.7
+     ]
+    ],
+    "chosen_vs_fish": [
+     18,
+     8,
+     0.07551869750022888
+    ],
+    "chosen_vs_original": [
+     181,
+     8,
+     9.262560194799192e-44
+    ]
+   },
+   "fish": {
+    "answers_same_start_of_200": 177,
+    "marker_replies": 182,
+    "marker_again_or_loop": 29
+   },
+   "instruction_chosen": {
+    "answers_same_start_of_200": 0,
+    "marker_replies": 200,
+    "marker_again_or_loop": 0
+   },
+   "silence": {
+    "correct": 378,
+    "ci": [
+     91.8,
+     96.3
+    ],
+    "marker_form_vs_end_form": [
+     0,
+     3,
+     0.25
+    ],
+    "wrongly_silent_of_360": 0,
+    "marker_form_no_response_broke": [
+     7,
+     33
+    ],
+    "end_form_empty_replies": 35
+   }
+  }
+ },
+ "case6": {
+  "no_edit": {
+   "correct": 88,
+   "of": 224,
+   "called_but_silent": 0,
+   "silent_where_it_should": 0
+  },
+  "instruction_chosen": {
+   "correct": 91,
+   "of": 224,
+   "called_but_silent": 0,
+   "silent_where_it_should": 3
+  },
+  "fish_called_by_name": {
+   "correct": 199,
+   "of": 224,
+   "called_but_silent": 22,
+   "silent_where_it_should": 133
+  },
+  "fish_vs_instruction": [
+   130,
+   22,
+   7.579904634236201e-20
+  ]
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "id": "27b_revision1_writer_3",
+ "author": "27b_revision1_writer",
+ "kind": "en system: narrow ■ (never for short/hard/physical requests) + 16 ja contrast-pair shots",
+ "lang": "en",
+ "system": "You chat with the user in Japanese. Each user message is one short chat bubble with no earlier context. A program reads only the first character of your reply:\n- ■ = the message is unfinished, or the speaker is muttering to themselves\n- ◇ = a finished remark that asks nothing of you (thanks, praise, personal news, greeting)\n- anything else = you answer normally\n\n■ is narrow. Only about 1 message in 10 belongs here, and only these three kinds:\n- Cut off: it stops on a particle or connective (が, を, に, で, の, は, って, けど, から, たら) or is only a topic or lead-in, before saying what happened or what is wanted.\n- Filler only: えっと, あの, その and the like.\n- Self-talk: trying to recall their own things or plans (where they put something, what they were about to do), or blurting out something they just noticed, starting with あ、 あれ、 うわ、 おっと、 and the like.\nNever use ■ just because a message is short, lacks context, is hard to answer, or asks for something you cannot physically do.\n\nAnswer normally (no mark) whenever the message wants something from you, even if it is very short:\n- a factual or arithmetic question, including casual checks like 〜だっけ or 〜で合ってる？\n- a how-to question, even a bare どう〜するの？\n- advice about their own worry or choice: 〜すべき？, 〜していい？, 〜で平気？, 〜かな, どうしよう, どうしたら… (the ending may be left off)\n- an invitation to do something together: 〜しよう, 〜しよ, 〜しない？\n- a request: a writing task, or a favor such as 〜して or 〜てもらえる？. This includes physical favors you cannot do (then say so kindly) and favors you would simply accept with わかりました.\nA question or request wins over thanks or a greeting in the same message. Only questions about how you are or whether you are free to talk stay ◇.\n\n◇ covers: thanks; praise of you, even without the word 'you' (an admiring 〜だなあ, or just a title like 〜の達人); personal news, even a one-line 〜した or 〜が切れた; greetings, calling out, and checking on you, even when small talk or a question follows the greeting.\n\nFormat: for ■, write ■ alone. For ◇, write ◇ and then one short, warm sentence. For a normal answer, write no mark and give the actual answer in Japanese, at least one full sentence. Put nothing (no reasoning, label, quote or space) before the first character. Ending punctuation (？, 。, …, or none) is mixed on purpose, so judge by the words.",
+ "shots": [
+  {
+   "user": "カタツムリって貝の仲間だっけ？",
+   "assistant": "はい、カタツムリは陸にすむ巻き貝の仲間です。"
+  },
+  {
+   "user": "えっと、自転車どこに停めたっけ",
+   "assistant": "■"
+  },
+  {
+   "user": "スマホの画面割っちゃった",
+   "assistant": "◇ ああ、それはショックでしたね…。"
+  },
+  {
+   "user": "うわ、ポストに不在票入ってる",
+   "assistant": "■"
+  },
+  {
+   "user": "あのさ、明日の集合時間って",
+   "assistant": "■"
+  },
+  {
+   "user": "明日の集合場所、メモしといて",
+   "assistant": "わかりました。場所を教えてもらえれば、ここに書きとめておきますね。"
+  },
+  {
+   "user": "やあ、今日は忙しい？",
+   "assistant": "◇ やあ！今日はわりと落ち着いていますよ。"
+  },
+  {
+   "user": "今夜、一緒にオンラインでボードゲームしようよ",
+   "assistant": "いいですね、やりましょう！どんなゲームが好きですか？"
+  },
+  {
+   "user": "まとめ方が上手だなあ",
+   "assistant": "◇ ありがとうございます！そう言ってもらえてうれしいです。"
+  },
+  {
+   "user": "この靴、まだ履いても大丈夫かな",
+   "assistant": "底がすり減って滑りやすくなっていたり、雨がしみたりするなら替えどきです。そうでなければ、まだ履けますよ。"
+  },
+  {
+   "user": "メールの文面、直してくれて助かったよ",
+   "assistant": "◇ どういたしまして！お役に立ててよかったです。"
+  },
+  {
+   "user": "ネクタイってどう結ぶの。",
+   "assistant": "いちばん簡単なのはプレーンノットです。太いほうを細いほうに一周巻きつけ、首元の輪の下から通して、前の結び目に差し込みます。"
+  },
+  {
+   "user": "あの、えっと、ほら",
+   "assistant": "■"
+  },
+  {
+   "user": "ちょっとここ押さえてて",
+   "assistant": "ごめんなさい、私は手で押さえることができないんです。重い本やクリップで留めると作業しやすいですよ。"
+  },
+  {
+   "user": "おはよう、今日も早起きだね",
+   "assistant": "◇ おはようございます！今日もよろしくお願いします。"
+  },
+  {
+   "user": "1本150円のジュースを4本買うといくら？",
+   "assistant": "150円×4で600円です。"
+  }
+ ],
+ "user_template": "{q}",
+ "examples": [
+  "カタツムリって貝の仲間だっけ？",
+  "えっと、自転車どこに停めたっけ",
+  "スマホの画面割っちゃった",
+  "うわ、ポストに不在票入ってる",
+  "あのさ、明日の集合時間って",
+  "明日の集合場所、メモしといて",
+  "やあ、今日は忙しい？",
+  "今夜、一緒にオンラインでボードゲームしようよ",
+  "まとめ方が上手だなあ",
+  "この靴、まだ履いても大丈夫かな",
+  "メールの文面、直してくれて助かったよ",
+  "ネクタイってどう結ぶの。",
+  "あの、えっと、ほら",
+  "ちょっとここ押さえてて",
+  "おはよう、今日も早起きだね",
+  "1本150円のジュースを4本買うといくら？"
+ ]
+}

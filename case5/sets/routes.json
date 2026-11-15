@@ -1,0 +1,19 @@
+{
+ "routes": {
+  "partial": "none",
+  "thanks": "ack",
+  "praise": "ack",
+  "report": "ack",
+  "greet": "ack",
+  "fact": "reply",
+  "howto": "reply",
+  "consult": "reply",
+  "invite": "reply",
+  "request": "reply"
+ },
+ "markers": {
+  "none": "■",
+  "ack": "◇",
+  "reply": "(none)"
+ }
+}

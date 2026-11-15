@@ -1,0 +1,16 @@
+{
+ "answer": [
+  "call_head",
+  "call_hey",
+  "call_tail",
+  "call_only"
+ ],
+ "silent": [
+  "nocall",
+  "other_name",
+  "similar_word",
+  "third_party",
+  "contains_word"
+ ],
+ "note": "answer = reply only when the assistant is called by the name; silent = an empty reply is correct"
+}

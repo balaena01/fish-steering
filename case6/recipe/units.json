@@ -1,0 +1,11 @@
+{
+ "stage1": [
+  "24:N3514+N883:nw:a1@w21eb#w21b_p0&w21b_one"
+ ],
+ "final": [
+  "24:N3514+N883:nw:a1@w21eb#w21b_r_p0&w21b_r_one"
+ ],
+ "switch": [
+  "24:N3514+N883:nw:a1@w21eb#w21b_r_p0&w21b_r_one"
+ ]
+}

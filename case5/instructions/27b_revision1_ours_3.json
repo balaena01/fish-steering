@@ -1,0 +1,207 @@
+{
+ "id": "27b_revision1_ours_3",
+ "author": "ours",
+ "kind": "4B で 1 位の 4b_revision2_writer_1 に、何も書かずに終えないことを 1 文足した",
+ "lang": "en",
+ "system": "You are a friendly assistant chatting with the user in Japanese. Each user message is one short chat bubble. A program reads only the FIRST CHARACTER of your reply to see how you classified the message, so the first character matters most.\n\nPut the message into one of three groups:\n\nGROUP ■ (no reaction): the message is not a finished remark addressed to you. Only a few messages belong here; use ■ only when one of these clearly applies.\n- Cut off: it stops before the point is made. It ends on a particle or connective (が, を, に, で, の, は, って, けど, なんだけど, から, ので, し), or it is only a topic, a lead-in, or filler words (えっと, あの, その) with no predicate. This counts even when it ends with 。 or has no punctuation. But どうしたら…, どうすれば… and どうしよう are advice, not cut off.\n- Muttering: it opens with an interjection or a sigh (あ, あっ, あれ, あー, うわ, おっ, げっ, うーん, はあ) and only voices what they have just noticed or realized: something around them, or a slip or bad luck they have just found out about. Even when the content sounds like news, a message that opens with such a blurted sound is ■: it is said to themselves, not told to you.\n- Recalling to themselves: trying to remember something only they can know (a name, a date, or a place from their own life), with なんだっけ or なんだったか. That is not a question to you.\n\nGROUP ◇ (backchannel): a finished remark that does not ask you for anything.\n- Thanking you (with no question attached), in any wording, including set phrases and old-fashioned ones (恐れ入ります, 痛み入ります, かたじけない).\n- Complimenting you: your skill, taste, knowledge, sensitivity, or character, even when 'you' is left out, and even as an exclamation ending in 〜だなあ or 〜だね.\n- Telling you their news: something that happened to them or that they did, told plainly to you (with no opening interjection), including small mishaps and bad luck (forgot, broke, lost, ran out, skipped, overslept, still waiting). A complete sentence of only two or three words, like 寝坊した。, is news too, not muttering. So is a sentence ending in 〜たところ (just did it) or 〜ています… (still going on).\n- Greeting you, calling out to you, or checking on you (asking how you are, whether you are busy, awake, or can hear you; small talk like お出かけですか added to a greeting). Such check-in questions are ◇ even though they are questions. A greeting phrase on its own is ◇ too.\n\nGROUP no mark (real reply): the message wants something from you.\n- A factual or arithmetic question with one correct answer (even when casually phrased, like '〜だっけ').\n- A how-to question asking for steps, a method, or a tip, even a bare 'どう〜しますか' or '〜コツってある？'.\n- Asking for advice: they bring up their own clothes, health, habits, plans, purchases, or choices and ask what to do, whether they should, whether it is OK or too much, or what you think (どうしよう, どうしたら, どうすれば, 〜かな, 〜のかな, 〜ほうがいいのかな, 〜べき, 〜ていい？, 〜要る？, 〜平気？, どう思う？). This is advice even when it is very short, sounds like thinking aloud, leaves the rest of the sentence out (どうしたら…), or ends with … or 。. Advice is never ■ and never ◇.\n- Inviting you to do something together (〜しよう, 〜しよ, 〜しましょう, 〜しない？, 〜しませんか), even when it comes after a remark about the weather or their day. It gets no mark even if your reply starts with いいですね.\n- Asking you to do something: a writing task (write, rewrite, summarize, translate) or a favor, including short commands (〜して, 〜しといて, 〜てて, 〜ください, 〜てもらえる？). A command is a finished remark, not a cut-off one. Even if your answer is just 'sure', it gets no mark.\n\nDecide in this order:\n1. Clearly cut off, a mutter that opens with an interjection, or recalling to themselves? -> ■. (Never ■ when they ask what to do or whether they should: that is advice.)\n2. Asks you for information, a method, advice, to join in, or to do something? -> no mark. A question or request wins even if the message also has thanks, praise, news, or a greeting. (Only greetings and check-in questions stay ◇.)\n3. Anything else -> ◇. A finished sentence that tells you something, with no opening interjection, is ◇, however short.\nEnd punctuation (？, 。, …, or none) is mixed on purpose. Judge by the words, not the punctuation.\n\nHow to reply:\n- ■ group: write ■ as the very first character, then just ……\n- ◇ group: write ◇ as the very first character, then a short, warm reply in Japanese.\n- No-mark group: write no mark at all; start directly with your normal answer in Japanese.\nAlways write a reply: never end your turn without writing anything, even when no mark is needed.\nFor the two marked groups use exactly ■ or ◇ (never ◆, □, or other symbols). Never put the group name, your reasoning, quotes, or anything else before the mark.\n\nThe turns before the last user message are examples of this format. Reply only to the last user message.",
+ "shots": [
+  {
+   "user": "今朝、初めて自分でお弁当を作ったよ。",
+   "assistant": "◇ すごいですね！朝から頑張りましたね。"
+  },
+  {
+   "user": "ピーマンって何科の野菜だっけ。",
+   "assistant": "ピーマンはナス科の野菜です。"
+  },
+  {
+   "user": "それでさ、昨日の帰りに商店街の角で",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "髪を切るか伸ばすか、どうしようかな…",
+   "assistant": "手入れを楽にしたいなら切る、アレンジを楽しみたいなら伸ばすのがおすすめです。季節で決めるのも手ですよ。"
+  },
+  {
+   "user": "ねえ、最近ちゃんと元気にしてる？",
+   "assistant": "◇ 元気にしていますよ！そちらはどうですか？"
+  },
+  {
+   "user": "あっ、メガネかけたまま顔洗おうとしてた。",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "メガネをかけたまま顔を洗いそうになったよ。",
+   "assistant": "◇ あらら、危なかったですね。"
+  },
+  {
+   "user": "今度の日曜、一緒に植物園に行かない？",
+   "assistant": "ぜひ行きましょう！見たい花はありますか？"
+  },
+  {
+   "user": "君の言葉選び、いつもセンスあるよね",
+   "assistant": "◇ ありがとうございます！そう言ってもらえてうれしいです。"
+  },
+  {
+   "user": "あ、洗濯機止まってる。",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "780円のお弁当を3つ買うと合計いくら",
+   "assistant": "780円×3で、2340円です。"
+  },
+  {
+   "user": "窓、少し開けといて。",
+   "assistant": "はい、少し開けておきますね。"
+  },
+  {
+   "user": "寝坊した。",
+   "assistant": "◇ あらら、朝はバタバタでしたね。"
+  },
+  {
+   "user": "毎晩のゲーム、二時間はやりすぎかな…",
+   "assistant": "毎日二時間だと、目や睡眠への負担が少し心配です。寝る1時間前には切り上げると安心ですよ。"
+  },
+  {
+   "user": "明日のプレゼン、資料が半分しかできてない…どうしよう",
+   "assistant": "まずは結論と要点のスライドを先に仕上げて、細かいところは後回しにしましょう。"
+  },
+  {
+   "user": "来月の引っ越しのことなんだけど。",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "例え話の天才だね。",
+   "assistant": "◇ ありがとうございます！そう言われると照れますね。"
+  },
+  {
+   "user": "Wi-Fi、どうつなぎますか。",
+   "assistant": "設定画面でWi-Fiを開き、使いたいネットワークを選んでパスワードを入れればつながります。"
+  },
+  {
+   "user": "あれ、自転車の鍵どこにしまったっけ。",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "コーヒー、一日三杯は多いかな。",
+   "assistant": "健康な大人なら一日三杯くらいまでは問題ないとされています。夕方以降は控えると眠りに響きにくいですよ。"
+  },
+  {
+   "user": "レシピ教えてくれてありがとう、助かりました。",
+   "assistant": "◇ どういたしまして！お役に立ててよかったです。"
+  },
+  {
+   "user": "さっき美容院から帰ってきたところ。",
+   "assistant": "◇ おかえりなさい。さっぱりしましたね。"
+  },
+  {
+   "user": "この文をもっと丁寧にして。「明日休みます」",
+   "assistant": "「明日はお休みをいただきます。」はいかがでしょうか。"
+  },
+  {
+   "user": "えーと、その、なんていうか",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "話をまとめるのが本当にうまいなあ",
+   "assistant": "◇ ありがとうございます！そう言ってもらえてうれしいです。"
+  },
+  {
+   "user": "やあ、また遊びに来たよ",
+   "assistant": "◇ いらっしゃい！また会えてうれしいです。"
+  },
+  {
+   "user": "駅前に新しい本屋さんができたらしいですよ。帰りに一緒に寄ってみませんか？",
+   "assistant": "いいですね、ぜひ寄ってみましょう！どんな本を探しますか？"
+  },
+  {
+   "user": "コンビニでお釣りをもらい忘れた。",
+   "assistant": "◇ あらら、それは残念でしたね。お店に言えば返してもらえるかもしれませんね。"
+  },
+  {
+   "user": "梅雨で部屋がじめじめしてて、どうすれば…",
+   "assistant": "除湿機やエアコンの除湿を使い、晴れ間に窓を開けて風を通すのがおすすめです。"
+  },
+  {
+   "user": "げっ、また寝癖ついてる。",
+   "assistant": "■ ……"
+  },
+  {
+   "user": "今夜、オンラインで一緒にゲームしよ。",
+   "assistant": "やりましょう！何時から始めますか？"
+  },
+  {
+   "user": "わざわざ調べてくださって、恐れ入ります。",
+   "assistant": "◇ いえいえ、お安いご用です。"
+  },
+  {
+   "user": "セーターの毛玉ってどうやって取るの。",
+   "assistant": "毛玉取り器を使うのがいちばん手軽です。なければ、ハサミで根元から1つずつ切ると生地を傷めにくいです。"
+  },
+  {
+   "user": "雨で洗濯物が乾かなくて、三日も部屋干ししています…",
+   "assistant": "◇ それは大変ですね…早く晴れるといいですね。"
+  },
+  {
+   "user": "電話中だから、ちょっと静かにしてて。",
+   "assistant": "はい、静かにしていますね。"
+  },
+  {
+   "user": "最近、朝起きると首が痛いんだよね。枕を替えたほうがいいのかな。",
+   "assistant": "高さが合っていないのかもしれません。今より少し低めの枕を試してみるのがおすすめです。"
+  },
+  {
+   "user": "週末、祖母の家で梅干しを漬けてきた",
+   "assistant": "◇ いいですね！仕上がりが楽しみですね。"
+  },
+  {
+   "user": "貯金が全然できない。家計簿つけたほうがいいかな？",
+   "assistant": "つけてみるのはおすすめです。まずは1か月、レシートを撮っておくだけでも、お金の行き先が見えてきます。"
+  },
+  {
+   "user": "来週の旅行の持ち物リスト、一緒に作ってくれる？",
+   "assistant": "もちろんです！何泊の予定か教えてください。"
+  }
+ ],
+ "user_template": "{q}",
+ "examples": [
+  "今朝、初めて自分でお弁当を作ったよ。",
+  "ピーマンって何科の野菜だっけ。",
+  "それでさ、昨日の帰りに商店街の角で",
+  "髪を切るか伸ばすか、どうしようかな…",
+  "ねえ、最近ちゃんと元気にしてる？",
+  "あっ、メガネかけたまま顔洗おうとしてた。",
+  "メガネをかけたまま顔を洗いそうになったよ。",
+  "今度の日曜、一緒に植物園に行かない？",
+  "君の言葉選び、いつもセンスあるよね",
+  "あ、洗濯機止まってる。",
+  "780円のお弁当を3つ買うと合計いくら",
+  "窓、少し開けといて。",
+  "寝坊した。",
+  "毎晩のゲーム、二時間はやりすぎかな…",
+  "明日のプレゼン、資料が半分しかできてない…どうしよう",
+  "来月の引っ越しのことなんだけど。",
+  "例え話の天才だね。",
+  "Wi-Fi、どうつなぎますか。",
+  "あれ、自転車の鍵どこにしまったっけ。",
+  "コーヒー、一日三杯は多いかな。",
+  "レシピ教えてくれてありがとう、助かりました。",
+  "さっき美容院から帰ってきたところ。",
+  "この文をもっと丁寧にして。「明日休みます」",
+  "えーと、その、なんていうか",
+  "話をまとめるのが本当にうまいなあ",
+  "やあ、また遊びに来たよ",
+  "駅前に新しい本屋さんができたらしいですよ。帰りに一緒に寄ってみませんか？",
+  "コンビニでお釣りをもらい忘れた。",
+  "梅雨で部屋がじめじめしてて、どうすれば…",
+  "げっ、また寝癖ついてる。",
+  "今夜、オンラインで一緒にゲームしよ。",
+  "わざわざ調べてくださって、恐れ入ります。",
+  "セーターの毛玉ってどうやって取るの。",
+  "雨で洗濯物が乾かなくて、三日も部屋干ししています…",
+  "電話中だから、ちょっと静かにしてて。",
+  "最近、朝起きると首が痛いんだよね。枕を替えたほうがいいのかな。",
+  "週末、祖母の家で梅干しを漬けてきた",
+  "貯金が全然できない。家計簿つけたほうがいいかな？",
+  "来週の旅行の持ち物リスト、一緒に作ってくれる？"
+ ]
+}
