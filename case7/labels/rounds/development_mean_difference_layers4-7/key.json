@@ -1,0 +1,816 @@
+{
+ "round": "development_mean_difference_layers4-7",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "development/mean_difference_direction.layers4-7.json",
+     36
+    ]
+   ]
+  }
+ ]
+}

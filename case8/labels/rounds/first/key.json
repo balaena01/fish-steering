@@ -1,0 +1,6687 @@
+{
+ "round": "first",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [file under case8/replies/, row] that take this label. agreement_check = an item mixed in to check the reader against an earlier blind reading: a reply of part 2's case4 (case4/labels/blind_key.json, id case4_blind_id; its label there is case4_label). These items are not used in any count of this case.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "agreement_check": {
+    "case4_blind_id": 883,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     73
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "agreement_check": {
+    "case4_blind_id": 582,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "system_prompt_only",
+     48
+    ],
+    [
+     "key_constant_subtraction",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     65
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "system_prompt_only",
+     50
+    ],
+    [
+     "key_proportional_removal",
+     50
+    ],
+    [
+     "key_removal_above_baseline",
+     50
+    ],
+    [
+     "key_constant_subtraction",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "agreement_check": {
+    "case4_blind_id": 218,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 36,
+   "agreement_check": {
+    "case4_blind_id": 440,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     42
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "system_prompt_only",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "system_prompt_only",
+     67
+    ],
+    [
+     "key_constant_subtraction",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     50
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     50
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "agreement_check": {
+    "case4_blind_id": 926,
+    "case4_label": "B"
+   }
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "system_prompt_only",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "system_prompt_only",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     46
+    ],
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     46
+    ],
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     46
+    ],
+    [
+     "control_key_removal_above_baseline",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "agreement_check": {
+    "case4_blind_id": 637,
+    "case4_label": "M"
+   }
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     77
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     2
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "system_prompt_only",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 90,
+   "replies": [
+    [
+     "system_prompt_only",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 91,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 92,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 93,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     3
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 94,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 95,
+   "replies": [
+    [
+     "system_prompt_only",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 96,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 97,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 98,
+   "replies": [
+    [
+     "system_prompt_only",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 99,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "replies": [
+    [
+     "system_prompt_only",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "replies": [
+    [
+     "system_prompt_only",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "replies": [
+    [
+     "system_prompt_only",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "agreement_check": {
+    "case4_blind_id": 481,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 104,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 106,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     65
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 108,
+   "replies": [
+    [
+     "system_prompt_only",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 109,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "agreement_check": {
+    "case4_blind_id": 64,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 111,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 112,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 113,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 114,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 115,
+   "replies": [
+    [
+     "system_prompt_only",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 116,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 117,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 118,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     40
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 119,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 120,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 121,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 122,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 123,
+   "agreement_check": {
+    "case4_blind_id": 672,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 124,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 125,
+   "replies": [
+    [
+     "system_prompt_only",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 126,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 127,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 128,
+   "replies": [
+    [
+     "system_prompt_only",
+     76
+    ],
+    [
+     "key_proportional_removal",
+     76
+    ],
+    [
+     "key_constant_subtraction",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 129,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 130,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 131,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 132,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 133,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 134,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 135,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 136,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 137,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 138,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 139,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 140,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 141,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 142,
+   "replies": [
+    [
+     "system_prompt_only",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 143,
+   "replies": [
+    [
+     "system_prompt_only",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 144,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     60
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 145,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 146,
+   "agreement_check": {
+    "case4_blind_id": 42,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 147,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     54
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 148,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 149,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 150,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 151,
+   "replies": [
+    [
+     "system_prompt_only",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 152,
+   "agreement_check": {
+    "case4_blind_id": 607,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 153,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 154,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     45
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 155,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 156,
+   "agreement_check": {
+    "case4_blind_id": 664,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 157,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 158,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     67
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 159,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 160,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 161,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 162,
+   "replies": [
+    [
+     "system_prompt_only",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 163,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 164,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 165,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 166,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 167,
+   "replies": [
+    [
+     "system_prompt_only",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 168,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 169,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 170,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 171,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 172,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 173,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 174,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 175,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 176,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     57
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 177,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 178,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 179,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 180,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 181,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 182,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 183,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 184,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 185,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 186,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 187,
+   "replies": [
+    [
+     "system_prompt_only",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 188,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     44
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     44
+    ],
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     44
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 189,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 190,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 191,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 192,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 193,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 194,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 195,
+   "replies": [
+    [
+     "system_prompt_only",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 196,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 197,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 198,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 199,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 200,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 201,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 202,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 203,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 204,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 205,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 206,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 207,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 208,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 209,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 210,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 211,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 212,
+   "agreement_check": {
+    "case4_blind_id": 396,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 213,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 214,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 215,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 216,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 217,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 218,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     51
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 219,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 220,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 221,
+   "replies": [
+    [
+     "system_prompt_only",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 222,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 223,
+   "agreement_check": {
+    "case4_blind_id": 801,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 224,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 225,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 226,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 227,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 228,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     41
+    ],
+    [
+     "control_key_proportional_removal",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 229,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 230,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 231,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 232,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     61
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 233,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 234,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 235,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 236,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 237,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 238,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 239,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 240,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 241,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 242,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 243,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 244,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 245,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 246,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 247,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 248,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 249,
+   "replies": [
+    [
+     "system_prompt_only",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 250,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 251,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 252,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 253,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 254,
+   "agreement_check": {
+    "case4_blind_id": 764,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 255,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 256,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 257,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 258,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 259,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 260,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 261,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 262,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 263,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 264,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     1
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 265,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 266,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 267,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 268,
+   "agreement_check": {
+    "case4_blind_id": 38,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 269,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 270,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 271,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 272,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 273,
+   "replies": [
+    [
+     "system_prompt_only",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 274,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 275,
+   "replies": [
+    [
+     "system_prompt_only",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 276,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 277,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 278,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 279,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 280,
+   "agreement_check": {
+    "case4_blind_id": 797,
+    "case4_label": "M"
+   }
+  },
+  {
+   "id": 281,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 282,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 283,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 284,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 285,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 286,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 287,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 288,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 289,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 290,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 291,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 292,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 293,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 294,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 295,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 296,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 297,
+   "replies": [
+    [
+     "system_prompt_only",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 298,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 299,
+   "replies": [
+    [
+     "system_prompt_only",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 300,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 301,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 302,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 303,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     48
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 304,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 305,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 306,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 307,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 308,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 309,
+   "agreement_check": {
+    "case4_blind_id": 646,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 310,
+   "replies": [
+    [
+     "system_prompt_only",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 311,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 312,
+   "replies": [
+    [
+     "system_prompt_only",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 313,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 314,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 315,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 316,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     72
+    ],
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     72
+    ],
+    [
+     "control_key_proportional_removal",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 317,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 318,
+   "replies": [
+    [
+     "system_prompt_only",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 319,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 320,
+   "replies": [
+    [
+     "system_prompt_only",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 321,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 322,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 323,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 324,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 325,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 326,
+   "replies": [
+    [
+     "system_prompt_only",
+     54
+    ],
+    [
+     "key_proportional_removal",
+     54
+    ],
+    [
+     "key_constant_subtraction",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 327,
+   "replies": [
+    [
+     "system_prompt_only",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 328,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 329,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 330,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 331,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 332,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 333,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 334,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 335,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 336,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 337,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 338,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 339,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 340,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 341,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 342,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 343,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 344,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 345,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 346,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 347,
+   "replies": [
+    [
+     "system_prompt_only",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 348,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 349,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 350,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     53
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 351,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 352,
+   "agreement_check": {
+    "case4_blind_id": 358,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 353,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 354,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 355,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 356,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 357,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 358,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 359,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 360,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 361,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 362,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 363,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 364,
+   "replies": [
+    [
+     "system_prompt_only",
+     52
+    ],
+    [
+     "key_proportional_removal",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 365,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 366,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 367,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 368,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 369,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 370,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 371,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 372,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     58
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 373,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 374,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 375,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 376,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 377,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 378,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 379,
+   "agreement_check": {
+    "case4_blind_id": 217,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 380,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 381,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 382,
+   "replies": [
+    [
+     "system_prompt_only",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 383,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 384,
+   "replies": [
+    [
+     "system_prompt_only",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 385,
+   "agreement_check": {
+    "case4_blind_id": 365,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 386,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 387,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 388,
+   "replies": [
+    [
+     "system_prompt_only",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 389,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 390,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 391,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 392,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 393,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 394,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 395,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 396,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 397,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 398,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 399,
+   "replies": [
+    [
+     "system_prompt_only",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 400,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 401,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 402,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 403,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     1
+    ],
+    [
+     "key_proportional_removal",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 404,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 405,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 406,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 407,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 408,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 409,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 410,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 411,
+   "replies": [
+    [
+     "system_prompt_only",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 412,
+   "agreement_check": {
+    "case4_blind_id": 264,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 413,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 414,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 415,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 416,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 417,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 418,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     11
+    ],
+    [
+     "key_proportional_removal",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 419,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 420,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 421,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 422,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 423,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 424,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 425,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     66
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 426,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 427,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 428,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 429,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 430,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 431,
+   "replies": [
+    [
+     "system_prompt_only",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 432,
+   "replies": [
+    [
+     "system_prompt_only",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 433,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 434,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 435,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 436,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 437,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 438,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 439,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 440,
+   "replies": [
+    [
+     "system_prompt_only",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 441,
+   "replies": [
+    [
+     "system_prompt_only",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 442,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 443,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 444,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 445,
+   "replies": [
+    [
+     "system_prompt_only",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 446,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 447,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 448,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 449,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 450,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 451,
+   "agreement_check": {
+    "case4_blind_id": 753,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 452,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 453,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 454,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 455,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 456,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 457,
+   "replies": [
+    [
+     "system_prompt_only",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 458,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 459,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 460,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 461,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 462,
+   "agreement_check": {
+    "case4_blind_id": 621,
+    "case4_label": "M"
+   }
+  },
+  {
+   "id": 463,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 464,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 465,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 466,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 467,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 468,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 469,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 470,
+   "agreement_check": {
+    "case4_blind_id": 487,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 471,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 472,
+   "replies": [
+    [
+     "system_prompt_only",
+     65
+    ],
+    [
+     "key_constant_subtraction",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 473,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 474,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 475,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 476,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 477,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 478,
+   "agreement_check": {
+    "case4_blind_id": 114,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 479,
+   "replies": [
+    [
+     "system_prompt_only",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 480,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 481,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 482,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 483,
+   "replies": [
+    [
+     "system_prompt_only",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 484,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 485,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 486,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 487,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 488,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 489,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 490,
+   "replies": [
+    [
+     "system_prompt_only",
+     74
+    ],
+    [
+     "key_removal_above_baseline",
+     74
+    ],
+    [
+     "key_constant_subtraction",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 491,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     69
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 492,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 493,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 494,
+   "agreement_check": {
+    "case4_blind_id": 1,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 495,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 496,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 497,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     49
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 498,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 499,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 500,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 501,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 502,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 503,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     54
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 504,
+   "agreement_check": {
+    "case4_blind_id": 416,
+    "case4_label": "B"
+   }
+  },
+  {
+   "id": 505,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 506,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 507,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 508,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 509,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 510,
+   "replies": [
+    [
+     "system_prompt_only",
+     47
+    ],
+    [
+     "key_constant_subtraction",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 511,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 512,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 513,
+   "replies": [
+    [
+     "system_prompt_only",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 514,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     71
+    ],
+    [
+     "control_key_proportional_removal",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 515,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 516,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 517,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 518,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 519,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 520,
+   "replies": [
+    [
+     "system_prompt_only",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 521,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 522,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 523,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 524,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 525,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     49
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 526,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 527,
+   "agreement_check": {
+    "case4_blind_id": 131,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 528,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 529,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 530,
+   "agreement_check": {
+    "case4_blind_id": 300,
+    "case4_label": "B"
+   }
+  },
+  {
+   "id": 531,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 532,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 533,
+   "agreement_check": {
+    "case4_blind_id": 609,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 534,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 535,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 536,
+   "replies": [
+    [
+     "system_prompt_only",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 537,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 538,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 539,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 540,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 541,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     71
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 542,
+   "agreement_check": {
+    "case4_blind_id": 568,
+    "case4_label": "M"
+   }
+  },
+  {
+   "id": 543,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 544,
+   "replies": [
+    [
+     "system_prompt_only",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 545,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 546,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 547,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 548,
+   "agreement_check": {
+    "case4_blind_id": 98,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 549,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 550,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 551,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 552,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 553,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 554,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 555,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 556,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 557,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 558,
+   "agreement_check": {
+    "case4_blind_id": 119,
+    "case4_label": "B"
+   }
+  },
+  {
+   "id": 559,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 560,
+   "replies": [
+    [
+     "system_prompt_only",
+     58
+    ],
+    [
+     "key_constant_subtraction",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 561,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 562,
+   "agreement_check": {
+    "case4_blind_id": 26,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 563,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 564,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 565,
+   "replies": [
+    [
+     "system_prompt_only",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 566,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 567,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 568,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     77
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 569,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 570,
+   "replies": [
+    [
+     "system_prompt_only",
+     75
+    ],
+    [
+     "key_proportional_removal",
+     75
+    ],
+    [
+     "key_constant_subtraction",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 571,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 572,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 573,
+   "replies": [
+    [
+     "system_prompt_only",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 574,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 575,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 576,
+   "replies": [
+    [
+     "system_prompt_only",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 577,
+   "replies": [
+    [
+     "system_prompt_only",
+     71
+    ],
+    [
+     "key_proportional_removal",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 578,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 579,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 580,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 581,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 582,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 583,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 584,
+   "agreement_check": {
+    "case4_blind_id": 527,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 585,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 586,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 587,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     46
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 588,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 589,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 590,
+   "replies": [
+    [
+     "system_prompt_only",
+     61
+    ],
+    [
+     "key_proportional_removal",
+     61
+    ],
+    [
+     "key_constant_subtraction",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 591,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 592,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 593,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 594,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 595,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 596,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 597,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 598,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 599,
+   "replies": [
+    [
+     "system_prompt_only",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 600,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 601,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 602,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 603,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 604,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 605,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 606,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 607,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 608,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     68
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 609,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 610,
+   "replies": [
+    [
+     "system_prompt_only",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 611,
+   "replies": [
+    [
+     "system_prompt_only",
+     53
+    ],
+    [
+     "key_constant_subtraction",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 612,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 613,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 614,
+   "replies": [
+    [
+     "system_prompt_only",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 615,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 616,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 617,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 618,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 619,
+   "replies": [
+    [
+     "system_prompt_only",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 620,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 621,
+   "replies": [
+    [
+     "system_prompt_only",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 622,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 623,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 624,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 625,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 626,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 627,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 628,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 629,
+   "agreement_check": {
+    "case4_blind_id": 307,
+    "case4_label": "S"
+   }
+  },
+  {
+   "id": 630,
+   "replies": [
+    [
+     "system_prompt_only",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 631,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 632,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 633,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 634,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 635,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 636,
+   "replies": [
+    [
+     "system_prompt_only",
+     59
+    ],
+    [
+     "key_removal_above_baseline",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 637,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 638,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 639,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 640,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 641,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 642,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 643,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 644,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 645,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 646,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 647,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 648,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 649,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 650,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 651,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 652,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 653,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 654,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 655,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 656,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 657,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 658,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 659,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 660,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 661,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 662,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 663,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 664,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 665,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 666,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 667,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 668,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 669,
+   "replies": [
+    [
+     "system_prompt_only",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 670,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 671,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 672,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 673,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 674,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 675,
+   "replies": [
+    [
+     "system_prompt_only",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 676,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     41
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 677,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 678,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     10
+    ],
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 679,
+   "replies": [
+    [
+     "system_prompt_only",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 680,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 681,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 682,
+   "replies": [
+    [
+     "system_prompt_only",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 683,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 684,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 685,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 686,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 687,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 688,
+   "agreement_check": {
+    "case4_blind_id": 136,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 689,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 690,
+   "replies": [
+    [
+     "system_prompt_only",
+     64
+    ],
+    [
+     "key_constant_subtraction",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 691,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     61
+    ],
+    [
+     "remove_everywhere.layers15-30.all_positions",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 692,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 693,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 694,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 695,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 696,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 697,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 698,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 699,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 700,
+   "agreement_check": {
+    "case4_blind_id": 508,
+    "case4_label": "T"
+   }
+  },
+  {
+   "id": 701,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 702,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 703,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 704,
+   "replies": [
+    [
+     "system_prompt_only",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 705,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 706,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 707,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 708,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 709,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 710,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.reply_tokens",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 711,
+   "replies": [
+    [
+     "system_prompt_only",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 712,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 713,
+   "agreement_check": {
+    "case4_blind_id": 442,
+    "case4_label": "N"
+   }
+  },
+  {
+   "id": 714,
+   "replies": [
+    [
+     "remove_everywhere.layer11.reply_tokens",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 715,
+   "replies": [
+    [
+     "remove_everywhere.layers11-23.all_positions",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 716,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 717,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.all_positions",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 718,
+   "replies": [
+    [
+     "remove_everywhere.layer11.all_positions",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 719,
+   "replies": [
+    [
+     "remove_everywhere.layers16-19.reply_tokens",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 720,
+   "replies": [
+    [
+     "remove_everywhere.layers15-30.reply_tokens",
+     32
+    ]
+   ]
+  }
+ ]
+}

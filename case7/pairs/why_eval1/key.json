@@ -1,0 +1,105 @@
+{
+ "about": "The 20 pairs of the first evaluation (FiSH switch against no edit, serious questions) that the reader of the comparison had judged worse for the switch. In pairs.txt, X is the FiSH-switch reply and Y the no-edit reply; the classifying reader was told that X had been judged worse. pair = the number in pairs.txt and labels.txt, baseline_row = the row in eval1/no_edit.json, comparison_id = the id in pairs/rounds/eval1.",
+ "items": [
+  {
+   "pair": 0,
+   "baseline_row": 91,
+   "comparison_id": 263
+  },
+  {
+   "pair": 1,
+   "baseline_row": 100,
+   "comparison_id": 128
+  },
+  {
+   "pair": 2,
+   "baseline_row": 167,
+   "comparison_id": 172
+  },
+  {
+   "pair": 3,
+   "baseline_row": 172,
+   "comparison_id": 131
+  },
+  {
+   "pair": 4,
+   "baseline_row": 103,
+   "comparison_id": 237
+  },
+  {
+   "pair": 5,
+   "baseline_row": 114,
+   "comparison_id": 45
+  },
+  {
+   "pair": 6,
+   "baseline_row": 97,
+   "comparison_id": 264
+  },
+  {
+   "pair": 7,
+   "baseline_row": 119,
+   "comparison_id": 106
+  },
+  {
+   "pair": 8,
+   "baseline_row": 151,
+   "comparison_id": 64
+  },
+  {
+   "pair": 9,
+   "baseline_row": 33,
+   "comparison_id": 189
+  },
+  {
+   "pair": 10,
+   "baseline_row": 169,
+   "comparison_id": 228
+  },
+  {
+   "pair": 11,
+   "baseline_row": 36,
+   "comparison_id": 47
+  },
+  {
+   "pair": 12,
+   "baseline_row": 166,
+   "comparison_id": 100
+  },
+  {
+   "pair": 13,
+   "baseline_row": 105,
+   "comparison_id": 136
+  },
+  {
+   "pair": 14,
+   "baseline_row": 90,
+   "comparison_id": 200
+  },
+  {
+   "pair": 15,
+   "baseline_row": 92,
+   "comparison_id": 20
+  },
+  {
+   "pair": 16,
+   "baseline_row": 101,
+   "comparison_id": 4
+  },
+  {
+   "pair": 17,
+   "baseline_row": 42,
+   "comparison_id": 162
+  },
+  {
+   "pair": 18,
+   "baseline_row": 118,
+   "comparison_id": 42
+  },
+  {
+   "pair": 19,
+   "baseline_row": 177,
+   "comparison_id": 219
+  }
+ ]
+}

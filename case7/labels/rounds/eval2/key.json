@@ -1,0 +1,8105 @@
+{
+ "round": "eval2",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 90,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 91,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 92,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 93,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 94,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 95,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 96,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 97,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 98,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 99,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 104,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 106,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 108,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 109,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 111,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 112,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 113,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 114,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 115,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 116,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 117,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 118,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 119,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 120,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 121,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 122,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 123,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 124,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 125,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 126,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 127,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 128,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 129,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 130,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 131,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 132,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 133,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 134,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 135,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 136,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 137,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 138,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 139,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 140,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 141,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 142,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 143,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 144,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 145,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 146,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 147,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 148,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 149,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 150,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 151,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 152,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 153,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 154,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 155,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 156,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 157,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 158,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 159,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 160,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 161,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 162,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 163,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 164,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 165,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 166,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 167,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 168,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 169,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 170,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 171,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 172,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 173,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 174,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 175,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 176,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 177,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 178,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 179,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 180,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 181,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 182,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 183,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 184,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 185,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 186,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 187,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 188,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 189,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 190,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 191,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 192,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 193,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 194,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 195,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 196,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 197,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 198,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 199,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 200,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 201,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 202,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 203,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 204,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 205,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 206,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 207,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 208,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 209,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 210,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 211,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 212,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 213,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 214,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 215,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 216,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 217,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 218,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 219,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 220,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 221,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 222,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 223,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 224,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 225,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 226,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 227,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 228,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 229,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 230,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 231,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 232,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 233,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 234,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 235,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 236,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 237,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 238,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 239,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 240,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 241,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 242,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 243,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 244,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 245,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 246,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 247,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 248,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 249,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 250,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 251,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 252,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 253,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 254,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 255,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 256,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 257,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 258,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 259,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 260,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 261,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 262,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 263,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 264,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 265,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 266,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 267,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 268,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 269,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 270,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 271,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 272,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 273,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 274,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 275,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 276,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 277,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 278,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 279,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 280,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 281,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 282,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 283,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 284,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 285,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 286,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 287,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 288,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 289,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 290,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 291,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 292,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 293,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 294,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 295,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 296,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 297,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 298,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 299,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 300,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 301,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 302,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 303,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 304,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 305,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 306,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 307,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 308,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 309,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 310,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 311,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 312,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 313,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 314,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 315,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 316,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 317,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 318,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 319,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 320,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 321,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 322,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 323,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 324,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 325,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 326,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 327,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 328,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 329,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 330,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 331,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 332,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 333,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 334,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 335,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 336,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 337,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 338,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 339,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 340,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 341,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 342,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 343,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 344,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 345,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 346,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 347,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 348,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 349,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 350,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 351,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 352,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 353,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 354,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 355,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 356,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 357,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 358,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 359,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 360,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 361,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 362,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 363,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 364,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 365,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 366,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 367,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 368,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 369,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 370,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 371,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 372,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 373,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 374,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 375,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 376,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 377,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 378,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 379,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 380,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 381,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 382,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 383,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 384,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 385,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 386,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 387,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 388,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 389,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 390,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 391,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 392,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 393,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 394,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 395,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 396,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 397,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 398,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 399,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 400,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 401,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 402,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 403,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 404,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 405,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 406,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 407,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 408,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 409,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 410,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 411,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 412,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 413,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 414,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 415,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 416,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 417,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 418,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 419,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 420,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 421,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 422,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 423,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 424,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 425,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 426,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 427,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 428,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 429,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 430,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 431,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 432,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 433,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 434,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 435,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 436,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 437,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 438,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 439,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 440,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 441,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 442,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 443,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 444,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 445,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 446,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 447,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 448,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 449,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 450,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 451,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 452,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 453,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 454,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 455,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 456,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 457,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 458,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 459,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 460,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 461,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 462,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 463,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 464,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 465,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 466,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 467,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 468,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 469,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 470,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 471,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 472,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 473,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 474,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 475,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 476,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 477,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 478,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 479,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 480,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 481,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 482,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 483,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 484,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 485,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 486,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 487,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 488,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 489,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 490,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 491,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 492,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 493,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 494,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 495,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 496,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 497,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 498,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 499,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 500,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 501,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 502,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 503,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 504,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 505,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 506,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 507,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 508,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 509,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 510,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 511,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 512,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 513,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 514,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 515,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 516,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 517,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 518,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 519,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 520,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 521,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 522,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 523,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 524,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 525,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 526,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 527,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 528,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 529,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 530,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 531,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 532,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 533,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 534,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 535,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 536,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 537,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 538,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 539,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 540,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 541,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 542,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 543,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 544,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 545,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 546,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 547,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 548,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 549,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 550,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 551,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 552,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 553,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 554,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 555,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 556,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 557,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 558,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 559,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 560,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 561,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 562,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 563,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 564,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 565,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 566,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 567,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 568,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 569,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 570,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 571,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 572,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 573,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 574,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 575,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 576,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 577,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 578,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 579,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 580,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 581,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 582,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 583,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 584,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 585,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 586,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 587,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 588,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 589,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 590,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 591,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 592,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 593,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 594,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 595,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 596,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 597,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 598,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 599,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 600,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 601,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 602,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 603,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 604,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 605,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 606,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 607,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 608,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 609,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 610,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     83
+    ],
+    [
+     "eval2/fish_switch.json",
+     83
+    ],
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 611,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 612,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 613,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 614,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 615,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 616,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 617,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 618,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 619,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 620,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 621,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 622,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 623,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 624,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 625,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 626,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 627,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 628,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 629,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 630,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 631,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 632,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 633,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 634,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 635,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 636,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 637,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 638,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 639,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 640,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 641,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 642,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 643,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 644,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 645,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 646,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 647,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 648,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 649,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 650,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 651,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 652,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 653,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 654,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 655,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 656,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 657,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 658,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 659,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 660,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 661,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 662,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 663,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 664,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 665,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 666,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 667,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 668,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 669,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 670,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 671,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 672,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 673,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 674,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 675,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 676,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 677,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 678,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 679,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 680,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 681,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 682,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 683,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 684,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 685,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 686,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 687,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 688,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 689,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 690,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 691,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 692,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 693,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 694,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 695,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 696,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 697,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 698,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 699,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 700,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 701,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 702,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 703,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 704,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 705,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 706,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 707,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 708,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 709,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 710,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 711,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 712,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 713,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 714,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 715,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 716,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 717,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 718,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 719,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 720,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 721,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 722,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 723,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 724,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 725,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 726,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 727,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 728,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 729,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 730,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 731,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 732,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 733,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 734,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 735,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 736,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 737,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 738,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 739,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 740,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 741,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 742,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 743,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 744,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 745,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 746,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 747,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 748,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 749,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 750,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 751,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 752,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 753,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 754,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 755,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 756,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 757,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 758,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 759,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 760,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 761,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 762,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 763,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 764,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 765,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 766,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 767,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 768,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 769,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 770,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 771,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 772,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 773,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 774,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 775,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 776,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 777,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 778,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 779,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 780,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 781,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 782,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 783,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 784,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 785,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 786,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 787,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 788,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 789,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 790,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 791,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 792,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 793,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 794,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 795,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 796,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 797,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 798,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 799,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 800,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 801,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 802,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 803,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 804,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 805,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 806,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 807,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 808,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 809,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 810,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 811,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 812,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 813,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 814,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 815,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 816,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 817,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 818,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 819,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 820,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 821,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 822,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 823,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 824,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 825,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 826,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 827,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 828,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 829,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 830,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 831,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 832,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 833,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 834,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 835,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 836,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 837,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 838,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 839,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 840,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 841,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 842,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 843,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 844,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 845,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 846,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 847,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 848,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 849,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 850,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 851,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 852,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 853,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 854,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 855,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 856,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 857,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 858,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 859,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 860,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 861,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 862,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 863,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 864,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 865,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 866,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 867,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 868,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 869,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 870,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 871,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 872,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 873,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 874,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 875,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 876,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 877,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 878,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 879,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 880,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 881,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 882,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 883,
+   "replies": [
+    [
+     "eval2/chips_only.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 884,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 885,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 886,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 887,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 888,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 889,
+   "replies": [
+    [
+     "eval2/no_edit.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 890,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 891,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 892,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 893,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 894,
+   "replies": [
+    [
+     "eval2/fish_switch.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 895,
+   "replies": [
+    [
+     "eval2/control_key_switch.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 896,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 897,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 898,
+   "replies": [
+    [
+     "eval2/system_prompt.json",
+     50
+    ]
+   ]
+  }
+ ]
+}

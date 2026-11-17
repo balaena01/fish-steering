@@ -1,0 +1,3237 @@
+{
+ "round": "eval2_addon",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     176
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     121
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     127
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 90,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 91,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 92,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 93,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 94,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 95,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 96,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 97,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 98,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 99,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 104,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 106,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 108,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 109,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 111,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 112,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 113,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 114,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 115,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     107
+    ]
+   ]
+  },
+  {
+   "id": 116,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 117,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 118,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 119,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 120,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 121,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 122,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 123,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 124,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 125,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 126,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 127,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 128,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 129,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 130,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     146
+    ]
+   ]
+  },
+  {
+   "id": 131,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 132,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 133,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 134,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 135,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 136,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 137,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 138,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 139,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 140,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 141,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 142,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     126
+    ]
+   ]
+  },
+  {
+   "id": 143,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 144,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 145,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 146,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 147,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 148,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     152
+    ]
+   ]
+  },
+  {
+   "id": 149,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 150,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 151,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 152,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 153,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     158
+    ]
+   ]
+  },
+  {
+   "id": 154,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 155,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     115
+    ]
+   ]
+  },
+  {
+   "id": 156,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 157,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     157
+    ]
+   ]
+  },
+  {
+   "id": 158,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 159,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     136
+    ]
+   ]
+  },
+  {
+   "id": 160,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 161,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 162,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 163,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 164,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 165,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 166,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 167,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 168,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 169,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     159
+    ]
+   ]
+  },
+  {
+   "id": 170,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 171,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 172,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 173,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 174,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 175,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 176,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 177,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     93
+    ]
+   ]
+  },
+  {
+   "id": 178,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 179,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 180,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 181,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 182,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     103
+    ]
+   ]
+  },
+  {
+   "id": 183,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     120
+    ]
+   ]
+  },
+  {
+   "id": 184,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 185,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     90
+    ]
+   ]
+  },
+  {
+   "id": 186,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 187,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     173
+    ]
+   ]
+  },
+  {
+   "id": 188,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 189,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     175
+    ]
+   ]
+  },
+  {
+   "id": 190,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 191,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 192,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 193,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 194,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 195,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     179
+    ]
+   ]
+  },
+  {
+   "id": 196,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     151
+    ]
+   ]
+  },
+  {
+   "id": 197,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 198,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 199,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 200,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 201,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 202,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 203,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 204,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 205,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 206,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 207,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 208,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 209,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     178
+    ]
+   ]
+  },
+  {
+   "id": 210,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 211,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     170
+    ]
+   ]
+  },
+  {
+   "id": 212,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 213,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     155
+    ]
+   ]
+  },
+  {
+   "id": 214,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 215,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 216,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 217,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 218,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     119
+    ]
+   ]
+  },
+  {
+   "id": 219,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 220,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 221,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 222,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 223,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 224,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     124
+    ]
+   ]
+  },
+  {
+   "id": 225,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 226,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     128
+    ]
+   ]
+  },
+  {
+   "id": 227,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 228,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 229,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     156
+    ]
+   ]
+  },
+  {
+   "id": 230,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 231,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 232,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 233,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 234,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     160
+    ]
+   ]
+  },
+  {
+   "id": 235,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 236,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 237,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 238,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 239,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 240,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 241,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 242,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 243,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 244,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 245,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 246,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 247,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     154
+    ]
+   ]
+  },
+  {
+   "id": 248,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 249,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     174
+    ]
+   ]
+  },
+  {
+   "id": 250,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     133
+    ]
+   ]
+  },
+  {
+   "id": 251,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 252,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 253,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 254,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     122
+    ]
+   ]
+  },
+  {
+   "id": 255,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 256,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 257,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 258,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 259,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 260,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 261,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 262,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     125
+    ]
+   ]
+  },
+  {
+   "id": 263,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 264,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 265,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 266,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 267,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     138
+    ]
+   ]
+  },
+  {
+   "id": 268,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 269,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 270,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 271,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 272,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 273,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 274,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     144
+    ]
+   ]
+  },
+  {
+   "id": 275,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 276,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 277,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 278,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 279,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 280,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 281,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 282,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 283,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     163
+    ]
+   ]
+  },
+  {
+   "id": 284,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 285,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     171
+    ]
+   ]
+  },
+  {
+   "id": 286,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 287,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 288,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 289,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 290,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 291,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 292,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 293,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     161
+    ]
+   ]
+  },
+  {
+   "id": 294,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     142
+    ]
+   ]
+  },
+  {
+   "id": 295,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 296,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 297,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     98
+    ]
+   ]
+  },
+  {
+   "id": 298,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 299,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 300,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 301,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     140
+    ]
+   ]
+  },
+  {
+   "id": 302,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 303,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     135
+    ]
+   ]
+  },
+  {
+   "id": 304,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 305,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 306,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 307,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 308,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 309,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 310,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 311,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     164
+    ]
+   ]
+  },
+  {
+   "id": 312,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 313,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     109
+    ]
+   ]
+  },
+  {
+   "id": 314,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 315,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 316,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 317,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 318,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 319,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 320,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 321,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 322,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 323,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     132
+    ]
+   ]
+  },
+  {
+   "id": 324,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     177
+    ]
+   ]
+  },
+  {
+   "id": 325,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     113
+    ]
+   ]
+  },
+  {
+   "id": 326,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     172
+    ]
+   ]
+  },
+  {
+   "id": 327,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     166
+    ]
+   ]
+  },
+  {
+   "id": 328,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 329,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 330,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 331,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 332,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 333,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 334,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     150
+    ]
+   ]
+  },
+  {
+   "id": 335,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 336,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 337,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 338,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 339,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 340,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 341,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     168
+    ]
+   ]
+  },
+  {
+   "id": 342,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 343,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 344,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 345,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 346,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     162
+    ]
+   ]
+  },
+  {
+   "id": 347,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 348,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 349,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 350,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 351,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     131
+    ]
+   ]
+  },
+  {
+   "id": 352,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     169
+    ]
+   ]
+  },
+  {
+   "id": 353,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 354,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     167
+    ]
+   ]
+  },
+  {
+   "id": 355,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     148
+    ]
+   ]
+  },
+  {
+   "id": 356,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.chips_only.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 357,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 358,
+   "replies": [
+    [
+     "eval2/base_layer_8_heads.fish_switch.json",
+     12
+    ]
+   ]
+  }
+ ]
+}

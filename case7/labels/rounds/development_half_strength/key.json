@@ -1,0 +1,2076 @@
+{
+ "round": "development_half_strength",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 90,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 91,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 92,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 93,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 94,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 95,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 96,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 97,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 98,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 99,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 100,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 101,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 102,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 103,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 104,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 106,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 107,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 108,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 109,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 111,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 112,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 113,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 114,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 115,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 116,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 117,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 118,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 119,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 120,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 121,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 122,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 123,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 124,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 125,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 126,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 127,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 128,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 129,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 130,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 131,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 132,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 133,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 134,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 135,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 136,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 137,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 138,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 139,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 140,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 141,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 142,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 143,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 144,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 145,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 146,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 147,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 148,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 149,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 150,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 151,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 152,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 153,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 154,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 155,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 156,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 157,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 158,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 159,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 160,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 161,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 162,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 163,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 164,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 165,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 166,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 167,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 168,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 169,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 170,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 171,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 172,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 173,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 174,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 175,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 176,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 177,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 178,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 179,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 180,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 181,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 182,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 183,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 184,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 185,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 186,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 187,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 188,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 189,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 190,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 191,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 192,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 193,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 194,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 195,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 196,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 197,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 198,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 199,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 200,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 201,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 202,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 203,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 204,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 205,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 206,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 207,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 208,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 209,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 210,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 211,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 212,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 213,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 214,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 215,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 216,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 217,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 218,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 219,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 220,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 221,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 222,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 223,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 224,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 225,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 226,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 227,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 228,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 229,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 230,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 231,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 232,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 233,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 234,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 235,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 236,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 237,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 238,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 239,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 240,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 241,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 242,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 243,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 244,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 245,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 246,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 247,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 248,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 249,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 250,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 251,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 252,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 253,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 254,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 255,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 256,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 257,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 258,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 259,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 260,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 261,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 262,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 263,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.4_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 264,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 265,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 266,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 267,
+   "replies": [
+    [
+     "development/chips_only.heads_layers3-9.half_strength.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 268,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  },
+  {
+   "id": 269,
+   "replies": [],
+   "not_published": [
+    "development/chips_only.5_heads_layers3-9.half_strength"
+   ]
+  }
+ ]
+}

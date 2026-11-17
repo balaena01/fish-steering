@@ -1,0 +1,816 @@
+{
+ "round": "development_output_rows_layers15-30",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     36
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "development/output_rows_direction_removed.layers15-30.json",
+     39
+    ]
+   ]
+  }
+ ]
+}

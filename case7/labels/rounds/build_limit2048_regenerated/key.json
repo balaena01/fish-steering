@@ -1,0 +1,564 @@
+{
+ "round": "build_limit2048_regenerated",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     209
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     205
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     223
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     200
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     226
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     110
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     153
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     202
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     231
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     219
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     224
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     147
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     130
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     134
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     237
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     207
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     145
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     225
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     185
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     139
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     149
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     233
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     123
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     229
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     238
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     203
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     137
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     204
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     215
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     218
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     222
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     181
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     221
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     165
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     208
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     143
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     213
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     210
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     190
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     199
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     212
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     211
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     239
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     235
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     129
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     230
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     141
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     220
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "build/no_edit.limit2048.json",
+     227
+    ]
+   ]
+  }
+ ]
+}

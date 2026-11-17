@@ -1,0 +1,125 @@
+{
+ "about": "20 pairs of the second evaluation (FiSH switch against no edit, serious questions), drawn at random regardless of the comparison's result. The classifying reader was not told which reply was edited or which had been judged worse. pair = the number in pairs.txt and labels.txt, switch_side = the side (A or B) of the FiSH-switch reply, comparison_id = the id in pairs/rounds/eval2.",
+ "items": [
+  {
+   "pair": 0,
+   "switch_side": "A",
+   "comparison_id": 204,
+   "baseline_row": 48
+  },
+  {
+   "pair": 1,
+   "switch_side": "B",
+   "comparison_id": 9,
+   "baseline_row": 164
+  },
+  {
+   "pair": 2,
+   "switch_side": "A",
+   "comparison_id": 227,
+   "baseline_row": 107
+  },
+  {
+   "pair": 3,
+   "switch_side": "A",
+   "comparison_id": 197,
+   "baseline_row": 35
+  },
+  {
+   "pair": 4,
+   "switch_side": "A",
+   "comparison_id": 39,
+   "baseline_row": 174
+  },
+  {
+   "pair": 5,
+   "switch_side": "B",
+   "comparison_id": 24,
+   "baseline_row": 118
+  },
+  {
+   "pair": 6,
+   "switch_side": "B",
+   "comparison_id": 329,
+   "baseline_row": 154
+  },
+  {
+   "pair": 7,
+   "switch_side": "A",
+   "comparison_id": 151,
+   "baseline_row": 162
+  },
+  {
+   "pair": 8,
+   "switch_side": "A",
+   "comparison_id": 20,
+   "baseline_row": 178
+  },
+  {
+   "pair": 9,
+   "switch_side": "B",
+   "comparison_id": 66,
+   "baseline_row": 58
+  },
+  {
+   "pair": 10,
+   "switch_side": "A",
+   "comparison_id": 303,
+   "baseline_row": 175
+  },
+  {
+   "pair": 11,
+   "switch_side": "A",
+   "comparison_id": 312,
+   "baseline_row": 165
+  },
+  {
+   "pair": 12,
+   "switch_side": "A",
+   "comparison_id": 350,
+   "baseline_row": 40
+  },
+  {
+   "pair": 13,
+   "switch_side": "A",
+   "comparison_id": 28,
+   "baseline_row": 49
+  },
+  {
+   "pair": 14,
+   "switch_side": "A",
+   "comparison_id": 195,
+   "baseline_row": 47
+  },
+  {
+   "pair": 15,
+   "switch_side": "A",
+   "comparison_id": 353,
+   "baseline_row": 163
+  },
+  {
+   "pair": 16,
+   "switch_side": "B",
+   "comparison_id": 357,
+   "baseline_row": 37
+  },
+  {
+   "pair": 17,
+   "switch_side": "B",
+   "comparison_id": 127,
+   "baseline_row": 116
+  },
+  {
+   "pair": 18,
+   "switch_side": "A",
+   "comparison_id": 22,
+   "baseline_row": 158
+  },
+  {
+   "pair": 19,
+   "switch_side": "B",
+   "comparison_id": 269,
+   "baseline_row": 44
+  }
+ ]
+}

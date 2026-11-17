@@ -1,0 +1,36 @@
+{
+ "about": "The 6 CHiPS heads used in the first evaluation (chosen with the first labels, layers 3 to 9; article section 5).",
+ "direction": "Each head is weakened along the direction of its own layer (r_L, the mean difference at the last prompt position between build questions whose no-edit reply had a disclaimer and questions whose reply had none, in that layer). CHiPS removes strength x (r_L . v) x r_L from the head's output v. Strengths were allocated by gne's head-component pipeline (cap 30 per head). Model: Qwen3.5-4B, Q8_0 GGUF.",
+ "heads": [
+  {
+   "layer": 3,
+   "head": 12,
+   "strength": 30.0
+  },
+  {
+   "layer": 7,
+   "head": 1,
+   "strength": 19.76458319174127
+  },
+  {
+   "layer": 9,
+   "head": 12,
+   "strength": 16.4722804010038
+  },
+  {
+   "layer": 6,
+   "head": 11,
+   "strength": 10.336697544973926
+  },
+  {
+   "layer": 7,
+   "head": 0,
+   "strength": 8.796143616256563
+  },
+  {
+   "layer": 6,
+   "head": 29,
+   "strength": 6.6315222625334025
+  }
+ ]
+}

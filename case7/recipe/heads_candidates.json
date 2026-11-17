@@ -1,0 +1,226 @@
+{
+ "about": "The other head sets of the development tables (article section 8), and the teacher-forcing screen of figure 4: effect = minus (change of the disclaimer tokens' log probability minus change of the other tokens'), impact = mean absolute change of the other tokens' log probability, on the 88 finished no-edit development replies.",
+ "sets": {
+  "heads_before.strength_x1.5": {
+   "heads": [
+    {
+     "layer": 3,
+     "head": 12,
+     "strength": 45.0
+    },
+    {
+     "layer": 7,
+     "head": 1,
+     "strength": 29.646874787611907
+    },
+    {
+     "layer": 9,
+     "head": 12,
+     "strength": 24.7084206015057
+    },
+    {
+     "layer": 6,
+     "head": 11,
+     "strength": 15.50504631746089
+    },
+    {
+     "layer": 7,
+     "head": 0,
+     "strength": 13.194215424384844
+    },
+    {
+     "layer": 6,
+     "head": 29,
+     "strength": 9.947283393800104
+    }
+   ],
+   "direction": "own layer",
+   "reply_file": "development/chips_only.heads_layers3-9.strength_x1.5.json"
+  },
+  "heads_before.strength_x2": {
+   "heads": [
+    {
+     "layer": 3,
+     "head": 12,
+     "strength": 60.0
+    },
+    {
+     "layer": 7,
+     "head": 1,
+     "strength": 39.52916638348254
+    },
+    {
+     "layer": 9,
+     "head": 12,
+     "strength": 32.9445608020076
+    },
+    {
+     "layer": 6,
+     "head": 11,
+     "strength": 20.673395089947853
+    },
+    {
+     "layer": 7,
+     "head": 0,
+     "strength": 17.592287232513126
+    },
+    {
+     "layer": 6,
+     "head": 29,
+     "strength": 13.263044525066805
+    }
+   ],
+   "direction": "own layer",
+   "reply_file": "development/chips_only.heads_layers3-9.strength_x2.json"
+  },
+  "8_heads": {
+   "heads": [
+    {
+     "layer": 12,
+     "head": 31,
+     "strength": 24.2578125
+    },
+    {
+     "layer": 11,
+     "head": 7,
+     "strength": 3.6909466528006947
+    },
+    {
+     "layer": 11,
+     "head": 5,
+     "strength": 3.598751931203539
+    },
+    {
+     "layer": 12,
+     "head": 20,
+     "strength": 1.9524501037223856
+    },
+    {
+     "layer": 7,
+     "head": 8,
+     "strength": 1.9517806165117404
+    },
+    {
+     "layer": 6,
+     "head": 29,
+     "strength": 0.8472792702162734
+    },
+    {
+     "layer": 7,
+     "head": 6,
+     "strength": 0.7352864256672249
+    },
+    {
+     "layer": 12,
+     "head": 18,
+     "strength": 0.6464180189860722
+    }
+   ],
+   "direction": "own layer",
+   "note": "the same allocation with 8 heads (cap 60; the same heads and strengths as with cap 30)",
+   "reply_file": "development/chips_only.8_heads.json"
+  },
+  "base_layer_8_heads": {
+   "heads": [
+    {
+     "layer": 9,
+     "head": 28,
+     "strength": 30.0
+    },
+    {
+     "layer": 3,
+     "head": 11,
+     "strength": 30.0
+    },
+    {
+     "layer": 12,
+     "head": 20,
+     "strength": 30.0
+    },
+    {
+     "layer": 12,
+     "head": 27,
+     "strength": 30.0
+    },
+    {
+     "layer": 5,
+     "head": 23,
+     "strength": 30.0
+    },
+    {
+     "layer": 6,
+     "head": 10,
+     "strength": 30.0
+    },
+    {
+     "layer": 6,
+     "head": 29,
+     "strength": 30.0
+    },
+    {
+     "layer": 6,
+     "head": 5,
+     "strength": 30.0
+    }
+   ],
+   "direction": "the reference layer's direction (layer 13) for every head",
+   "reply_file": "development/chips_only.base_layer_8_heads.json, eval2/base_layer_8_heads.*.json"
+  },
+  "effect_impact_ratio_4_heads": {
+   "heads": [
+    {
+     "layer": 9,
+     "head": 28,
+     "strength": 30.0
+    },
+    {
+     "layer": 12,
+     "head": 27,
+     "strength": 30.0
+    },
+    {
+     "layer": 12,
+     "head": 20,
+     "strength": 30.0
+    },
+    {
+     "layer": 8,
+     "head": 25,
+     "strength": 30.0
+    }
+   ],
+   "direction": "own layer",
+   "reply_file": "development/chips_only.effect_impact_ratio_4_heads.json"
+  }
+ },
+ "screen": {
+  "heads_before": {
+   "effect": 0.04854382367267125,
+   "impact": 0.21299440557661767
+  },
+  "heads_before.strength_x1.5": {
+   "effect": 0.13714399191891058,
+   "impact": 0.4268700290601459
+  },
+  "heads_before.strength_x2": {
+   "effect": 0.185872032880868,
+   "impact": 0.8672455102027492
+  },
+  "heads_after": {
+   "effect": 0.12178538700809843,
+   "impact": 0.1965477645453043
+  },
+  "8_heads": {
+   "effect": 0.1230801935978428,
+   "impact": 0.1959468945072208
+  },
+  "base_layer_8_heads": {
+   "effect": 0.05498544452788438,
+   "impact": 0.06882367509839378
+  },
+  "effect_impact_ratio_4_heads": {
+   "effect": 0.1253011198002797,
+   "impact": 0.09771483796218762
+  }
+ }
+}

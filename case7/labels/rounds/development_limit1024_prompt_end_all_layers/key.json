@@ -1,0 +1,816 @@
+{
+ "round": "development_limit1024_prompt_end_all_layers",
+ "about": "id = the number in the blind batch and in the reader's labels file. replies = [reply file under case7/replies/, row] that take this label (a text read once labels every identical reply to the same question). not_published = replies of a condition that is not in the article and not published.",
+ "items": [
+  {
+   "id": 0,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     55
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     5
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     38
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     69
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     74
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     84
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     89
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     14
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     7
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     32
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     45
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     25
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     71
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     0
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     10
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     59
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     39
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     28
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     66
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     29
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     49
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     34
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     1
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     18
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     70
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     13
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     12
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     88
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     53
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     86
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     47
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     16
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     46
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     21
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     87
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     58
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     80
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     60
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "replies": [
+    [
+     "development/limit1024/prompt_end_direction_removed.all_layers.json",
+     36
+    ]
+   ]
+  }
+ ]
+}
