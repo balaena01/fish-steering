@@ -1,0 +1,5407 @@
+{
+ "condition": "system_prompt",
+ "max_tokens": 2048,
+ "decoding": "greedy",
+ "rows": [
+  {
+   "id": "eval:0",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:1",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:2",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:3",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:4",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:5",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 大変でしたね。ゆっくり休んでくださいね。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:6",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:7",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ そうですか、雨が続いて大変ですね。傘を持っていてくださいね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:8",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:9",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:10",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "よし、一緒に始めましょう！",
+   "finish": "eog",
+   "n_tokens": 6,
+   "loop": false
+  },
+  {
+   "id": "eval:11",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:12",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:13",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:14",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:15",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:16",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:17",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:18",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:19",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:20",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:21",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "はい、その流れで進めましょう。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:22",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:23",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:24",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 六時起きですね。朝は早めに起きると気持ちいいですよ。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:25",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:26",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:27",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:28",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:29",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:30",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:31",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:32",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:33",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:34",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:35",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:36",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "いいですね！カレーは美味しいです。どんなカレーにしますか？",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:37",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:38",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:39",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:40",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！いつでもお手伝いできますよ。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:41",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！お疲れ様でした。また何かあればいつでもお声がけください。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:42",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:43",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:44",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！また何かお手伝いできることがあれば、いつでも言ってくださいね。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:45",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:46",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:47",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！また何かお手伝いできることがあれば、いつでも言ってくださいね。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:48",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！気に入って読めたら嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:49",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 遅いですが、お礼を言えてよかったです。また何かあればいつでもお声がけください。",
+   "finish": "eog",
+   "n_tokens": 23,
+   "loop": false
+  },
+  {
+   "id": "eval:50",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:51",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:52",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:53",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:54",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:55",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてとても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:56",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:57",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:58",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえて嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:59",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:60",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ すごいですね！十キロは相当な距離です。素晴らしい達成感があるはずです。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:61",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ お疲れ様です！新しい環境でのスタート、応援していますね。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:62",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 本当ですか！おめでとうございます！いつから乗りますか？",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:63",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 素敵ですね！収穫の準備ができましたね。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:64",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ あらら、朝ごはん抜きだと体が疲れますね。おやつで少し補給して、ゆっくり休んでくださいね。",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "eval:65",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 本当におめでとうございます！免許取得、素晴らしいですね。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:66",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 素敵ですね！新しい仲間ができましたね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:67",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ すごい成長ですね！おめでとうございます。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:68",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 素敵ですね！新しい空間でリラックスできるはずです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:69",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 母の手料理、最高ですね！おなかいっぱい食べて、ゆっくり休んでくださいね。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:70",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ おはようございます！寝起きのまま失礼しますね。ゆっくり休んでください。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:71",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 元気です！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:72",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ こんにちは！夜遅くでも大丈夫ですよ。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:73",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ はい、いますよ！",
+   "finish": "eog",
+   "n_tokens": 6,
+   "loop": false
+  },
+  {
+   "id": "eval:74",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ はい、いいですよ。",
+   "finish": "eog",
+   "n_tokens": 6,
+   "loop": false
+  },
+  {
+   "id": "eval:75",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 久しぶり！調子はいいですよ。そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:76",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ こんにちは！はじめまして。どうぞよろしくお願いいたします。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:77",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ お帰りなさい！疲れていませんか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:78",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 暑いですね！水分補給を忘れずに、こまめに休憩を取ってくださいね。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:79",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ よっ！久しぶりですね。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:80",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "9 センチ×4 で、36 センチです。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:81",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "徒然草の作者は、平安時代の僧・藤原基俊（ふじわらのもとむね）です。",
+   "finish": "eog",
+   "n_tokens": 26,
+   "loop": false
+  },
+  {
+   "id": "eval:82",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "43 です。",
+   "finish": "eog",
+   "n_tokens": 4,
+   "loop": false
+  },
+  {
+   "id": "eval:83",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "大人の歯は、親知らずを含めると全部で 32 本です。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:84",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "植物が光合成で取り込む主な気体は二酸化炭素（CO2）です。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:85",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "日本の都道府県は、都道府県が47あります。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:86",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "ピアノの鍵盤は白鍵が52個、黒鍵が36個で、合計88個です。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:87",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "太陽系で一番大きな惑星は木星です。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:88",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "お湯に浸けて温めるのが一番簡単です。電子レンジで少し温めても効果的です。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:89",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "帯の結びは、帯通しを左右の腰にかけ、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回して、帯通しを帯の端に回",
+   "finish": "length",
+   "n_tokens": 2048,
+   "loop": true
+  },
+  {
+   "id": "eval:90",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "お湯に重曹を溶かして浸す、または洗剤を混ぜてこすると落ちやすいですよ。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:91",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "ボタンの穴が小さければ、ボタンの裏に小さな針を刺して、糸を引いて留めるのが一般的です。穴が大きい場合は、布に小さな穴を開けてから留めるか、ボタン留めという専用の留め具を使う方法もあります。",
+   "finish": "eog",
+   "n_tokens": 57,
+   "loop": false
+  },
+  {
+   "id": "eval:92",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "包丁を研ぐ手順は、まず包丁を研ぎ石に立てて、刃先から刃先まで滑らかに引きます。その後、刃先を少し傾けて、同じように引きます。これで包丁が研げます。",
+   "finish": "eog",
+   "n_tokens": 52,
+   "loop": false
+  },
+  {
+   "id": "eval:93",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "浴衣は、まず着物を着た後に着ます。帯は「帯締め」で固定し、帯は「帯揚げ」や「帯結」で飾ります。袖は「袖留」で留めます。",
+   "finish": "eog",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "eval:94",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "目立たなくするには、同じ色や柄の布切れを切り、破れた部分に重ねて接着剤で貼る方法がおすすめです。布の端を少し折って隠すようにすると、より自然に見えますよ。",
+   "finish": "eog",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "eval:95",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "襟元から始めると、しわが綺麗に伸びますよ。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:96",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "迷われるのは当然ですね。部活を辞めるなら、塾の時間を確保して成績を上げるのが手ですが、部活を続けるなら、その分を勉強に充てるか、両立できるかどうかが鍵になります。まずは、部活の練習時間と塾の時間、そして睡眠時間を合計して、無理のないスケジュールが作れるか試してみましょう。",
+   "finish": "eog",
+   "n_tokens": 77,
+   "loop": false
+  },
+  {
+   "id": "eval:97",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "行くべきかどうかは、その友人との関係や、あなたが今、どう感じているかによって変わります。\n\nもしあなたがその友人ととても仲が良いし、その場にいることがあなたの心を癒やしてくれるなら、出費を我慢して行く価値があるかもしれません。\n\n一方で、もし今、あなたが経済的に余裕がない、あるいはその友人との関係に少し不安があるなら、今回は行かない選択もアリです。\n\nどちらを選ぶか、あなたの今の気持ちや状況に合わせて判断してみてください。",
+   "finish": "eog",
+   "n_tokens": 99,
+   "loop": false
+  },
+  {
+   "id": "eval:98",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "どちらも素晴らしいですね！ピアノは表現力があり、水泳は健康と体力アップに役立ちます。どちらが今の自分にとって心地よいか、または将来の目標に近いかで選ぶのがおすすめです。",
+   "finish": "eog",
+   "n_tokens": 43,
+   "loop": false
+  },
+  {
+   "id": "eval:99",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "有給の申請は、まずは「体調が優れないので休みたい」や「家族の用事がある」など、具体的な理由を添えて提出するのがスムーズです。無理に切り出す必要はありません。",
+   "finish": "eog",
+   "n_tokens": 43,
+   "loop": false
+  },
+  {
+   "id": "eval:100",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "切るのもいいですね。前髪が邪魔にならないか、鏡で確認してみてください。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:101",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "小さな目標を立てて、毎日少しずつ進めてみるのがおすすめです。例えば、朝5分だけストレッチをするとか、本を1ページ読むとか。小さな成功体験が、やる気を戻すきっかけになりますよ。",
+   "finish": "eog",
+   "n_tokens": 43,
+   "loop": false
+  },
+  {
+   "id": "eval:102",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "一人暮らしでも大丈夫ですよ！ただ、留守番カメラや防犯カメラを付けておく、そして近所に信頼できる人がいると安心です。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "eval:103",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "お子さんの年齢や興味に合わせて、おもちゃ、本、体験型のイベントなど、いくつかの選択肢を挙げてご提案しましょう。",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "eval:104",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どんな早口言葉で始めましょうか？",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:105",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どんな映画を見たいですか？",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:106",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どんなクイズから始めましょう？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:107",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どこでキャンプしますか？",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:108",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！いつに行こうか考えましょう。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:109",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どこに行きたいですか？",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:110",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！星空を見ながらゆっくり話せるのも素敵です。どこで見に行こうか考えましょう。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:111",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！一緒に参加しましょう。どんな本を読む予定ですか？",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:112",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "もちろんです！誰の誕生日で、どんな雰囲気のメッセージがいいですか？",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:113",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、お手伝いしますね。メールの文面を具体的に教えていただけますか？",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:114",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、どんなものが必要ですか？",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:115",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、ご自身の名前、趣味、そして一番好きなものを一言ずつ添えてください。それに基づいて、自然な自己紹介文を作成いたします。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "eval:116",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、下書きを作成します。\n\n---\n\n**退職のあいさつ文（例文）**\n\n皆様、\n\nこの度は、〇〇株式会社で〇年間の勤めをさせていただき、誠にありがとうございました。\n\nこの間、多くの皆様から温かいご指導とご支援を賜り、心より感謝申し上げます。\n新しい挑戦に踏み出すにあたり、皆様との思い出を大切にしながら、次のステップへ進んでまいります。\n\n今後とも、何卒よろしくお願い申し上げます。\n\n--------------------------------------------------\n（署名）\n--------------------------------------------------\n\n---\n\n状況に合わせて調整していただければ幸いです。",
+   "finish": "eog",
+   "n_tokens": 123,
+   "loop": false
+  },
+  {
+   "id": "eval:117",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "もちろんです！どんな内容のプレゼンですか？",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:118",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "もちろんです！\n\n「ねこと月見」\n\nあるねこが、森の一番高い木に登りました。\n「今日は月が見えるかな？」とねこは聞きました。\nすると、大きな月が空に輝いて見えました。\nねこは月を眺めながら、\n「これが、私の月見だ」と笑いました。\n\nおわり。",
+   "finish": "eog",
+   "n_tokens": 80,
+   "loop": false
+  },
+  {
+   "id": "eval:119",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはようございます、おはよう",
+   "finish": "length",
+   "n_tokens": 2048,
+   "loop": true
+  },
+  {
+   "id": "eval:120",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:121",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:122",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:123",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "いいですね！朝早く出発すれば、新幹線も余裕を持って乗れますよ。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:124",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:125",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:126",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "漫画なら読むんですね！その子に合うテーマや、特に興味がある時代があれば教えてくださいね。それに合わせて、よりおすすめの本をいくつか選んでみます。",
+   "finish": "eog",
+   "n_tokens": 32,
+   "loop": false
+  },
+  {
+   "id": "eval:127",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "◇ いいですね！新しいシーツで気持ちよく寝られるでしょう。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:128",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:129",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:130",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:131",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:132",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:133",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:134",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:135",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:136",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "◇ そうです！少し冷たい響きがある言葉ですね。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:137",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "◇ 物置の奥だと探すのが大変そうですね。まずは物置の中を片付けながら探してみましょう。見つからない場合は、ホームセンターやスーパーの日用品売り場で買うのも手ですよ。",
+   "finish": "eog",
+   "n_tokens": 40,
+   "loop": false
+  },
+  {
+   "id": "eval:138",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:139",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:140",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:141",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:142",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:143",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:144",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:145",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:146",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:147",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:148",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:149",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "◇ 会議はつらいですよね。無理せず、少し休んでリフレッシュしてくださいね。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:150",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:151",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:152",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:153",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:154",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:155",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:156",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:157",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:158",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:159",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:160",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！わかりやすくまとめられて助かりました。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:161",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 大丈夫ですよ！何か他にも知りたいことがあれば、いつでも聞いてくださいね。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:162",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:163",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ よし、すっきりしましたね。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:164",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！アイデアが浮かぶまでお手伝いできたので、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:165",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 何よりです！キャンプが楽しくなることを願っています。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:166",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ よし、頑張ってください！何か結果がわかりましたら教えてくださいね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:167",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！あなたの話を最後まで真剣に聞いてくれて、とても嬉しかったです。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:168",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ いえいえ、お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:169",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 了解、サンキュ！",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:170",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！すぐに答えられると助かりました。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:171",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！食材の特性を考えると、とても相性が良い組み合わせだと思います。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:172",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！鋭い指摘をもらえて、さらに磨き上げられると思います。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:173",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:174",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お気遣いいただき、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:175",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく説明できてよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:176",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえて嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:177",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく伝えるのが私の役目です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:178",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてとても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:179",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:180",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ すごい！実際に走ってみて、どうでしたか？",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:181",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ すごい！準備が整いましたね。まずは大根から試してみるのがおすすめです。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:182",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ すごい成果ですね！コツを正しく実践できていますね。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:183",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ あらら、それは大変でしたね。ゆっくり休んで、今日はしっかり起き上がって体を動かしましょう。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:184",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 素敵ですね！ベランダで種まき、楽しみが広がりますね。どんな花を育てていますか？",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:185",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ すごい！半分まで進めたら、もう半分は楽に書けるはずです。残りの部分も頑張ってくださいね！",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "eval:186",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 素晴らしいですね！九時前に寝て、朝もスッキリ起きられると、一日のスタートが格段に良くなりますよ。",
+   "finish": "eog",
+   "n_tokens": 29,
+   "loop": false
+  },
+  {
+   "id": "eval:187",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 最高ですね！香ばしい匂いがして、とても幸せな瞬間だと思います。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:188",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 本当によかったです！無事に結果が出ましたね。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:189",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "すごい努力ですね！毎日 20 個は相当なペースです。その「変なイメージ」や「音の響き」を頭に残すコツを徹底して実践されているのでしょうか？もし難しい単語があれば、一緒にイメージを工夫していきましょう。",
+   "finish": "eog",
+   "n_tokens": 53,
+   "loop": false
+  },
+  {
+   "id": "eval:190",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 調子はいいですよ！元気いっぱいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:191",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ お疲れさまです！またお越しください。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:192",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 調子いいです！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:193",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ こんにちは！ご挨拶ありがとうございます。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:194",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 元気です！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:195",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:196",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ はい、つながっていますよ！何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:197",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ おはようございます！ご心配なく、分からないことはいつでも聞いてくださいね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:198",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 大丈夫です！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:199",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ こんにちは！いつでもお時間よろしいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:200",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "半径5センチの円の直径は10センチです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:201",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "土星の外側を回っている惑星は**天王星**です。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:202",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "35 です。",
+   "finish": "eog",
+   "n_tokens": 4,
+   "loop": false
+  },
+  {
+   "id": "eval:203",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "金閣寺の正式名称は「鹿苑寺（ろくえんじ）」です。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:204",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "600 ミリリットルは 0.6 リットルです。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:205",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "オリンピックの競泳で使われるプールの片道は標準的に 50 メートルです。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:206",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "大化の改新で中大兄皇子と組んだのは、**中臣鎌足**（のちの藤原鎌足）です。\n\n彼らは皇位継承権を巡って対立し、中大兄皇子が皇位を継ぐために中臣鎌足を味方につけ、645年に大化の改新を成功に導きました。",
+   "finish": "eog",
+   "n_tokens": 80,
+   "loop": false
+  },
+  {
+   "id": "eval:207",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "星座は12つです。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:208",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "片付けの「コツ」は、**「1 分だけ片付ける」**ことです。\n1 分だけ片付けると、気が付いたら部屋が少し整っていることに気づくので、やる気が続きます。また、**「片付けながら片付け物を探す」**のも効果的です。\n「何にしようかな？」と迷うものは、とりあえず箱や袋に入れて「後で決める」にしておくと、整理整頓がスムーズに進みます。",
+   "finish": "eog",
+   "n_tokens": 97,
+   "loop": false
+  },
+  {
+   "id": "eval:209",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:210",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "新幹線の指定席は、JR East や JR Central の公式サイトや「SmartEX」アプリで、出発日の数日前から予約できます。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "eval:211",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "熟させるには、**新聞紙に包んで、常温で 1〜2 日置く**のが一番簡単で効果的です。\n\n新聞紙の隙間から空気が少し通ることで、アボカドがゆっくりと熟します。\n\n*   **1 日経っても硬い**: 新聞紙に包んで、**バナナ**と一緒に袋に入れて常温で置いておくと、バナナから出るエチレンガスでさらに早く熟します。\n*   **冷蔵庫**: 熟しすぎた場合は、冷蔵庫で冷やして食べるのがおすすめです。\n\n新聞紙に包んでおけば、すぐに食べられる状態になりますよ！",
+   "finish": "eog",
+   "n_tokens": 136,
+   "loop": false
+  },
+  {
+   "id": "eval:212",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "逆光で顔を明るく撮るコツは、以下の3点です。\n\n1. **被写体側に補光する**：スマホのフラッシュやリングライト、あるいは向かい側にある窓からの自然光を顔に当てると、影が薄くなります。\n2. **露出を被写体に優先させる**：画面で「被写体優先」や「人目優先」のモードを選び、露出補正を少し下げる（-0.3〜-0.7）と、背景の明るさに引きずられず、顔が明るく残ります。\n3. **ホワイトバランスを調整する**：逆光だと色味が青みがかったり、赤みが強くなったりすることがあります。手動でホワイトバランスを調整するか、後で編集ソフトで色補正を施すと綺麗になります。\n\nまずは「被写体側に光を当てる」ことから試してみてください。",
+   "finish": "eog",
+   "n_tokens": 194,
+   "loop": false
+  },
+  {
+   "id": "eval:213",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "きれいに巻くには、まず髪を乾かして、指で整えてから、指先で巻いていきます。巻いた後は、ゴムで留め、最後に髪を巻いた部分に巻いて、きれいに整えます。",
+   "finish": "eog",
+   "n_tokens": 50,
+   "loop": false
+  },
+  {
+   "id": "eval:214",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "三日坊主を乗り切るためのコツは、「完璧を目指さず、小さな習慣から始めること」です。\n\n1. **目標を小さくする**\n   最初は「1 日だけ続ける」でも OK です。例えば、朝 1 分だけ水を飲む、または 1 分だけストレッチをするなど、無理のない範囲から始めます。\n\n2. **「2 分ルール」を使う**\n   「2 分だけやればやめられる」と思えば、始めるのが楽になります。一度始めると、慣れれば自然と続きます。\n\n3. **失敗しても自分を責めない**\n   中断しても、次はまた始めます。「またやろう」という気持ちで、次の日から再開します。\n\n4. **環境を整える**\n   必要なものを手元に置く、スマホの通知をオフにするなど、邪魔なものを減らします。\n\nまずは今日、たった 1 分だけ試してみませんか？",
+   "finish": "eog",
+   "n_tokens": 201,
+   "loop": false
+  },
+  {
+   "id": "eval:215",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:216",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "迷われるのは当然ですね！どちらも大学生活を豊かにする素晴らしい選択肢です。\n\n迷っている場合は、以下の**2 つの基準**で判断してみてください。\n\n### 1. 活動の「形」が合うか？\n*   **運動系**：\n    *   定期的な練習や試合、大会があります。\n    *   汗を流して体を動かすのが好きで、規律ある環境を好みます。\n    *   結果（記録、優勝など）や技術の向上を重視します。\n*   **文化系**：\n    *   発表会、作品展、発表会など、成果を「見せる」機会があります。\n    *   創作活動や議論、交流を重視し、自由な雰囲気を楽しみます。\n    *   技術や知識の習得、表現の楽しさを重視します。\n\n### 2. 今の「エネルギー」がどうあるか？\n*   **運動系**：\n    *   体を動かすことでストレスを発散したい。\n    *   目標に向かって努力する過程自体が楽しい。\n    *   忙しくても、その忙しさの中で充実感を得られる。\n*   **文化系**：\n    *   頭を使う、考える、表現する活動が好きな。\n    *   仲間との交流や、新しいアイデアを出し合うのが楽しい。\n    *   活動の成果を「発表」することで達成感を得られる。\n\n---\n\n**もしよろしければ、以下のようなことを教えていただければ、より具体的なアドバイスができます！**\n\n*   **今の気分**（例：体を動かしたい、頭を使いたい、友達作りたいなど）\n*   **時間的な余裕**（例：毎日練習がきつい、週に 1 回程度で OK など）\n*   **不安な点**（例：運動が苦手、人付き合いが苦手など）\n\nまずは「なんとなく気になるサークル」をいくつかリストアップしてみるのも良いですね。応援しています！",
+   "finish": "eog",
+   "n_tokens": 425,
+   "loop": false
+  },
+  {
+   "id": "eval:217",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "家賃と通学時間、どちらも大事ですが、まずは**「通学時間（立地）」を優先**するのが一般的でおすすめです。\n\n理由は以下の通りです。\n1.  **生活の質（QOL）**: 毎日長い通勤時間だと、疲れが溜まり、勉強や生活に集中しにくくなります。\n2.  **コストの相対的価値**: 家賃は固定費ですが、通学時間が長くなると、交通費が増えるだけでなく、その分使える時間が減るという「機会損失」が発生します。\n\n**具体的な判断基準:**\n*   **通学時間 30 分以内**: 家賃を少し高くても、立地を優先してください。\n*   **通学時間 30 分〜1 時間**: 家賃と通学時間のバランスを計算します。\n*   **通学時間 1 時間以上**: 通学時間を優先し、家賃は我慢したほうが無難です。\n\nもし予算が限られている場合は、**「家賃を抑えて、電車で 40 分〜50 分」**という「黄金バランス」のエリアを探すのも一つの手です。\n\n予算や通学距離がわかれば、より具体的なエリアの提案もできますよ！",
+   "finish": "eog",
+   "n_tokens": 269,
+   "loop": false
+  },
+  {
+   "id": "eval:218",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "甘すぎると、部下が成長の機会を逃したり、甘えが癖になってしまったりするリスクがあります。しかし、「厳しくする」ことだけが正解ではありません。\n\n**「厳しさ」の正体は、明確なルールと、そのルールを遵守しないことへの適切な対応（指摘や指導）です。**\n\nもし「甘すぎる」と感じているなら、以下の点を意識して調整してみてください。\n\n1.  **ルールと基準を明確にする**\n    曖昧な「もっと頑張れ」ではなく、「〇〇という基準をクリアしているか」を具体的に定義してください。基準が明確であれば、甘えを許容する余地がなくなります。\n\n2.  **結果とプロセスの両面を見る**\n    結果が良ければプロセスを褒め、結果が悪ければプロセス（努力や方法）を厳しく指摘します。これにより、「結果を出すために必要な厳しさ」が伝わりやすくなります。\n\n3.  **フィードバックのタイミングと頻度**\n    甘えが癖になっている場合、定期的なチェックイン（週1回など）で、小さな不備も即座に指摘する習慣をつけると、甘えが蔓延る前に防げます。\n\n4.  **「厳しさ」ではなく「信頼」を築く**\n    部下が甘えるのは、失敗しても許される環境があるからかもしれません。しかし、信頼関係があるからこそ、彼らは「厳しく指摘されたとしても、その指摘が自分の成長につながる」と受け止められます。\n\n**結論として：**\n「甘すぎる」なら、**「明確な基準」と「即座のフィードバック」**を強化するのが有効です。\nただし、その厳しさは「怒り」ではなく、「チームの目標達成のために必要な指導」として伝えることが重要です。\n\nもし、特定の状況（例：新人教育、プロジェクトの遅延など）があれば、その具体的なシチュエーションに合わせて、より具体的な言い回しや対応策を一緒に考えましょう。",
+   "finish": "eog",
+   "n_tokens": 415,
+   "loop": false
+  },
+  {
+   "id": "eval:219",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:220",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "やめるか続けるか、とても重要な判断ですね。\n\n「上達が遅い」というのは、実はピアノ学習において非常に一般的な悩みです。特に半年という期間は、指の筋肉が覚醒し、楽譜の読み方から実際の演奏へと移行する「土台が固まる」時期でもあります。そのため、一見すると進み具合が鈍く感じることがあります。\n\n継続するかどうかは、以下の点を振り返ってみてはいかがでしょうか。\n\n1.  **目標の再確認**\n    「上達」の定義を少し変えてみませんか？例えば、「曲を弾けること」から「指の動きをスムーズにすること」や「楽譜の読み方を正確にすること」など、小さな目標に分解すると、達成感が得やすくなります。\n\n2.  **練習方法の見直し**\n    毎日同じ練習を続けていても、上達しないことがあります。\n    *   **短時間・高頻度**：1 時間続けて弾くより、30 分×2 回、あるいは 15 分×4 回など、短く分割して行う方が集中力が保てます。\n    *   **音階や指の動き**：曲そのものよりも、音階や指の動きを丁寧に練習することで、基礎が固まり、結果として曲の上達につながります。\n\n3.  **休憩と休息**\n    疲れている時は、無理に弾くよりも、少し休んで、別の趣味や運動をしてみましょう。脳がリセットされ、次の練習で新しい発見があるかもしれません。\n\n4.  **先生や仲間との交流**\n    もし可能であれば、先生に相談したり、同じくピアノを習っている友人と練習会を開いたりすることで、モチベーションを維持できます。\n\nやめることを選んだとしても、それは「失敗」ではなく、自分のペースや環境を見直した結果です。しかし、もし「やめる」のではなく「続ける」ことを希望されているなら、まずは「小さな目標」を設定し、それを達成することから始めてみてはいかがでしょうか？\n\nあなたの今の気持ちや、具体的にどうしたいか教えていただければ、より具体的なアドバイスもできますよ。",
+   "finish": "eog",
+   "n_tokens": 447,
+   "loop": false
+  },
+  {
+   "id": "eval:221",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "やめたいのにやめられない、その葛藤はすごくわかります。スマホ依存は「やめたい」と思うほど、脳が依存している証拠です。\n\nいきなり「一切使わない」のはハードルが高いので、以下のステップを小さく始めてみてください。\n\n1.  **「30 分ルール」から始める**\n    寝る 30 分前には、スマホを別の部屋（寝室から離れる）に置くだけで十分です。物理的に手元に置かないだけで、衝動を断ち切ることができます。\n2.  **画面の光を消す**\n    設定で「夜間モード（暖色系）」や「ブルーライトカット」をオンにし、画面の光を柔らかくします。これだけで脳への刺激が減り、眠りやすくなります。\n3.  **代わりに「安定的な刺激」を用意する**\n    スマホは「次が何かわからない」不安定な刺激ですが、代わりに以下のことを試してみてください。\n    *   紙の本を読む（または電子書籍の「夜間モード」版）\n    *   軽いストレッチや入浴\n    *   日記を書く（明日の不安を紙に書き出す）\n4.  **「今日は 10 分だけ見ない」という小さな目標**\n    完璧を目指さず、今日は 10 分だけ見ない、という小さな目標から始めてみてください。\n\nもし今、スマホを握りしめていて「やめたいのにやめられない」と感じているなら、まずは画面を閉じて、深呼吸をして 1 分間だけ目を閉じてみてください。その一瞬の静けさが、次の一歩になります。\n\n何か特定のアプリやコンテンツにハマっているようであれば、それも教えていただければ、より具体的な対策を提案できますよ。",
+   "finish": "eog",
+   "n_tokens": 380,
+   "loop": false
+  },
+  {
+   "id": "eval:222",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "ご家族との時間を大切にするなら、実家へ帰ることをおすすめします。\n\n「贈り物だけ」にするのは、忙しさや距離感から生まれた配慮かもしれませんが、親御さんが「子供がわざわざ帰ってきた」という安心感や、家族としての絆を強く感じられる瞬間は、お金や贈り物では代えがたいものです。\n\nもし帰ることに不安があるなら、まずは「帰る」という決断を、ご家族の状況やご自身の体力に合わせて調整してみてください。どちらを選んでも、親御さんの心は温かいはずです。",
+   "finish": "eog",
+   "n_tokens": 118,
+   "loop": false
+  },
+  {
+   "id": "eval:223",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "両方重要ですが、**「走行距離」を重視する**のが一般的で安全です。\n\n年式が新しいのに走行距離が長い車は、エンジンやトランスミッションなどの消耗品が酷使されている可能性が高く、修理リスクが高いです。逆に、年式が古いのに走行距離が短い車は、メンテナンスがきちんとしていた証拠です。\n\n**判断のヒント：**\n- **走行距離が 10 万 km 以下**なら、年式が少し古い程度でも問題ありません。\n- **走行距離が 10 万 km を超える**場合は、年式が新しいほど安心です。\n\n予算や用途に合わせて、このバランスを見ながら選んでみてください。",
+   "finish": "eog",
+   "n_tokens": 149,
+   "loop": false
+  },
+  {
+   "id": "eval:224",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！夕焼けは本当に綺麗です。どこで見に行こうか一緒に考えましょう。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:225",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！どんなゲームをしますか？",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:226",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！どんなルールでやりますか？例えば、一人が単語を言い、次の人がその単語から連想した別の単語を言い続ける、みたいな？",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "eval:227",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！川沿いの土手は風が気持ちよくて、桜の香りが漂うととても癒やされます。いつ行こうか楽しみにしています！",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "eval:228",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:229",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！一緒に楽しみましょう。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:230",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！一緒に探しましょう。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:231",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "いいですね！とても面白いアイデアです。\n\nじゃあ、私が最初の一文を書きます。\n\n「雨の夜、古い図書館の奥で、誰かが本を閉じる音がした。」\n\n続きは、あなたに任せます。どんな一文を書きますか？",
+   "finish": "eog",
+   "n_tokens": 54,
+   "loop": false
+  },
+  {
+   "id": "eval:232",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "申し訳ございません。\nご多忙の折、お手数をおかけしますが、ご容赦ください。\n\n---\n\n**件名：** 【お詫び】[件名] につきましてのご報告と再発防止策について\n\n[取引先担当者名] 様\n\nいつも大変お世話になっております。\n[自社名] の [自分の名前] です。\n\nこの度は、[具体的な出来事：例：納品物の遅延 / 資料の誤記 / 会議の欠席] につきまして、\nお忙しいところ恐縮ながら、お詫びのメールを差し上げました。\n\n今回の件につきまして、私自身も深く反省しております。\n[原因の概要：例：社内調整の遅れにより...] により、[結果：例：貴社のスケジュールに支障を...] となりました。\nこれは我々の責任であり、取引先様との信頼関係を損ねてしまうことと存じます。\n\nつきましては、以下の対応を講じさせていただきます。\n・[解決策 1：例：本日中に修正版を提出する]\n・[解決策 2：例：明日中に再送する]\n\nまた、同様のことが再発しないよう、[再発防止策：例：ダブルチェック体制を徹底する] を取り入れます。\nご迷惑をおかけし、誠に申し訳ございません。\n今後とも、何卒よろしくお願い申し上げます。\n\n--------------------------------------------------\n[署名]\n--------------------------------------------------\n\n---\n\n状況によって（遅延、ミス、欠席など）最適な表現は異なりますが、**「誠意」「具体的な原因」「解決策」「再発防止」**の 4 点を明確に伝えることが重要です。\n\nいくつかのパターンを用意しましたので、状況に合わせて調整してご使用ください。\n\n### 1. 基本テンプレート（汎用性が高い）\n遅延やミスなど、一般的なケースに適しています。\n\n**件名：** 【お詫び】[件名] についてのご報告とご報告\n**本文：**\n[取引先担当者名] 様\n\nいつも大変お世話になっております。\n[自社名] の [自分の名前] です。\n\nこの度は、[具体的な出来事：例：納品物の遅延 / 資料の誤記 / 会議の欠席] につきまして、\nお忙しいところ恐縮ながら、お詫びのメールを差し上げました。\n\n今回の件につきまして、以下の点について深く反省しております。\n・[原因の概要：例：社内調整の遅れにより...]\n・[影響：例：貴社のスケジュールに支障を...]\n\nつきましては、以下の対応を講じさせていただきます。\n・[解決策 1：例：本日中に修正版を提出する]\n・[解決策 2：例：明日中に再送する]\n\nまた、同様のことが再発しないよう、[再発防止策：例：ダブルチェック体制を徹底する] を取り入れます。\nご迷惑をおかけし、誠に申し訳ございません。\n今後とも、何卒よろしくお願い申し上げます。\n\n--------------------------------------------------\n[署名]\n--------------------------------------------------\n\n### 2. 緊急・深刻なミスの場合（より誠実なトーン）\n大きなミスや深刻な遅延の場合、より謙虚な表現が求められます。\n\n**件名：** 【緊急】[件名] に関する深刻なお詫びと対応について\n**本文：**\n[取引先担当者名] 様\n\nいつも大変お世話になっております。\n[自社名] の [自分の名前] です。\n\nこの度は、[具体的な出来事] につきまして、\nお忙しい中多大なるご迷惑をおかけし、心より深くお詫び申し上げます。\n\n今回の件につきまして、私自身も深く反省しております。\n[原因：例：担当者の不注意により...] により、[結果：例：重要な資料が提出できず...] となりました。\nこれは我々の責任であり、取引先様との信頼関係を損ねてしまうことと存じます。\n\nつきましては、最優先で以下の対応を行います。\n1. [具体的な解決行動]\n2. [完了予定日] に改めてご連絡いたします。\n\n再発防止のため、[再発防止策] を徹底し、今後とも高品質なサービスを提供できるよう努めます。\nご多忙の折、お手数をおかけしますが、ご容赦いただけますと幸いです。\n\n何卒よろしくお願い申し上げます。\n\n--------------------------------------------------\n[署名]\n--------------------------------------------------\n\n### 3. 会議や打ち合わせの欠席・遅刻の場合\n対面での失礼を補うためのメールです。\n\n**件名：** [日付] の打ち合わせにつきましてのお詫び\n**本文：**\n[取引先担当者名] 様\n\nいつも大変お世話になっております。\n[自社名] の [自分の名前] です。\n\n先ほど行われた [会議名] につきまして、\n私の方で [遅刻 / 欠席] となり、ご準備をしてくださったことに対し、心よりお詫び申し上げます。",
+   "finish": "eog",
+   "n_tokens": 1053,
+   "loop": false
+  },
+  {
+   "id": "eval:233",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "もちろんです！家族に送るメッセージですね。\nどのような内容（誕生日、お祝いの言葉、日常の挨拶、感謝の気持ちなど）で、誰に（配偶者、子供、両親など）送るのか教えていただけますか？\nそれによって、より適切な文章を作成できます。",
+   "finish": "eog",
+   "n_tokens": 61,
+   "loop": false
+  },
+  {
+   "id": "eval:234",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "「全力で走れ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで走れ！自分の記録を更新せ！」\n「パス！パス！チームで！」\n「全力で！全力で！全力で！」\n「ゴール目指せ！バトン受けろ！チームで勝て！」\n「ジャンプ！高く飛べ！風が吹く！風が吹く！」\n「今日も頑張ったね！もっと上手になるよ！」\n「失敗しても大丈夫！次はもっと速くなる！」\n「みんなが力を合わせているから、勝てる！」\n「チームの顔だ！輝け！」\n「1 番！2 番！3 番！4 番！5 番！6 番！7 番！8 番！」\n「お兄さん・お姉さんが応援してるよ！」\n「自分のベストを尽くしたね、すごい！」\n「自分のペースで",
+   "finish": "length",
+   "n_tokens": 2048,
+   "loop": true
+  },
+  {
+   "id": "eval:235",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "もちろんです！どのような案内文が必要ですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:236",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "もちろんです！文面を貼り付けてください。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:237",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "はい、聞き役になります！どんな感想を言いたいか教えてくださいね。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:238",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "◇ 秋の山風を閉じ込めた、甘くふんわりしたモンブランです。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:239",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "大丈夫だよ！朝は一番頑張れる時間だから、今日も素敵な一日を過ごせるはず。深呼吸して、自信を持って進んでいこうね！",
+   "finish": "eog",
+   "n_tokens": 31,
+   "loop": false
+  },
+  {
+   "id": "eval:240",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:241",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:242",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:243",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ あらら、それは大変ですね。すぐにタイマーを入れて、お米を炊き直しましょう。焦がさないように、少し早めに炊き始めるのがコツです。",
+   "finish": "eog",
+   "n_tokens": 36,
+   "loop": false
+  },
+  {
+   "id": "eval:244",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ 研修制度についてですね。詳しく知りたいですね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:245",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:246",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:247",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:248",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ そうですか！玄関に置いてありましたね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:249",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:250",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:251",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:252",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:253",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:254",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ そうですね、日が暮れてきましたね。疲れていないですか？",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:255",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:256",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:257",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:258",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:259",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "はい、まずはパソコンの容量を確認しましょう。\n\n**Windows の場合：**\n1. 「スタート」ボタンをクリックし、「この PC」または「マイコンピュータ」を開きます。\n2. 左側の「ローカルディスク (C:)」などの容量を確認します。\n3. もし容量が少なければ、不要なファイル（一時ファイルや古い写真など）を削除するか、SSD に換装することを検討してください。\n\n**Mac の場合：**\n1. 「Apple ロゴ」をクリックし、「システム設定」を開きます。\n2. 「一般」タブから「ストレージ」を選択します。\n3. 容量の使用状況と、削除できるファイルが表示されます。\n\n容量が十分にあるか確認できたら、プログラミング学習の環境準備に進みましょう！",
+   "finish": "eog",
+   "n_tokens": 159,
+   "loop": false
+  },
+  {
+   "id": "eval:260",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:261",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:262",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "いいですね！窓の掃除は外側から内側へ、あるいは逆の順序で進めると、水が溜まりにくくスムーズにできます。\n\n窓ガラスは、**「水が溜まらないようにする」**と**「傷つけないようにする」**ことがポイントです。\n\n### 🪟 窓掃除の正しい手順\n\n#### 1. 準備と安全対策\n*   **足場**: 高い窓なら梯子を使用し、必ず手すりや壁に手をついて安定させてください。\n*   **保護具**: 水が飛び散る可能性があるため、手袋と長袖、長ズボン、雨具（またはタオル）を着用してください。\n*   **道具**:\n    *   柔らかい布（マイクロファイバーや綿布）\n    *   洗剤（中性洗剤や、市販の「窓用洗剤」がおすすめ）\n    *   水\n    *   水切りネット（またはバケツに水と洗剤を混ぜて、水切りネットを浸して使います）\n    *   古い新聞紙や新聞紙（拭き上げ用）\n\n#### 2. 洗う方法（水が溜まらないようにするコツ）\n*   **布に水を含ませる**: 布を水に浸し、**水切りネット**やバケツで水気をしっかり切ります。布が「濡れている」状態でも「重くない」状態にします。\n*   **格子の隙間に水が溜まらないように**: 布を格子の隙間に当てて擦るのではなく、**格子の表面全体を滑らかに擦る**イメージで動かします。\n*   **洗剤の使い方**: 洗剤を布に直接塗るのではなく、布を水に浸して洗剤を溶かした水で拭くのが最も安全です。\n\n#### 3. 拭き上げ（最重要ステップ）\n*   **水気を切る**: 洗った後は、**古い新聞紙**や新しい布で、網戸の表面から**隙間へ水が",
+   "finish": "eog",
+   "n_tokens": 446,
+   "loop": false
+  },
+  {
+   "id": "eval:263",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ 大学時代からの付き合いですね！長い間、二人を支えてきたお友達の気持ち、とても伝わってきます。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:264",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:265",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:266",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "いいですね！少量ずつ作れば、火加減を細かく調整でき、失敗も減ります。\n\n1 回あたり 1 キロずつで、それぞれ「酸味を強くする」「砂糖を少し減らす」など、少し違う味に挑戦するのも楽しいですよ。\n\n火加減は、鍋が小さくなるほど注意が必要なので、沸騰したらすぐに弱火にして煮詰めてくださいね。",
+   "finish": "eog",
+   "n_tokens": 86,
+   "loop": false
+  },
+  {
+   "id": "eval:267",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:268",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "チューブ生姜は、そのまま食べる分には加熱して使うのがおすすめです。\n\nそのまま食べると刺激が強すぎて胃に負担がかかる場合があるので、お茶に溶かしたり、料理の具として炒めたりして使うと、発熱抑制や発汗の効果がよりスムーズに出ます。",
+   "finish": "eog",
+   "n_tokens": 60,
+   "loop": false
+  },
+  {
+   "id": "eval:269",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:270",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:271",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:272",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:273",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ 明後日ですね！楽しみにしています。どこへ行く予定ですか？",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:274",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "週末に教材を始めるのは、とても良いタイミングですね！まずは「簿記三級」の基礎となる科目（科目 1〜4）のテキストや、講義付きの動画講座など、自分に合った教材を選び、まずは用語や計算の基礎から始めてみましょう。\n\n何か具体的な教材の選び方について、さらに詳しく知りたい場合はおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 75,
+   "loop": false
+  },
+  {
+   "id": "eval:275",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:276",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:277",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "冷蔵庫の横に貼ってあるシールは、多くの場合「電気工事業者」や「給湯器・エアコンの修理業者」の連絡先です。冷蔵庫自体の管理会社（メーカーサポート）の番号は、通常は冷蔵庫の**本体の裏面にある型番プレート**や**取扱説明書**に記載されています。\n\nもしシールが剥がれてしまったり、見当たらない場合は、以下の手順で確認してみてください。\n\n1.  **冷蔵庫の裏面を確認する**\n    *   冷蔵庫の裏側に貼られている小さな金属プレート（型番プレート）を探してください。\n    *   そこには「メーカー名（例：パナソニック、日立、三菱電機など）」と「型番」が明記されています。\n\n2.  **メーカーの公式サポート番号を探す**\n    *   型番プレートにある「メーカー名」を思い出したら、そのメーカーの公式サイト（例：panasonic.jp、hitachi.co.jp など）にアクセスします。\n    *   サイト内の「サポート」や「お問い合わせ」ページから、**「製品サポート電話番号」**を検索できます。\n    *   多くのメーカーでは、型番さえわかれば、その製品専用のサポート番号がすぐにわかります。\n\n3.  **型番がわからない場合**\n    *   もし型番プレートも見当たらない場合は、冷蔵庫の**本体の前面**（ドアの裏側や前面下部）に、小さなラベルが貼られていることが多いです。\n    *   それでもわからない場合は、**「冷蔵庫のメーカー名（例：パナソニック）」**と**「購入年（または購入場所）」**さえわかれば、メーカーのサポート窓口で「型番がわからないが、サポート番号を教えてほしい」と相談することも可能です。\n\n**注意点:**\n冷蔵庫の横にあるシールが「電気工事業者」の番号であれば、それは冷蔵庫の故障や修理を依頼するための連絡先ではなく、電気配線や配管のトラブルを専門に扱っている業者の番号です。冷蔵庫の本体自体のサポート（メーカー保証など）が必要な場合は、上記のメーカーサポート番号を使うのが確実です。\n\nもし型番プレートが見つからない場合は、冷蔵庫の本体を写真で撮って、または冷蔵庫の裏面のプレート部分を写真に撮ってください。それを見せると、具体的な型番を特定しやすくなります。",
+   "finish": "eog",
+   "n_tokens": 492,
+   "loop": false
+  },
+  {
+   "id": "eval:278",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:279",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:280",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 大丈夫ですよ！ぜひ試してみてください。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:281",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！相手が「美術好き」という素敵な共通点を見つけられたのが、最高のスタートですね。無理なく楽しめるプランを提案できてよかったです。",
+   "finish": "eog",
+   "n_tokens": 32,
+   "loop": false
+  },
+  {
+   "id": "eval:282",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！勉強になる情報になれば幸いです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:283",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！猫ちゃんも快適に暮らせるようお手伝いできたら嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:284",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 本当にお役に立ててよかったです！自信がついたなら、次も挑戦してみてくださいね。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:285",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 大丈夫ですよ！少しでも楽になりましたら幸いです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:286",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！丁寧な回答ができ、とても光栄に思います。何か他にもお手伝いできることがあれば、いつでもお気軽にお声がけください。",
+   "finish": "eog",
+   "n_tokens": 32,
+   "loop": false
+  },
+  {
+   "id": "eval:287",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:288",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ いえいえ、お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:289",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！あなたが話を聞いてくれて、とても助かりました。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:290",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！整理整頓は大事ですね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:291",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そのご指摘、とても励みになります。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:292",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:293",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！プロの視点でアドバイスできると、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:294",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！その評価、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:295",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！季節の言葉は、相手の気持ちに寄り添うためにとても大切なものなので、勉強しています。",
+   "finish": "eog",
+   "n_tokens": 24,
+   "loop": false
+  },
+  {
+   "id": "eval:296",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく伝えるのが私の役目です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:297",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！祖母の着物を活かすアイデアを一緒に考えられたら、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:298",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:299",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！",
+   "finish": "eog",
+   "n_tokens": 4,
+   "loop": false
+  },
+  {
+   "id": "eval:300",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:301",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ すごい！百日連続ですね。素晴らしい習慣化を続けていますね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:302",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ 素敵ですね！父の靴を磨いてあげて、きっと喜んでいただけたでしょう。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:303",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ すごい！朝六時から並ぶのは、本当に根性が必要ですね。お花見の楽しみが、その準備の苦労で少し薄れるかもしれませんが、桜が見られるなら頑張った甲斐があるはずです。",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": false
+  },
+  {
+   "id": "eval:304",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ すごい！効果があったんですね。ネットを張る方法が正解でした。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:305",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ 十年ぶりに会えて、本当によかったですね！懐かしい思い出が蘇りましたか？",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:306",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ すごい！応援しています。まずは週 1 回でも良いので、コツコツ続けていきましょう。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:307",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ 素敵ですね！廊下は家族全員が通る場所なので、子どもの絵が毎日目に入る最高の場所です。ぜひ見せてください。",
+   "finish": "eog",
+   "n_tokens": 31,
+   "loop": false
+  },
+  {
+   "id": "eval:308",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ 本当におめでとうございます！家族に大好評だったなんて、最高ですね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:309",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ 本当におめでとうございます！母のその温かいお気遣い、とても素敵ですね。\n初めて描いた作品が、玄関に飾られるなんて、とても嬉しいことだと思います。\nこれからも、ご自身のペースで水彩画を楽しんでくださいね。",
+   "finish": "eog",
+   "n_tokens": 51,
+   "loop": false
+  },
+  {
+   "id": "eval:310",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ あら、失礼しました！おはようございます。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:311",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 元気です！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:312",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 今朝は少し忙しく、お昼過ぎからゆっくり過ごしています。今日はゆっくりお過ごしください！",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:313",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 新年おめでとうございます！今年もよろしくお願いいたします。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:314",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ いらっしゃい！また会えてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:315",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ はい、まだお時間があります。何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:316",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！元気いっぱいですよ。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:317",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！またお話しできてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:318",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ あけおめ！今年もよろしくね。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:319",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ じゃあ、ゆっくりお休みくださいね。また明日！",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:320",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "6 の 3 乗は 216 です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:321",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "右側は**東**の方角です。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:322",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "4分の3を小数にすると、**0.75**になります。\n\n計算の仕方は以下の通りです：\n1.  4分の3を分数で表すと $\\frac{3}{4}$ になります。\n2.  分母（4）を10の倍数（100）にするために、分子と分母を2倍します。\n    *   $3 \\times 2 = 6$\n    *   $4 \\times 2 = 8$\n    *   結果：$\\frac{6}{8}$\n3.  さらに分母を100にするために、分子と分母を2倍します。\n    *   $6 \\times 2 = 12$\n    *   $8 \\times 2 = 16$\n    *   結果：$\\frac{12}{16}$\n4.  最も簡単な形に戻すと $\\frac{3}{4}$ ですが、直接小数に変換するには、4で割る計算を行います。\n    *   $3 \\div 4 = 0.75$\n\nまたは、$\\frac{3}{4}$ を $\\frac{75}{100}$ と考えると、そのまま小数の **0.75** になります。",
+   "finish": "eog",
+   "n_tokens": 276,
+   "loop": false
+  },
+  {
+   "id": "eval:323",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "世界で一番大きな鳥は**オオバクバク**（学名：*Raphus cucullatus*）です。\n\n主に南太平洋の島々（ハワイ、ニュージーランド、チリなど）に生息しており、体長は約1.5メートル、体重は最大で100キロを超えることもあります。翼を広げると2.5メートルにもなります。\n\n日本では「アオバクバク」と呼ばれることもありますが、正式な学名はオオバクバクです。",
+   "finish": "eog",
+   "n_tokens": 112,
+   "loop": false
+  },
+  {
+   "id": "eval:324",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "平安京に都を移した天皇は**桓武天皇**です。\n\n794年（延暦13年）、桓武天皇は奈良の平城京を離れ、現在の京都（平安京）に都を移しました。これにより、日本史は「奈良時代」から「平安時代」へと移行しました。",
+   "finish": "eog",
+   "n_tokens": 72,
+   "loop": false
+  },
+  {
+   "id": "eval:325",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "水の凝固点は 0 度（摂氏）です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:326",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "一日は 24 時間あります。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:327",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "2 の 10 乗は 1024 です。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:328",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "アプリを削除する手順は、お使いの端末（iPhone や Android）によって異なります。\n\n**iPhone の場合**\n1.  削除したいアプリのアイコンを**長押し**します。\n2.  「削除」が表示されたらタップします。\n3.  「削除」を再度タップして確認します。\n\n**Android の場合**\n1.  ホーム画面でアプリを**長押し**します。\n2.  「アプリを削除」または「削除」を選択します。\n3.  確認画面で「削除」をタップします。\n\n※アプリを削除すると、そのアプリのデータも消えます。重要なデータがある場合は、削除前にバックアップを取ってください。",
+   "finish": "eog",
+   "n_tokens": 147,
+   "loop": false
+  },
+  {
+   "id": "eval:329",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "お餅を焦がさずに焼くコツは、**「火加減を弱くする」**と**「水分を逃がさないように包む」**ことです。\n\n具体的な手順は以下の通りです。\n\n1.  **お餅を包む**\n    蒸しお餅を、ラップやアルミホイルで包みます。これにより、お餅の水分が蒸発して焦げにくくなります。\n2.  **弱火で焼く**\n    包んだお餅を網やフライパンに置き、**弱火**で焼きます。強火だと表面が焦げる前に中が乾いてしまいます。\n3.  **時々ひっくり返す**\n    表面が少し色づいてきたら、優しくひっくり返して両面均等に焼きます。\n4.  **仕上げ**\n    表面が金茶色になったら、ラップやアルミホイルを少し開けて、表面の水分を飛ばして仕上げます。\n\nこれで、外は香ばしく、中は柔らかく焼けるはずです。",
+   "finish": "eog",
+   "n_tokens": 228,
+   "loop": false
+  },
+  {
+   "id": "eval:330",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "確定申告を「ネット（e-Tax）」で出すには、以下の手順で国税庁の公式サイトから手続きできます。\n\n### 1. e-Tax のログイン\nまず、国税庁の「e-Tax」ページ（https://www.nta.go.jp/tax-e-tax/e-tax/index.html）にアクセスします。\n*   **新規登録**: 以前に登録していない場合は、氏名、生年月日、住所、電話番号、メールアドレスなどで登録します。\n*   **ログイン**: 既に登録している場合は、ID とパスワードでログインします。\n\n### 2. 申告書の作成\nログイン後、以下の手順で申告書を作成します。\n1.  **「確定申告・住民税の申告・納付」**を選択。\n2.  **「申告書作成」**ボタンをクリック。\n3.  画面が表示されるので、**「給与所得者」**や**「事業所得者」**など、自分の状況に合う項目を選択します。\n4.  入力画面で、収入や支出、医療費などの数字を入力します。\n    *   *入力ミスがないか確認するボタン（チェック）を押すと、計算結果が確認できます。*\n\n### 3. 提出\n入力が終わったら、以下のいずれかを選んで提出します。\n*   **電子提出（推奨）**: 入力したデータがそのまま税務署に送られます。領収書の写しは不要です（医療費控除など一部の控除を除く）。\n*   **紙の提出**: 提出時に「紙の申告書」を添付する場合は、別途紙の申告書を作成して郵送する必要があります（e-Tax で入力したデータはそのまま使えます）。\n\n### 4. 提出完了の確認\n提出後、画面で「提出完了」のメッセージが表示されます。\n*   提出番号や提出日を確認しておきましょう。\n*   提出した内容が正しいか、税務署から「提出確認通知」がメールや SMS で届く場合があります。\n\n### 注意点\n*   **提出期限**: 原則として**翌年 3 月 15 日**までです（2024 年の確定申告は 2025 年 3 月 15 日）。\n*   **領収書の写し**: 医療費控除や事業所得がある場合、e-Tax 上でアップロードするか、別途紙の領収書を送る必要があります。\n\nまずは e-Tax の公式サイトからログインして、入力画面を見てみるのが一番確実です。",
+   "finish": "eog",
+   "n_tokens": 538,
+   "loop": false
+  },
+  {
+   "id": "eval:331",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "間引きは、大根の形を良くするために最も重要な作業の一つです。手順は以下の通りです。\n\n### 1. 間引きのタイミング\n*   **時期**: 種をまいてから約 1 ヶ月後、本葉が **3 枚〜4 枚** の頃に行います。\n*   **理由**: この時期に間引かないと、本葉が 5 枚〜6 枚になってから間引くと、根が絡み合いやすくなり、プランターでは根が露出する原因になります。\n\n### 2. 具体的な手順\n1.  **確認**: 苗が 3〜4 枚の本葉を持っているか確認します。\n2.  **抜き取り**: 本葉が小さい株（弱った株や密集している株）を、根元から優しく引き抜きます。\n    *   **注意点**: 根を傷めすぎないよう、土を少し掘り下げてから抜き、根を土に埋め戻すようにします。\n3.  **間隔の調整**: 間引いた場所を空けずに、残った株同士の間隔を **15cm〜20cm** 程度に整えます。\n    *   株が密集している場合は、さらに少し間隔を広げます。\n4.  **土の処理**: 間引いた株の土は、残った株の根元にかぶせるか、プランターの隅に埋めることで、土の表面を覆い乾燥を防げます。\n\n### 3. 間引きのメリット\n*   **根の太さ**: 株間を空けることで、根が深く張って太い大根が育ちます。\n*   **病害虫の予防**: 株間が空くと通気性が良くなり、うどんこ病などの病気や害虫の発生を防げます。\n*   **収穫のしやすさ**: 根が絡まず、土から出にくいように育ちます。\n\nプランター栽培では、この「間引き」を丁寧にやれば、庭植えよりも失敗しにくく、美味しい大根が収穫できる確率が高まります。",
+   "finish": "eog",
+   "n_tokens": 465,
+   "loop": false
+  },
+  {
+   "id": "eval:332",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "カーテンのサイズを測る際は、**「窓枠の幅」**と**「窓枠の高さ」**を基準にします。\n\n具体的には以下の通りです。\n\n### 1. 幅（一番重要！）\n**「窓枠の左端から右端までの距離」**を測ります。\n*   **測り方**: 窓枠の左縁（左の枠の端）から、右縁（右の枠の端）まで、水平に測ります。\n*   **ポイント**: 窓枠の「枠の端」から測るのが一般的ですが、カーテンが閉じた時に隙間なく閉まるよう、**左右にそれぞれ 10〜15cm 余白**を確保して測ることも多いです（例：窓枠が 100cm の場合、カーテンの幅は 120〜130cm 程度にします）。\n*   **注意**: 窓枠の「ガラス部分」ではなく、「枠全体」を測ってください。\n\n### 2. 高さ\n**「窓枠の上端から下端までの距離」**を測ります。\n*   **測り方**: 窓枠の一番上の縁から、一番下の縁まで、垂直に測ります。\n*   **ポイント**: 通常、窓枠の高さをそのまま使います。ただし、カーテンを天井まで垂らしたい場合は、**天井から窓枠の上端までの距離**を測ります。\n\n### 3. 深さ（奥行き）\n**「窓枠の奥行き」**を測ります。\n*   **測り方**: 窓枠の前面から、裏側（壁面）まで測ります。\n*   **ポイント**: 通常、カーテンの深さは 10〜15cm 程度で問題ありません。もしカーテンが壁に当たらないよう、少し奥に配置したい場合は、この数値を考慮して調整します。\n\n### まとめ\n*   **幅**: 窓枠の左端から右端（＋余白）\n*   **高さ**: 窓枠の上端から下端（＋余白）\n*   **深さ**: 窓枠の奥行き\n\n**アドバイス**:\nもし可能であれば、**「カーテン専門店」や「ホームセンター」に無料測定サービス**を利用するのが最も安全です。専門家が正確に測ってくれますし、サイズが間違っても交換しやすいです。\n\nもし自分で測る場合は、**「窓枠の端から端」**を基準にしてください。",
+   "finish": "eog",
+   "n_tokens": 536,
+   "loop": false
+  },
+  {
+   "id": "eval:333",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "ウールやニット類は縮みやすいので、型崩れを防ぐには「平らに広げて干す」のが最も効果的です。\n\n具体的な手順は以下の通りです。\n\n1.  **裏返して平らに広げる**\n    *   コートを裏返します。\n    *   洗濯板やハンガーではなく、**平らな場所（洗濯板、テーブル、床など）に広げます**。\n    *   肩や袖の重みで形が崩れないように、**重石（または重たい本など）を肩や袖の裏側に軽く乗せます**。これだけで形が崩れにくくなります。\n\n2.  **直射日光を避ける**\n    *   紫外線は繊維を傷めます。日陰や室内で干してください。\n    *   風通しが良い場所を選び、カビが生えにくい環境にします。\n\n3.  **形を整える**\n    *   乾き始めたら、形が歪んでいないか確認し、必要に応じて軽く整えます。\n\n4.  **完全に乾いたら裏返す**\n    *   完全に乾いたら裏返して、そのまま保管します。\n\n**注意点：**\n*   **ハンガーで干さない**：肩の重みで形が崩れ、縮む原因になります。\n*   **乾燥機を使わない**：熱風で縮んだり、形が崩れたりします。\n\nこの「平らに広げて重石を乗せる」方法が、型崩れ防止の鉄則です。",
+   "finish": "eog",
+   "n_tokens": 335,
+   "loop": false
+  },
+  {
+   "id": "eval:334",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "鶴の折り方、最初の手順から丁寧に教えてあげますね。\n\n**準備：**\n正方形の折り紙（白か、好きな色でも可）を準備してください。\n\n**手順：**\n\n1.  **半分に折る**\n    正方形の紙を、角を揃えて半分に折ります。\n    （例：左上の角を右下の角に合わせる）\n    折ったまま開きます。\n\n2.  **角を内側に折る（重要）**\n    開いた状態の紙の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これを「角を揃える」作業です。\n    折ったまま開きます。\n\n3.  **さらに半分に折る**\n    今の状態（角が内側に折れている状態）を、**縦の折れ線に合わせて半分に折ります**。\n    折ったまま開きます。\n\n4.  **角を内側に折る（2 回目）**\n    開いた状態の紙の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n5.  **角を内側に折る（3 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n6.  **角を内側に折る（4 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n7.  **角を内側に折る（5 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n8.  **角を内側に折る（6 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n9.  **角を内側に折る（7 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n10. **角を内側に折る（8 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n11. **角を内側に折る（9 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n12. **角を内側に折る（10 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n13. **角を内側に折る（11 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n14. **角を内側に折る（12 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n15. **角を内側に折る（13 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n16. **角を内側に折る（14 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n17. **角を内側に折る（15 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n18. **角を内側に折る（16 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n19. **角を内側に折る（17 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n20. **角を内側に折る（18 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n21. **角を内側に折る（19 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n22. **角を内側に折る（20 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n23. **角を内側に折る（21 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n24. **角を内側に折る（22 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n25. **角を内側に折る（23 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n26. **角を内側に折る（24 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n27. **角を内側に折る（25 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の折れ線（縦の線）に**内側に折ります**。\n    これも「角を揃える」作業です。\n    折ったまま開きます。\n\n28. **角を内側に折る（26 回目）**\n    今の状態の**左上の角**と**右上の角**を、中央の",
+   "finish": "length",
+   "n_tokens": 2048,
+   "loop": true
+  },
+  {
+   "id": "eval:335",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "衣類を引き出しの中で立てて収納（フック収納）するには、以下の手順で「たたみ方」ではなく「折る方法」を学ぶのが最も簡単で効果的です。\n\n### 1. 基本の折る方法（フック収納用）\nこの方法は、服を「箱」のように折ることで、フックに掛ける際にも隙間なく立てられます。\n\n1.  **平らに広げる**: 服を裏表が揃うように平らに広げます。\n2.  **左右を折る**: 袖口から中心線に向かって、左右の袖をそれぞれ中心に折ります。\n3.  **下を折る**: 下摆（裾）から中心線に向かって、下を折ります。\n4.  **上を折る**: 上端（首元）から中心線に向かって、上を折ります。\n    *   ※これで、服が「四角い箱」の形になります。\n5.  **フックに掛ける**: この「箱」の形を、フックに垂直に（または水平に）掛けます。\n\n### 2. 具体的なコツ\n*   **袖の扱い**: 袖を折る際、少し余分な部分があれば、さらに細かく折るとフックに掛かりやすくなります。\n*   **下着類**: 下着やタイツなどは、この方法よりも「筒状に巻く」か、「ラップ状に巻いてラベルを貼る」方が整理しやすいため、用途に合わせて使い分けてください。\n*   **フックの選び方**: 引き出しの奥行きに合わせて、適切な長さのフックを選び、服の厚み（厚手か薄手か）に合わせて調整してください。\n\nこの方法で折ると、服が「箱」の形になるため、フックに掛けるだけで整然と立てられ、見やすく、取り出しもしやすくなります。まずは一枚の服で試してみてください！",
+   "finish": "eog",
+   "n_tokens": 425,
+   "loop": false
+  },
+  {
+   "id": "eval:336",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "迷うのは当然ですね。相手の気遣いを損ないたくない、という気持ち、とてもわかります。\n\nその場合、**「相手の好みに合わせた工夫」**と**「手書きのメッセージ」**を重視するのが、金額よりも喜ばれるポイントです。\n\n具体的な対策をいくつか提案します。\n\n### 1. 「金額」よりも「内容」に焦点を当てる\n金額が少し高いと気を使わせるより、**「相手の好きなもの」**に特化したプレゼントの方が、相手は喜ぶはずです。\n*   **相手の趣味に特化したもの**：例えば、コーヒー好きなら高級な豆、読書好きなら限定本など。\n*   **体験型**：一緒に食事に行き、その日の思い出を共有する（食事代をプレゼントにするなど）。\n\n### 2. 手書きのメッセージを添える\n金額が少し高い場合でも、**手書きのカード**に「なぜそのプレゼントを選んだか」「あなたの想い」を丁寧に書くだけで、金額の重みが「気遣い」に変化します。\n*   「このプレゼントを選んだのは、あなたが〜が好きだからです」という理由を添えると、金額の高低は関係なくなります。\n\n### 3. 予算の目安を調整する\nもし「高すぎると気を使わせる」という感覚が強いなら、以下の金額帯が安全です。\n*   **3,000 円〜5,000 円**：定番のギフトショップや、少しこだわった小物で十分です。\n*   **5,000 円〜10,000 円**：相手の趣味に合わせた本や、少し高価な小物、または体験型ギフトが喜ばれます。\n\n### 4. 相手の経済状況に配慮する\nもし相手が学生や収入が少ない場合、高額なものは避けるか、その旨を配慮して伝える必要があります。\n\n**今、お友達との関係性はどれくらいですか？**\n（例：大学時代の同級生、仕事で知り合った友人、幼馴染など）\n関係性を教えていただければ、より具体的なアイデアや、その関係性におすすめの金額・アイテムを提案できますよ！",
+   "finish": "eog",
+   "n_tokens": 459,
+   "loop": false
+  },
+  {
+   "id": "eval:337",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "迷いやすいですね。仕事と家族の両立は難しいですが、以下のステップで整理してみてください。\n\n1. **優先順位を決める**\n   今の時期、どちらが「もっとも重要」か（仕事か、親の介護か）を明確にします。\n\n2. **現実的な計画を立てる**\n   仕事は休職や転職、あるいはパート化など、柔軟な選択肢を探します。\n\n3. **専門家の相談**\n   労働基準監督署や福祉事務所、あるいは弁護士に相談することで、法的なサポートを受けられます。\n\n4. **家族と話し合う**\n   家族全員で話し合い、それぞれの負担を分担し、協力体制を作ります。\n\n5. **時間とエネルギーを管理する**\n   無理をせず、休息を確保し、心身の健康を最優先にします。\n\n迷い続けるのは自然なことです。まずは小さな一歩を踏み出し、状況に合わせて調整していくのがおすすめです。",
+   "finish": "eog",
+   "n_tokens": 205,
+   "loop": false
+  },
+  {
+   "id": "eval:338",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:339",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "直接言うのがおすすめです。\n\n「まだ様子を見る」のは、音が聞こえる頻度や時間帯が不明確な場合や、まずは自分の部屋で防音対策を徹底してからという状況なら有効ですが、すでに「音がうるさい」とおっしゃっている以上、放置するだけでは解決しません。\n\n特に、**「直接話す」**ことで以下のメリットがあります。\n1. **解決のスピード**: 管理会社を通さず、相手と直接話し合えば即座に改善できる可能性があります。\n2. **関係性の維持**: 管理会社や自治体に苦情を言うよりも、住人同士で話し合う方が、今後の隣人関係が円滑になりやすいです。\n3. **証拠の収集**: 直接話して「改善していない」という事実を管理会社へ伝える際、より説得力が増します。\n\nただし、**「怒りや不満をぶつける」のではなく、「生活が支障をきたしている」という事実を優しく伝える**のがコツです。もし相手が拒絶したり、対応が難しい場合は、その記録を管理会社へ提出するのが次のステップになります。\n\nまずは、相手が「うるさいと気づいていない」可能性を考慮して、一度直接話し合うことをお勧めします。",
+   "finish": "eog",
+   "n_tokens": 254,
+   "loop": false
+  },
+  {
+   "id": "eval:340",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "はい、正直に相談することをお勧めします。\n\n疲れが原因でミスが続いている場合、上司に「最近疲れが溜まっていて、集中力が続かないので、少し休んでリフレッシュしたい」と伝えることで、以下のメリットがあります。\n\n1.  **理解を得やすくなる**: 「能力不足」ではなく「体調・疲労」による問題だと伝えれば、上司も理解を示し、サポートや業務の調整をしてくれる可能性が高いです。\n2.  **ミスを減らせる**: 休んでリフレッシュすることで、脳が正常に機能し、ミスが減るため、結果的に評価も上がります。\n3.  **信頼関係が深まる**: 隠すのではなく、自分の状況を率直に伝えることは、信頼関係を築く良い機会になります。\n\nただし、相談する際は「能力がない」というニュアンスではなく、「今は体調が優れず、サポートが必要」という前向きな姿勢で伝えると、よりスムーズに受け入れられます。\n\n迷っているようであれば、具体的な言い回しや、相談するタイミングについて一緒に考えましょう。",
+   "finish": "eog",
+   "n_tokens": 223,
+   "loop": false
+  },
+  {
+   "id": "eval:341",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:342",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "留守番させるのがかわいそうなら、無理に仕事を減らす必要はありません。代わりに、以下の方法を試してみてください。\n\n1. **留守番の時間を短くする**\n   - 仕事量を減らすより、留守番の時間を短くして、犬が家にいる時間を増やすのが現実的です。\n   - 例：1 日 2 回、1 時間ずつ留守番させるなど、分割して短時間にする。\n\n2. **留守番中の快適さを高める**\n   - 留守番中は、犬が快適に過ごせる環境を整えます。\n   - 例：水と食料を常に用意し、留守番中の音を遮断する（静かな部屋にする）など。\n\n3. **他の犬や家族との交流を増やす**\n   - 犬が寂しくないように、他の犬や家族との交流を増やします。\n   - 例：他の犬と散歩に出かけたり、家族が犬と遊ぶ時間を増やしたり。\n\n4. **専門家のアドバイスを受ける**\n   - 犬の健康や行動について不安がある場合は、獣医師や動物行動専門家に相談してください。\n\n最終的には、犬の健康と幸福を最優先に考え、ご自身の仕事と犬の生活のバランスを見つけてください。",
+   "finish": "eog",
+   "n_tokens": 271,
+   "loop": false
+  },
+  {
+   "id": "eval:343",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:344",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！ラジオ体操を一緒にやってみましょう。\n\nまずは立ち姿で、両手を肩の高さに持ち上げて「上」をします。次に、両手を胸の前で組み、左右に大きく振って「横」をします。\n\nゆっくりと、気持ちよくやってみてくださいね。もしどこか痛くなったら、すぐに止めてくださいね。",
+   "finish": "eog",
+   "n_tokens": 73,
+   "loop": false
+  },
+  {
+   "id": "eval:345",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！季語を決めて一句ずつ詠んでみましょう。\n\nでは、季語を**「雪」**にします。\n冬の静寂と、白く澄んだ世界を表現してみませんか？\n\nまずは私から一句：\n**「雪の音なし、静かなる夜」**\n\nあなたの一句、いかがでしょうか？",
+   "finish": "eog",
+   "n_tokens": 69,
+   "loop": false
+  },
+  {
+   "id": "eval:346",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！日曜に一緒に登りましょう。どこへ登りますか？",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:347",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！一緒に学んで、包丁のさばきも上達できそうです。いつの教室ですか？",
+   "finish": "eog",
+   "n_tokens": 24,
+   "loop": false
+  },
+  {
+   "id": "eval:348",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！じゃあ、私が最初から出します。\n\n**なぞなぞ**\n「川を渡ったが、足跡一つも残らなかった。どうした？」\n\n（答えは後で教えてくださいね！）",
+   "finish": "eog",
+   "n_tokens": 47,
+   "loop": false
+  },
+  {
+   "id": "eval:349",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！一緒に読み進め、終わったら感想を言い合えば、より面白くなると思います。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:350",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！今夜の満月は綺麗でしょう。どこで観る予定ですか？",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:351",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "いいですね！四字熟語のしりとり、面白そうです。\n\n私が始めてみます：\n**「春を待つ」**（はるをまつ）\n\n次は「春」から始まる四字熟語を教えてください！",
+   "finish": "eog",
+   "n_tokens": 47,
+   "loop": false
+  },
+  {
+   "id": "eval:352",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "はい、承知いたしました。\n\nご提示いただいた「安心感」「地域への愛着」「集まりの目的」の 3 つの要素を盛り込んだ、具体的な挨拶原稿を作成しました。\n状況に合わせて（例：暑さ・寒さ、具体的な議題）角括弧「」内の部分を書き換えてご使用ください。\n\n---\n\n### 町内会集まり 司会挨拶原稿案\n\n**（挨拶開始）**\n\n「こんにちは、〇〇（自分の名前）です。今回は司会を務めます。\n\nまず、この暑い（寒い）中、皆様が元気にお集まりいただき、ありがとうございます。\n普段は顔を合わせないことも多いですが、今日は皆で一緒に笑い、地域をより良くするためのアイデアを出し合いたいと思います。\n\n私たちがこの町内会という場所には、単に住む場所としてだけでなく、心から愛しているという思いがあります。\nまた、この地域で暮らす皆様には、いつも温かいご支援とご協力をいただいております。その心から、皆様に感謝申し上げます。\n\n今回は、〇〇（今回の議題：例：近隣交流の促進 / 防災訓練の準備 / 敬老会など）について話し合います。\n普段は顔を合わせないことも多いですが、今日は皆で一緒に笑い、地域をより良くするためのアイデアを出し合いたいと思います。\n\nでは、まずは〇〇（最初の議題）から始めましょう。」\n\n---\n\nこの原稿は、緊張を解くための「感謝」と「愛着」を前面に出しつつ、具体的な「目的」を伝えるバランスの取れた構成です。\nもし、よりカジュアルな雰囲気や、特定の話題（例：防災訓練の具体的な手順など）を盛り込みたい場合は、さらに調整いたしますのでおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 373,
+   "loop": false
+  },
+  {
+   "id": "eval:353",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "もちろんです！二泊三日の京都・奈良旅行の一日ごとのおすすめプランをまとめました。\n\n---\n\n### **1日目：奈良の自然と歴史**\n*   **朝**: 奈良公園（東大寺、春日大社、奈良公園の鹿）\n*   **昼**: 奈良市でランチ（奈良牛や鹿肉料理）\n*   **午後**: 奈良国立博物館（国宝や重要文化財が多数展示）\n*   **夜**: 奈良駅周辺で夕食（居酒屋やラーメン）\n\n### **2日目：京都の古都情緒**\n*   **朝**: 京都駅周辺で朝食\n*   **移動**: 新幹線または特急で京都へ（約30分）\n*   **昼**: 清水寺周辺（清水寺、八坂神社、二年坂・三年坂）\n*   **午後**: 金閣寺・龍安寺（北山エリア）\n*   **夜**: 祇園エリアで夕食（花見小路や祇園の飲食店）\n\n### **3日目：京都の文化と帰路**\n*   **朝**: 京都駅周辺で朝食\n*   **昼**: 京都駅でランチ（駅前の飲食店や、駅前のカフェ）\n*   **午後**: 京都駅周辺でショッピングや、最後の観光（四条河原町など）\n*   **夜**: 京都駅で夕食（駅前の飲食店）\n*   **帰路**: 新幹線または特急で奈良へ（または直接帰国）\n\n---\n\nこのプランは、移動の効率と観光のバランスを考慮して作成しました。\nもし、特定のエリアにこだわりたい、または予算や移動手段（新幹線かバスか）が異なる場合は、さらに調整することも可能です！",
+   "finish": "eog",
+   "n_tokens": 389,
+   "loop": false
+  },
+  {
+   "id": "eval:354",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "秋の紅葉狩り記事に最適なタイトル案を 5 つ提案します。\n\n1. **感動・情緒重視**\n   「木々の色が燃える瞬間：私の紅葉狩り体験記」\n\n2. **実用・攻略重視**\n   「失敗しない紅葉狩りガイド：服装・持ち物・ルートまで」\n\n3. **疑問・解決型**\n   「紅葉が見頃なのに行かない？その理由と対策」\n\n4. **ストーリー・体験談型**\n   「去年は行けなかったが、今年は…紅葉狩りの再挑戦」\n\n5. **SEO 対策・検索されやすい型**\n   「【2024 年】おすすめの紅葉狩りスポットと見頃時期まとめ」\n\n記事のトーンやターゲットに合わせて、どれか一つを選んでみてください。",
+   "finish": "eog",
+   "n_tokens": 173,
+   "loop": false
+  },
+  {
+   "id": "eval:355",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "はい、ぜひ！猫の**毛色**や**顔の特徴**、**性格**（活発か静かか）、あるいは**生まれた場所**や**好きな食べ物**など、どんな特徴があるか教えていただけますか？\n\nそれによって、よりぴったりな名前をいくつか提案できますよ。",
+   "finish": "eog",
+   "n_tokens": 61,
+   "loop": false
+  },
+  {
+   "id": "eval:356",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "米寿（100 歳）のお祝いにふさわしい、短く温かいメッセージを 3 つ提案します。\n\n1. 百歳のお誕生日を心よりお祝い申し上げます。健康で長寿の人生を、さらに素晴らしいものにしていただければ幸いです。\n2. 100 歳という素晴らしいご年配を、心からお祝い申し上げます。ご健やかに、ご多幸をお過ごしください。\n3. 百歳の節目を心よりお祝い申し上げます。ご健康を最優先に、穏やかに過ごされることを心より願っております。",
+   "finish": "eog",
+   "n_tokens": 123,
+   "loop": false
+  },
+  {
+   "id": "eval:357",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "ご要望に合わせて、ご自身の趣味（料理と映画鑑賞）を英語で表現する文をいくつか作成しました。状況や相手に合わせて使い分けてみてください。\n\n---\n\n### 1. シンプルに伝える場合\n（自己紹介や簡単な会話で使います）\n\n> \"My hobbies are **cooking** and **watching movies**.\"\n> （私の趣味は料理と映画鑑賞です。）\n\n*   **ポイント:**\n    *   **Hobbies** は「趣味」の複数形です。\n    *   **Cooking** は「料理をする」の動名詞形です。\n    *   **Watching movies** は「映画を見る」の自然な表現です。\n\n---\n\n### 2. 少し詳しく話す場合（会話で使えます）\n（「暇な時間は〜します」というニュアンスで、より自然に話せます）\n\n> \"In my free time, I enjoy **cooking** and **watching movies**.\"\n> （暇な時間は、料理と映画鑑賞を楽しんでいます。）\n\n*   **ポイント:**\n    *   **In my free time** は「暇な時間」や「自由な時間」です。\n    *   **Enjoy** は「楽しむ」で、趣味を語るのによく使われます。\n\n---\n\n### 3. 理由を添えて話す場合（より自然な会話）\n（なぜ好きなのかを少し説明すると、印象に残ります）\n\n> \"I really like **cooking** because I love trying new recipes. Also, I enjoy **watching movies** to relax after a long day.\"\n> （私は新しいレシピを試すのが好きなので、料理が大好きです。また、一日の疲れを癒やすために映画鑑賞も好きです。）\n\n*   **ポイント:**\n    *   **Trying new recipes** は「新しいレシピを試す（作る）」という意味です。\n    *   **To relax** は「リラックスして（癒やして）」という意味で、映画鑑賞の目的を表しています。\n\n---\n\n### 会話練習（ロールプレイ）\nもしよろしければ、この情報を元に私が質問を投げかけてみましょうか？\n\n**私（AI）:** \"That sounds great! What kind of food do you like to cook? Do you prefer Japanese food or Western food?\"\n（それは素晴らしいですね！どんな料理が好きですか？日本食と西洋食、どちらが好きですか？）\n\n**あなた:** （好きな料理や理由を英語で答えてください）\n\n---\n\n**ご自身の趣味について、もっと詳しく知りたいですか？**\n例えば「どんな料理が好きか（寿司？パスタ？）」や「どんな映画が好きか（アクション？ドラマ？）」について、英語で説明できるフレーズも一緒に作れますよ。",
+   "finish": "eog",
+   "n_tokens": 579,
+   "loop": false
+  },
+  {
+   "id": "eval:358",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "はい、わかりました。\n\n| 特徴 | 見開き一週間型（ウィークリー） | 一か月の型（マンスリー） |\n| :--- | :--- | :--- |\n| **主な用途** | 日々の具体的な予定管理、タスクチェック | 月全体の大きな流れ、目標、長期イベントの把握 |\n| **時間の粒度** | 非常に細かく（1 時間〜30 分単位） | 粗く（日付単位のみ） |\n| **書き込みのしやすさ** | 朝から夜まで、隙間を埋めやすく、優先順位付けしやすい | 1 日の細かい予定は書き込めない |\n| **視覚的なメリット** | 「今日は何をしてるか」が一目でわかる | 「この月はどんな月か」が一目でわかる |\n| **おすすめな人** | 忙しい人、細かいスケジュールを管理したい人 | 目標を掲げたい人、大きなイベントを把握したい人 |\n| **デジタル連携** | 日付単位のカレンダーと自然に一致する | 日付単位のカレンダーと一致しにくい |\n\n**結論として：**\n「予定を書き込む」ことがメインであれば、**「見開き一週間型」**が圧倒的に便利です。\n「一か月の型」は、月初めに大きなイベントや目標を埋める「骨子」として使うのがおすすめです。\n\nどちらが便利か迷ったら、まずは「見開き一週間型」から始めてみてください。",
+   "finish": "eog",
+   "n_tokens": 323,
+   "loop": false
+  },
+  {
+   "id": "eval:359",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "部活の後輩への引退挨拶、短く温かいスピーチですね。\n「感謝」「思い出」「応援」の 3 つを軸に、30 秒で収まるよう構成しました。\n\n---\n\n### 🗣️ 短めスピーチ（30 秒程度）\n\n**「〇〇、本当にありがとう。**\n**部活で過ごした時間は、僕たちにとって宝物だ。**\n**引退しても、部活のことは忘れないでほしい。**\n**僕たちは、〇〇の頑張りをずっと見ていて、誇りに思っているよ。**\n**次は、もっと広い世界で、もっと輝いてほしいな。**\n**いつでも、僕たちは〇〇を応援しているから。**\n**ありがとう！」**\n\n---\n\n### 💡 発表のポイント\n*   **目線**: 相手の目を見て、笑顔で話すだけで十分です。\n*   **テンポ**: 言葉に詰まるより、少し早め、はっきりと伝える方が伝わりやすいです。\n*   **トーン**: 悲しみを煽らず、「前向きな別れ」を伝えるよう、穏やかで力強い声で話してください。\n\nこのまま使って大丈夫です。後輩の成長を認めるあなたの姿勢が、彼らにとって一番の力になります。応援しています！",
+   "finish": "eog",
+   "n_tokens": 281,
+   "loop": false
+  },
+  {
+   "id": "eval:360",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:361",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:362",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:363",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:364",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:365",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:366",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:367",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:368",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:369",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:370",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "素敵ですね！どんな料理をイメージされていますか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:371",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "◇ あらら、困りましたね。代わりにパン粉や片栗粉、あるいはお菓子類があれば、それを使って代用できるレシピがあるかもしれませんよ。",
+   "finish": "eog",
+   "n_tokens": 33,
+   "loop": false
+  },
+  {
+   "id": "eval:372",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:373",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！また何かあればいつでもお尋ねくださいね。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:374",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お手伝いできてよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:375",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:376",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:377",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:378",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！台所のことならお手伝いできるのが嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:379",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！冷蔵庫の残り物を活用するのは、とても賢いアイデアですね。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:380",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "すごい！初めてのアジ、上手にさばけましたか？",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:381",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ すごい！息子さんがおかわりしてくれたなんて、きっと大成功でしたね。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:382",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ あらら、焦がしちゃいましたね。焦げ味がついていれば、少しだけ美味しく食べられるかもしれません。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:383",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ こんばんは！お台所から失礼しますね。ゆっくりお過ごしください。",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:384",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ おっす！元気だよ。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:385",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ はい、今よろしいです。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:386",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:387",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "大さじ1杯は約15ミリリットル、小さじ1杯は約5ミリリットルです。\n大さじ2杯は30ミリリットル、小さじ3杯は15ミリリットルなので、合計は45ミリリットルになります。",
+   "finish": "eog",
+   "n_tokens": 64,
+   "loop": false
+  },
+  {
+   "id": "eval:388",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "小さじ1は約5mlです。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:389",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "大豆です。",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:390",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "身が崩れないコツは、火加減を優しくすることです。弱火でじっくり煮て、最後に塩味を効かせると、身が締まって美味しく仕上がります。",
+   "finish": "eog",
+   "n_tokens": 38,
+   "loop": false
+  },
+  {
+   "id": "eval:391",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "アク抜きには、鍋に水と塩を入れて沸騰させ、ほうれん草を投入して10 秒ほど茹でる方法がおすすめです。その後、すぐに冷たい水で冷やして水気を切ればアクが抜けて、しっとりとした食感になります。",
+   "finish": "eog",
+   "n_tokens": 59,
+   "loop": false
+  },
+  {
+   "id": "eval:392",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "廃油は自治体の指定ゴミ袋（黄色い袋）に入れて、指定日に出すのが一般的です。ただし、地域や自治体によってルールが異なる場合があるので、まずはご住んでいる地域のゴミ収集ルールを確認することをおすすめします。",
+   "finish": "eog",
+   "n_tokens": 50,
+   "loop": false
+  },
+  {
+   "id": "eval:393",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "献立を毎日考えるのは確かに大変ですね。まずは「1 週間分」だけまとめて、その中で「2 日分」を先に決めることから始めてみてはいかがでしょうか。また、同じ食材を 2 日分使うレシピを 1 つ作っておくのも手です。",
+   "finish": "eog",
+   "n_tokens": 60,
+   "loop": false
+  },
+  {
+   "id": "eval:394",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "通ってみるのもいいですね！まずは体験クラスから始めて、雰囲気が合うか確認するのがおすすめです。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:395",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね！どんな食材を探しますか？",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:396",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね！どんな料理に挑戦しますか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:397",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、承知いたしました。来週の夕食の献立を五日分作成しますね。\n\n**【来週の夕食献立案】**\n\n*   **月曜日**：鶏肉の照り焼きと、ほうれん草の油揚げ炒め\n*   **火曜日**：豚肉の生姜焼きと、大根おろし\n*   **水曜日**：豆腐の煮物と、鶏もも肉の唐揚げ\n*   **木曜日**：牛肉のタレ焼きと、キャベツの千切り\n*   **金曜日**：魚の天ぷらと、わかめの煮物\n\nご家庭の味やアレルギーなど、ご要望があれば教えてください。",
+   "finish": "eog",
+   "n_tokens": 149,
+   "loop": false
+  },
+  {
+   "id": "eval:398",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、もちろんできます！\n「4 人分」の分量を「2 人分」に半分にすればいいので、材料の量だけを半分にして、手順はそのまま使ってください。\n\nもし具体的な材料のリストがあれば、そのまま変換して渡しますね。",
+   "finish": "eog",
+   "n_tokens": 57,
+   "loop": false
+  },
+  {
+   "id": "eval:399",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、承知いたしました。\n寄せ鍋の材料を、野菜類、肉・魚類、調味料・麺類、その他に分けてリストを作成します。\nお好みの具材や、お好みの鍋のタイプ（野菜中心、肉中心など）を教えていただければ、より具体的なリストをお伝えできます。",
+   "finish": "eog",
+   "n_tokens": 65,
+   "loop": false
+  },
+  {
+   "id": "eval:400",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:401",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:402",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:403",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:404",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:405",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:406",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:407",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:408",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:409",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:410",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:411",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:412",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:413",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 何事か、大変だったようですね。お大事になさってください。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:414",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:415",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！いつでもお手伝いできますよ。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:416",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく説明できてよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:417",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:418",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:419",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 無事に印刷できましたね！助かりました。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:420",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ お疲れ様です！新しいノートPC、早速ご活用ください。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:421",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ ありがとうございます！安全にしておきましたね。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:422",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 安心ですね。これでウイルス対策も万全です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:423",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ お疲れ様です！営業部の方ですね。何かお手伝いできることがありましたら、お気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 26,
+   "loop": false
+  },
+  {
+   "id": "eval:424",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！また会えてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:425",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ おはようございます！朝一番の挨拶、ありがとうございます。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:426",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "コピー（複製）の機能です。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:427",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "101（二進数）は十進数で 5 です。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:428",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "共有フォルダへのアクセスには、通常、共有リンクをコピーしてブラウザやアプリで開く、または共有権限を持つユーザー名とパスワードを入力してログインする必要があります。具体的な手順は、どの共有サービス（Google Drive、OneDrive、社内システムなど）を使用しているかによって異なりますので、もし具体的なサービス名を教えていただければ、より詳しい手順をお伝えできます。",
+   "finish": "eog",
+   "n_tokens": 75,
+   "loop": false
+  },
+  {
+   "id": "eval:429",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "右クリックして「アイコンの配置」を選び、「自動配置」や「手動配置」に切り替えて並べ替えます。",
+   "finish": "eog",
+   "n_tokens": 28,
+   "loop": false
+  },
+  {
+   "id": "eval:430",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "HDMI ケーブルで接続し、ノートパソコンの画面表示を「拡張」または「複製」に切り替えてください。",
+   "finish": "eog",
+   "n_tokens": 28,
+   "loop": false
+  },
+  {
+   "id": "eval:431",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "お使いの PC の性能や、現在の業務の負荷、また購入予定の機種との比較結果など、判断材料があれば、それに基づいて「今すぐ出す」「少し待ってもいい」「後で検討する」などのアドバイスが可能です。",
+   "finish": "eog",
+   "n_tokens": 50,
+   "loop": false
+  },
+  {
+   "id": "eval:432",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "紙に書くのはセキュリティの観点から避けたほうが無難です。代わりに、パスワードマネージャーアプリを使うか、メモ帳に保存して暗号化して保管する方法がおすすめです。",
+   "finish": "eog",
+   "n_tokens": 38,
+   "loop": false
+  },
+  {
+   "id": "eval:433",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "遅い状況が頻繁にあるなら、会社に報告したほうが良いですね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:434",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね、ぜひ参加しましょう！",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:435",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね、一緒に行きましょう！",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:436",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね、ぜひ一緒に試してみましょう！",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:437",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、承知いたしました。共有フォルダの閲覧権限を付与いたします。\n（※実際の操作には、フォルダ名や同僚のユーザー名、パスワードが必要になります。もしよろしければ、詳細をお知らせください。）",
+   "finish": "eog",
+   "n_tokens": 49,
+   "loop": false
+  },
+  {
+   "id": "eval:438",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、設定を代行いたします。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:439",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "アカウントのロック解除について、具体的な状況やエラーメッセージをお聞かせいただけますでしょうか？また、どのサービスやシステムでロックされているか教えていただければ、対応方法を詳しくご案内できます。",
+   "finish": "eog",
+   "n_tokens": 37,
+   "loop": false
+  },
+  {
+   "id": "eval:440",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:441",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:442",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:443",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:444",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:445",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:446",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:447",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:448",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:449",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:450",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:451",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:452",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:453",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:454",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！また何かあればいつでも聞いてくださいね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:455",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！喜んでお手伝いしました。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:456",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:457",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく説明するのが私の役目です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:458",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:459",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！数字にこだわって計算するのが、家計管理の一番の近道ですよ。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:460",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！アイデア出しは楽しいですね。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:461",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ すごい達成感ですね！5 万円は大きな成果です。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:462",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 節約に成功したんですね！お疲れ様でした。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:463",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ すごい節約意識ですね！週一回にすると、お金の流れがはっきり見えて、無駄な出費が減るかもしれません。",
+   "finish": "eog",
+   "n_tokens": 28,
+   "loop": false
+  },
+  {
+   "id": "eval:464",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！また家計のことでお話しできるの、嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:465",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ 元気です！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:466",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！お疲れ様でした。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:467",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "10枚になります。",
+   "finish": "eog",
+   "n_tokens": 5,
+   "loop": false
+  },
+  {
+   "id": "eval:468",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "100万円×2%で、2万円です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:469",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "2500円の2割引きは500円なので、1000円になります。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:470",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "家計簿アプリは、まず「支出を記録する」ことと「カテゴリ分け（食費、光熱費など）」を徹底するのがコツです。毎日1分でも記録し続ければ、自然と家計の傾向が見えてきます。",
+   "finish": "eog",
+   "n_tokens": 52,
+   "loop": false
+  },
+  {
+   "id": "eval:471",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "固定費を見直す手順は、まず家計簿で1 年間の支払いを整理し、契約内容や金額を確認します。次に、必要のないサービスや高すぎる料金を見つけ、交渉や乗り換えを検討します。最後に、見直した後の家計をシミュレーションし、実行します。",
+   "finish": "eog",
+   "n_tokens": 65,
+   "loop": false
+  },
+  {
+   "id": "eval:472",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "家計簿をつけて、出費を細かく把握することから始めましょう。特に「なんとなく」の買い物や、見落としがちな定期代をリストアップすると、無駄な出費が浮き彫りになります。",
+   "finish": "eog",
+   "n_tokens": 46,
+   "loop": false
+  },
+  {
+   "id": "eval:473",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "車を手放すかどうかは、通勤・通学距離や家族構成、維持費（保険、税金、ガソリン、修繕費）と、それらを代替する交通手段（電車、バス、シェアサイクル、タクシー）の利便性を比較して判断するのがおすすめです。",
+   "finish": "eog",
+   "n_tokens": 59,
+   "loop": false
+  },
+  {
+   "id": "eval:474",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "両方重要ですが、まずは「今すぐ必要なもの」から優先します。教育費は早めに準備したほうが安心ですが、老後資金も基礎的な貯蓄を先に積み立てることをおすすめします。バランスよく進めましょう。",
+   "finish": "eog",
+   "n_tokens": 49,
+   "loop": false
+  },
+  {
+   "id": "eval:475",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね！一緒に始めましょう。まずは今日から、1 日 100 円以下の買い物に挑戦してみませんか？",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "eval:476",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね！お互いの支出が見えて、より節約できるかもしれません。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:477",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "いいですね！一緒に勉強しましょう。どんな勉強会ですか？",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:478",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "はい、作成いたします！今月の収入と支出の項目、または目標金額を教えていただけますか？",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "eval:479",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "手取り25万円の場合、一般的な家計の配分例は以下の通りです。\n\n1. **固定費（家賃・光熱費・通信費・保険など）**：約4〜5万円\n   - 家賃：1.5〜2万円\n   - 光熱費：1〜1.5万円\n   - 通信費：1〜1.5万円\n   - 保険・その他：0.5〜1万円\n\n2. **生活費（食費・日用品・交通費など）**：約3〜4万円\n   - 食費：1.5〜2万円\n   - 日用品・交通費：1〜1.5万円\n\n3. **貯金・投資**：約5〜6万円\n   - 月1万円ずつ貯金（目標：1万円/月）\n   - 投資（株式や信託投資信託など）：4〜5万円\n\n4. **娯楽・教育費・予備費**：約2〜3万円\n   - 娯楽費：1〜1.5万円\n   - 教育費：0.5〜1万円\n   - 予備費：0.5〜1万円\n\nこのように配分することで、生活費を賄いつつ、貯蓄や投資も進められます。具体的な金額はご自身の生活スタイルや地域によって異なりますので、必要に応じて調整してください。",
+   "finish": "eog",
+   "n_tokens": 307,
+   "loop": false
+  },
+  {
+   "id": "eval:480",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:481",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:482",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "いいですね、今日はお任せします！",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:483",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:484",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:485",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:486",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:487",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:488",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:489",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:490",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！トマトが美味しくなることを応援しています。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:491",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:492",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！いつもお役に立てて光栄です。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:493",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！植物のことは大好きです。何かお手伝いできることがありましたら、いつでもおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "eval:494",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！わかりやすく伝えるのが私の役目です。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:495",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ すごい収穫ですね！きゅうりって朝が一番美味しいですよ。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:496",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ 素敵ですね！新しい花壇はどんな色にしましたか？",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:497",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ いいですね！ハーブは香りも素敵で、料理にも使えますね。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:498",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！またお越しくださいました。どんな苗を探していますか？",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:499",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ 元気ですよ！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:500",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "ひまわりはキク科の植物です。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:501",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "クロロフィル（葉緑素）です。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:502",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "バジルは挿し木が非常に簡単で、成功率が高い植物です。\n\n1.  **茎の切り取り**: 健康そうな茎を約5〜10cm ほど切り取ります。葉を少し取って、茎の下部を少し斜めに切ると根付きやすくなります。\n2.  **挿し木**: 水挿し（水に浸す）か、土挿し（土に挿す）のどちらでも可能です。\n    *   **水挿し**: 透明なビニール袋や瓶に水を入れ、茎を浸します。数日〜1週間ほどで根が出始めます。\n    *   **土挿し**: 軽めの土（赤玉土や軽石など）に挿し、土が乾いたら水やりをします。\n3.  **管理**: 直射日光を避け、風通しの良い場所で育てます。根が出たら、新しい鉢に植え替えても大丈夫です。\n\nぜひ試してみてください！",
+   "finish": "eog",
+   "n_tokens": 213,
+   "loop": false
+  },
+  {
+   "id": "eval:503",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "ホームセンターで市販の培養土を使うのが一番簡単で安全です。自分で作るなら、赤玉土、腐葉土、パーライトを 6:3:1 の割合で混ぜると、水はけと保水性のバランスが良くなりますよ。",
+   "finish": "eog",
+   "n_tokens": 56,
+   "loop": false
+  },
+  {
+   "id": "eval:504",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "庭が狭い場合、スペースを最小限で収穫できる「ミニトマト」や「ナス」など、低木性の果樹を選ぶのがおすすめです。また、プランターや吊り鉢で育てる方法もありますよ。",
+   "finish": "eog",
+   "n_tokens": 47,
+   "loop": false
+  },
+  {
+   "id": "eval:505",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "プランターから始めるのがおすすめです。場所を選ばず、すぐに収穫を楽しめるので挫折しにくいからです。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:506",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！どんなバラが咲いていますか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:507",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！一緒に苗市をのぞきましょう。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:508",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "はい、喜んで作成いたします！\n\nまずは、お住まいの地域（気候）と、育てたい作物（野菜や花）をお知らせください。それによって、最適な播種時期や作業内容（水やり、施肥、収穫など）を具体的に提案できます。\n\nもしまだ決まっていない場合は、一般的な「春・夏・秋・冬」の家庭菜園の作業スケジュールの例を、そのまま作成することも可能です。\n\nどちらで進めましょうか？",
+   "finish": "eog",
+   "n_tokens": 97,
+   "loop": false
+  },
+  {
+   "id": "eval:509",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "もちろんです！苗の種類や育てている期間、水やりや肥料の記録など、どんな情報を入れるか教えていただければ作ります。",
+   "finish": "eog",
+   "n_tokens": 29,
+   "loop": false
+  },
+  {
+   "id": "eval:510",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:511",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:512",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:513",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "◇ そうですね、お皿が清潔だと犬や猫も安心して食べられますよ。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "eval:514",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:515",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:516",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:517",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:518",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "◇ そうですか、お掃除のタイミングですね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:519",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "◇ あらら、とても可愛いですね。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:520",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お子様のことが心配なら、いつでも相談してくださいね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:521",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:522",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:523",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:524",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:525",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ おめでとうございます！新しい家族ができましたね。最初は少し緊張されるかもしれませんが、一緒に成長していくのが楽しみです。",
+   "finish": "eog",
+   "n_tokens": 22,
+   "loop": false
+  },
+  {
+   "id": "eval:526",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ すごいですね！おめでとうございます。十歳は猫の人生でとても素晴らしい年齢です。",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:527",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！またお会いできてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:528",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ 元気ですよ！そちらはどうですか？",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:529",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ はい、ぜひお話ししましょう！",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:530",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "犬の祖先といわれるのは、狼です。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:531",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "猫の前足の指は、左右合わせて10本あります。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:532",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "猫が嫌がらないように、まずはリラックスできる場所で触り、爪の形を少しだけ見せておいてから、短く切るようにします。爪の先だけ切り、根元は避けてください。",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": false
+  },
+  {
+   "id": "eval:533",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "子犬のトイレトレーニングは、まず「トイレ」の場所を固定して、その前に散歩や食事をする習慣を身につけさせます。\nおしっこをした直後に褒めてあげると、その場所をトイレだと覚えてくれます。\nまた、おしっこをした後にすぐに「トイレ」の場所へ誘導し、成功したらすぐに褒めるのがコツです。\nもしおしっこを室内でした場合は、すぐにその場所を洗って、匂いが残らないようにしてください。\nもし体調の異変が疑われる場合は、動物病院の受診をおすすめします。",
+   "finish": "eog",
+   "n_tokens": 123,
+   "loop": false
+  },
+  {
+   "id": "eval:534",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "留守が多い場合は、犬が寂しくなりストレスを感じたり、吠えたりするリスクがあります。まずは、犬の性格や年齢、ご自身の生活リズムを考慮して、本当に飼えるか確認することをおすすめします。もし飼う場合は、必ず誰かが犬を散歩や世話に付き添える時間を確保してくださいね。",
+   "finish": "eog",
+   "n_tokens": 68,
+   "loop": false
+  },
+  {
+   "id": "eval:535",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "二匹目の猫を迎えるのは、寂しさを紛らわせる良い方法ですが、お宅のスペースや、今の生活リズムが許容できるか、まずはご家族で話し合うのが一番です。",
+   "finish": "eog",
+   "n_tokens": 43,
+   "loop": false
+  },
+  {
+   "id": "eval:536",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！どんな犬さんですか？",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:537",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！一緒に散歩しましょうか。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:538",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "はい、作成いたします。\n日付、時間、距離、おやつ、排泄の有無、お風呂の回数など、ご記入したい項目を教えてください。",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "eval:539",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "子猫の名前ですね。性別や特徴に合わせて、いくつか提案します。\n\n**男の子向け**\n*   **ミスター**：元気な子に\n*   **ポチ**：小さくて愛らしい子に\n*   **タカシ**：少し気取った子に\n*   **ロバート**：落ち着いた子に\n\n**女の子向け**\n*   **ミミ**：小さくて可愛い子に\n*   **ルリ**：ふわふわした子に\n*   **ハナ**：明るく元気な子に\n*   **サクラ**：ピンク色や優しい子に\n\n**性別や特徴に関係なく**\n*   **ココ**：どこかへ行く子に\n*   **ニャン**：猫らしい名前\n*   **トモ**：仲良くなる子に\n\n子猫の顔や毛色、性格を見て、一番合う名前を選んでみてください。もし特定のイメージがあれば、それに合わせてさらに考えても大丈夫です。",
+   "finish": "eog",
+   "n_tokens": 211,
+   "loop": false
+  },
+  {
+   "id": "eval:540",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:541",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:542",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:543",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:544",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "はい、整理整頓して空にしますね。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:545",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:546",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:547",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:548",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:549",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:550",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！迅速にご対応できたなら幸いです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:551",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ 助かりました！何か他にわからないことがあれば、いつでも聞いてくださいね。",
+   "finish": "eog",
+   "n_tokens": 16,
+   "loop": false
+  },
+  {
+   "id": "eval:552",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！ご安心ください。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:553",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！的確に説明できたら幸いです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:554",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お役に立ててよかったです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:555",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ おめでとうございます！新しい家での生活、ワクワクしますね。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:556",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ 半分まで進んでおいて、安心ですね。残りも頑張ってください！",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:557",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ ありがとうございます！手続きが進んでいますね。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:558",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ おはようございます！引っ越しの件、お気をつけて。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:559",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！また連絡くれてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "eval:560",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "1坪はおよそ1.65畳です。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:561",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "1 メートルは 100 センチです。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:562",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "お皿を割れないように梱包するには、まずクッション材（新聞紙や段ボールの余り）で四隅を厚く包み、さらに段ボール箱に緩衝材を敷き詰めて固定します。",
+   "finish": "eog",
+   "n_tokens": 49,
+   "loop": false
+  },
+  {
+   "id": "eval:563",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "排水口のカバーを外して、水が流れる方向に指を当てて、ポンポンと押しながら引き抜くと、水がスムーズに流れます。",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "eval:564",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "平日に引っ越すと、家賃が安い場合が多いですが、週末は近所付き合いが活発になります。土日なら、近所付き合いは少ないですが、家賃は少し高くなる傾向があります。予算や近所付き合いの好みに合わせて選んでみてください。",
+   "finish": "eog",
+   "n_tokens": 55,
+   "loop": false
+  },
+  {
+   "id": "eval:565",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "持ち込むなら、荷造りの負担を減らすために必要なものだけを選び、捨てるなら、重くてかさばるものは特に検討してみてください。",
+   "finish": "eog",
+   "n_tokens": 31,
+   "loop": false
+  },
+  {
+   "id": "eval:566",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！新居の完成を祝って、ぜひ遊びに来てくださいね。",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "eval:567",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！ぜひ参加しましょう。いつの予定ですか？",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:568",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "荷造りのチェックリストは、以下の項目にチェックを入れてご使用ください。\n\n**【生活必需品】**\n- [ ] 服（上着、下着、靴下）\n- [ ] 靴\n- [ ] 傘\n- [ ] 手袋・帽子\n- [ ] 薬（常備薬、下痢止め、絆創膏）\n- [ ] 洗面用具（タオル、歯ブラシ、歯磨き粉）\n- [ ] 食器・コップ\n- [ ] 寝具（枕、毛布、シーツ）\n\n**【家電・小物】**\n- [ ] 充電器・ケーブル\n- [ ] 電源タップ\n- [ ] 電気毛布・暖房器具\n- [ ] 掃除機\n- [ ] 鍵（車、家）\n- [ ] 貴重品（現金、カード、重要書類）\n\n**【季節・地域別】**\n- [ ] 雨具（地域による）\n- [ ] 日焼け止め・帽子（夏・日差し強い場所）\n- [ ] 防寒着（冬・寒い場所）\n- [ ] 虫除けスプレー（夏・虫が多い場所）\n\n**【その他】**\n- [ ] 旅行用保険\n- [ ] 運転免許証（車利用の場合）\n- [ ] 現金（小銭）\n\nご旅行の目的地や期間を教えていただければ、さらに詳しくアドバイスできます。",
+   "finish": "eog",
+   "n_tokens": 311,
+   "loop": false
+  },
+  {
+   "id": "eval:569",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "はい、作成いたします。どのような形式（手紙、メール、SNS など）で伝える予定ですか？",
+   "finish": "eog",
+   "n_tokens": 21,
+   "loop": false
+  },
+  {
+   "id": "eval:570",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:571",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:572",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:573",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:574",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:575",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "◇ そうですね、新しい写真の方が印象的に見えますね。",
+   "finish": "eog",
+   "n_tokens": 13,
+   "loop": false
+  },
+  {
+   "id": "eval:576",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:577",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:578",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:579",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:580",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ どういたしまして！あなたの話を聞くことができて、とても嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "eval:581",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！応援していますよ。",
+   "finish": "eog",
+   "n_tokens": 8,
+   "loop": false
+  },
+  {
+   "id": "eval:582",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！あなたの話をよく聞いていますよ。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:583",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "eval:584",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そう言ってもらえて嬉しいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:585",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ 本当におめでとうございます！素晴らしい成果ですね。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:586",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ 本当にお疲れ様でした！新しい挑戦への一歩ですね。",
+   "finish": "eog",
+   "n_tokens": 15,
+   "loop": false
+  },
+  {
+   "id": "eval:587",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！今日も全力でサポートしますね。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:588",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ よし、また会えてうれしいです。",
+   "finish": "eog",
+   "n_tokens": 10,
+   "loop": false
+  },
+  {
+   "id": "eval:589",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ こんにちは！時間がありますよ。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:590",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "労働基準法では、1 週間の労働時間の上限は 40 時間です。ただし、これは「原則」であり、労働契約で定められた時間を超えても、労働者の同意があれば働ける場合があります。",
+   "finish": "eog",
+   "n_tokens": 46,
+   "loop": false
+  },
+  {
+   "id": "eval:591",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "平成元年は西暦1989年です。",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "eval:592",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "職務経歴書は、1. 自己PR（自己紹介）、2. 職務経歴（仕事歴）、3. 資格・スキル、4. 趣味・特技の4 つの項目で構成するのが一般的です。\n\n特に「職務経歴」は、単に「何をしていましたか」ではなく、「何を成し遂げましたか」を数字や具体的な成果で書くことがポイントです。\n\nまずは、ご自身の得意分野や成し遂げた実績をメモしておいて、その上で構成を考えましょう。何か特定の業界や職種について詳しく知りたい場合は、教えてくださいね。",
+   "finish": "eog",
+   "n_tokens": 124,
+   "loop": false
+  },
+  {
+   "id": "eval:593",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "背景をシンプルに、照明を顔に当てるのがポイントです。また、カメラは目の高さに合わせて、少し下を向いて見ると自然な印象になりますよ。",
+   "finish": "eog",
+   "n_tokens": 37,
+   "loop": false
+  },
+  {
+   "id": "eval:594",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "受けるべきかどうかは、今の生活スタイルや将来の目標によって変わります。\n\nもし「収入アップで生活が楽になること」や「新しい挑戦がしたい」という優先順位が強いなら、受ける価値は十分にあります。一方で、「今の安定を維持したい」や「忙しさが健康や家族の時間を圧迫する」と感じるなら、慎重に検討する必要があります。\n\n転職後の具体的な仕事内容や、残業の状況、通勤時間など、より詳細な情報があれば、より具体的なアドバイスができるかもしれません。",
+   "finish": "eog",
+   "n_tokens": 108,
+   "loop": false
+  },
+  {
+   "id": "eval:595",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "■ ……",
+   "finish": "eog",
+   "n_tokens": 3,
+   "loop": false
+  },
+  {
+   "id": "eval:596",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね、ぜひ一緒にいきましょう！",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:597",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "いいですね！一緒に頑張ります。",
+   "finish": "eog",
+   "n_tokens": 7,
+   "loop": false
+  },
+  {
+   "id": "eval:598",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "もちろんです！文章を貼り付けていただければ、添削と改善案をさせていただきます。",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "eval:599",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "はい、承知いたしました。どのような内容やトーン（丁寧、簡潔、など）で書きたいか教えていただけますか？それによって調整します。",
+   "finish": "eog",
+   "n_tokens": 32,
+   "loop": false
+  }
+ ]
+}

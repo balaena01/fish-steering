@@ -1,0 +1,205 @@
+{
+ "about": "40 English inputs written for a check added after seeing the results: 10 each of explanations, how-to questions and requests, and 10 thanks and greetings (kind ack)",
+ "items": [
+  {
+   "id": "english:0",
+   "kind": "explain",
+   "q": "Why is the sky blue?"
+  },
+  {
+   "id": "english:1",
+   "kind": "explain",
+   "q": "How do vaccines work?"
+  },
+  {
+   "id": "english:2",
+   "kind": "explain",
+   "q": "What causes the seasons on Earth?"
+  },
+  {
+   "id": "english:3",
+   "kind": "explain",
+   "q": "Explain how a refrigerator keeps food cold."
+  },
+  {
+   "id": "english:4",
+   "kind": "explain",
+   "q": "What is the difference between weather and climate?"
+  },
+  {
+   "id": "english:5",
+   "kind": "explain",
+   "q": "Why do cats purr?"
+  },
+  {
+   "id": "english:6",
+   "kind": "explain",
+   "q": "How does a bill become a law in the United States?"
+  },
+  {
+   "id": "english:7",
+   "kind": "explain",
+   "q": "What is photosynthesis?"
+  },
+  {
+   "id": "english:8",
+   "kind": "explain",
+   "q": "Why does bread rise?"
+  },
+  {
+   "id": "english:9",
+   "kind": "explain",
+   "q": "How do noise-cancelling headphones work?"
+  },
+  {
+   "id": "english:10",
+   "kind": "howto",
+   "q": "How do I make a good cup of pour-over coffee?"
+  },
+  {
+   "id": "english:11",
+   "kind": "howto",
+   "q": "How can I improve my sleep schedule?"
+  },
+  {
+   "id": "english:12",
+   "kind": "howto",
+   "q": "How do I change a flat bicycle tire?"
+  },
+  {
+   "id": "english:13",
+   "kind": "howto",
+   "q": "What is the best way to learn a new language as an adult?"
+  },
+  {
+   "id": "english:14",
+   "kind": "howto",
+   "q": "How do I start running if I have never exercised?"
+  },
+  {
+   "id": "english:15",
+   "kind": "howto",
+   "q": "How can I keep my houseplants alive?"
+  },
+  {
+   "id": "english:16",
+   "kind": "howto",
+   "q": "How do I write a good cover letter?"
+  },
+  {
+   "id": "english:17",
+   "kind": "howto",
+   "q": "How do I set up a monthly budget?"
+  },
+  {
+   "id": "english:18",
+   "kind": "howto",
+   "q": "How can I stop procrastinating?"
+  },
+  {
+   "id": "english:19",
+   "kind": "howto",
+   "q": "How do I clean a cast iron pan?"
+  },
+  {
+   "id": "english:20",
+   "kind": "request",
+   "q": "Write a short story about a lighthouse keeper."
+  },
+  {
+   "id": "english:21",
+   "kind": "request",
+   "q": "Write an email to my landlord asking to fix the heater."
+  },
+  {
+   "id": "english:22",
+   "kind": "request",
+   "q": "Give me a three-day itinerary for Kyoto."
+  },
+  {
+   "id": "english:23",
+   "kind": "request",
+   "q": "Write a product description for a reusable water bottle."
+  },
+  {
+   "id": "english:24",
+   "kind": "request",
+   "q": "Summarize the plot of Romeo and Juliet."
+  },
+  {
+   "id": "english:25",
+   "kind": "request",
+   "q": "Write a birthday message for my grandmother."
+  },
+  {
+   "id": "english:26",
+   "kind": "request",
+   "q": "Plan a vegetarian dinner menu for four people."
+  },
+  {
+   "id": "english:27",
+   "kind": "request",
+   "q": "Write a short poem about autumn rain."
+  },
+  {
+   "id": "english:28",
+   "kind": "request",
+   "q": "Draft a polite message declining a meeting invitation."
+  },
+  {
+   "id": "english:29",
+   "kind": "request",
+   "q": "Create a packing list for a weekend camping trip."
+  },
+  {
+   "id": "english:30",
+   "kind": "ack",
+   "q": "Thanks a lot for your help yesterday!"
+  },
+  {
+   "id": "english:31",
+   "kind": "ack",
+   "q": "You explained that really well."
+  },
+  {
+   "id": "english:32",
+   "kind": "ack",
+   "q": "I finally finished my thesis today."
+  },
+  {
+   "id": "english:33",
+   "kind": "ack",
+   "q": "Good morning! How are you doing?"
+  },
+  {
+   "id": "english:34",
+   "kind": "ack",
+   "q": "Thank you for the recipe, it turned out great."
+  },
+  {
+   "id": "english:35",
+   "kind": "ack",
+   "q": "Your advice was spot on."
+  },
+  {
+   "id": "english:36",
+   "kind": "ack",
+   "q": "I just got back from my trip to Lisbon."
+  },
+  {
+   "id": "english:37",
+   "kind": "ack",
+   "q": "Hey, long time no see!"
+  },
+  {
+   "id": "english:38",
+   "kind": "ack",
+   "q": "Thanks, that saved me a lot of time."
+  },
+  {
+   "id": "english:39",
+   "kind": "ack",
+   "q": "I adopted a puppy last weekend."
+  }
+ ]
+}

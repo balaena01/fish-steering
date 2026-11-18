@@ -1,0 +1,2565 @@
+{
+ "about": "which condition and input each item r#### of the two batches is (hidden from the evaluators)",
+ "items": {
+  "r0000": {
+   "condition": "system_prompt",
+   "id": "eval:report:13"
+  },
+  "r0001": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:36"
+  },
+  "r0002": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:16"
+  },
+  "r0003": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:39"
+  },
+  "r0004": {
+   "condition": "system_prompt",
+   "id": "eval:report:0"
+  },
+  "r0005": {
+   "condition": "system_prompt",
+   "id": "eval:praise:7"
+  },
+  "r0006": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:19"
+  },
+  "r0007": {
+   "condition": "system_prompt",
+   "id": "eval:greet:1"
+  },
+  "r0008": {
+   "condition": "lower_marker",
+   "id": "eval:praise:8"
+  },
+  "r0009": {
+   "condition": "fish",
+   "id": "eval:thanks:17"
+  },
+  "r0010": {
+   "condition": "lower_marker",
+   "id": "eval:greet:5"
+  },
+  "r0011": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:37"
+  },
+  "r0012": {
+   "condition": "system_prompt",
+   "id": "eval:praise:16"
+  },
+  "r0013": {
+   "condition": "fish",
+   "id": "eval:praise:26"
+  },
+  "r0014": {
+   "condition": "system_prompt",
+   "id": "eval:greet:25"
+  },
+  "r0015": {
+   "condition": "lower_marker",
+   "id": "eval:praise:6"
+  },
+  "r0016": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:30"
+  },
+  "r0017": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:38"
+  },
+  "r0018": {
+   "condition": "fish",
+   "id": "eval:greet:9"
+  },
+  "r0019": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:22"
+  },
+  "r0020": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:20"
+  },
+  "r0021": {
+   "condition": "lower_marker",
+   "id": "eval:report:29"
+  },
+  "r0022": {
+   "condition": "system_prompt",
+   "id": "eval:greet:12"
+  },
+  "r0023": {
+   "condition": "system_prompt",
+   "id": "eval:greet:18"
+  },
+  "r0024": {
+   "condition": "lower_marker",
+   "id": "eval:praise:34"
+  },
+  "r0025": {
+   "condition": "lower_marker",
+   "id": "eval:greet:37"
+  },
+  "r0026": {
+   "condition": "fish",
+   "id": "eval:praise:21"
+  },
+  "r0027": {
+   "condition": "fish",
+   "id": "eval:greet:25"
+  },
+  "r0028": {
+   "condition": "lower_marker",
+   "id": "eval:greet:12"
+  },
+  "r0029": {
+   "condition": "lower_marker",
+   "id": "eval:greet:34"
+  },
+  "r0030": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:5"
+  },
+  "r0031": {
+   "condition": "fish",
+   "id": "eval:greet:33"
+  },
+  "r0032": {
+   "condition": "system_prompt",
+   "id": "eval:report:39"
+  },
+  "r0033": {
+   "condition": "system_prompt",
+   "id": "eval:report:29"
+  },
+  "r0034": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:26"
+  },
+  "r0035": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:13"
+  },
+  "r0036": {
+   "condition": "system_prompt",
+   "id": "eval:praise:0"
+  },
+  "r0037": {
+   "condition": "system_prompt",
+   "id": "eval:report:20"
+  },
+  "r0038": {
+   "condition": "fish",
+   "id": "eval:greet:1"
+  },
+  "r0039": {
+   "condition": "system_prompt",
+   "id": "eval:greet:34"
+  },
+  "r0040": {
+   "condition": "system_prompt",
+   "id": "eval:greet:2"
+  },
+  "r0041": {
+   "condition": "fish",
+   "id": "eval:praise:24"
+  },
+  "r0042": {
+   "condition": "system_prompt",
+   "id": "eval:praise:22"
+  },
+  "r0043": {
+   "condition": "system_prompt",
+   "id": "eval:greet:20"
+  },
+  "r0044": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:29"
+  },
+  "r0045": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:26"
+  },
+  "r0046": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:39"
+  },
+  "r0047": {
+   "condition": "system_prompt",
+   "id": "eval:report:21"
+  },
+  "r0048": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:1"
+  },
+  "r0049": {
+   "condition": "lower_marker",
+   "id": "eval:praise:28"
+  },
+  "r0050": {
+   "condition": "fish",
+   "id": "eval:report:2"
+  },
+  "r0051": {
+   "condition": "lower_marker",
+   "id": "eval:report:36"
+  },
+  "r0052": {
+   "condition": "lower_marker",
+   "id": "eval:report:5"
+  },
+  "r0053": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:37"
+  },
+  "r0054": {
+   "condition": "system_prompt",
+   "id": "eval:report:37"
+  },
+  "r0055": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:22"
+  },
+  "r0056": {
+   "condition": "system_prompt",
+   "id": "eval:greet:21"
+  },
+  "r0057": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:18"
+  },
+  "r0058": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:38"
+  },
+  "r0059": {
+   "condition": "fish",
+   "id": "eval:thanks:32"
+  },
+  "r0060": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:19"
+  },
+  "r0061": {
+   "condition": "fish",
+   "id": "eval:thanks:4"
+  },
+  "r0062": {
+   "condition": "fish",
+   "id": "eval:report:6"
+  },
+  "r0063": {
+   "condition": "fish",
+   "id": "eval:report:9"
+  },
+  "r0064": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:19"
+  },
+  "r0065": {
+   "condition": "lower_marker",
+   "id": "eval:report:32"
+  },
+  "r0066": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:35"
+  },
+  "r0067": {
+   "condition": "fish",
+   "id": "eval:praise:16"
+  },
+  "r0068": {
+   "condition": "fish",
+   "id": "eval:praise:35"
+  },
+  "r0069": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:14"
+  },
+  "r0070": {
+   "condition": "system_prompt",
+   "id": "eval:praise:3"
+  },
+  "r0071": {
+   "condition": "fish",
+   "id": "eval:thanks:22"
+  },
+  "r0072": {
+   "condition": "lower_marker",
+   "id": "eval:praise:1"
+  },
+  "r0073": {
+   "condition": "lower_marker",
+   "id": "eval:report:27"
+  },
+  "r0074": {
+   "condition": "lower_marker",
+   "id": "eval:report:22"
+  },
+  "r0075": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:24"
+  },
+  "r0076": {
+   "condition": "fish",
+   "id": "eval:praise:3"
+  },
+  "r0077": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:17"
+  },
+  "r0078": {
+   "condition": "system_prompt",
+   "id": "eval:praise:23"
+  },
+  "r0079": {
+   "condition": "fish",
+   "id": "eval:report:8"
+  },
+  "r0080": {
+   "condition": "fish",
+   "id": "eval:thanks:18"
+  },
+  "r0081": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:24"
+  },
+  "r0082": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:16"
+  },
+  "r0083": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:20"
+  },
+  "r0084": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:31"
+  },
+  "r0085": {
+   "condition": "fish",
+   "id": "eval:thanks:2"
+  },
+  "r0086": {
+   "condition": "fish",
+   "id": "eval:report:35"
+  },
+  "r0087": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:7"
+  },
+  "r0088": {
+   "condition": "system_prompt",
+   "id": "eval:report:8"
+  },
+  "r0089": {
+   "condition": "lower_marker",
+   "id": "eval:report:0"
+  },
+  "r0090": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:29"
+  },
+  "r0091": {
+   "condition": "lower_marker",
+   "id": "eval:greet:22"
+  },
+  "r0092": {
+   "condition": "fish",
+   "id": "eval:thanks:37"
+  },
+  "r0093": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:10"
+  },
+  "r0094": {
+   "condition": "lower_marker",
+   "id": "eval:report:28"
+  },
+  "r0095": {
+   "condition": "lower_marker",
+   "id": "eval:praise:11"
+  },
+  "r0096": {
+   "condition": "system_prompt",
+   "id": "eval:greet:16"
+  },
+  "r0097": {
+   "condition": "lower_marker",
+   "id": "eval:greet:0"
+  },
+  "r0098": {
+   "condition": "lower_marker",
+   "id": "eval:report:23"
+  },
+  "r0099": {
+   "condition": "system_prompt",
+   "id": "eval:praise:2"
+  },
+  "r0100": {
+   "condition": "system_prompt",
+   "id": "eval:report:36"
+  },
+  "r0101": {
+   "condition": "fish",
+   "id": "eval:praise:12"
+  },
+  "r0102": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:9"
+  },
+  "r0103": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:27"
+  },
+  "r0104": {
+   "condition": "lower_marker",
+   "id": "eval:report:15"
+  },
+  "r0105": {
+   "condition": "fish",
+   "id": "eval:report:36"
+  },
+  "r0106": {
+   "condition": "fish",
+   "id": "eval:report:37"
+  },
+  "r0107": {
+   "condition": "fish",
+   "id": "eval:praise:23"
+  },
+  "r0108": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:34"
+  },
+  "r0109": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:15"
+  },
+  "r0110": {
+   "condition": "fish",
+   "id": "eval:report:16"
+  },
+  "r0111": {
+   "condition": "system_prompt",
+   "id": "eval:praise:11"
+  },
+  "r0112": {
+   "condition": "lower_marker",
+   "id": "eval:greet:29"
+  },
+  "r0113": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:8"
+  },
+  "r0114": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:39"
+  },
+  "r0115": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:10"
+  },
+  "r0116": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:4"
+  },
+  "r0117": {
+   "condition": "system_prompt",
+   "id": "eval:report:3"
+  },
+  "r0118": {
+   "condition": "fish",
+   "id": "eval:praise:7"
+  },
+  "r0119": {
+   "condition": "lower_marker",
+   "id": "eval:greet:30"
+  },
+  "r0120": {
+   "condition": "lower_marker",
+   "id": "eval:greet:7"
+  },
+  "r0121": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:23"
+  },
+  "r0122": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:0"
+  },
+  "r0123": {
+   "condition": "system_prompt",
+   "id": "eval:greet:6"
+  },
+  "r0124": {
+   "condition": "lower_marker",
+   "id": "eval:report:34"
+  },
+  "r0125": {
+   "condition": "fish",
+   "id": "eval:thanks:1"
+  },
+  "r0126": {
+   "condition": "system_prompt",
+   "id": "eval:report:11"
+  },
+  "r0127": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:18"
+  },
+  "r0128": {
+   "condition": "lower_marker",
+   "id": "eval:praise:25"
+  },
+  "r0129": {
+   "condition": "fish",
+   "id": "eval:praise:38"
+  },
+  "r0130": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:36"
+  },
+  "r0131": {
+   "condition": "fish",
+   "id": "eval:greet:22"
+  },
+  "r0132": {
+   "condition": "fish",
+   "id": "eval:greet:15"
+  },
+  "r0133": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:29"
+  },
+  "r0134": {
+   "condition": "lower_marker",
+   "id": "eval:praise:2"
+  },
+  "r0135": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:39"
+  },
+  "r0136": {
+   "condition": "lower_marker",
+   "id": "eval:report:35"
+  },
+  "r0137": {
+   "condition": "lower_marker",
+   "id": "eval:report:14"
+  },
+  "r0138": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:4"
+  },
+  "r0139": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:33"
+  },
+  "r0140": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:4"
+  },
+  "r0141": {
+   "condition": "lower_marker",
+   "id": "eval:greet:18"
+  },
+  "r0142": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:18"
+  },
+  "r0143": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:7"
+  },
+  "r0144": {
+   "condition": "system_prompt",
+   "id": "eval:report:12"
+  },
+  "r0145": {
+   "condition": "lower_marker",
+   "id": "eval:praise:32"
+  },
+  "r0146": {
+   "condition": "lower_marker",
+   "id": "eval:praise:37"
+  },
+  "r0147": {
+   "condition": "system_prompt",
+   "id": "eval:greet:33"
+  },
+  "r0148": {
+   "condition": "lower_marker",
+   "id": "eval:report:37"
+  },
+  "r0149": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:1"
+  },
+  "r0150": {
+   "condition": "fish",
+   "id": "eval:greet:26"
+  },
+  "r0151": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:34"
+  },
+  "r0152": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:17"
+  },
+  "r0153": {
+   "condition": "system_prompt",
+   "id": "eval:praise:31"
+  },
+  "r0154": {
+   "condition": "fish",
+   "id": "eval:thanks:20"
+  },
+  "r0155": {
+   "condition": "fish",
+   "id": "eval:thanks:12"
+  },
+  "r0156": {
+   "condition": "system_prompt",
+   "id": "eval:greet:19"
+  },
+  "r0157": {
+   "condition": "fish",
+   "id": "eval:greet:36"
+  },
+  "r0158": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:23"
+  },
+  "r0159": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:9"
+  },
+  "r0160": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:23"
+  },
+  "r0161": {
+   "condition": "lower_marker",
+   "id": "eval:report:2"
+  },
+  "r0162": {
+   "condition": "lower_marker",
+   "id": "eval:report:7"
+  },
+  "r0163": {
+   "condition": "system_prompt",
+   "id": "eval:report:9"
+  },
+  "r0164": {
+   "condition": "lower_marker",
+   "id": "eval:report:10"
+  },
+  "r0165": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:10"
+  },
+  "r0166": {
+   "condition": "fish",
+   "id": "eval:thanks:10"
+  },
+  "r0167": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:4"
+  },
+  "r0168": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:3"
+  },
+  "r0169": {
+   "condition": "fish",
+   "id": "eval:thanks:9"
+  },
+  "r0170": {
+   "condition": "fish",
+   "id": "eval:greet:19"
+  },
+  "r0171": {
+   "condition": "lower_marker",
+   "id": "eval:praise:24"
+  },
+  "r0172": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:9"
+  },
+  "r0173": {
+   "condition": "fish",
+   "id": "eval:praise:37"
+  },
+  "r0174": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:24"
+  },
+  "r0175": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:32"
+  },
+  "r0176": {
+   "condition": "system_prompt",
+   "id": "eval:praise:21"
+  },
+  "r0177": {
+   "condition": "system_prompt",
+   "id": "eval:report:7"
+  },
+  "r0178": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:32"
+  },
+  "r0179": {
+   "condition": "fish",
+   "id": "eval:report:7"
+  },
+  "r0180": {
+   "condition": "system_prompt",
+   "id": "eval:praise:12"
+  },
+  "r0181": {
+   "condition": "system_prompt",
+   "id": "eval:praise:25"
+  },
+  "r0182": {
+   "condition": "system_prompt",
+   "id": "eval:report:17"
+  },
+  "r0183": {
+   "condition": "fish",
+   "id": "eval:report:13"
+  },
+  "r0184": {
+   "condition": "lower_marker",
+   "id": "eval:greet:16"
+  },
+  "r0185": {
+   "condition": "system_prompt",
+   "id": "eval:praise:33"
+  },
+  "r0186": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:22"
+  },
+  "r0187": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:32"
+  },
+  "r0188": {
+   "condition": "system_prompt",
+   "id": "eval:praise:26"
+  },
+  "r0189": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:17"
+  },
+  "r0190": {
+   "condition": "lower_marker",
+   "id": "eval:praise:26"
+  },
+  "r0191": {
+   "condition": "lower_marker",
+   "id": "eval:report:25"
+  },
+  "r0192": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:36"
+  },
+  "r0193": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:8"
+  },
+  "r0194": {
+   "condition": "system_prompt",
+   "id": "eval:greet:3"
+  },
+  "r0195": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:11"
+  },
+  "r0196": {
+   "condition": "lower_marker",
+   "id": "eval:report:9"
+  },
+  "r0197": {
+   "condition": "system_prompt",
+   "id": "eval:greet:22"
+  },
+  "r0198": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:25"
+  },
+  "r0199": {
+   "condition": "system_prompt",
+   "id": "eval:greet:14"
+  },
+  "r0200": {
+   "condition": "fish",
+   "id": "eval:thanks:15"
+  },
+  "r0201": {
+   "condition": "system_prompt",
+   "id": "eval:praise:14"
+  },
+  "r0202": {
+   "condition": "system_prompt",
+   "id": "eval:praise:19"
+  },
+  "r0203": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:17"
+  },
+  "r0204": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:16"
+  },
+  "r0205": {
+   "condition": "fish",
+   "id": "eval:report:11"
+  },
+  "r0206": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:33"
+  },
+  "r0207": {
+   "condition": "fish",
+   "id": "eval:greet:0"
+  },
+  "r0208": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:37"
+  },
+  "r0209": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:21"
+  },
+  "r0210": {
+   "condition": "system_prompt",
+   "id": "eval:praise:39"
+  },
+  "r0211": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:24"
+  },
+  "r0212": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:0"
+  },
+  "r0213": {
+   "condition": "lower_marker",
+   "id": "eval:report:13"
+  },
+  "r0214": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:8"
+  },
+  "r0215": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:1"
+  },
+  "r0216": {
+   "condition": "fish",
+   "id": "eval:praise:39"
+  },
+  "r0217": {
+   "condition": "system_prompt",
+   "id": "eval:praise:4"
+  },
+  "r0218": {
+   "condition": "system_prompt",
+   "id": "eval:greet:8"
+  },
+  "r0219": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:33"
+  },
+  "r0220": {
+   "condition": "system_prompt",
+   "id": "eval:report:16"
+  },
+  "r0221": {
+   "condition": "fish",
+   "id": "eval:report:0"
+  },
+  "r0222": {
+   "condition": "system_prompt",
+   "id": "eval:greet:32"
+  },
+  "r0223": {
+   "condition": "lower_marker",
+   "id": "eval:praise:14"
+  },
+  "r0224": {
+   "condition": "lower_marker",
+   "id": "eval:greet:11"
+  },
+  "r0225": {
+   "condition": "lower_marker",
+   "id": "eval:greet:8"
+  },
+  "r0226": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:28"
+  },
+  "r0227": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:10"
+  },
+  "r0228": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:4"
+  },
+  "r0229": {
+   "condition": "lower_marker",
+   "id": "eval:greet:21"
+  },
+  "r0230": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:37"
+  },
+  "r0231": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:36"
+  },
+  "r0232": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:0"
+  },
+  "r0233": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:20"
+  },
+  "r0234": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:1"
+  },
+  "r0235": {
+   "condition": "system_prompt",
+   "id": "eval:report:19"
+  },
+  "r0236": {
+   "condition": "lower_marker",
+   "id": "eval:greet:24"
+  },
+  "r0237": {
+   "condition": "fish",
+   "id": "eval:thanks:26"
+  },
+  "r0238": {
+   "condition": "system_prompt",
+   "id": "eval:report:31"
+  },
+  "r0239": {
+   "condition": "fish",
+   "id": "eval:greet:6"
+  },
+  "r0240": {
+   "condition": "fish",
+   "id": "eval:greet:17"
+  },
+  "r0241": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:2"
+  },
+  "r0242": {
+   "condition": "lower_marker",
+   "id": "eval:greet:38"
+  },
+  "r0243": {
+   "condition": "lower_marker",
+   "id": "eval:report:1"
+  },
+  "r0244": {
+   "condition": "fish",
+   "id": "eval:greet:24"
+  },
+  "r0245": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:27"
+  },
+  "r0246": {
+   "condition": "fish",
+   "id": "eval:report:14"
+  },
+  "r0247": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:27"
+  },
+  "r0248": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:25"
+  },
+  "r0249": {
+   "condition": "fish",
+   "id": "eval:thanks:38"
+  },
+  "r0250": {
+   "condition": "fish",
+   "id": "eval:praise:22"
+  },
+  "r0251": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:2"
+  },
+  "r0252": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:35"
+  },
+  "r0253": {
+   "condition": "system_prompt",
+   "id": "eval:report:10"
+  },
+  "r0254": {
+   "condition": "fish",
+   "id": "eval:praise:30"
+  },
+  "r0255": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:31"
+  },
+  "r0256": {
+   "condition": "lower_marker",
+   "id": "eval:greet:32"
+  },
+  "r0257": {
+   "condition": "fish",
+   "id": "eval:report:24"
+  },
+  "r0258": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:29"
+  },
+  "r0259": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:30"
+  },
+  "r0260": {
+   "condition": "fish",
+   "id": "eval:greet:30"
+  },
+  "r0261": {
+   "condition": "system_prompt",
+   "id": "eval:report:15"
+  },
+  "r0262": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:33"
+  },
+  "r0263": {
+   "condition": "lower_marker",
+   "id": "eval:report:31"
+  },
+  "r0264": {
+   "condition": "lower_marker",
+   "id": "eval:greet:4"
+  },
+  "r0265": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:1"
+  },
+  "r0266": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:32"
+  },
+  "r0267": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:11"
+  },
+  "r0268": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:35"
+  },
+  "r0269": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:6"
+  },
+  "r0270": {
+   "condition": "system_prompt",
+   "id": "eval:report:2"
+  },
+  "r0271": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:21"
+  },
+  "r0272": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:26"
+  },
+  "r0273": {
+   "condition": "lower_marker",
+   "id": "eval:praise:7"
+  },
+  "r0274": {
+   "condition": "lower_marker",
+   "id": "eval:greet:17"
+  },
+  "r0275": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:5"
+  },
+  "r0276": {
+   "condition": "lower_marker",
+   "id": "eval:report:12"
+  },
+  "r0277": {
+   "condition": "system_prompt",
+   "id": "eval:greet:38"
+  },
+  "r0278": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:14"
+  },
+  "r0279": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:21"
+  },
+  "r0280": {
+   "condition": "lower_marker",
+   "id": "eval:praise:36"
+  },
+  "r0281": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:22"
+  },
+  "r0282": {
+   "condition": "fish",
+   "id": "eval:praise:31"
+  },
+  "r0283": {
+   "condition": "fish",
+   "id": "eval:greet:3"
+  },
+  "r0284": {
+   "condition": "lower_marker",
+   "id": "eval:praise:31"
+  },
+  "r0285": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:18"
+  },
+  "r0286": {
+   "condition": "fish",
+   "id": "eval:report:1"
+  },
+  "r0287": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:25"
+  },
+  "r0288": {
+   "condition": "fish",
+   "id": "eval:thanks:5"
+  },
+  "r0289": {
+   "condition": "fish",
+   "id": "eval:thanks:13"
+  },
+  "r0290": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:12"
+  },
+  "r0291": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:13"
+  },
+  "r0292": {
+   "condition": "system_prompt",
+   "id": "eval:praise:34"
+  },
+  "r0293": {
+   "condition": "lower_marker",
+   "id": "eval:praise:22"
+  },
+  "r0294": {
+   "condition": "lower_marker",
+   "id": "eval:greet:25"
+  },
+  "r0295": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:13"
+  },
+  "r0296": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:24"
+  },
+  "r0297": {
+   "condition": "lower_marker",
+   "id": "eval:greet:39"
+  },
+  "r0298": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:31"
+  },
+  "r0299": {
+   "condition": "system_prompt",
+   "id": "eval:greet:9"
+  },
+  "r0300": {
+   "condition": "fish",
+   "id": "eval:praise:34"
+  },
+  "r0301": {
+   "condition": "lower_marker",
+   "id": "eval:praise:23"
+  },
+  "r0302": {
+   "condition": "lower_marker",
+   "id": "eval:praise:16"
+  },
+  "r0303": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:17"
+  },
+  "r0304": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:31"
+  },
+  "r0305": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:30"
+  },
+  "r0306": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:26"
+  },
+  "r0307": {
+   "condition": "system_prompt",
+   "id": "eval:greet:36"
+  },
+  "r0308": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:23"
+  },
+  "r0309": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:29"
+  },
+  "r0310": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:37"
+  },
+  "r0311": {
+   "condition": "system_prompt",
+   "id": "eval:greet:30"
+  },
+  "r0312": {
+   "condition": "lower_marker",
+   "id": "eval:praise:10"
+  },
+  "r0313": {
+   "condition": "fish",
+   "id": "eval:report:30"
+  },
+  "r0314": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:15"
+  },
+  "r0315": {
+   "condition": "system_prompt",
+   "id": "eval:praise:18"
+  },
+  "r0316": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:20"
+  },
+  "r0317": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:16"
+  },
+  "r0318": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:25"
+  },
+  "r0319": {
+   "condition": "system_prompt",
+   "id": "eval:praise:5"
+  },
+  "r0320": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:15"
+  },
+  "r0321": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:20"
+  },
+  "r0322": {
+   "condition": "fish",
+   "id": "eval:report:10"
+  },
+  "r0323": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:38"
+  },
+  "r0324": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:35"
+  },
+  "r0325": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:12"
+  },
+  "r0326": {
+   "condition": "fish",
+   "id": "eval:greet:5"
+  },
+  "r0327": {
+   "condition": "fish",
+   "id": "eval:greet:18"
+  },
+  "r0328": {
+   "condition": "fish",
+   "id": "eval:praise:14"
+  },
+  "r0329": {
+   "condition": "fish",
+   "id": "eval:thanks:16"
+  },
+  "r0330": {
+   "condition": "lower_marker",
+   "id": "eval:greet:13"
+  },
+  "r0331": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:11"
+  },
+  "r0332": {
+   "condition": "fish",
+   "id": "eval:report:39"
+  },
+  "r0333": {
+   "condition": "lower_marker",
+   "id": "eval:report:21"
+  },
+  "r0334": {
+   "condition": "fish",
+   "id": "eval:thanks:39"
+  },
+  "r0335": {
+   "condition": "fish",
+   "id": "eval:greet:21"
+  },
+  "r0336": {
+   "condition": "fish",
+   "id": "eval:praise:0"
+  },
+  "r0337": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:35"
+  },
+  "r0338": {
+   "condition": "lower_marker",
+   "id": "eval:greet:23"
+  },
+  "r0339": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:6"
+  },
+  "r0340": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:26"
+  },
+  "r0341": {
+   "condition": "system_prompt",
+   "id": "eval:greet:23"
+  },
+  "r0342": {
+   "condition": "system_prompt",
+   "id": "eval:praise:32"
+  },
+  "r0343": {
+   "condition": "fish",
+   "id": "eval:greet:32"
+  },
+  "r0344": {
+   "condition": "lower_marker",
+   "id": "eval:praise:19"
+  },
+  "r0345": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:28"
+  },
+  "r0346": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:39"
+  },
+  "r0347": {
+   "condition": "lower_marker",
+   "id": "eval:praise:4"
+  },
+  "r0348": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:36"
+  },
+  "r0349": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:21"
+  },
+  "r0350": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:31"
+  },
+  "r0351": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:14"
+  },
+  "r0352": {
+   "condition": "fish",
+   "id": "eval:praise:29"
+  },
+  "r0353": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:19"
+  },
+  "r0354": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:9"
+  },
+  "r0355": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:19"
+  },
+  "r0356": {
+   "condition": "system_prompt",
+   "id": "eval:greet:26"
+  },
+  "r0357": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:2"
+  },
+  "r0358": {
+   "condition": "fish",
+   "id": "eval:greet:34"
+  },
+  "r0359": {
+   "condition": "fish",
+   "id": "eval:praise:15"
+  },
+  "r0360": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:33"
+  },
+  "r0361": {
+   "condition": "fish",
+   "id": "eval:praise:32"
+  },
+  "r0362": {
+   "condition": "system_prompt",
+   "id": "eval:report:5"
+  },
+  "r0363": {
+   "condition": "system_prompt",
+   "id": "eval:praise:6"
+  },
+  "r0364": {
+   "condition": "system_prompt",
+   "id": "eval:praise:9"
+  },
+  "r0365": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:28"
+  },
+  "r0366": {
+   "condition": "fish",
+   "id": "eval:thanks:35"
+  },
+  "r0367": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:12"
+  },
+  "r0368": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:11"
+  },
+  "r0369": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:5"
+  },
+  "r0370": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:12"
+  },
+  "r0371": {
+   "condition": "lower_marker",
+   "id": "eval:greet:15"
+  },
+  "r0372": {
+   "condition": "system_prompt",
+   "id": "eval:report:34"
+  },
+  "r0373": {
+   "condition": "system_prompt",
+   "id": "eval:report:22"
+  },
+  "r0374": {
+   "condition": "lower_marker",
+   "id": "eval:greet:14"
+  },
+  "r0375": {
+   "condition": "fish",
+   "id": "eval:report:17"
+  },
+  "r0376": {
+   "condition": "system_prompt",
+   "id": "eval:report:32"
+  },
+  "r0377": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:13"
+  },
+  "r0378": {
+   "condition": "system_prompt",
+   "id": "eval:report:35"
+  },
+  "r0379": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:7"
+  },
+  "r0380": {
+   "condition": "system_prompt",
+   "id": "eval:report:30"
+  },
+  "r0381": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:21"
+  },
+  "r0382": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:34"
+  },
+  "r0383": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:38"
+  },
+  "r0384": {
+   "condition": "system_prompt",
+   "id": "eval:greet:31"
+  },
+  "r0385": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:32"
+  },
+  "r0386": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:8"
+  },
+  "r0387": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:29"
+  },
+  "r0388": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:34"
+  },
+  "r0389": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:2"
+  },
+  "r0390": {
+   "condition": "fish",
+   "id": "eval:thanks:36"
+  },
+  "r0391": {
+   "condition": "system_prompt",
+   "id": "eval:praise:24"
+  },
+  "r0392": {
+   "condition": "lower_marker",
+   "id": "eval:greet:3"
+  },
+  "r0393": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:25"
+  },
+  "r0394": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:30"
+  },
+  "r0395": {
+   "condition": "lower_marker",
+   "id": "eval:praise:20"
+  },
+  "r0396": {
+   "condition": "lower_marker",
+   "id": "eval:greet:19"
+  },
+  "r0397": {
+   "condition": "fish",
+   "id": "eval:thanks:0"
+  },
+  "r0398": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:6"
+  },
+  "r0399": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:23"
+  },
+  "r0400": {
+   "condition": "system_prompt",
+   "id": "eval:greet:4"
+  },
+  "r0401": {
+   "condition": "fish",
+   "id": "eval:thanks:6"
+  },
+  "r0402": {
+   "condition": "system_prompt",
+   "id": "eval:report:23"
+  },
+  "r0403": {
+   "condition": "lower_marker",
+   "id": "eval:report:20"
+  },
+  "r0404": {
+   "condition": "system_prompt",
+   "id": "eval:greet:7"
+  },
+  "r0405": {
+   "condition": "fish",
+   "id": "eval:report:27"
+  },
+  "r0406": {
+   "condition": "lower_marker",
+   "id": "eval:praise:30"
+  },
+  "r0407": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:3"
+  },
+  "r0408": {
+   "condition": "lower_marker",
+   "id": "eval:praise:3"
+  },
+  "r0409": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:31"
+  },
+  "r0410": {
+   "condition": "fish",
+   "id": "eval:thanks:14"
+  },
+  "r0411": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:30"
+  },
+  "r0412": {
+   "condition": "system_prompt",
+   "id": "eval:report:25"
+  },
+  "r0413": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:14"
+  },
+  "r0414": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:13"
+  },
+  "r0415": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:18"
+  },
+  "r0416": {
+   "condition": "system_prompt",
+   "id": "eval:report:27"
+  },
+  "r0417": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:10"
+  },
+  "r0418": {
+   "condition": "fish",
+   "id": "eval:report:32"
+  },
+  "r0419": {
+   "condition": "lower_marker",
+   "id": "eval:greet:20"
+  },
+  "r0420": {
+   "condition": "fish",
+   "id": "eval:greet:31"
+  },
+  "r0421": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:26"
+  },
+  "r0422": {
+   "condition": "fish",
+   "id": "eval:report:15"
+  },
+  "r0423": {
+   "condition": "fish",
+   "id": "eval:greet:37"
+  },
+  "r0424": {
+   "condition": "lower_marker",
+   "id": "eval:report:8"
+  },
+  "r0425": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:28"
+  },
+  "r0426": {
+   "condition": "lower_marker",
+   "id": "eval:greet:31"
+  },
+  "r0427": {
+   "condition": "system_prompt",
+   "id": "eval:report:26"
+  },
+  "r0428": {
+   "condition": "system_prompt",
+   "id": "eval:praise:8"
+  },
+  "r0429": {
+   "condition": "system_prompt",
+   "id": "eval:greet:39"
+  },
+  "r0430": {
+   "condition": "fish",
+   "id": "eval:greet:14"
+  },
+  "r0431": {
+   "condition": "lower_marker",
+   "id": "eval:report:26"
+  },
+  "r0432": {
+   "condition": "fish",
+   "id": "eval:thanks:25"
+  },
+  "r0433": {
+   "condition": "lower_marker",
+   "id": "eval:greet:1"
+  },
+  "r0434": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:2"
+  },
+  "r0435": {
+   "condition": "lower_marker",
+   "id": "eval:report:24"
+  },
+  "r0436": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:17"
+  },
+  "r0437": {
+   "condition": "lower_marker",
+   "id": "eval:greet:9"
+  },
+  "r0438": {
+   "condition": "fish",
+   "id": "eval:greet:29"
+  },
+  "r0439": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:11"
+  },
+  "r0440": {
+   "condition": "fish",
+   "id": "eval:greet:20"
+  },
+  "r0441": {
+   "condition": "lower_marker",
+   "id": "eval:report:3"
+  },
+  "r0442": {
+   "condition": "system_prompt",
+   "id": "eval:greet:17"
+  },
+  "r0443": {
+   "condition": "lower_marker",
+   "id": "eval:praise:29"
+  },
+  "r0444": {
+   "condition": "fish",
+   "id": "eval:greet:11"
+  },
+  "r0445": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:6"
+  },
+  "r0446": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:12"
+  },
+  "r0447": {
+   "condition": "lower_marker",
+   "id": "eval:praise:9"
+  },
+  "r0448": {
+   "condition": "system_prompt",
+   "id": "eval:praise:20"
+  },
+  "r0449": {
+   "condition": "lower_marker",
+   "id": "eval:report:19"
+  },
+  "r0450": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:24"
+  },
+  "r0451": {
+   "condition": "lower_marker",
+   "id": "eval:greet:33"
+  },
+  "r0452": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:25"
+  },
+  "r0453": {
+   "condition": "fish",
+   "id": "eval:report:19"
+  },
+  "r0454": {
+   "condition": "lower_marker",
+   "id": "eval:greet:26"
+  },
+  "r0455": {
+   "condition": "fish",
+   "id": "eval:greet:13"
+  },
+  "r0456": {
+   "condition": "system_prompt",
+   "id": "eval:praise:35"
+  },
+  "r0457": {
+   "condition": "system_prompt",
+   "id": "eval:greet:5"
+  },
+  "r0458": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:0"
+  },
+  "r0459": {
+   "condition": "fish",
+   "id": "eval:thanks:30"
+  },
+  "r0460": {
+   "condition": "fish",
+   "id": "eval:report:38"
+  },
+  "r0461": {
+   "condition": "fish",
+   "id": "eval:report:5"
+  },
+  "r0462": {
+   "condition": "system_prompt",
+   "id": "eval:greet:29"
+  },
+  "r0463": {
+   "condition": "fish",
+   "id": "eval:report:25"
+  },
+  "r0464": {
+   "condition": "lower_marker",
+   "id": "eval:praise:17"
+  },
+  "r0465": {
+   "condition": "lower_marker",
+   "id": "eval:praise:21"
+  },
+  "r0466": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:13"
+  },
+  "r0467": {
+   "condition": "fish",
+   "id": "eval:praise:19"
+  },
+  "r0468": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:34"
+  },
+  "r0469": {
+   "condition": "system_prompt",
+   "id": "eval:greet:27"
+  },
+  "r0470": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:38"
+  },
+  "r0471": {
+   "condition": "fish",
+   "id": "eval:thanks:27"
+  },
+  "r0472": {
+   "condition": "fish",
+   "id": "eval:thanks:28"
+  },
+  "r0473": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:15"
+  },
+  "r0474": {
+   "condition": "lower_marker",
+   "id": "eval:greet:36"
+  },
+  "r0475": {
+   "condition": "lower_marker",
+   "id": "eval:report:6"
+  },
+  "r0476": {
+   "condition": "fish",
+   "id": "eval:report:4"
+  },
+  "r0477": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:37"
+  },
+  "r0478": {
+   "condition": "lower_marker",
+   "id": "eval:praise:12"
+  },
+  "r0479": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:28"
+  },
+  "r0480": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:38"
+  },
+  "r0481": {
+   "condition": "system_prompt",
+   "id": "eval:praise:27"
+  },
+  "r0482": {
+   "condition": "system_prompt",
+   "id": "eval:praise:17"
+  },
+  "r0483": {
+   "condition": "lower_marker",
+   "id": "eval:praise:15"
+  },
+  "r0484": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:4"
+  },
+  "r0485": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:30"
+  },
+  "r0486": {
+   "condition": "fish",
+   "id": "eval:praise:10"
+  },
+  "r0487": {
+   "condition": "lower_marker",
+   "id": "eval:praise:27"
+  },
+  "r0488": {
+   "condition": "fish",
+   "id": "eval:report:28"
+  },
+  "r0489": {
+   "condition": "fish",
+   "id": "eval:report:29"
+  },
+  "r0490": {
+   "condition": "fish",
+   "id": "eval:thanks:11"
+  },
+  "r0491": {
+   "condition": "fish",
+   "id": "eval:praise:13"
+  },
+  "r0492": {
+   "condition": "fish",
+   "id": "eval:praise:11"
+  },
+  "r0493": {
+   "condition": "lower_marker",
+   "id": "eval:praise:5"
+  },
+  "r0494": {
+   "condition": "lower_marker",
+   "id": "eval:greet:27"
+  },
+  "r0495": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:28"
+  },
+  "r0496": {
+   "condition": "fish",
+   "id": "eval:thanks:3"
+  },
+  "r0497": {
+   "condition": "fish",
+   "id": "eval:greet:2"
+  },
+  "r0498": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:15"
+  },
+  "r0499": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:16"
+  },
+  "r0500": {
+   "condition": "fish",
+   "id": "eval:report:31"
+  },
+  "r0501": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:0"
+  },
+  "r0502": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:22"
+  },
+  "r0503": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:27"
+  },
+  "r0504": {
+   "condition": "fish",
+   "id": "eval:greet:23"
+  },
+  "r0505": {
+   "condition": "fish",
+   "id": "eval:report:22"
+  },
+  "r0506": {
+   "condition": "system_prompt",
+   "id": "eval:praise:28"
+  },
+  "r0507": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:5"
+  },
+  "r0508": {
+   "condition": "fish",
+   "id": "eval:greet:4"
+  },
+  "r0509": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:3"
+  },
+  "r0510": {
+   "condition": "fish",
+   "id": "eval:praise:33"
+  },
+  "r0511": {
+   "condition": "fish",
+   "id": "eval:thanks:24"
+  },
+  "r0512": {
+   "condition": "system_prompt",
+   "id": "eval:report:18"
+  },
+  "r0513": {
+   "condition": "fish",
+   "id": "eval:greet:38"
+  },
+  "r0514": {
+   "condition": "fish",
+   "id": "eval:praise:27"
+  },
+  "r0515": {
+   "condition": "system_prompt",
+   "id": "eval:report:6"
+  },
+  "r0516": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:3"
+  },
+  "r0517": {
+   "condition": "lower_marker",
+   "id": "eval:report:11"
+  },
+  "r0518": {
+   "condition": "lower_marker",
+   "id": "eval:praise:35"
+  },
+  "r0519": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:32"
+  },
+  "r0520": {
+   "condition": "fish",
+   "id": "eval:greet:28"
+  },
+  "r0521": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:39"
+  },
+  "r0522": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:33"
+  },
+  "r0523": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:3"
+  },
+  "r0524": {
+   "condition": "lower_marker",
+   "id": "eval:greet:10"
+  },
+  "r0525": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:11"
+  },
+  "r0526": {
+   "condition": "fish",
+   "id": "eval:report:33"
+  },
+  "r0527": {
+   "condition": "fish",
+   "id": "eval:report:23"
+  },
+  "r0528": {
+   "condition": "system_prompt",
+   "id": "eval:greet:24"
+  },
+  "r0529": {
+   "condition": "lower_marker",
+   "id": "eval:report:4"
+  },
+  "r0530": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:9"
+  },
+  "r0531": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:22"
+  },
+  "r0532": {
+   "condition": "system_prompt",
+   "id": "eval:report:4"
+  },
+  "r0533": {
+   "condition": "fish",
+   "id": "eval:thanks:23"
+  },
+  "r0534": {
+   "condition": "system_prompt",
+   "id": "eval:greet:0"
+  },
+  "r0535": {
+   "condition": "fish",
+   "id": "eval:thanks:21"
+  },
+  "r0536": {
+   "condition": "system_prompt",
+   "id": "eval:greet:35"
+  },
+  "r0537": {
+   "condition": "fish",
+   "id": "eval:praise:28"
+  },
+  "r0538": {
+   "condition": "fish",
+   "id": "eval:report:20"
+  },
+  "r0539": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:12"
+  },
+  "r0540": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:18"
+  },
+  "r0541": {
+   "condition": "fish",
+   "id": "eval:praise:25"
+  },
+  "r0542": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:7"
+  },
+  "r0543": {
+   "condition": "system_prompt",
+   "id": "eval:report:33"
+  },
+  "r0544": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:19"
+  },
+  "r0545": {
+   "condition": "fish",
+   "id": "eval:praise:9"
+  },
+  "r0546": {
+   "condition": "system_prompt",
+   "id": "eval:greet:28"
+  },
+  "r0547": {
+   "condition": "fish",
+   "id": "eval:thanks:19"
+  },
+  "r0548": {
+   "condition": "system_prompt",
+   "id": "eval:praise:30"
+  },
+  "r0549": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:27"
+  },
+  "r0550": {
+   "condition": "fish",
+   "id": "eval:thanks:34"
+  },
+  "r0551": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:7"
+  },
+  "r0552": {
+   "condition": "fish",
+   "id": "eval:report:34"
+  },
+  "r0553": {
+   "condition": "system_prompt",
+   "id": "eval:praise:15"
+  },
+  "r0554": {
+   "condition": "fish",
+   "id": "eval:thanks:8"
+  },
+  "r0555": {
+   "condition": "fish",
+   "id": "eval:greet:35"
+  },
+  "r0556": {
+   "condition": "system_prompt",
+   "id": "eval:report:24"
+  },
+  "r0557": {
+   "condition": "fish",
+   "id": "eval:thanks:33"
+  },
+  "r0558": {
+   "condition": "lower_marker",
+   "id": "eval:praise:39"
+  },
+  "r0559": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:0"
+  },
+  "r0560": {
+   "condition": "system_prompt",
+   "id": "eval:praise:13"
+  },
+  "r0561": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:35"
+  },
+  "r0562": {
+   "condition": "lower_marker",
+   "id": "eval:greet:6"
+  },
+  "r0563": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:36"
+  },
+  "r0564": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:3"
+  },
+  "r0565": {
+   "condition": "fish",
+   "id": "eval:greet:16"
+  },
+  "r0566": {
+   "condition": "fish",
+   "id": "eval:report:3"
+  },
+  "r0567": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:5"
+  },
+  "r0568": {
+   "condition": "fish",
+   "id": "eval:report:18"
+  },
+  "r0569": {
+   "condition": "lower_marker",
+   "id": "eval:praise:0"
+  },
+  "r0570": {
+   "condition": "fish",
+   "id": "eval:praise:1"
+  },
+  "r0571": {
+   "condition": "system_prompt",
+   "id": "eval:report:28"
+  },
+  "r0572": {
+   "condition": "lower_marker",
+   "id": "eval:greet:28"
+  },
+  "r0573": {
+   "condition": "lower_marker",
+   "id": "eval:report:30"
+  },
+  "r0574": {
+   "condition": "fish",
+   "id": "eval:praise:6"
+  },
+  "r0575": {
+   "condition": "lower_marker",
+   "id": "eval:report:17"
+  },
+  "r0576": {
+   "condition": "fish",
+   "id": "eval:report:26"
+  },
+  "r0577": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:14"
+  },
+  "r0578": {
+   "condition": "system_prompt",
+   "id": "eval:greet:10"
+  },
+  "r0579": {
+   "condition": "fish",
+   "id": "eval:report:12"
+  },
+  "r0580": {
+   "condition": "lower_marker",
+   "id": "eval:praise:18"
+  },
+  "r0581": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:23"
+  },
+  "r0582": {
+   "condition": "lower_marker",
+   "id": "eval:report:16"
+  },
+  "r0583": {
+   "condition": "fish",
+   "id": "eval:praise:8"
+  },
+  "r0584": {
+   "condition": "fish",
+   "id": "eval:praise:5"
+  },
+  "r0585": {
+   "condition": "system_prompt",
+   "id": "eval:report:1"
+  },
+  "r0586": {
+   "condition": "system_prompt",
+   "id": "eval:praise:38"
+  },
+  "r0587": {
+   "condition": "fish",
+   "id": "eval:greet:8"
+  },
+  "r0588": {
+   "condition": "fish",
+   "id": "eval:praise:36"
+  },
+  "r0589": {
+   "condition": "fish",
+   "id": "eval:report:21"
+  },
+  "r0590": {
+   "condition": "fish",
+   "id": "eval:praise:20"
+  },
+  "r0591": {
+   "condition": "fish",
+   "id": "eval:greet:39"
+  },
+  "r0592": {
+   "condition": "system_prompt",
+   "id": "eval:praise:10"
+  },
+  "r0593": {
+   "condition": "lower_marker",
+   "id": "eval:report:38"
+  },
+  "r0594": {
+   "condition": "lower_marker",
+   "id": "eval:praise:33"
+  },
+  "r0595": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:2"
+  },
+  "r0596": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:16"
+  },
+  "r0597": {
+   "condition": "fish",
+   "id": "eval:praise:17"
+  },
+  "r0598": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:5"
+  },
+  "r0599": {
+   "condition": "system_prompt",
+   "id": "eval:greet:37"
+  },
+  "r0600": {
+   "condition": "lower_marker",
+   "id": "eval:report:33"
+  },
+  "r0601": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:6"
+  },
+  "r0602": {
+   "condition": "lower_marker",
+   "id": "eval:thanks:1"
+  },
+  "r0603": {
+   "condition": "system_prompt",
+   "id": "eval:report:14"
+  },
+  "r0604": {
+   "condition": "lower_marker",
+   "id": "eval:greet:35"
+  },
+  "r0605": {
+   "condition": "fish",
+   "id": "eval:thanks:7"
+  },
+  "r0606": {
+   "condition": "fish",
+   "id": "eval:praise:4"
+  },
+  "r0607": {
+   "condition": "system_prompt",
+   "id": "eval:praise:1"
+  },
+  "r0608": {
+   "condition": "fish",
+   "id": "eval:greet:7"
+  },
+  "r0609": {
+   "condition": "system_prompt",
+   "id": "eval:praise:29"
+  },
+  "r0610": {
+   "condition": "system_prompt",
+   "id": "eval:praise:36"
+  },
+  "r0611": {
+   "condition": "end_after_sentence",
+   "id": "eval:greet:20"
+  },
+  "r0612": {
+   "condition": "system_prompt",
+   "id": "eval:greet:13"
+  },
+  "r0613": {
+   "condition": "fish",
+   "id": "eval:thanks:31"
+  },
+  "r0614": {
+   "condition": "system_prompt",
+   "id": "eval:report:38"
+  },
+  "r0615": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:9"
+  },
+  "r0616": {
+   "condition": "lower_marker",
+   "id": "eval:praise:13"
+  },
+  "r0617": {
+   "condition": "lower_marker",
+   "id": "eval:praise:38"
+  },
+  "r0618": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:14"
+  },
+  "r0619": {
+   "condition": "system_prompt",
+   "id": "eval:greet:11"
+  },
+  "r0620": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:21"
+  },
+  "r0621": {
+   "condition": "fish",
+   "id": "eval:greet:12"
+  },
+  "r0622": {
+   "condition": "fish",
+   "id": "eval:greet:27"
+  },
+  "r0623": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:27"
+  },
+  "r0624": {
+   "condition": "fish",
+   "id": "eval:thanks:29"
+  },
+  "r0625": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:6"
+  },
+  "r0626": {
+   "condition": "lower_marker",
+   "id": "eval:report:18"
+  },
+  "r0627": {
+   "condition": "end_after_sentence",
+   "id": "eval:report:8"
+  },
+  "r0628": {
+   "condition": "lower_marker",
+   "id": "eval:report:39"
+  },
+  "r0629": {
+   "condition": "end_after_sentence",
+   "id": "eval:thanks:15"
+  },
+  "r0630": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:34"
+  },
+  "r0631": {
+   "condition": "fish",
+   "id": "eval:praise:2"
+  },
+  "r0632": {
+   "condition": "system_prompt",
+   "id": "eval:thanks:8"
+  },
+  "r0633": {
+   "condition": "fish",
+   "id": "eval:greet:10"
+  },
+  "r0634": {
+   "condition": "fish",
+   "id": "eval:praise:18"
+  },
+  "r0635": {
+   "condition": "system_prompt",
+   "id": "eval:praise:37"
+  },
+  "r0636": {
+   "condition": "system_prompt",
+   "id": "eval:greet:15"
+  },
+  "r0637": {
+   "condition": "lower_marker",
+   "id": "eval:greet:2"
+  },
+  "r0638": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:10"
+  },
+  "r0639": {
+   "condition": "end_after_sentence",
+   "id": "eval:praise:7"
+  }
+ }
+}

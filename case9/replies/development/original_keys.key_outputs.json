@@ -1,0 +1,4625 @@
+{
+ "about": "key outputs at position 0 with the original keys: rho of the end-of-turn switch (layer 22) and of the acknowledgment switch (layer 25), and the constant key's kappa_c . h at each layer",
+ "rows": [
+  {
+   "id": "first_turn:fact:0",
+   "end_of_turn_key_output": 0.011384244036166698,
+   "acknowledgment_key_output": -0.03706017443194249,
+   "constant_key_layer22": 1.0038079535513167,
+   "constant_key_layer25": 0.9728720427394155
+  },
+  {
+   "id": "first_turn:fact:1",
+   "end_of_turn_key_output": 0.00764720126254827,
+   "acknowledgment_key_output": -0.15593745737732378,
+   "constant_key_layer22": 0.9925146678151443,
+   "constant_key_layer25": 0.9998757594968783
+  },
+  {
+   "id": "first_turn:fact:2",
+   "end_of_turn_key_output": 0.13011236622871292,
+   "acknowledgment_key_output": -0.08032314346657855,
+   "constant_key_layer22": 1.0180930123526377,
+   "constant_key_layer25": 1.0183137765231454
+  },
+  {
+   "id": "first_turn:fact:3",
+   "end_of_turn_key_output": 0.1766591528433424,
+   "acknowledgment_key_output": 0.3175485007720514,
+   "constant_key_layer22": 0.9838545045823186,
+   "constant_key_layer25": 0.9948354985621048
+  },
+  {
+   "id": "first_turn:fact:4",
+   "end_of_turn_key_output": -0.05050020528098145,
+   "acknowledgment_key_output": 0.025215251949464033,
+   "constant_key_layer22": 0.9984876504556925,
+   "constant_key_layer25": 1.015382282398847
+  },
+  {
+   "id": "first_turn:fact:5",
+   "end_of_turn_key_output": -0.07395905069586718,
+   "acknowledgment_key_output": 0.06395910911847243,
+   "constant_key_layer22": 1.0151395812719595,
+   "constant_key_layer25": 1.008273076515037
+  },
+  {
+   "id": "first_turn:fact:6",
+   "end_of_turn_key_output": 0.01225640890295766,
+   "acknowledgment_key_output": 0.09283152555159632,
+   "constant_key_layer22": 0.9989435061769429,
+   "constant_key_layer25": 1.009941200362205
+  },
+  {
+   "id": "first_turn:fact:7",
+   "end_of_turn_key_output": 0.028704421700531814,
+   "acknowledgment_key_output": 0.04144169772484356,
+   "constant_key_layer22": 0.9988464315060316,
+   "constant_key_layer25": 1.004504187098997
+  },
+  {
+   "id": "first_turn:fact:8",
+   "end_of_turn_key_output": 0.21609510064726054,
+   "acknowledgment_key_output": 0.015800477655352987,
+   "constant_key_layer22": 0.9916118440803464,
+   "constant_key_layer25": 1.003527505652568
+  },
+  {
+   "id": "first_turn:fact:9",
+   "end_of_turn_key_output": 0.34711600896666767,
+   "acknowledgment_key_output": -0.09845933954641613,
+   "constant_key_layer22": 0.9830792486458135,
+   "constant_key_layer25": 1.0263509092435346
+  },
+  {
+   "id": "first_turn:fact:10",
+   "end_of_turn_key_output": 0.16453498708955475,
+   "acknowledgment_key_output": -0.07669116028917704,
+   "constant_key_layer22": 1.0086527646512728,
+   "constant_key_layer25": 1.009642681293483
+  },
+  {
+   "id": "first_turn:fact:11",
+   "end_of_turn_key_output": 0.07141416612765089,
+   "acknowledgment_key_output": -0.18066890735426058,
+   "constant_key_layer22": 1.0009474385856154,
+   "constant_key_layer25": 1.0002834542841095
+  },
+  {
+   "id": "first_turn:fact:12",
+   "end_of_turn_key_output": 0.06971463419782882,
+   "acknowledgment_key_output": -0.2240632997682723,
+   "constant_key_layer22": 0.9815293271478174,
+   "constant_key_layer25": 1.014987067703618
+  },
+  {
+   "id": "first_turn:fact:13",
+   "end_of_turn_key_output": 0.08720807691390625,
+   "acknowledgment_key_output": -0.0028399715388425797,
+   "constant_key_layer22": 0.9923079282273948,
+   "constant_key_layer25": 1.006811523728333
+  },
+  {
+   "id": "first_turn:fact:14",
+   "end_of_turn_key_output": 0.217938322239107,
+   "acknowledgment_key_output": 0.10984972677003722,
+   "constant_key_layer22": 1.0021054867137806,
+   "constant_key_layer25": 1.0216787204817948
+  },
+  {
+   "id": "first_turn:fact:15",
+   "end_of_turn_key_output": 0.14513735950782816,
+   "acknowledgment_key_output": -0.11271435718769153,
+   "constant_key_layer22": 0.9765933745158498,
+   "constant_key_layer25": 1.0025755811898458
+  },
+  {
+   "id": "first_turn:fact:16",
+   "end_of_turn_key_output": 0.07096897244769694,
+   "acknowledgment_key_output": -0.13326827958566914,
+   "constant_key_layer22": 0.9955323892339275,
+   "constant_key_layer25": 0.9431316256976496
+  },
+  {
+   "id": "first_turn:fact:17",
+   "end_of_turn_key_output": -0.033278901931754507,
+   "acknowledgment_key_output": -0.06752449532146104,
+   "constant_key_layer22": 1.0028373646069637,
+   "constant_key_layer25": 0.9944852545151897
+  },
+  {
+   "id": "first_turn:fact:18",
+   "end_of_turn_key_output": -0.0248684306822643,
+   "acknowledgment_key_output": -0.006553053565085806,
+   "constant_key_layer22": 1.0159208398946986,
+   "constant_key_layer25": 1.0222044867694386
+  },
+  {
+   "id": "first_turn:fact:19",
+   "end_of_turn_key_output": 0.018243334792483395,
+   "acknowledgment_key_output": -0.03532742377978954,
+   "constant_key_layer22": 1.0207476883088713,
+   "constant_key_layer25": 1.0154046085383404
+  },
+  {
+   "id": "first_turn:fact:20",
+   "end_of_turn_key_output": 0.09467005113428986,
+   "acknowledgment_key_output": -0.08953856905079721,
+   "constant_key_layer22": 0.9929561970828868,
+   "constant_key_layer25": 0.9701725968672836
+  },
+  {
+   "id": "first_turn:fact:21",
+   "end_of_turn_key_output": 0.41076309459129406,
+   "acknowledgment_key_output": 0.38280514075501526,
+   "constant_key_layer22": 0.9938123931600706,
+   "constant_key_layer25": 0.9711353320406912
+  },
+  {
+   "id": "first_turn:fact:22",
+   "end_of_turn_key_output": 0.04786306139117249,
+   "acknowledgment_key_output": -0.19763818174907785,
+   "constant_key_layer22": 0.9990879636290413,
+   "constant_key_layer25": 0.9916881397272651
+  },
+  {
+   "id": "first_turn:fact:23",
+   "end_of_turn_key_output": 0.4660852195992956,
+   "acknowledgment_key_output": 0.3223003473838845,
+   "constant_key_layer22": 0.9865671263786326,
+   "constant_key_layer25": 0.9806336934609332
+  },
+  {
+   "id": "first_turn:fact:24",
+   "end_of_turn_key_output": -0.039868868645986336,
+   "acknowledgment_key_output": -0.14497924325349512,
+   "constant_key_layer22": 1.0267756153802572,
+   "constant_key_layer25": 1.008448661023434
+  },
+  {
+   "id": "first_turn:fact:25",
+   "end_of_turn_key_output": -0.07050915062697448,
+   "acknowledgment_key_output": 0.025019914157401388,
+   "constant_key_layer22": 0.9969564531199868,
+   "constant_key_layer25": 1.0236284248125256
+  },
+  {
+   "id": "first_turn:fact:26",
+   "end_of_turn_key_output": 0.22208080626452864,
+   "acknowledgment_key_output": 0.019524407502034824,
+   "constant_key_layer22": 0.9988065750997499,
+   "constant_key_layer25": 1.0137159823286426
+  },
+  {
+   "id": "first_turn:fact:27",
+   "end_of_turn_key_output": 0.06253115259854383,
+   "acknowledgment_key_output": 0.15408666500758064,
+   "constant_key_layer22": 1.008656735949711,
+   "constant_key_layer25": 1.0336395223486077
+  },
+  {
+   "id": "first_turn:fact:28",
+   "end_of_turn_key_output": 0.09681104132349223,
+   "acknowledgment_key_output": -0.019259312343951736,
+   "constant_key_layer22": 1.0183425320989299,
+   "constant_key_layer25": 1.001158848000569
+  },
+  {
+   "id": "first_turn:fact:29",
+   "end_of_turn_key_output": 0.4517417351792483,
+   "acknowledgment_key_output": 0.13391448825174576,
+   "constant_key_layer22": 0.97123935730941,
+   "constant_key_layer25": 0.9945272226538475
+  },
+  {
+   "id": "first_turn:howto:0",
+   "end_of_turn_key_output": -0.0574920456413504,
+   "acknowledgment_key_output": 0.14705310647432226,
+   "constant_key_layer22": 0.9987135742562145,
+   "constant_key_layer25": 0.9956772029967842
+  },
+  {
+   "id": "first_turn:howto:1",
+   "end_of_turn_key_output": -0.029973090278524805,
+   "acknowledgment_key_output": 0.1249399441269088,
+   "constant_key_layer22": 0.9968231297480933,
+   "constant_key_layer25": 0.9938071406575933
+  },
+  {
+   "id": "first_turn:howto:2",
+   "end_of_turn_key_output": -0.025553807522009434,
+   "acknowledgment_key_output": 0.0818709211322307,
+   "constant_key_layer22": 1.0104371186364631,
+   "constant_key_layer25": 1.0114446878989858
+  },
+  {
+   "id": "first_turn:howto:3",
+   "end_of_turn_key_output": 0.5293878551030032,
+   "acknowledgment_key_output": 0.3394069572867992,
+   "constant_key_layer22": 0.98660032053446,
+   "constant_key_layer25": 1.0198504576187704
+  },
+  {
+   "id": "first_turn:howto:4",
+   "end_of_turn_key_output": -0.06617576429137502,
+   "acknowledgment_key_output": 0.040634499882686005,
+   "constant_key_layer22": 1.0116950514656486,
+   "constant_key_layer25": 1.0138863334666977
+  },
+  {
+   "id": "first_turn:howto:5",
+   "end_of_turn_key_output": 0.020402504032955997,
+   "acknowledgment_key_output": -0.010880354726529552,
+   "constant_key_layer22": 0.9968262668840382,
+   "constant_key_layer25": 1.0230874483330723
+  },
+  {
+   "id": "first_turn:howto:6",
+   "end_of_turn_key_output": 0.22505091438891653,
+   "acknowledgment_key_output": -0.06284530430321747,
+   "constant_key_layer22": 0.9985812696402797,
+   "constant_key_layer25": 0.9931457165606553
+  },
+  {
+   "id": "first_turn:howto:7",
+   "end_of_turn_key_output": -0.044089978342863455,
+   "acknowledgment_key_output": 0.0025835515110211094,
+   "constant_key_layer22": 0.9993064311162405,
+   "constant_key_layer25": 0.9990934208674227
+  },
+  {
+   "id": "first_turn:howto:8",
+   "end_of_turn_key_output": 0.11879860795419035,
+   "acknowledgment_key_output": 0.059464664934069725,
+   "constant_key_layer22": 0.9912600814533731,
+   "constant_key_layer25": 1.006161857478003
+  },
+  {
+   "id": "first_turn:howto:9",
+   "end_of_turn_key_output": 0.07612689794717749,
+   "acknowledgment_key_output": 0.040950296664387056,
+   "constant_key_layer22": 1.0137957984122656,
+   "constant_key_layer25": 1.0246051480865748
+  },
+  {
+   "id": "first_turn:howto:10",
+   "end_of_turn_key_output": 0.6524102489667332,
+   "acknowledgment_key_output": 0.2986192926416177,
+   "constant_key_layer22": 0.989193658321178,
+   "constant_key_layer25": 1.0049127707178291
+  },
+  {
+   "id": "first_turn:howto:11",
+   "end_of_turn_key_output": 0.20800595920368023,
+   "acknowledgment_key_output": 0.20538993329827404,
+   "constant_key_layer22": 0.9940122767958324,
+   "constant_key_layer25": 0.9602774222146733
+  },
+  {
+   "id": "first_turn:howto:12",
+   "end_of_turn_key_output": -0.012510162551469374,
+   "acknowledgment_key_output": -0.05952373984755379,
+   "constant_key_layer22": 0.9808330447202616,
+   "constant_key_layer25": 0.9967958345509136
+  },
+  {
+   "id": "first_turn:howto:13",
+   "end_of_turn_key_output": -0.04269896652738542,
+   "acknowledgment_key_output": 0.005146415060209637,
+   "constant_key_layer22": 0.9889674101084638,
+   "constant_key_layer25": 1.0147803973683804
+  },
+  {
+   "id": "first_turn:howto:14",
+   "end_of_turn_key_output": -0.14343230023679246,
+   "acknowledgment_key_output": 0.22053187679652853,
+   "constant_key_layer22": 1.0089268926716901,
+   "constant_key_layer25": 0.9911671230955508
+  },
+  {
+   "id": "first_turn:howto:15",
+   "end_of_turn_key_output": -0.14638175242516982,
+   "acknowledgment_key_output": -0.16136396084733995,
+   "constant_key_layer22": 1.0093500481146878,
+   "constant_key_layer25": 1.014813979076675
+  },
+  {
+   "id": "first_turn:howto:16",
+   "end_of_turn_key_output": 0.0942278594049066,
+   "acknowledgment_key_output": 0.18722080461212748,
+   "constant_key_layer22": 1.006042656931227,
+   "constant_key_layer25": 1.005916648438792
+  },
+  {
+   "id": "first_turn:howto:17",
+   "end_of_turn_key_output": -0.020998380165950147,
+   "acknowledgment_key_output": -0.15587171783168527,
+   "constant_key_layer22": 0.996252700436893,
+   "constant_key_layer25": 1.0116432272519393
+  },
+  {
+   "id": "first_turn:howto:18",
+   "end_of_turn_key_output": 0.14303979211481713,
+   "acknowledgment_key_output": -0.0014509342697267853,
+   "constant_key_layer22": 0.9937266875563292,
+   "constant_key_layer25": 0.9982351192314569
+  },
+  {
+   "id": "first_turn:howto:19",
+   "end_of_turn_key_output": 0.24935403873139864,
+   "acknowledgment_key_output": 0.13700376898477962,
+   "constant_key_layer22": 1.0028550916935142,
+   "constant_key_layer25": 0.9800724006371403
+  },
+  {
+   "id": "first_turn:howto:20",
+   "end_of_turn_key_output": -0.0838421720461205,
+   "acknowledgment_key_output": 0.06397662375045217,
+   "constant_key_layer22": 0.9972416378070573,
+   "constant_key_layer25": 0.9942287220649666
+  },
+  {
+   "id": "first_turn:howto:21",
+   "end_of_turn_key_output": 0.03220782199775393,
+   "acknowledgment_key_output": 0.14706348377313117,
+   "constant_key_layer22": 0.9927700560856657,
+   "constant_key_layer25": 0.9971892214958815
+  },
+  {
+   "id": "first_turn:howto:22",
+   "end_of_turn_key_output": -0.05191270543022215,
+   "acknowledgment_key_output": 0.09880459883347087,
+   "constant_key_layer22": 1.0062805035428322,
+   "constant_key_layer25": 0.997437146965652
+  },
+  {
+   "id": "first_turn:howto:23",
+   "end_of_turn_key_output": 0.08766901969737743,
+   "acknowledgment_key_output": -0.026065831207768404,
+   "constant_key_layer22": 0.999608951789547,
+   "constant_key_layer25": 1.0114498235262752
+  },
+  {
+   "id": "first_turn:howto:24",
+   "end_of_turn_key_output": 0.09078794943211181,
+   "acknowledgment_key_output": -0.01564853362632856,
+   "constant_key_layer22": 1.0054237203717111,
+   "constant_key_layer25": 1.0234835136163436
+  },
+  {
+   "id": "first_turn:howto:25",
+   "end_of_turn_key_output": 0.6188523022290683,
+   "acknowledgment_key_output": 0.340064437189144,
+   "constant_key_layer22": 0.9948169155058243,
+   "constant_key_layer25": 1.0130596649073451
+  },
+  {
+   "id": "first_turn:howto:26",
+   "end_of_turn_key_output": 0.2021513160853161,
+   "acknowledgment_key_output": 0.21931558871565707,
+   "constant_key_layer22": 1.008683361014133,
+   "constant_key_layer25": 1.0060443544599023
+  },
+  {
+   "id": "first_turn:howto:27",
+   "end_of_turn_key_output": 0.0128228864412483,
+   "acknowledgment_key_output": -0.04442169565442663,
+   "constant_key_layer22": 1.0054465118247546,
+   "constant_key_layer25": 0.9944833951967125
+  },
+  {
+   "id": "first_turn:howto:28",
+   "end_of_turn_key_output": 0.06699946204158576,
+   "acknowledgment_key_output": 0.009172442594319303,
+   "constant_key_layer22": 1.0104311568597901,
+   "constant_key_layer25": 1.0127780147753993
+  },
+  {
+   "id": "first_turn:howto:29",
+   "end_of_turn_key_output": 0.3735736452701178,
+   "acknowledgment_key_output": 0.25350135913727917,
+   "constant_key_layer22": 1.0059230629283846,
+   "constant_key_layer25": 1.022969621727834
+  },
+  {
+   "id": "first_turn:consult:0",
+   "end_of_turn_key_output": 0.07188375715355505,
+   "acknowledgment_key_output": -0.03708763316261242,
+   "constant_key_layer22": 1.005485437736334,
+   "constant_key_layer25": 1.0119480411079322
+  },
+  {
+   "id": "first_turn:consult:1",
+   "end_of_turn_key_output": 0.10747798830478275,
+   "acknowledgment_key_output": -0.042737644745683125,
+   "constant_key_layer22": 1.0173486408232333,
+   "constant_key_layer25": 1.0201391260239967
+  },
+  {
+   "id": "first_turn:consult:2",
+   "end_of_turn_key_output": -0.0403028964689732,
+   "acknowledgment_key_output": -0.009329593263734745,
+   "constant_key_layer22": 0.9872138521688949,
+   "constant_key_layer25": 0.9983875202989528
+  },
+  {
+   "id": "first_turn:consult:3",
+   "end_of_turn_key_output": -0.06325965919600808,
+   "acknowledgment_key_output": 0.15270777770265803,
+   "constant_key_layer22": 0.9971745305882391,
+   "constant_key_layer25": 1.0028903641577864
+  },
+  {
+   "id": "first_turn:consult:4",
+   "end_of_turn_key_output": 0.5477789642538712,
+   "acknowledgment_key_output": 0.3128700709179842,
+   "constant_key_layer22": 0.9916250382060523,
+   "constant_key_layer25": 1.0038843719748622
+  },
+  {
+   "id": "first_turn:consult:5",
+   "end_of_turn_key_output": 0.13104775529147353,
+   "acknowledgment_key_output": 0.3351332705772403,
+   "constant_key_layer22": 0.9754749577005988,
+   "constant_key_layer25": 0.9854217052622889
+  },
+  {
+   "id": "first_turn:consult:6",
+   "end_of_turn_key_output": 0.11790951072952863,
+   "acknowledgment_key_output": 0.22510277086692132,
+   "constant_key_layer22": 0.9920659563431494,
+   "constant_key_layer25": 0.9932492051339477
+  },
+  {
+   "id": "first_turn:consult:7",
+   "end_of_turn_key_output": 0.8268412536577786,
+   "acknowledgment_key_output": 0.5080501732224647,
+   "constant_key_layer22": 1.0070101308413375,
+   "constant_key_layer25": 0.9427442521377752
+  },
+  {
+   "id": "first_turn:consult:8",
+   "end_of_turn_key_output": 0.21055831550125004,
+   "acknowledgment_key_output": 0.07130964442745448,
+   "constant_key_layer22": 1.000670588478641,
+   "constant_key_layer25": 1.0107011724626573
+  },
+  {
+   "id": "first_turn:consult:9",
+   "end_of_turn_key_output": 0.21638732554925766,
+   "acknowledgment_key_output": 0.3900291766516819,
+   "constant_key_layer22": 0.9790053289730838,
+   "constant_key_layer25": 0.9931165304502059
+  },
+  {
+   "id": "first_turn:consult:10",
+   "end_of_turn_key_output": 0.2644071903084147,
+   "acknowledgment_key_output": 0.10941084744957208,
+   "constant_key_layer22": 0.9695480865303217,
+   "constant_key_layer25": 1.0005413757261197
+  },
+  {
+   "id": "first_turn:consult:11",
+   "end_of_turn_key_output": 0.29748566696967077,
+   "acknowledgment_key_output": 0.013741183074055542,
+   "constant_key_layer22": 0.9755466396854426,
+   "constant_key_layer25": 1.0137833882643665
+  },
+  {
+   "id": "first_turn:consult:12",
+   "end_of_turn_key_output": 0.0665277210758032,
+   "acknowledgment_key_output": 0.06575784795952087,
+   "constant_key_layer22": 1.0163954826364143,
+   "constant_key_layer25": 1.0078995725777609
+  },
+  {
+   "id": "first_turn:consult:13",
+   "end_of_turn_key_output": 0.22743751003218426,
+   "acknowledgment_key_output": 0.4101893874735006,
+   "constant_key_layer22": 1.0002949985962302,
+   "constant_key_layer25": 0.9912904465293517
+  },
+  {
+   "id": "first_turn:consult:14",
+   "end_of_turn_key_output": 0.367733357905556,
+   "acknowledgment_key_output": 0.04739127871862815,
+   "constant_key_layer22": 1.0106887846951915,
+   "constant_key_layer25": 1.0164541101386182
+  },
+  {
+   "id": "first_turn:consult:15",
+   "end_of_turn_key_output": 0.3254613932274393,
+   "acknowledgment_key_output": 0.48482962157706533,
+   "constant_key_layer22": 0.9912787176740674,
+   "constant_key_layer25": 1.0090488985292079
+  },
+  {
+   "id": "first_turn:consult:16",
+   "end_of_turn_key_output": 0.18977027575030678,
+   "acknowledgment_key_output": 0.21372194037525283,
+   "constant_key_layer22": 0.9998576649131511,
+   "constant_key_layer25": 1.0074926153652037
+  },
+  {
+   "id": "first_turn:consult:17",
+   "end_of_turn_key_output": 0.3548227079135426,
+   "acknowledgment_key_output": -0.07591670346801031,
+   "constant_key_layer22": 0.9938576330285802,
+   "constant_key_layer25": 1.0154001651878337
+  },
+  {
+   "id": "first_turn:consult:18",
+   "end_of_turn_key_output": 0.2623932147460147,
+   "acknowledgment_key_output": 0.0470524133627497,
+   "constant_key_layer22": 0.9998215635678303,
+   "constant_key_layer25": 1.012204444518972
+  },
+  {
+   "id": "first_turn:consult:19",
+   "end_of_turn_key_output": 0.10191919982137349,
+   "acknowledgment_key_output": 0.09437663800171926,
+   "constant_key_layer22": 1.0037551056054852,
+   "constant_key_layer25": 1.0099121874651857
+  },
+  {
+   "id": "first_turn:consult:20",
+   "end_of_turn_key_output": 0.08536419120154017,
+   "acknowledgment_key_output": 0.02293616310087052,
+   "constant_key_layer22": 1.0149685699231448,
+   "constant_key_layer25": 0.9902344812189849
+  },
+  {
+   "id": "first_turn:consult:21",
+   "end_of_turn_key_output": 0.5914651019889247,
+   "acknowledgment_key_output": 0.15335433751678132,
+   "constant_key_layer22": 0.9916667564854694,
+   "constant_key_layer25": 0.9893534560713593
+  },
+  {
+   "id": "first_turn:consult:22",
+   "end_of_turn_key_output": 0.28730166319339606,
+   "acknowledgment_key_output": -0.045987239314752626,
+   "constant_key_layer22": 0.9798512595115673,
+   "constant_key_layer25": 1.0110827495206707
+  },
+  {
+   "id": "first_turn:consult:23",
+   "end_of_turn_key_output": 0.08069588999019758,
+   "acknowledgment_key_output": -0.10410860120312118,
+   "constant_key_layer22": 1.0196818222842734,
+   "constant_key_layer25": 1.0249000048481482
+  },
+  {
+   "id": "first_turn:consult:24",
+   "end_of_turn_key_output": 0.28805112034434616,
+   "acknowledgment_key_output": -0.03513204328032966,
+   "constant_key_layer22": 0.9841492251855077,
+   "constant_key_layer25": 1.0106299929161264
+  },
+  {
+   "id": "first_turn:consult:25",
+   "end_of_turn_key_output": 0.2508311181962784,
+   "acknowledgment_key_output": 0.1483885440996517,
+   "constant_key_layer22": 0.9978457346128067,
+   "constant_key_layer25": 1.003640680091095
+  },
+  {
+   "id": "first_turn:consult:26",
+   "end_of_turn_key_output": 0.08291357500435188,
+   "acknowledgment_key_output": -0.0036098065903498165,
+   "constant_key_layer22": 0.9832319117232184,
+   "constant_key_layer25": 1.0157501741948562
+  },
+  {
+   "id": "first_turn:consult:27",
+   "end_of_turn_key_output": -0.06628554528083562,
+   "acknowledgment_key_output": -0.012296860958505037,
+   "constant_key_layer22": 0.9993047800849426,
+   "constant_key_layer25": 1.0363533957503492
+  },
+  {
+   "id": "first_turn:consult:28",
+   "end_of_turn_key_output": 0.4217773946132929,
+   "acknowledgment_key_output": 0.06677027773943145,
+   "constant_key_layer22": 1.0049462981261184,
+   "constant_key_layer25": 1.0125252572522032
+  },
+  {
+   "id": "first_turn:consult:29",
+   "end_of_turn_key_output": 0.284695064039681,
+   "acknowledgment_key_output": 0.04954548442551694,
+   "constant_key_layer22": 1.0062099077953115,
+   "constant_key_layer25": 1.009702596306476
+  },
+  {
+   "id": "first_turn:thanks:0",
+   "end_of_turn_key_output": 0.012367173200556672,
+   "acknowledgment_key_output": 1.083961869695177,
+   "constant_key_layer22": 1.0112636264625707,
+   "constant_key_layer25": 1.0042710785292979
+  },
+  {
+   "id": "first_turn:thanks:1",
+   "end_of_turn_key_output": 0.1716205303962457,
+   "acknowledgment_key_output": 1.0315793640226067,
+   "constant_key_layer22": 1.001488674437688,
+   "constant_key_layer25": 0.9974061930073688
+  },
+  {
+   "id": "first_turn:thanks:2",
+   "end_of_turn_key_output": 0.199062958944021,
+   "acknowledgment_key_output": 1.161606101944704,
+   "constant_key_layer22": 0.9765378925106928,
+   "constant_key_layer25": 0.9972624700593555
+  },
+  {
+   "id": "first_turn:thanks:3",
+   "end_of_turn_key_output": 0.22743513580750108,
+   "acknowledgment_key_output": 0.9996377337441211,
+   "constant_key_layer22": 0.9913599212831787,
+   "constant_key_layer25": 0.9975485411627638
+  },
+  {
+   "id": "first_turn:thanks:4",
+   "end_of_turn_key_output": 0.26014181121804536,
+   "acknowledgment_key_output": 1.037255347079526,
+   "constant_key_layer22": 0.971861903592053,
+   "constant_key_layer25": 1.0001945169446957
+  },
+  {
+   "id": "first_turn:thanks:5",
+   "end_of_turn_key_output": 0.07016217917022748,
+   "acknowledgment_key_output": 1.0954081565714502,
+   "constant_key_layer22": 1.0189230627831123,
+   "constant_key_layer25": 0.9981559809191196
+  },
+  {
+   "id": "first_turn:thanks:6",
+   "end_of_turn_key_output": -0.062378904143572646,
+   "acknowledgment_key_output": 1.042678022461901,
+   "constant_key_layer22": 1.0003145797979198,
+   "constant_key_layer25": 0.9903783429643237
+  },
+  {
+   "id": "first_turn:thanks:7",
+   "end_of_turn_key_output": 0.22172184936221412,
+   "acknowledgment_key_output": 0.9995997161794052,
+   "constant_key_layer22": 1.0175584791829988,
+   "constant_key_layer25": 0.9990366200333737
+  },
+  {
+   "id": "first_turn:thanks:8",
+   "end_of_turn_key_output": 0.08948446933331003,
+   "acknowledgment_key_output": 1.000104806012913,
+   "constant_key_layer22": 1.0060174508071384,
+   "constant_key_layer25": 0.999328094994088
+  },
+  {
+   "id": "first_turn:thanks:9",
+   "end_of_turn_key_output": 0.3422260500081556,
+   "acknowledgment_key_output": 0.9350959511661525,
+   "constant_key_layer22": 0.9486216062340702,
+   "constant_key_layer25": 0.9989850514031792
+  },
+  {
+   "id": "first_turn:thanks:10",
+   "end_of_turn_key_output": 0.02959710750378415,
+   "acknowledgment_key_output": 1.024706050006334,
+   "constant_key_layer22": 1.000063727843074,
+   "constant_key_layer25": 0.9892316530047259
+  },
+  {
+   "id": "first_turn:thanks:11",
+   "end_of_turn_key_output": -0.03951273547174015,
+   "acknowledgment_key_output": 1.0696502556677927,
+   "constant_key_layer22": 0.9903895330392647,
+   "constant_key_layer25": 0.997458813856696
+  },
+  {
+   "id": "first_turn:thanks:12",
+   "end_of_turn_key_output": 0.023292733600825434,
+   "acknowledgment_key_output": 0.9716203316689749,
+   "constant_key_layer22": 1.0032813255709576,
+   "constant_key_layer25": 0.9981159613642866
+  },
+  {
+   "id": "first_turn:thanks:13",
+   "end_of_turn_key_output": 0.31072107489868817,
+   "acknowledgment_key_output": 0.9890050173197724,
+   "constant_key_layer22": 1.0067523377760401,
+   "constant_key_layer25": 0.9929078435627955
+  },
+  {
+   "id": "first_turn:thanks:14",
+   "end_of_turn_key_output": 0.06609142947490441,
+   "acknowledgment_key_output": 0.9520164687441809,
+   "constant_key_layer22": 1.0008781778926492,
+   "constant_key_layer25": 0.9898458819409646
+  },
+  {
+   "id": "first_turn:thanks:15",
+   "end_of_turn_key_output": 0.08349146343375079,
+   "acknowledgment_key_output": 1.1035421507732615,
+   "constant_key_layer22": 0.999042249382416,
+   "constant_key_layer25": 0.9961573744231927
+  },
+  {
+   "id": "first_turn:thanks:16",
+   "end_of_turn_key_output": 0.025815632458292378,
+   "acknowledgment_key_output": 1.0387604514296263,
+   "constant_key_layer22": 0.9895408271506584,
+   "constant_key_layer25": 0.9998745424927542
+  },
+  {
+   "id": "first_turn:thanks:17",
+   "end_of_turn_key_output": -0.090512373489208,
+   "acknowledgment_key_output": 1.0656539994021512,
+   "constant_key_layer22": 0.9996905435738458,
+   "constant_key_layer25": 0.99274772256101
+  },
+  {
+   "id": "first_turn:thanks:18",
+   "end_of_turn_key_output": 0.2001770701106585,
+   "acknowledgment_key_output": 1.0165901089096125,
+   "constant_key_layer22": 0.9585472275085178,
+   "constant_key_layer25": 1.0024611427207255
+  },
+  {
+   "id": "first_turn:thanks:19",
+   "end_of_turn_key_output": 0.4011652080473404,
+   "acknowledgment_key_output": 1.0613775832185715,
+   "constant_key_layer22": 1.0116214412385602,
+   "constant_key_layer25": 0.9781719659448473
+  },
+  {
+   "id": "first_turn:thanks:20",
+   "end_of_turn_key_output": 0.012747025792336933,
+   "acknowledgment_key_output": 0.8361892684334311,
+   "constant_key_layer22": 0.9975063219659932,
+   "constant_key_layer25": 1.0096749262332745
+  },
+  {
+   "id": "first_turn:thanks:21",
+   "end_of_turn_key_output": 0.17332047125554842,
+   "acknowledgment_key_output": 1.0347716223627155,
+   "constant_key_layer22": 0.9785117514371827,
+   "constant_key_layer25": 1.0015117358641195
+  },
+  {
+   "id": "first_turn:thanks:22",
+   "end_of_turn_key_output": 0.003418645617372266,
+   "acknowledgment_key_output": 0.952293030491068,
+   "constant_key_layer22": 1.0229644735357972,
+   "constant_key_layer25": 0.9886389387016494
+  },
+  {
+   "id": "first_turn:thanks:23",
+   "end_of_turn_key_output": 0.11962039589189087,
+   "acknowledgment_key_output": 1.1273633020802072,
+   "constant_key_layer22": 0.9764112448838147,
+   "constant_key_layer25": 0.9829793746719855
+  },
+  {
+   "id": "first_turn:thanks:24",
+   "end_of_turn_key_output": 0.37455732918158846,
+   "acknowledgment_key_output": 0.7519625323494719,
+   "constant_key_layer22": 0.9857093220741511,
+   "constant_key_layer25": 0.9763265840385607
+  },
+  {
+   "id": "first_turn:thanks:25",
+   "end_of_turn_key_output": 0.013905672127929262,
+   "acknowledgment_key_output": 0.9116323303678694,
+   "constant_key_layer22": 0.9809247948230995,
+   "constant_key_layer25": 1.0041736326553252
+  },
+  {
+   "id": "first_turn:thanks:26",
+   "end_of_turn_key_output": 0.14814867870816886,
+   "acknowledgment_key_output": 1.0439228339136306,
+   "constant_key_layer22": 1.0220731744074216,
+   "constant_key_layer25": 0.9862172539821461
+  },
+  {
+   "id": "first_turn:thanks:27",
+   "end_of_turn_key_output": 0.08262638552860094,
+   "acknowledgment_key_output": 1.0093680184176368,
+   "constant_key_layer22": 1.0033728884519912,
+   "constant_key_layer25": 0.9979421689444838
+  },
+  {
+   "id": "first_turn:thanks:28",
+   "end_of_turn_key_output": -0.005524917551502315,
+   "acknowledgment_key_output": 1.1136302212975862,
+   "constant_key_layer22": 1.0019443659361442,
+   "constant_key_layer25": 0.9948596119660227
+  },
+  {
+   "id": "first_turn:thanks:29",
+   "end_of_turn_key_output": 0.21415265900233277,
+   "acknowledgment_key_output": 1.0340958238887312,
+   "constant_key_layer22": 1.0148104893179246,
+   "constant_key_layer25": 1.0010516631955695
+  },
+  {
+   "id": "first_turn:praise:0",
+   "end_of_turn_key_output": -0.06660848950205531,
+   "acknowledgment_key_output": 0.9747559991432647,
+   "constant_key_layer22": 0.9727463319022505,
+   "constant_key_layer25": 0.9954455183442507
+  },
+  {
+   "id": "first_turn:praise:1",
+   "end_of_turn_key_output": -0.0827050342404731,
+   "acknowledgment_key_output": 0.9785129945600488,
+   "constant_key_layer22": 0.979870858003826,
+   "constant_key_layer25": 0.9934841793788005
+  },
+  {
+   "id": "first_turn:praise:2",
+   "end_of_turn_key_output": -0.019957053483501547,
+   "acknowledgment_key_output": 1.025681568236866,
+   "constant_key_layer22": 0.9639980619800571,
+   "constant_key_layer25": 0.9950418783418422
+  },
+  {
+   "id": "first_turn:praise:3",
+   "end_of_turn_key_output": 0.3600438188806739,
+   "acknowledgment_key_output": 1.0503251170383614,
+   "constant_key_layer22": 1.0114559106750247,
+   "constant_key_layer25": 1.002248337810057
+  },
+  {
+   "id": "first_turn:praise:4",
+   "end_of_turn_key_output": 0.07845816819104844,
+   "acknowledgment_key_output": 1.1593068031868698,
+   "constant_key_layer22": 0.9834736732404293,
+   "constant_key_layer25": 0.9908228551185643
+  },
+  {
+   "id": "first_turn:praise:5",
+   "end_of_turn_key_output": 0.22980272230810952,
+   "acknowledgment_key_output": 1.0522592113691502,
+   "constant_key_layer22": 1.0017125185337692,
+   "constant_key_layer25": 0.9972423357264193
+  },
+  {
+   "id": "first_turn:praise:6",
+   "end_of_turn_key_output": 0.339435599950077,
+   "acknowledgment_key_output": 1.0243529755626497,
+   "constant_key_layer22": 1.0115177691479524,
+   "constant_key_layer25": 0.9991489657912686
+  },
+  {
+   "id": "first_turn:praise:7",
+   "end_of_turn_key_output": 0.6522973420976471,
+   "acknowledgment_key_output": 0.9805028915396514,
+   "constant_key_layer22": 1.0146954829175525,
+   "constant_key_layer25": 0.9887910692137383
+  },
+  {
+   "id": "first_turn:praise:8",
+   "end_of_turn_key_output": 0.20015950233072674,
+   "acknowledgment_key_output": 0.7329875967295674,
+   "constant_key_layer22": 1.030265789680375,
+   "constant_key_layer25": 1.0003250326240203
+  },
+  {
+   "id": "first_turn:praise:9",
+   "end_of_turn_key_output": 0.18289790930959682,
+   "acknowledgment_key_output": 1.0657592578375308,
+   "constant_key_layer22": 1.0082488978410298,
+   "constant_key_layer25": 0.9897886636844542
+  },
+  {
+   "id": "first_turn:praise:10",
+   "end_of_turn_key_output": 0.15111906241668852,
+   "acknowledgment_key_output": 0.9067902662231604,
+   "constant_key_layer22": 1.008136540792905,
+   "constant_key_layer25": 0.993841259639159
+  },
+  {
+   "id": "first_turn:praise:11",
+   "end_of_turn_key_output": 0.13027522643433156,
+   "acknowledgment_key_output": 1.0845792612466383,
+   "constant_key_layer22": 0.9835221706993162,
+   "constant_key_layer25": 0.9858217369285377
+  },
+  {
+   "id": "first_turn:praise:12",
+   "end_of_turn_key_output": 0.030594135130246895,
+   "acknowledgment_key_output": 1.0839241520821012,
+   "constant_key_layer22": 1.0117499395077418,
+   "constant_key_layer25": 0.9993415841821984
+  },
+  {
+   "id": "first_turn:praise:13",
+   "end_of_turn_key_output": 0.5046584220643794,
+   "acknowledgment_key_output": 0.9391938402255606,
+   "constant_key_layer22": 1.016243036522889,
+   "constant_key_layer25": 1.0032883180690888
+  },
+  {
+   "id": "first_turn:praise:14",
+   "end_of_turn_key_output": -0.08466373410659807,
+   "acknowledgment_key_output": 0.9656409807172232,
+   "constant_key_layer22": 0.9763746384455065,
+   "constant_key_layer25": 0.9946182472678948
+  },
+  {
+   "id": "first_turn:praise:15",
+   "end_of_turn_key_output": 0.2798293655501899,
+   "acknowledgment_key_output": 0.708550526731085,
+   "constant_key_layer22": 1.0125818296639586,
+   "constant_key_layer25": 1.013298271573557
+  },
+  {
+   "id": "first_turn:praise:16",
+   "end_of_turn_key_output": 0.21618919969649614,
+   "acknowledgment_key_output": 1.0276749288273908,
+   "constant_key_layer22": 0.9905775936371504,
+   "constant_key_layer25": 1.0041245511614227
+  },
+  {
+   "id": "first_turn:praise:17",
+   "end_of_turn_key_output": 0.4977472842543663,
+   "acknowledgment_key_output": 1.1490312589126017,
+   "constant_key_layer22": 0.9979823231295998,
+   "constant_key_layer25": 1.0115727306680773
+  },
+  {
+   "id": "first_turn:praise:18",
+   "end_of_turn_key_output": -0.00859752524957552,
+   "acknowledgment_key_output": 1.0638139616978588,
+   "constant_key_layer22": 0.9849062612472401,
+   "constant_key_layer25": 0.9853395946389845
+  },
+  {
+   "id": "first_turn:praise:19",
+   "end_of_turn_key_output": -0.157450470778491,
+   "acknowledgment_key_output": 0.9415960655736058,
+   "constant_key_layer22": 0.9657773706462828,
+   "constant_key_layer25": 0.9885363901110806
+  },
+  {
+   "id": "first_turn:praise:20",
+   "end_of_turn_key_output": 0.4417133682835934,
+   "acknowledgment_key_output": 0.7483325522660175,
+   "constant_key_layer22": 1.0031089886018698,
+   "constant_key_layer25": 0.9988532708862423
+  },
+  {
+   "id": "first_turn:praise:21",
+   "end_of_turn_key_output": 0.0922038806827094,
+   "acknowledgment_key_output": 1.0757214481521855,
+   "constant_key_layer22": 1.0017190514334078,
+   "constant_key_layer25": 0.9978860068227382
+  },
+  {
+   "id": "first_turn:praise:22",
+   "end_of_turn_key_output": 0.14273709003980137,
+   "acknowledgment_key_output": 1.0342858469016645,
+   "constant_key_layer22": 0.9850112532842695,
+   "constant_key_layer25": 0.9942718218249397
+  },
+  {
+   "id": "first_turn:praise:23",
+   "end_of_turn_key_output": 0.026917461312517,
+   "acknowledgment_key_output": 1.0988839442175196,
+   "constant_key_layer22": 0.9721483413371528,
+   "constant_key_layer25": 0.993076961155088
+  },
+  {
+   "id": "first_turn:praise:24",
+   "end_of_turn_key_output": 0.5075556894465548,
+   "acknowledgment_key_output": 0.8167211440346152,
+   "constant_key_layer22": 1.0041597325408365,
+   "constant_key_layer25": 0.9828501237267852
+  },
+  {
+   "id": "first_turn:praise:25",
+   "end_of_turn_key_output": 0.2619946162399798,
+   "acknowledgment_key_output": 1.0033265371198719,
+   "constant_key_layer22": 1.001267910973696,
+   "constant_key_layer25": 0.9896185711844423
+  },
+  {
+   "id": "first_turn:praise:26",
+   "end_of_turn_key_output": 0.12633227704188596,
+   "acknowledgment_key_output": 1.0854277923944278,
+   "constant_key_layer22": 1.0012806513923012,
+   "constant_key_layer25": 1.005217592238023
+  },
+  {
+   "id": "first_turn:praise:27",
+   "end_of_turn_key_output": 0.23716683732659058,
+   "acknowledgment_key_output": 0.5530859864585063,
+   "constant_key_layer22": 1.017602527477604,
+   "constant_key_layer25": 0.9920772332781023
+  },
+  {
+   "id": "first_turn:praise:28",
+   "end_of_turn_key_output": 0.16830190116108962,
+   "acknowledgment_key_output": 1.055309403878432,
+   "constant_key_layer22": 1.002066391747223,
+   "constant_key_layer25": 0.9978381640904637
+  },
+  {
+   "id": "first_turn:praise:29",
+   "end_of_turn_key_output": 0.3382013639341797,
+   "acknowledgment_key_output": 1.0004687297663273,
+   "constant_key_layer22": 1.0325121695438348,
+   "constant_key_layer25": 1.0004239735169858
+  },
+  {
+   "id": "first_turn:report:0",
+   "end_of_turn_key_output": 0.872700167521566,
+   "acknowledgment_key_output": 0.6746446377944343,
+   "constant_key_layer22": 0.9658969014845468,
+   "constant_key_layer25": 0.9721818001579308
+  },
+  {
+   "id": "first_turn:report:1",
+   "end_of_turn_key_output": 0.33071679836177037,
+   "acknowledgment_key_output": 0.970855798481166,
+   "constant_key_layer22": 0.9859673796066302,
+   "constant_key_layer25": 0.9982069339288937
+  },
+  {
+   "id": "first_turn:report:2",
+   "end_of_turn_key_output": 0.1956298797880934,
+   "acknowledgment_key_output": 0.7494489367595727,
+   "constant_key_layer22": 1.0119133876655133,
+   "constant_key_layer25": 1.0132211454480995
+  },
+  {
+   "id": "first_turn:report:3",
+   "end_of_turn_key_output": 0.6251570305247313,
+   "acknowledgment_key_output": 0.8984296530934068,
+   "constant_key_layer22": 0.9801254038109513,
+   "constant_key_layer25": 1.0100413298051598
+  },
+  {
+   "id": "first_turn:report:4",
+   "end_of_turn_key_output": 0.32661040267260044,
+   "acknowledgment_key_output": 1.0549390811847783,
+   "constant_key_layer22": 1.0079967140025154,
+   "constant_key_layer25": 1.0160497259539958
+  },
+  {
+   "id": "first_turn:report:5",
+   "end_of_turn_key_output": 0.07178781002142962,
+   "acknowledgment_key_output": 0.8845344742072793,
+   "constant_key_layer22": 0.9153233033769304,
+   "constant_key_layer25": 0.9904254602971786
+  },
+  {
+   "id": "first_turn:report:6",
+   "end_of_turn_key_output": 0.6057485401915967,
+   "acknowledgment_key_output": 0.8779026285636647,
+   "constant_key_layer22": 0.9940491206500849,
+   "constant_key_layer25": 0.9924556286527468
+  },
+  {
+   "id": "first_turn:report:7",
+   "end_of_turn_key_output": 0.5202522668446211,
+   "acknowledgment_key_output": 0.9656812947089178,
+   "constant_key_layer22": 1.0003547133944484,
+   "constant_key_layer25": 0.9974332073882181
+  },
+  {
+   "id": "first_turn:report:8",
+   "end_of_turn_key_output": 0.24117335033000012,
+   "acknowledgment_key_output": 0.9784652842809808,
+   "constant_key_layer22": 1.0155967619704682,
+   "constant_key_layer25": 1.0000430100952298
+  },
+  {
+   "id": "first_turn:report:9",
+   "end_of_turn_key_output": 0.4139451360085022,
+   "acknowledgment_key_output": 0.9587552799734377,
+   "constant_key_layer22": 1.0183228358703076,
+   "constant_key_layer25": 0.9942676004022043
+  },
+  {
+   "id": "first_turn:report:10",
+   "end_of_turn_key_output": 0.4591687633833386,
+   "acknowledgment_key_output": 0.7802364881459444,
+   "constant_key_layer22": 1.0132634492637342,
+   "constant_key_layer25": 1.0183569334416904
+  },
+  {
+   "id": "first_turn:report:11",
+   "end_of_turn_key_output": 0.21325587313507782,
+   "acknowledgment_key_output": 0.8900804592681679,
+   "constant_key_layer22": 1.0004663650677015,
+   "constant_key_layer25": 0.9999519951516047
+  },
+  {
+   "id": "first_turn:report:12",
+   "end_of_turn_key_output": 0.06454547910029897,
+   "acknowledgment_key_output": 0.8656919500867649,
+   "constant_key_layer22": 1.0226675645925516,
+   "constant_key_layer25": 0.9992488644095319
+  },
+  {
+   "id": "first_turn:report:13",
+   "end_of_turn_key_output": 0.7653623987643684,
+   "acknowledgment_key_output": 0.6509330528873777,
+   "constant_key_layer22": 0.9931919167361773,
+   "constant_key_layer25": 0.9739574248685773
+  },
+  {
+   "id": "first_turn:report:14",
+   "end_of_turn_key_output": 0.28145292108063386,
+   "acknowledgment_key_output": 0.9250076076714299,
+   "constant_key_layer22": 1.0158192667277195,
+   "constant_key_layer25": 0.9971458410410852
+  },
+  {
+   "id": "first_turn:report:15",
+   "end_of_turn_key_output": 0.24603102883642194,
+   "acknowledgment_key_output": 0.9646659057034257,
+   "constant_key_layer22": 1.0094216084620502,
+   "constant_key_layer25": 1.003083261071676
+  },
+  {
+   "id": "first_turn:report:16",
+   "end_of_turn_key_output": 0.17659175648189798,
+   "acknowledgment_key_output": 0.856495619757555,
+   "constant_key_layer22": 1.0165828628299998,
+   "constant_key_layer25": 1.005067153595466
+  },
+  {
+   "id": "first_turn:report:17",
+   "end_of_turn_key_output": 0.3169718290411779,
+   "acknowledgment_key_output": 0.9615721059637348,
+   "constant_key_layer22": 1.0170469509263693,
+   "constant_key_layer25": 0.9939346977918119
+  },
+  {
+   "id": "first_turn:report:18",
+   "end_of_turn_key_output": 0.59243040218579,
+   "acknowledgment_key_output": 0.9173117646501997,
+   "constant_key_layer22": 0.9875814478360696,
+   "constant_key_layer25": 1.0219515004193616
+  },
+  {
+   "id": "first_turn:report:19",
+   "end_of_turn_key_output": 0.5058652904474625,
+   "acknowledgment_key_output": 0.8559078357980485,
+   "constant_key_layer22": 0.9746245365809283,
+   "constant_key_layer25": 1.0039524937862898
+  },
+  {
+   "id": "first_turn:report:20",
+   "end_of_turn_key_output": 0.6152469033283802,
+   "acknowledgment_key_output": 0.6165020206419628,
+   "constant_key_layer22": 0.9945489636688187,
+   "constant_key_layer25": 1.0112025653704322
+  },
+  {
+   "id": "first_turn:report:21",
+   "end_of_turn_key_output": 0.12313646745398533,
+   "acknowledgment_key_output": 1.148006873002973,
+   "constant_key_layer22": 0.9962219002087036,
+   "constant_key_layer25": 0.995474834979337
+  },
+  {
+   "id": "first_turn:report:22",
+   "end_of_turn_key_output": 0.1078244082007601,
+   "acknowledgment_key_output": 0.8389777322431579,
+   "constant_key_layer22": 0.9893557388522347,
+   "constant_key_layer25": 1.005333183058601
+  },
+  {
+   "id": "first_turn:report:23",
+   "end_of_turn_key_output": 0.09664557505103953,
+   "acknowledgment_key_output": 0.8354089588774709,
+   "constant_key_layer22": 0.9849376484230992,
+   "constant_key_layer25": 1.0227238726114383
+  },
+  {
+   "id": "first_turn:report:24",
+   "end_of_turn_key_output": 0.10277021400916854,
+   "acknowledgment_key_output": 1.0877487528268441,
+   "constant_key_layer22": 1.001997039959445,
+   "constant_key_layer25": 1.0054016013662639
+  },
+  {
+   "id": "first_turn:report:25",
+   "end_of_turn_key_output": 0.6385936216505881,
+   "acknowledgment_key_output": 0.7207231484788087,
+   "constant_key_layer22": 0.9992773976547853,
+   "constant_key_layer25": 0.9996758770063497
+  },
+  {
+   "id": "first_turn:report:26",
+   "end_of_turn_key_output": 0.39392411124048227,
+   "acknowledgment_key_output": 0.5310270930342617,
+   "constant_key_layer22": 1.0055337812162475,
+   "constant_key_layer25": 0.9953194281792077
+  },
+  {
+   "id": "first_turn:report:27",
+   "end_of_turn_key_output": 0.2629320333763516,
+   "acknowledgment_key_output": 0.6564099630535773,
+   "constant_key_layer22": 0.9995215949037495,
+   "constant_key_layer25": 0.9998324332437352
+  },
+  {
+   "id": "first_turn:report:28",
+   "end_of_turn_key_output": 0.613671323529213,
+   "acknowledgment_key_output": 0.7431512645448289,
+   "constant_key_layer22": 0.9917745612425468,
+   "constant_key_layer25": 1.0162631231567332
+  },
+  {
+   "id": "first_turn:report:29",
+   "end_of_turn_key_output": 0.3036978842061739,
+   "acknowledgment_key_output": 1.016639909423958,
+   "constant_key_layer22": 0.9757658011016508,
+   "constant_key_layer25": 1.0197063194137348
+  },
+  {
+   "id": "first_turn:invite:0",
+   "end_of_turn_key_output": 0.11046670772813763,
+   "acknowledgment_key_output": 0.16090002242470458,
+   "constant_key_layer22": 1.0012696990122265,
+   "constant_key_layer25": 1.0031072311379314
+  },
+  {
+   "id": "first_turn:invite:1",
+   "end_of_turn_key_output": -0.02740099165397056,
+   "acknowledgment_key_output": 0.21315481873750722,
+   "constant_key_layer22": 1.0075370493216664,
+   "constant_key_layer25": 1.0019250923541998
+  },
+  {
+   "id": "first_turn:invite:2",
+   "end_of_turn_key_output": 0.38114420011717937,
+   "acknowledgment_key_output": 0.2530586322704324,
+   "constant_key_layer22": 1.007690740695978,
+   "constant_key_layer25": 1.0035634061860137
+  },
+  {
+   "id": "first_turn:invite:3",
+   "end_of_turn_key_output": 0.17757838036468848,
+   "acknowledgment_key_output": 0.13181853551627898,
+   "constant_key_layer22": 1.007788733333961,
+   "constant_key_layer25": 0.9979968873693653
+  },
+  {
+   "id": "first_turn:invite:4",
+   "end_of_turn_key_output": 0.14682981491662658,
+   "acknowledgment_key_output": 0.1741921389782087,
+   "constant_key_layer22": 1.009896703036913,
+   "constant_key_layer25": 1.011478028728693
+  },
+  {
+   "id": "first_turn:invite:5",
+   "end_of_turn_key_output": 0.07450792774946167,
+   "acknowledgment_key_output": 0.6864291841755006,
+   "constant_key_layer22": 1.0230221119158638,
+   "constant_key_layer25": 0.9999349243932123
+  },
+  {
+   "id": "first_turn:invite:6",
+   "end_of_turn_key_output": 0.07608459379783232,
+   "acknowledgment_key_output": 0.10128701799927917,
+   "constant_key_layer22": 1.0176778240072846,
+   "constant_key_layer25": 1.0069372516605561
+  },
+  {
+   "id": "first_turn:invite:7",
+   "end_of_turn_key_output": 0.14990396540125578,
+   "acknowledgment_key_output": 0.4808411685523651,
+   "constant_key_layer22": 1.02088797080674,
+   "constant_key_layer25": 1.0068127539537266
+  },
+  {
+   "id": "first_turn:invite:8",
+   "end_of_turn_key_output": 0.2930576703168604,
+   "acknowledgment_key_output": 0.505636780935332,
+   "constant_key_layer22": 1.006284703940434,
+   "constant_key_layer25": 1.0066867480426729
+  },
+  {
+   "id": "first_turn:invite:9",
+   "end_of_turn_key_output": 0.05886544603094479,
+   "acknowledgment_key_output": -0.04259759430391808,
+   "constant_key_layer22": 1.0050998110045053,
+   "constant_key_layer25": 1.0051281587252197
+  },
+  {
+   "id": "first_turn:invite:10",
+   "end_of_turn_key_output": 0.06213897561414133,
+   "acknowledgment_key_output": 0.2490009979276377,
+   "constant_key_layer22": 1.0106335105518307,
+   "constant_key_layer25": 0.9996544622453419
+  },
+  {
+   "id": "first_turn:invite:11",
+   "end_of_turn_key_output": -0.1596286378550768,
+   "acknowledgment_key_output": 0.13441017078053394,
+   "constant_key_layer22": 0.9991892632360154,
+   "constant_key_layer25": 0.9984540217527933
+  },
+  {
+   "id": "first_turn:invite:12",
+   "end_of_turn_key_output": 0.3214496646186888,
+   "acknowledgment_key_output": -0.016410580395576184,
+   "constant_key_layer22": 1.003153549355786,
+   "constant_key_layer25": 1.0134794188956058
+  },
+  {
+   "id": "first_turn:invite:13",
+   "end_of_turn_key_output": -0.01767903237130567,
+   "acknowledgment_key_output": 0.24854758591385265,
+   "constant_key_layer22": 1.0132782653625403,
+   "constant_key_layer25": 1.0004045683343463
+  },
+  {
+   "id": "first_turn:invite:14",
+   "end_of_turn_key_output": -0.03434428861820449,
+   "acknowledgment_key_output": 0.01924782420624549,
+   "constant_key_layer22": 1.0081817958796602,
+   "constant_key_layer25": 0.999231365174033
+  },
+  {
+   "id": "first_turn:invite:15",
+   "end_of_turn_key_output": 0.281980037841168,
+   "acknowledgment_key_output": 0.41982528296567456,
+   "constant_key_layer22": 1.0091946685327513,
+   "constant_key_layer25": 1.0121115203508881
+  },
+  {
+   "id": "first_turn:invite:16",
+   "end_of_turn_key_output": 0.06856559879885415,
+   "acknowledgment_key_output": 0.17773820853009548,
+   "constant_key_layer22": 1.0036896283409389,
+   "constant_key_layer25": 0.9968923819369252
+  },
+  {
+   "id": "first_turn:invite:17",
+   "end_of_turn_key_output": 0.039096622787966016,
+   "acknowledgment_key_output": 0.09256400851155404,
+   "constant_key_layer22": 1.005787631568702,
+   "constant_key_layer25": 1.0060117111595812
+  },
+  {
+   "id": "first_turn:invite:18",
+   "end_of_turn_key_output": -0.026076163058445193,
+   "acknowledgment_key_output": 0.0688120123103147,
+   "constant_key_layer22": 1.003263154742526,
+   "constant_key_layer25": 0.9985365197155656
+  },
+  {
+   "id": "first_turn:invite:19",
+   "end_of_turn_key_output": 0.17510445504713987,
+   "acknowledgment_key_output": 0.20807951778520792,
+   "constant_key_layer22": 1.006511459645399,
+   "constant_key_layer25": 1.0030531641039413
+  },
+  {
+   "id": "first_turn:invite:20",
+   "end_of_turn_key_output": 0.233815132400987,
+   "acknowledgment_key_output": 0.3308006246464034,
+   "constant_key_layer22": 1.0106152826777812,
+   "constant_key_layer25": 1.0001878180785115
+  },
+  {
+   "id": "first_turn:invite:21",
+   "end_of_turn_key_output": 0.1603833404726788,
+   "acknowledgment_key_output": 0.2521373168351796,
+   "constant_key_layer22": 1.0080582565621465,
+   "constant_key_layer25": 0.9943241295374314
+  },
+  {
+   "id": "first_turn:invite:22",
+   "end_of_turn_key_output": 0.19150576304114153,
+   "acknowledgment_key_output": 0.20563910634597882,
+   "constant_key_layer22": 1.0115419182737562,
+   "constant_key_layer25": 0.9928434751468365
+  },
+  {
+   "id": "first_turn:invite:23",
+   "end_of_turn_key_output": 0.0896186629937026,
+   "acknowledgment_key_output": 0.04760078747471159,
+   "constant_key_layer22": 0.996200145360401,
+   "constant_key_layer25": 0.987706569081156
+  },
+  {
+   "id": "first_turn:invite:24",
+   "end_of_turn_key_output": 0.258001284045029,
+   "acknowledgment_key_output": 0.4319971039529389,
+   "constant_key_layer22": 1.0109569498417383,
+   "constant_key_layer25": 1.013551854620307
+  },
+  {
+   "id": "first_turn:invite:25",
+   "end_of_turn_key_output": 0.11458576663841023,
+   "acknowledgment_key_output": 0.06343034993938149,
+   "constant_key_layer22": 1.010510264938799,
+   "constant_key_layer25": 1.0024136399074528
+  },
+  {
+   "id": "first_turn:invite:26",
+   "end_of_turn_key_output": 0.016009909728824292,
+   "acknowledgment_key_output": 0.11784373780036174,
+   "constant_key_layer22": 1.0072886958680627,
+   "constant_key_layer25": 1.0055061573060375
+  },
+  {
+   "id": "first_turn:invite:27",
+   "end_of_turn_key_output": 0.47221026330703275,
+   "acknowledgment_key_output": 0.3025228743399413,
+   "constant_key_layer22": 1.0059740106450905,
+   "constant_key_layer25": 1.0057029109753255
+  },
+  {
+   "id": "first_turn:invite:28",
+   "end_of_turn_key_output": 0.26642598207009277,
+   "acknowledgment_key_output": 0.19928060913237372,
+   "constant_key_layer22": 0.9552757924991917,
+   "constant_key_layer25": 0.9922881480748289
+  },
+  {
+   "id": "first_turn:invite:29",
+   "end_of_turn_key_output": 0.2709370442358071,
+   "acknowledgment_key_output": 0.11941203557565491,
+   "constant_key_layer22": 1.0047104755114238,
+   "constant_key_layer25": 1.0040956098773175
+  },
+  {
+   "id": "first_turn:greet:0",
+   "end_of_turn_key_output": 0.13135750662031168,
+   "acknowledgment_key_output": 1.0414888866406948,
+   "constant_key_layer22": 1.0076966369255,
+   "constant_key_layer25": 0.9978087265364348
+  },
+  {
+   "id": "first_turn:greet:1",
+   "end_of_turn_key_output": 0.3791851149909878,
+   "acknowledgment_key_output": 0.5128490118718915,
+   "constant_key_layer22": 0.9920715654093177,
+   "constant_key_layer25": 0.9957896084905707
+  },
+  {
+   "id": "first_turn:greet:2",
+   "end_of_turn_key_output": 0.13672745430833996,
+   "acknowledgment_key_output": 0.9156155648149477,
+   "constant_key_layer22": 1.0033068089895498,
+   "constant_key_layer25": 1.0124212243029942
+  },
+  {
+   "id": "first_turn:greet:3",
+   "end_of_turn_key_output": 0.5420109986635321,
+   "acknowledgment_key_output": 1.054502528466968,
+   "constant_key_layer22": 1.017497718958883,
+   "constant_key_layer25": 1.0073523502537136
+  },
+  {
+   "id": "first_turn:greet:4",
+   "end_of_turn_key_output": 0.4528830913541773,
+   "acknowledgment_key_output": 1.0350694418180384,
+   "constant_key_layer22": 1.006296368684355,
+   "constant_key_layer25": 0.9938364068479715
+  },
+  {
+   "id": "first_turn:greet:5",
+   "end_of_turn_key_output": 0.22612467036751235,
+   "acknowledgment_key_output": 1.1748210983567955,
+   "constant_key_layer22": 0.9996262170734717,
+   "constant_key_layer25": 0.9964794148921015
+  },
+  {
+   "id": "first_turn:greet:6",
+   "end_of_turn_key_output": 0.7628966541232649,
+   "acknowledgment_key_output": 0.9179162415249771,
+   "constant_key_layer22": 0.9858383771963825,
+   "constant_key_layer25": 0.9649446737300573
+  },
+  {
+   "id": "first_turn:greet:7",
+   "end_of_turn_key_output": 0.24864533955832954,
+   "acknowledgment_key_output": 1.0395614461392988,
+   "constant_key_layer22": 1.0188333281864186,
+   "constant_key_layer25": 1.0010008585433618
+  },
+  {
+   "id": "first_turn:greet:8",
+   "end_of_turn_key_output": 0.10878198434161007,
+   "acknowledgment_key_output": 0.9645545723783143,
+   "constant_key_layer22": 1.0132152694969043,
+   "constant_key_layer25": 0.9989813792129514
+  },
+  {
+   "id": "first_turn:greet:9",
+   "end_of_turn_key_output": 0.08974825840891797,
+   "acknowledgment_key_output": 1.0038404584690324,
+   "constant_key_layer22": 1.0182132358400535,
+   "constant_key_layer25": 0.9992531636425612
+  },
+  {
+   "id": "first_turn:greet:10",
+   "end_of_turn_key_output": 0.13425095583045188,
+   "acknowledgment_key_output": 0.9578102500051,
+   "constant_key_layer22": 1.018739160401941,
+   "constant_key_layer25": 0.9806671812212824
+  },
+  {
+   "id": "first_turn:greet:11",
+   "end_of_turn_key_output": 0.4752530420619581,
+   "acknowledgment_key_output": 1.0145268384078237,
+   "constant_key_layer22": 0.9983876532620071,
+   "constant_key_layer25": 0.9920156918187267
+  },
+  {
+   "id": "first_turn:greet:12",
+   "end_of_turn_key_output": 0.21159446700815662,
+   "acknowledgment_key_output": 1.0193161222546885,
+   "constant_key_layer22": 1.0255689350108939,
+   "constant_key_layer25": 0.9792768196367029
+  },
+  {
+   "id": "first_turn:greet:13",
+   "end_of_turn_key_output": 0.4435509557092034,
+   "acknowledgment_key_output": 0.9933371204437047,
+   "constant_key_layer22": 1.0009959552948993,
+   "constant_key_layer25": 0.987016281970055
+  },
+  {
+   "id": "first_turn:greet:14",
+   "end_of_turn_key_output": -0.0798737519958525,
+   "acknowledgment_key_output": 0.9821604799348723,
+   "constant_key_layer22": 0.9684611081330307,
+   "constant_key_layer25": 0.9868637412439599
+  },
+  {
+   "id": "first_turn:greet:15",
+   "end_of_turn_key_output": 0.10354495948712722,
+   "acknowledgment_key_output": 0.9630389428802513,
+   "constant_key_layer22": 1.010961827947156,
+   "constant_key_layer25": 1.000626556293189
+  },
+  {
+   "id": "first_turn:greet:16",
+   "end_of_turn_key_output": 0.24253457670886883,
+   "acknowledgment_key_output": 0.7567452014722327,
+   "constant_key_layer22": 0.9823658695109061,
+   "constant_key_layer25": 0.9878318226437263
+  },
+  {
+   "id": "first_turn:greet:17",
+   "end_of_turn_key_output": 0.39195939487360465,
+   "acknowledgment_key_output": 1.064583790176455,
+   "constant_key_layer22": 1.0125562792871932,
+   "constant_key_layer25": 0.9985158020800537
+  },
+  {
+   "id": "first_turn:greet:18",
+   "end_of_turn_key_output": 0.4303007359156095,
+   "acknowledgment_key_output": 0.9650437002140029,
+   "constant_key_layer22": 1.0061065208571711,
+   "constant_key_layer25": 1.000562800148087
+  },
+  {
+   "id": "first_turn:greet:19",
+   "end_of_turn_key_output": 0.28412445918529144,
+   "acknowledgment_key_output": 0.8708899639350701,
+   "constant_key_layer22": 1.0171390399061797,
+   "constant_key_layer25": 0.9924089933264844
+  },
+  {
+   "id": "first_turn:greet:20",
+   "end_of_turn_key_output": -0.014954192219957073,
+   "acknowledgment_key_output": 1.033639713426548,
+   "constant_key_layer22": 0.9997157815460745,
+   "constant_key_layer25": 0.9962988924061259
+  },
+  {
+   "id": "first_turn:greet:21",
+   "end_of_turn_key_output": 0.6585652782824551,
+   "acknowledgment_key_output": 0.7800773005435169,
+   "constant_key_layer22": 0.9819623130431168,
+   "constant_key_layer25": 0.9873735723258434
+  },
+  {
+   "id": "first_turn:greet:22",
+   "end_of_turn_key_output": 0.13994174372129203,
+   "acknowledgment_key_output": 1.085942886116042,
+   "constant_key_layer22": 0.9938266887146127,
+   "constant_key_layer25": 0.9960586778697655
+  },
+  {
+   "id": "first_turn:greet:23",
+   "end_of_turn_key_output": 0.16826150520877955,
+   "acknowledgment_key_output": 0.9278733105318636,
+   "constant_key_layer22": 1.0037862222642757,
+   "constant_key_layer25": 1.0039679019579884
+  },
+  {
+   "id": "first_turn:greet:24",
+   "end_of_turn_key_output": 0.3814945373744584,
+   "acknowledgment_key_output": 0.9693621868971746,
+   "constant_key_layer22": 0.9380960633996416,
+   "constant_key_layer25": 0.9756608989271361
+  },
+  {
+   "id": "first_turn:greet:25",
+   "end_of_turn_key_output": 0.1836588928615713,
+   "acknowledgment_key_output": 0.9886744269784917,
+   "constant_key_layer22": 1.0021726103968542,
+   "constant_key_layer25": 0.9933602396280031
+  },
+  {
+   "id": "first_turn:greet:26",
+   "end_of_turn_key_output": 0.23779713826337714,
+   "acknowledgment_key_output": 0.9607774833812178,
+   "constant_key_layer22": 1.0134406108952607,
+   "constant_key_layer25": 1.003371500794361
+  },
+  {
+   "id": "first_turn:greet:27",
+   "end_of_turn_key_output": 0.366665031810441,
+   "acknowledgment_key_output": 1.003687105965681,
+   "constant_key_layer22": 0.9849878368546755,
+   "constant_key_layer25": 1.018751073040297
+  },
+  {
+   "id": "first_turn:greet:28",
+   "end_of_turn_key_output": 0.28892318942585254,
+   "acknowledgment_key_output": 1.0644590977455803,
+   "constant_key_layer22": 0.9992791994469217,
+   "constant_key_layer25": 0.9838691600036983
+  },
+  {
+   "id": "first_turn:greet:29",
+   "end_of_turn_key_output": 0.18969448862454444,
+   "acknowledgment_key_output": 0.9547324259477235,
+   "constant_key_layer22": 1.0245082576153637,
+   "constant_key_layer25": 0.9989493976643233
+  },
+  {
+   "id": "first_turn:request:0",
+   "end_of_turn_key_output": 0.12551371014419538,
+   "acknowledgment_key_output": -0.11037975746561864,
+   "constant_key_layer22": 0.9896668101960033,
+   "constant_key_layer25": 1.0075300137251513
+  },
+  {
+   "id": "first_turn:request:1",
+   "end_of_turn_key_output": 0.4132061841910535,
+   "acknowledgment_key_output": 0.4123987938433807,
+   "constant_key_layer22": 0.9952424064027681,
+   "constant_key_layer25": 0.9931977679477431
+  },
+  {
+   "id": "first_turn:request:2",
+   "end_of_turn_key_output": 0.0727965186859342,
+   "acknowledgment_key_output": 0.03983923411611344,
+   "constant_key_layer22": 1.0112726604185167,
+   "constant_key_layer25": 1.0013470107005946
+  },
+  {
+   "id": "first_turn:request:3",
+   "end_of_turn_key_output": 0.2690003575425247,
+   "acknowledgment_key_output": 0.23244477223799467,
+   "constant_key_layer22": 0.9943712486332736,
+   "constant_key_layer25": 0.9973739357338626
+  },
+  {
+   "id": "first_turn:request:4",
+   "end_of_turn_key_output": 0.1029241614902153,
+   "acknowledgment_key_output": 0.0307656289415739,
+   "constant_key_layer22": 0.9938611109722706,
+   "constant_key_layer25": 1.0053685783284527
+  },
+  {
+   "id": "first_turn:request:5",
+   "end_of_turn_key_output": -0.09988583502682691,
+   "acknowledgment_key_output": 0.15529401630236928,
+   "constant_key_layer22": 1.006879082741989,
+   "constant_key_layer25": 1.0063116865234483
+  },
+  {
+   "id": "first_turn:request:6",
+   "end_of_turn_key_output": 0.2746058810664144,
+   "acknowledgment_key_output": 0.16770621997034194,
+   "constant_key_layer22": 1.0140154083467223,
+   "constant_key_layer25": 0.992290549875958
+  },
+  {
+   "id": "first_turn:request:7",
+   "end_of_turn_key_output": 0.2146038995117781,
+   "acknowledgment_key_output": 0.1449402215250994,
+   "constant_key_layer22": 1.0163396181483533,
+   "constant_key_layer25": 1.0082191014851705
+  },
+  {
+   "id": "first_turn:request:8",
+   "end_of_turn_key_output": 0.026155081715087836,
+   "acknowledgment_key_output": 0.08666720391060839,
+   "constant_key_layer22": 1.0112984350647822,
+   "constant_key_layer25": 1.0091728775758395
+  },
+  {
+   "id": "first_turn:request:9",
+   "end_of_turn_key_output": 0.17645389263760697,
+   "acknowledgment_key_output": 0.19540977438461732,
+   "constant_key_layer22": 1.0052116119534262,
+   "constant_key_layer25": 0.9980521277128158
+  },
+  {
+   "id": "first_turn:request:10",
+   "end_of_turn_key_output": 0.023545605450452117,
+   "acknowledgment_key_output": 0.17519442627812426,
+   "constant_key_layer22": 0.9956295787743171,
+   "constant_key_layer25": 0.9886833107225372
+  },
+  {
+   "id": "first_turn:request:11",
+   "end_of_turn_key_output": -0.00873105057187377,
+   "acknowledgment_key_output": 0.25540174318677233,
+   "constant_key_layer22": 1.0397533605093554,
+   "constant_key_layer25": 1.0046563797893766
+  },
+  {
+   "id": "first_turn:request:12",
+   "end_of_turn_key_output": 0.24147008339712414,
+   "acknowledgment_key_output": 0.16529398028973588,
+   "constant_key_layer22": 1.004747485802638,
+   "constant_key_layer25": 1.0134285293652614
+  },
+  {
+   "id": "first_turn:request:13",
+   "end_of_turn_key_output": 0.1643664130997562,
+   "acknowledgment_key_output": 0.11547228266047685,
+   "constant_key_layer22": 1.0126066142244878,
+   "constant_key_layer25": 0.998623114606196
+  },
+  {
+   "id": "first_turn:request:14",
+   "end_of_turn_key_output": 0.022898448277555973,
+   "acknowledgment_key_output": 0.16815515414808124,
+   "constant_key_layer22": 0.9922357883630242,
+   "constant_key_layer25": 0.9940921860432844
+  },
+  {
+   "id": "first_turn:request:15",
+   "end_of_turn_key_output": 0.07942038137493465,
+   "acknowledgment_key_output": 0.06316392500967472,
+   "constant_key_layer22": 1.0039673570184386,
+   "constant_key_layer25": 1.0121659068784943
+  },
+  {
+   "id": "first_turn:request:16",
+   "end_of_turn_key_output": 0.1355983730777184,
+   "acknowledgment_key_output": 0.061510609877003825,
+   "constant_key_layer22": 1.0003763670486472,
+   "constant_key_layer25": 1.0016117144734817
+  },
+  {
+   "id": "first_turn:request:17",
+   "end_of_turn_key_output": 0.691792842338246,
+   "acknowledgment_key_output": 0.4906716219446864,
+   "constant_key_layer22": 1.0049152521508338,
+   "constant_key_layer25": 0.9876676898609034
+  },
+  {
+   "id": "first_turn:request:18",
+   "end_of_turn_key_output": 0.038915236336029405,
+   "acknowledgment_key_output": 0.1542682975079835,
+   "constant_key_layer22": 0.9888426760419511,
+   "constant_key_layer25": 0.9977047639826276
+  },
+  {
+   "id": "first_turn:request:19",
+   "end_of_turn_key_output": 0.09435542170467591,
+   "acknowledgment_key_output": 0.13516807230255404,
+   "constant_key_layer22": 0.9955779078002249,
+   "constant_key_layer25": 1.0015729281641164
+  },
+  {
+   "id": "first_turn:request:20",
+   "end_of_turn_key_output": 0.20445885364026045,
+   "acknowledgment_key_output": 0.027827860431896115,
+   "constant_key_layer22": 1.0028765864231004,
+   "constant_key_layer25": 0.9976505387397743
+  },
+  {
+   "id": "first_turn:request:21",
+   "end_of_turn_key_output": 0.2563034074678656,
+   "acknowledgment_key_output": 0.3209251605820553,
+   "constant_key_layer22": 0.9979911288676591,
+   "constant_key_layer25": 0.9897977528657407
+  },
+  {
+   "id": "first_turn:request:22",
+   "end_of_turn_key_output": -0.005221028697907926,
+   "acknowledgment_key_output": 0.16397326026176232,
+   "constant_key_layer22": 1.0073063962242208,
+   "constant_key_layer25": 0.990656967318686
+  },
+  {
+   "id": "first_turn:request:23",
+   "end_of_turn_key_output": -0.024276684673439654,
+   "acknowledgment_key_output": -0.019162344550451696,
+   "constant_key_layer22": 1.000687164563323,
+   "constant_key_layer25": 0.9883082483259585
+  },
+  {
+   "id": "first_turn:request:24",
+   "end_of_turn_key_output": 0.10432342748842559,
+   "acknowledgment_key_output": 0.178079119666657,
+   "constant_key_layer22": 1.0126648512755558,
+   "constant_key_layer25": 0.9942614162848801
+  },
+  {
+   "id": "first_turn:request:25",
+   "end_of_turn_key_output": 0.3201648304241248,
+   "acknowledgment_key_output": 0.11740640855386732,
+   "constant_key_layer22": 0.9887011554054901,
+   "constant_key_layer25": 0.9926958010646676
+  },
+  {
+   "id": "first_turn:request:26",
+   "end_of_turn_key_output": 0.28498783886974705,
+   "acknowledgment_key_output": 0.1080027002949554,
+   "constant_key_layer22": 1.0005150323751555,
+   "constant_key_layer25": 1.0310228414654756
+  },
+  {
+   "id": "first_turn:request:27",
+   "end_of_turn_key_output": -0.10630859731107814,
+   "acknowledgment_key_output": 0.008592894014284506,
+   "constant_key_layer22": 0.9980927162157004,
+   "constant_key_layer25": 1.0058640961367475
+  },
+  {
+   "id": "first_turn:request:28",
+   "end_of_turn_key_output": 0.21395031344564802,
+   "acknowledgment_key_output": -0.06466563603988981,
+   "constant_key_layer22": 0.9988601125829855,
+   "constant_key_layer25": 1.014666541045357
+  },
+  {
+   "id": "first_turn:request:29",
+   "end_of_turn_key_output": 0.25243427647126404,
+   "acknowledgment_key_output": 0.04489452957866974,
+   "constant_key_layer22": 0.9965825488804729,
+   "constant_key_layer25": 1.00865830855386
+  },
+  {
+   "id": "first_turn:partial:0",
+   "end_of_turn_key_output": 0.8068395663441071,
+   "acknowledgment_key_output": 0.7849399643748433,
+   "constant_key_layer22": 0.9972441445467757,
+   "constant_key_layer25": 0.9858284198725153
+  },
+  {
+   "id": "first_turn:partial:1",
+   "end_of_turn_key_output": 0.9637710314484687,
+   "acknowledgment_key_output": 0.5812092213504833,
+   "constant_key_layer22": 0.9816707722716487,
+   "constant_key_layer25": 0.9702927224608833
+  },
+  {
+   "id": "first_turn:partial:2",
+   "end_of_turn_key_output": 1.048138289435998,
+   "acknowledgment_key_output": 0.48480816586646186,
+   "constant_key_layer22": 0.9937298213219323,
+   "constant_key_layer25": 0.9549044205140707
+  },
+  {
+   "id": "first_turn:partial:3",
+   "end_of_turn_key_output": 1.063317581891378,
+   "acknowledgment_key_output": 0.16047428625246346,
+   "constant_key_layer22": 0.9967371327051022,
+   "constant_key_layer25": 0.9692569648914966
+  },
+  {
+   "id": "first_turn:partial:4",
+   "end_of_turn_key_output": 0.755698303032485,
+   "acknowledgment_key_output": 0.2417876990538938,
+   "constant_key_layer22": 0.9936724877173788,
+   "constant_key_layer25": 0.9725426634203677
+  },
+  {
+   "id": "first_turn:partial:5",
+   "end_of_turn_key_output": 1.0883223670267697,
+   "acknowledgment_key_output": 0.6586664619186869,
+   "constant_key_layer22": 1.0014332973165776,
+   "constant_key_layer25": 0.9487674496950146
+  },
+  {
+   "id": "first_turn:partial:6",
+   "end_of_turn_key_output": 1.120972562740461,
+   "acknowledgment_key_output": 0.19244927601068382,
+   "constant_key_layer22": 1.007182289167952,
+   "constant_key_layer25": 0.9682189014348402
+  },
+  {
+   "id": "first_turn:partial:7",
+   "end_of_turn_key_output": 0.775043512713152,
+   "acknowledgment_key_output": 0.887065798766015,
+   "constant_key_layer22": 0.9993924074271527,
+   "constant_key_layer25": 0.9635496463484934
+  },
+  {
+   "id": "first_turn:partial:8",
+   "end_of_turn_key_output": 1.121295529659174,
+   "acknowledgment_key_output": 0.19499521379038928,
+   "constant_key_layer22": 1.001466733515992,
+   "constant_key_layer25": 0.973925252346766
+  },
+  {
+   "id": "first_turn:partial:9",
+   "end_of_turn_key_output": 0.6450469054932794,
+   "acknowledgment_key_output": 0.9946298623832811,
+   "constant_key_layer22": 0.987171955314271,
+   "constant_key_layer25": 0.9966615492886535
+  },
+  {
+   "id": "first_turn:partial:10",
+   "end_of_turn_key_output": 0.9597656267562658,
+   "acknowledgment_key_output": 0.41051751906985223,
+   "constant_key_layer22": 1.0035098681744246,
+   "constant_key_layer25": 0.9504878189652028
+  },
+  {
+   "id": "first_turn:partial:11",
+   "end_of_turn_key_output": 0.9441994592878182,
+   "acknowledgment_key_output": 0.5643038726323001,
+   "constant_key_layer22": 0.987321995354675,
+   "constant_key_layer25": 0.972243706094722
+  },
+  {
+   "id": "first_turn:partial:12",
+   "end_of_turn_key_output": 0.9705352665372109,
+   "acknowledgment_key_output": 0.2674715021999365,
+   "constant_key_layer22": 0.9926214040477612,
+   "constant_key_layer25": 0.9669051666996332
+  },
+  {
+   "id": "first_turn:partial:13",
+   "end_of_turn_key_output": 0.8788977070216086,
+   "acknowledgment_key_output": 0.2795990983973812,
+   "constant_key_layer22": 1.0129993954617902,
+   "constant_key_layer25": 0.9567068046255172
+  },
+  {
+   "id": "first_turn:partial:14",
+   "end_of_turn_key_output": 0.792231525988884,
+   "acknowledgment_key_output": 0.8232303682487451,
+   "constant_key_layer22": 0.9802686587030203,
+   "constant_key_layer25": 0.9745416147206074
+  },
+  {
+   "id": "first_turn:partial:15",
+   "end_of_turn_key_output": 0.9082904758691933,
+   "acknowledgment_key_output": 0.2747078199276528,
+   "constant_key_layer22": 0.998891642965299,
+   "constant_key_layer25": 0.9693896032477005
+  },
+  {
+   "id": "first_turn:partial:16",
+   "end_of_turn_key_output": 1.0713494345756946,
+   "acknowledgment_key_output": 0.6934470663069071,
+   "constant_key_layer22": 0.9826946553059821,
+   "constant_key_layer25": 0.9683497257636566
+  },
+  {
+   "id": "first_turn:partial:17",
+   "end_of_turn_key_output": 0.9415711163105642,
+   "acknowledgment_key_output": 0.16909053826756465,
+   "constant_key_layer22": 0.993063233591511,
+   "constant_key_layer25": 0.962641211664497
+  },
+  {
+   "id": "first_turn:partial:18",
+   "end_of_turn_key_output": 0.9804538188714523,
+   "acknowledgment_key_output": 0.5490321573265137,
+   "constant_key_layer22": 0.9823290118340524,
+   "constant_key_layer25": 0.9526262472670426
+  },
+  {
+   "id": "first_turn:partial:19",
+   "end_of_turn_key_output": 1.2374458946677966,
+   "acknowledgment_key_output": 0.28127767579120716,
+   "constant_key_layer22": 1.0124614481204248,
+   "constant_key_layer25": 0.9720003253339979
+  },
+  {
+   "id": "first_turn:partial:20",
+   "end_of_turn_key_output": 0.8668098781173834,
+   "acknowledgment_key_output": 0.8143985534964591,
+   "constant_key_layer22": 0.991982033599949,
+   "constant_key_layer25": 0.9709301721499951
+  },
+  {
+   "id": "first_turn:partial:21",
+   "end_of_turn_key_output": 0.8565377820392834,
+   "acknowledgment_key_output": 0.4588124579923512,
+   "constant_key_layer22": 1.0037538992656785,
+   "constant_key_layer25": 0.9466689924029099
+  },
+  {
+   "id": "first_turn:partial:22",
+   "end_of_turn_key_output": 1.2492490927991107,
+   "acknowledgment_key_output": 0.4250834569101849,
+   "constant_key_layer22": 0.9854377571017403,
+   "constant_key_layer25": 0.9632923689908337
+  },
+  {
+   "id": "first_turn:partial:23",
+   "end_of_turn_key_output": 0.9169366827967432,
+   "acknowledgment_key_output": 0.4114950989279788,
+   "constant_key_layer22": 0.9738685641952824,
+   "constant_key_layer25": 0.9483262485808364
+  },
+  {
+   "id": "first_turn:partial:24",
+   "end_of_turn_key_output": 1.0602028796126262,
+   "acknowledgment_key_output": 0.392875953133948,
+   "constant_key_layer22": 1.0099742028757426,
+   "constant_key_layer25": 0.9605316468995991
+  },
+  {
+   "id": "first_turn:partial:25",
+   "end_of_turn_key_output": 0.9248411251960046,
+   "acknowledgment_key_output": 0.17689382257816041,
+   "constant_key_layer22": 0.9924916575884213,
+   "constant_key_layer25": 0.9505670044536076
+  },
+  {
+   "id": "first_turn:partial:26",
+   "end_of_turn_key_output": 0.976812747274038,
+   "acknowledgment_key_output": 0.7002640191812541,
+   "constant_key_layer22": 0.9956947976369805,
+   "constant_key_layer25": 0.9678474361903495
+  },
+  {
+   "id": "first_turn:partial:27",
+   "end_of_turn_key_output": 1.0045446604819586,
+   "acknowledgment_key_output": 0.32017148625548125,
+   "constant_key_layer22": 0.9622523520366436,
+   "constant_key_layer25": 0.9475087623802154
+  },
+  {
+   "id": "first_turn:partial:28",
+   "end_of_turn_key_output": 1.1885360075262021,
+   "acknowledgment_key_output": 0.44644998368787814,
+   "constant_key_layer22": 0.9877366618802226,
+   "constant_key_layer25": 0.9792374483403209
+  },
+  {
+   "id": "first_turn:partial:29",
+   "end_of_turn_key_output": 0.8969451098985814,
+   "acknowledgment_key_output": 0.24288093790181056,
+   "constant_key_layer22": 0.9972910931194996,
+   "constant_key_layer25": 0.9683223567237987
+  },
+  {
+   "id": "development:0",
+   "end_of_turn_key_output": 0.29541792251504617,
+   "acknowledgment_key_output": 0.2983403261967276,
+   "constant_key_layer22": 0.993640639469632,
+   "constant_key_layer25": 1.0030919424309443
+  },
+  {
+   "id": "development:1",
+   "end_of_turn_key_output": 1.0415186305046036,
+   "acknowledgment_key_output": 0.2516637141117898,
+   "constant_key_layer22": 0.9942895394099427,
+   "constant_key_layer25": 0.9829656587358893
+  },
+  {
+   "id": "development:2",
+   "end_of_turn_key_output": 0.4083462448325489,
+   "acknowledgment_key_output": 0.25361957328010293,
+   "constant_key_layer22": 0.9758128316657559,
+   "constant_key_layer25": 1.0036687348132918
+  },
+  {
+   "id": "development:3",
+   "end_of_turn_key_output": 0.6728011443277062,
+   "acknowledgment_key_output": 0.2109111564703266,
+   "constant_key_layer22": 0.9995757252546367,
+   "constant_key_layer25": 0.9982231906350493
+  },
+  {
+   "id": "development:4",
+   "end_of_turn_key_output": 1.1621664033014043,
+   "acknowledgment_key_output": 0.19121395758161785,
+   "constant_key_layer22": 0.9976332082740924,
+   "constant_key_layer25": 0.9705331502608091
+  },
+  {
+   "id": "development:5",
+   "end_of_turn_key_output": 0.3642001911790351,
+   "acknowledgment_key_output": 0.11876250127625222,
+   "constant_key_layer22": 0.9826048488222658,
+   "constant_key_layer25": 1.0030808148775892
+  },
+  {
+   "id": "development:6",
+   "end_of_turn_key_output": 0.4626774313425855,
+   "acknowledgment_key_output": 0.15546806067082922,
+   "constant_key_layer22": 0.9615215224223904,
+   "constant_key_layer25": 1.0130544596141127
+  },
+  {
+   "id": "development:7",
+   "end_of_turn_key_output": 0.8741563060257022,
+   "acknowledgment_key_output": 0.1275250735819206,
+   "constant_key_layer22": 1.0012037881791387,
+   "constant_key_layer25": 0.9654014783954217
+  },
+  {
+   "id": "development:8",
+   "end_of_turn_key_output": 0.3887852604744776,
+   "acknowledgment_key_output": 0.3190462349013724,
+   "constant_key_layer22": 1.0147028395708664,
+   "constant_key_layer25": 0.998770536880616
+  },
+  {
+   "id": "development:9",
+   "end_of_turn_key_output": 0.5485041813834377,
+   "acknowledgment_key_output": 0.4891894581977946,
+   "constant_key_layer22": 0.9842651563261446,
+   "constant_key_layer25": 0.9946169400715028
+  },
+  {
+   "id": "development:10",
+   "end_of_turn_key_output": 1.0168437792492246,
+   "acknowledgment_key_output": 0.1747936672991375,
+   "constant_key_layer22": 0.9872524600995581,
+   "constant_key_layer25": 0.9572353369929942
+  },
+  {
+   "id": "development:11",
+   "end_of_turn_key_output": 0.4197578359728197,
+   "acknowledgment_key_output": 0.39060285001900624,
+   "constant_key_layer22": 0.9864089977064404,
+   "constant_key_layer25": 1.002177003801744
+  },
+  {
+   "id": "development:12",
+   "end_of_turn_key_output": 1.115438237390343,
+   "acknowledgment_key_output": 0.5425987565789471,
+   "constant_key_layer22": 0.9856964552781794,
+   "constant_key_layer25": 0.9607354915044086
+  },
+  {
+   "id": "development:13",
+   "end_of_turn_key_output": 0.4130828789102374,
+   "acknowledgment_key_output": 0.3985192999245804,
+   "constant_key_layer22": 0.9981915532978547,
+   "constant_key_layer25": 0.9705392769823561
+  },
+  {
+   "id": "development:14",
+   "end_of_turn_key_output": 0.8107852307683816,
+   "acknowledgment_key_output": 0.299660176337445,
+   "constant_key_layer22": 0.9886520736128921,
+   "constant_key_layer25": 0.9830581075644798
+  },
+  {
+   "id": "development:15",
+   "end_of_turn_key_output": 1.0302642075903066,
+   "acknowledgment_key_output": 0.2564115671319533,
+   "constant_key_layer22": 0.9952138828845705,
+   "constant_key_layer25": 0.9618487159563494
+  },
+  {
+   "id": "development:16",
+   "end_of_turn_key_output": 0.6889888227471059,
+   "acknowledgment_key_output": 0.302133856054496,
+   "constant_key_layer22": 0.9785948484742277,
+   "constant_key_layer25": 0.979436920210782
+  },
+  {
+   "id": "development:17",
+   "end_of_turn_key_output": 0.8579983907029266,
+   "acknowledgment_key_output": 0.12741596394876745,
+   "constant_key_layer22": 0.9903647077049913,
+   "constant_key_layer25": 0.943055630857093
+  },
+  {
+   "id": "development:18",
+   "end_of_turn_key_output": 0.6548603376790092,
+   "acknowledgment_key_output": 0.3998839527263324,
+   "constant_key_layer22": 0.986741377274545,
+   "constant_key_layer25": 0.9920709265563834
+  },
+  {
+   "id": "development:19",
+   "end_of_turn_key_output": 1.0604034966477645,
+   "acknowledgment_key_output": 0.1728392323322311,
+   "constant_key_layer22": 0.9790744490949238,
+   "constant_key_layer25": 0.9497845531956894
+  },
+  {
+   "id": "development:20",
+   "end_of_turn_key_output": 0.7970713752361833,
+   "acknowledgment_key_output": 0.20462271821995973,
+   "constant_key_layer22": 1.0048191620545386,
+   "constant_key_layer25": 0.9749235573715647
+  },
+  {
+   "id": "development:21",
+   "end_of_turn_key_output": 0.40370502664798086,
+   "acknowledgment_key_output": 0.3993641295892166,
+   "constant_key_layer22": 0.9878820081319203,
+   "constant_key_layer25": 0.989173071722339
+  },
+  {
+   "id": "development:22",
+   "end_of_turn_key_output": 1.0860007293571174,
+   "acknowledgment_key_output": 0.18533461696390255,
+   "constant_key_layer22": 0.9980755617962558,
+   "constant_key_layer25": 0.9663875016928465
+  },
+  {
+   "id": "development:23",
+   "end_of_turn_key_output": 0.15450979449209626,
+   "acknowledgment_key_output": 0.15630313046482716,
+   "constant_key_layer22": 0.9954257246674538,
+   "constant_key_layer25": 0.9961461962024306
+  },
+  {
+   "id": "development:24",
+   "end_of_turn_key_output": 0.6228084749730192,
+   "acknowledgment_key_output": 0.5512566390945925,
+   "constant_key_layer22": 1.018352139305397,
+   "constant_key_layer25": 1.004696186818915
+  },
+  {
+   "id": "development:25",
+   "end_of_turn_key_output": 0.6358916175562003,
+   "acknowledgment_key_output": 0.3914987941937853,
+   "constant_key_layer22": 0.9989241929086293,
+   "constant_key_layer25": 0.9941482525892427
+  },
+  {
+   "id": "development:26",
+   "end_of_turn_key_output": 0.5678818046334856,
+   "acknowledgment_key_output": 0.38852540707490985,
+   "constant_key_layer22": 0.994358277149694,
+   "constant_key_layer25": 0.9806943752310562
+  },
+  {
+   "id": "development:27",
+   "end_of_turn_key_output": 1.0444059797369885,
+   "acknowledgment_key_output": 0.1461067477564097,
+   "constant_key_layer22": 1.0015156405471504,
+   "constant_key_layer25": 0.9576251781855568
+  },
+  {
+   "id": "development:28",
+   "end_of_turn_key_output": 0.825516550707826,
+   "acknowledgment_key_output": 0.3472838846806564,
+   "constant_key_layer22": 0.979486895383294,
+   "constant_key_layer25": 0.9466213247797973
+  },
+  {
+   "id": "development:29",
+   "end_of_turn_key_output": 0.44960358944085976,
+   "acknowledgment_key_output": 0.38065887189072983,
+   "constant_key_layer22": 0.9957216652986162,
+   "constant_key_layer25": 1.000297847738862
+  },
+  {
+   "id": "development:30",
+   "end_of_turn_key_output": 0.6326278078340185,
+   "acknowledgment_key_output": 0.4236677341541283,
+   "constant_key_layer22": 0.9600963056154297,
+   "constant_key_layer25": 1.0046218822225716
+  },
+  {
+   "id": "development:31",
+   "end_of_turn_key_output": 0.8761598848925006,
+   "acknowledgment_key_output": 0.14046807514966295,
+   "constant_key_layer22": 1.0091491159263897,
+   "constant_key_layer25": 0.9532703857212106
+  },
+  {
+   "id": "development:32",
+   "end_of_turn_key_output": 0.35509552083893287,
+   "acknowledgment_key_output": 0.3517167711460274,
+   "constant_key_layer22": 0.9706114896129581,
+   "constant_key_layer25": 1.0035114203844402
+  },
+  {
+   "id": "development:33",
+   "end_of_turn_key_output": 0.9686968063559758,
+   "acknowledgment_key_output": 0.32069608540678207,
+   "constant_key_layer22": 0.9694926227070493,
+   "constant_key_layer25": 0.9651803646796057
+  },
+  {
+   "id": "development:34",
+   "end_of_turn_key_output": 0.6660250655621712,
+   "acknowledgment_key_output": 0.12342185401368973,
+   "constant_key_layer22": 1.0139490588729871,
+   "constant_key_layer25": 0.9898688383294537
+  },
+  {
+   "id": "development:35",
+   "end_of_turn_key_output": 0.28184426197326096,
+   "acknowledgment_key_output": 0.40296577651972887,
+   "constant_key_layer22": 1.0185763288614493,
+   "constant_key_layer25": 0.9977484585941792
+  },
+  {
+   "id": "development:36",
+   "end_of_turn_key_output": 0.8027697814929727,
+   "acknowledgment_key_output": 0.5993176086679426,
+   "constant_key_layer22": 0.9744086975267572,
+   "constant_key_layer25": 0.9692175920604273
+  },
+  {
+   "id": "development:37",
+   "end_of_turn_key_output": 0.31504978182992,
+   "acknowledgment_key_output": 0.3633420467765963,
+   "constant_key_layer22": 0.9866982249067723,
+   "constant_key_layer25": 0.9896246287558975
+  },
+  {
+   "id": "development:38",
+   "end_of_turn_key_output": 0.7826176971826545,
+   "acknowledgment_key_output": 0.012191382555780643,
+   "constant_key_layer22": 1.0078655788083721,
+   "constant_key_layer25": 0.9665807111925167
+  },
+  {
+   "id": "development:39",
+   "end_of_turn_key_output": 1.0312381894004985,
+   "acknowledgment_key_output": 0.05364466323247629,
+   "constant_key_layer22": 0.9998781062781972,
+   "constant_key_layer25": 0.9626325469505617
+  },
+  {
+   "id": "development:40",
+   "end_of_turn_key_output": 0.23816339880478077,
+   "acknowledgment_key_output": 0.9713787375037356,
+   "constant_key_layer22": 0.9659005888246054,
+   "constant_key_layer25": 0.9856508923057736
+  },
+  {
+   "id": "development:41",
+   "end_of_turn_key_output": 0.2451712185258313,
+   "acknowledgment_key_output": 1.033515028346933,
+   "constant_key_layer22": 0.9056195866138704,
+   "constant_key_layer25": 0.9617624504843723
+  },
+  {
+   "id": "development:42",
+   "end_of_turn_key_output": 0.27545270962399576,
+   "acknowledgment_key_output": 0.9655258581605767,
+   "constant_key_layer22": 0.9837091966723063,
+   "constant_key_layer25": 0.985031135721479
+  },
+  {
+   "id": "development:43",
+   "end_of_turn_key_output": 0.3615898759668576,
+   "acknowledgment_key_output": 0.9753956025429744,
+   "constant_key_layer22": 0.9927202443408192,
+   "constant_key_layer25": 0.9886877642558798
+  },
+  {
+   "id": "development:44",
+   "end_of_turn_key_output": 0.18879898813180773,
+   "acknowledgment_key_output": 0.9931368600637462,
+   "constant_key_layer22": 0.9436669940524156,
+   "constant_key_layer25": 0.9785692233357877
+  },
+  {
+   "id": "development:45",
+   "end_of_turn_key_output": 0.11092382960864557,
+   "acknowledgment_key_output": 1.0676276739048425,
+   "constant_key_layer22": 0.9660385278452811,
+   "constant_key_layer25": 0.9875044508544034
+  },
+  {
+   "id": "development:46",
+   "end_of_turn_key_output": 0.17000081506595013,
+   "acknowledgment_key_output": 1.0382613229881237,
+   "constant_key_layer22": 0.9621321748443005,
+   "constant_key_layer25": 0.9756744475837387
+  },
+  {
+   "id": "development:47",
+   "end_of_turn_key_output": 0.25202588908897855,
+   "acknowledgment_key_output": 0.45281669696903903,
+   "constant_key_layer22": 1.011173677290698,
+   "constant_key_layer25": 0.9897787304215382
+  },
+  {
+   "id": "development:48",
+   "end_of_turn_key_output": 0.26491609280622064,
+   "acknowledgment_key_output": 1.0060295028493098,
+   "constant_key_layer22": 0.9891777808231423,
+   "constant_key_layer25": 0.977454620667204
+  },
+  {
+   "id": "development:49",
+   "end_of_turn_key_output": 0.13045779124766457,
+   "acknowledgment_key_output": 0.9832237732279804,
+   "constant_key_layer22": 0.974676149444042,
+   "constant_key_layer25": 0.9800540825221874
+  },
+  {
+   "id": "development:50",
+   "end_of_turn_key_output": 0.2886681636851378,
+   "acknowledgment_key_output": 0.8883236961365126,
+   "constant_key_layer22": 0.9895243376462063,
+   "constant_key_layer25": 0.9794900325413133
+  },
+  {
+   "id": "development:51",
+   "end_of_turn_key_output": 0.15877776819103057,
+   "acknowledgment_key_output": 1.0835792265724757,
+   "constant_key_layer22": 0.987469046460065,
+   "constant_key_layer25": 0.974480860413688
+  },
+  {
+   "id": "development:52",
+   "end_of_turn_key_output": -0.030246361266794388,
+   "acknowledgment_key_output": 1.0591551558892098,
+   "constant_key_layer22": 0.9759465724014407,
+   "constant_key_layer25": 0.9727922065937535
+  },
+  {
+   "id": "development:53",
+   "end_of_turn_key_output": 0.3105224711380651,
+   "acknowledgment_key_output": 0.9915687728848726,
+   "constant_key_layer22": 0.9849912152910534,
+   "constant_key_layer25": 0.9818785062292211
+  },
+  {
+   "id": "development:54",
+   "end_of_turn_key_output": 0.021921895027411632,
+   "acknowledgment_key_output": 1.0035763004693767,
+   "constant_key_layer22": 0.985410206541098,
+   "constant_key_layer25": 0.969686641154373
+  },
+  {
+   "id": "development:55",
+   "end_of_turn_key_output": 0.49878574018084426,
+   "acknowledgment_key_output": 0.2878552228254907,
+   "constant_key_layer22": 0.9893260741244742,
+   "constant_key_layer25": 0.9877365368806019
+  },
+  {
+   "id": "development:56",
+   "end_of_turn_key_output": 0.11705100109940464,
+   "acknowledgment_key_output": 1.0042418066070866,
+   "constant_key_layer22": 0.9861988702181425,
+   "constant_key_layer25": 0.9817703803827222
+  },
+  {
+   "id": "development:57",
+   "end_of_turn_key_output": 0.5303951111669118,
+   "acknowledgment_key_output": 0.9417713026181382,
+   "constant_key_layer22": 1.0103974269986549,
+   "constant_key_layer25": 0.9891032692775517
+  },
+  {
+   "id": "development:58",
+   "end_of_turn_key_output": 0.20552151386935916,
+   "acknowledgment_key_output": 0.9986614611068101,
+   "constant_key_layer22": 0.9941685916431641,
+   "constant_key_layer25": 0.9846620902077703
+  },
+  {
+   "id": "development:59",
+   "end_of_turn_key_output": 0.5819695606861195,
+   "acknowledgment_key_output": 0.7781952854934815,
+   "constant_key_layer22": 0.9971958595907247,
+   "constant_key_layer25": 0.995018135060717
+  },
+  {
+   "id": "development:60",
+   "end_of_turn_key_output": 0.3137652072979589,
+   "acknowledgment_key_output": 0.8257830202890332,
+   "constant_key_layer22": 0.9907834315593947,
+   "constant_key_layer25": 0.9923513128707223
+  },
+  {
+   "id": "development:61",
+   "end_of_turn_key_output": -0.09109195447806738,
+   "acknowledgment_key_output": 0.8991219821801115,
+   "constant_key_layer22": 0.9604528542598414,
+   "constant_key_layer25": 0.9880619992077048
+  },
+  {
+   "id": "development:62",
+   "end_of_turn_key_output": 0.10388181402598533,
+   "acknowledgment_key_output": 0.9673222162729472,
+   "constant_key_layer22": 1.001824607257378,
+   "constant_key_layer25": 0.977389416990517
+  },
+  {
+   "id": "development:63",
+   "end_of_turn_key_output": 0.3165218112961834,
+   "acknowledgment_key_output": 0.8089968173567935,
+   "constant_key_layer22": 0.9943572469657684,
+   "constant_key_layer25": 0.9947067493649453
+  },
+  {
+   "id": "development:64",
+   "end_of_turn_key_output": 0.2309083632643954,
+   "acknowledgment_key_output": 0.7814718861565834,
+   "constant_key_layer22": 0.9713851425310939,
+   "constant_key_layer25": 0.9943974978353645
+  },
+  {
+   "id": "development:65",
+   "end_of_turn_key_output": 0.2115400536515928,
+   "acknowledgment_key_output": 0.848073173130772,
+   "constant_key_layer22": 0.9849872615260137,
+   "constant_key_layer25": 0.9903618551786977
+  },
+  {
+   "id": "development:66",
+   "end_of_turn_key_output": 0.21417178823928365,
+   "acknowledgment_key_output": 0.6213944411651156,
+   "constant_key_layer22": 1.006077942688549,
+   "constant_key_layer25": 0.9956735498732835
+  },
+  {
+   "id": "development:67",
+   "end_of_turn_key_output": 0.1401103234627314,
+   "acknowledgment_key_output": 0.9407756339818985,
+   "constant_key_layer22": 0.9884720954344703,
+   "constant_key_layer25": 0.9994555253493658
+  },
+  {
+   "id": "development:68",
+   "end_of_turn_key_output": -0.15034946848681638,
+   "acknowledgment_key_output": 0.8153335480256093,
+   "constant_key_layer22": 0.9959034960370264,
+   "constant_key_layer25": 1.0009111063433762
+  },
+  {
+   "id": "development:69",
+   "end_of_turn_key_output": 0.2875456256984544,
+   "acknowledgment_key_output": 0.6459423685634523,
+   "constant_key_layer22": 0.9626902232002162,
+   "constant_key_layer25": 0.9951707113492616
+  },
+  {
+   "id": "development:70",
+   "end_of_turn_key_output": -0.10000779258905872,
+   "acknowledgment_key_output": 1.0589188411783639,
+   "constant_key_layer22": 0.9674353062324131,
+   "constant_key_layer25": 0.9753454306681163
+  },
+  {
+   "id": "development:71",
+   "end_of_turn_key_output": 0.3922574405439013,
+   "acknowledgment_key_output": 0.8023232073190796,
+   "constant_key_layer22": 0.9726465248448771,
+   "constant_key_layer25": 0.9782991549279976
+  },
+  {
+   "id": "development:72",
+   "end_of_turn_key_output": 0.3153362090797233,
+   "acknowledgment_key_output": 1.0015139740550936,
+   "constant_key_layer22": 0.9665953954867227,
+   "constant_key_layer25": 0.9866768970931132
+  },
+  {
+   "id": "development:73",
+   "end_of_turn_key_output": 0.22617412554826608,
+   "acknowledgment_key_output": 0.9384648733314618,
+   "constant_key_layer22": 0.97802930407091,
+   "constant_key_layer25": 0.9897342685599695
+  },
+  {
+   "id": "development:74",
+   "end_of_turn_key_output": -0.08562611263600223,
+   "acknowledgment_key_output": 0.8473081686737962,
+   "constant_key_layer22": 0.9684842572002281,
+   "constant_key_layer25": 0.9820436163027944
+  },
+  {
+   "id": "development:75",
+   "end_of_turn_key_output": 0.4011775665995648,
+   "acknowledgment_key_output": 0.8157296408660858,
+   "constant_key_layer22": 0.9970118064131392,
+   "constant_key_layer25": 0.9888572195588403
+  },
+  {
+   "id": "development:76",
+   "end_of_turn_key_output": 0.4043161174942324,
+   "acknowledgment_key_output": 1.1598382334922899,
+   "constant_key_layer22": 0.9970522112766771,
+   "constant_key_layer25": 0.9750655161093312
+  },
+  {
+   "id": "development:77",
+   "end_of_turn_key_output": 0.09457960808248136,
+   "acknowledgment_key_output": 1.0798180199040464,
+   "constant_key_layer22": 0.9751983879750137,
+   "constant_key_layer25": 0.9732945951579409
+  },
+  {
+   "id": "development:78",
+   "end_of_turn_key_output": 0.11300626246085886,
+   "acknowledgment_key_output": 1.0093281356339672,
+   "constant_key_layer22": 0.9841499047105067,
+   "constant_key_layer25": 0.9840352000738951
+  },
+  {
+   "id": "development:79",
+   "end_of_turn_key_output": 0.052488260005576805,
+   "acknowledgment_key_output": 1.0914848160518458,
+   "constant_key_layer22": 0.9895863086113081,
+   "constant_key_layer25": 0.9724219611269915
+  },
+  {
+   "id": "development:80",
+   "end_of_turn_key_output": 0.23187861204620083,
+   "acknowledgment_key_output": 0.01592025121985673,
+   "constant_key_layer22": 1.0004172888671232,
+   "constant_key_layer25": 0.9882911102858938
+  },
+  {
+   "id": "development:81",
+   "end_of_turn_key_output": -0.029230584504011083,
+   "acknowledgment_key_output": 0.04207771629441091,
+   "constant_key_layer22": 0.973559156703079,
+   "constant_key_layer25": 0.9801608489601508
+  },
+  {
+   "id": "development:82",
+   "end_of_turn_key_output": 0.46729113452794435,
+   "acknowledgment_key_output": 0.17792231261849142,
+   "constant_key_layer22": 0.999161900522444,
+   "constant_key_layer25": 1.0055810665781706
+  },
+  {
+   "id": "development:83",
+   "end_of_turn_key_output": 0.031098746385440176,
+   "acknowledgment_key_output": -0.10236020944863726,
+   "constant_key_layer22": 0.9932269583170703,
+   "constant_key_layer25": 0.964784711530804
+  },
+  {
+   "id": "development:84",
+   "end_of_turn_key_output": 0.2105120561686888,
+   "acknowledgment_key_output": 0.14548383153161334,
+   "constant_key_layer22": 1.0120680928388266,
+   "constant_key_layer25": 1.0070289398525527
+  },
+  {
+   "id": "development:85",
+   "end_of_turn_key_output": 0.6076678045032016,
+   "acknowledgment_key_output": 0.27656076323638,
+   "constant_key_layer22": 0.9591701881946753,
+   "constant_key_layer25": 0.9700740071380067
+  },
+  {
+   "id": "development:86",
+   "end_of_turn_key_output": 0.04220168874587471,
+   "acknowledgment_key_output": -0.13066937816147023,
+   "constant_key_layer22": 0.9898030694476212,
+   "constant_key_layer25": 1.0102559467360623
+  },
+  {
+   "id": "development:87",
+   "end_of_turn_key_output": 0.06261058522507143,
+   "acknowledgment_key_output": 0.09108479160509536,
+   "constant_key_layer22": 1.005100682245493,
+   "constant_key_layer25": 0.9914082474202655
+  },
+  {
+   "id": "development:88",
+   "end_of_turn_key_output": 0.1962490672387893,
+   "acknowledgment_key_output": 0.03772837016424033,
+   "constant_key_layer22": 0.981800552454717,
+   "constant_key_layer25": 1.0032912861368757
+  },
+  {
+   "id": "development:89",
+   "end_of_turn_key_output": 0.33119974857534007,
+   "acknowledgment_key_output": 0.3010231408941491,
+   "constant_key_layer22": 0.9954948052558941,
+   "constant_key_layer25": 0.9947821908578335
+  },
+  {
+   "id": "development:90",
+   "end_of_turn_key_output": -0.055607933119695196,
+   "acknowledgment_key_output": 0.002801334661551648,
+   "constant_key_layer22": 1.0011008852818646,
+   "constant_key_layer25": 0.9885770594169162
+  },
+  {
+   "id": "development:91",
+   "end_of_turn_key_output": 0.1299959206006868,
+   "acknowledgment_key_output": 0.1359124892966287,
+   "constant_key_layer22": 1.0165031131020288,
+   "constant_key_layer25": 1.0048734001287736
+  },
+  {
+   "id": "development:92",
+   "end_of_turn_key_output": 0.1437822701902622,
+   "acknowledgment_key_output": 0.1736072679755638,
+   "constant_key_layer22": 0.9983087253678348,
+   "constant_key_layer25": 0.9804823873041445
+  },
+  {
+   "id": "development:93",
+   "end_of_turn_key_output": 0.3544161586641103,
+   "acknowledgment_key_output": -0.06886363592320267,
+   "constant_key_layer22": 0.984624286450157,
+   "constant_key_layer25": 0.9966070761047717
+  },
+  {
+   "id": "development:94",
+   "end_of_turn_key_output": 0.16160910409577664,
+   "acknowledgment_key_output": 0.32054706333859767,
+   "constant_key_layer22": 0.9757191948594875,
+   "constant_key_layer25": 0.9666366796325286
+  },
+  {
+   "id": "development:95",
+   "end_of_turn_key_output": 0.14633049827075278,
+   "acknowledgment_key_output": 0.21710408569402262,
+   "constant_key_layer22": 0.967730509357319,
+   "constant_key_layer25": 0.987224985353596
+  },
+  {
+   "id": "development:96",
+   "end_of_turn_key_output": 0.24730971896771506,
+   "acknowledgment_key_output": 0.09668100507865789,
+   "constant_key_layer22": 0.9997512640858692,
+   "constant_key_layer25": 1.004805313368058
+  },
+  {
+   "id": "development:97",
+   "end_of_turn_key_output": 0.05960747110629917,
+   "acknowledgment_key_output": 0.03885821166923539,
+   "constant_key_layer22": 0.9960987544627196,
+   "constant_key_layer25": 1.006066660617385
+  },
+  {
+   "id": "development:98",
+   "end_of_turn_key_output": 0.8084283823719675,
+   "acknowledgment_key_output": 0.2546077298233822,
+   "constant_key_layer22": 0.9675588394412884,
+   "constant_key_layer25": 0.962517669293017
+  },
+  {
+   "id": "development:99",
+   "end_of_turn_key_output": 0.1388624139139794,
+   "acknowledgment_key_output": -0.08170600979544396,
+   "constant_key_layer22": 1.0012903576171572,
+   "constant_key_layer25": 1.0043506420969952
+  },
+  {
+   "id": "development:100",
+   "end_of_turn_key_output": 0.06675622957121564,
+   "acknowledgment_key_output": -0.07600658845306188,
+   "constant_key_layer22": 0.9893157105975976,
+   "constant_key_layer25": 1.0230372050532996
+  },
+  {
+   "id": "development:101",
+   "end_of_turn_key_output": 0.2973033961705955,
+   "acknowledgment_key_output": 0.17264644066124787,
+   "constant_key_layer22": 0.9796819493316368,
+   "constant_key_layer25": 0.9994246274968233
+  },
+  {
+   "id": "development:102",
+   "end_of_turn_key_output": -0.026762524411949918,
+   "acknowledgment_key_output": 0.005504114957766162,
+   "constant_key_layer22": 0.9941411250686043,
+   "constant_key_layer25": 0.9953248767156476
+  },
+  {
+   "id": "development:103",
+   "end_of_turn_key_output": 0.06827324375197073,
+   "acknowledgment_key_output": 0.005763878510571298,
+   "constant_key_layer22": 0.9930101200999669,
+   "constant_key_layer25": 1.0086727616043172
+  },
+  {
+   "id": "development:104",
+   "end_of_turn_key_output": -0.034246010949621694,
+   "acknowledgment_key_output": 0.02128911990780277,
+   "constant_key_layer22": 1.0042218456371317,
+   "constant_key_layer25": 1.005976350742706
+  },
+  {
+   "id": "development:105",
+   "end_of_turn_key_output": 0.18654278564451915,
+   "acknowledgment_key_output": -0.06136213744203345,
+   "constant_key_layer22": 0.9709205554008619,
+   "constant_key_layer25": 0.9822341305288438
+  },
+  {
+   "id": "development:106",
+   "end_of_turn_key_output": 0.024238067640761824,
+   "acknowledgment_key_output": -0.16187785638886074,
+   "constant_key_layer22": 0.9900387313133738,
+   "constant_key_layer25": 0.9759457096797638
+  },
+  {
+   "id": "development:107",
+   "end_of_turn_key_output": 0.22398907894379344,
+   "acknowledgment_key_output": 0.06250802251408703,
+   "constant_key_layer22": 1.000648564034935,
+   "constant_key_layer25": 0.9899282073278948
+  },
+  {
+   "id": "development:108",
+   "end_of_turn_key_output": 0.025647926633800097,
+   "acknowledgment_key_output": -0.025114550882640585,
+   "constant_key_layer22": 0.9946938268675529,
+   "constant_key_layer25": 0.995093031759932
+  },
+  {
+   "id": "development:109",
+   "end_of_turn_key_output": 0.42457863991216294,
+   "acknowledgment_key_output": 0.004454845381024688,
+   "constant_key_layer22": 0.9981694833053583,
+   "constant_key_layer25": 0.9971320961228094
+  },
+  {
+   "id": "development:110",
+   "end_of_turn_key_output": -0.06394793174948223,
+   "acknowledgment_key_output": 0.05843196641425035,
+   "constant_key_layer22": 0.9903881679014847,
+   "constant_key_layer25": 0.990907252808569
+  },
+  {
+   "id": "development:111",
+   "end_of_turn_key_output": 0.04588344353906824,
+   "acknowledgment_key_output": 0.05050382917450534,
+   "constant_key_layer22": 0.9915899093110745,
+   "constant_key_layer25": 0.9900194967317524
+  },
+  {
+   "id": "development:112",
+   "end_of_turn_key_output": 0.020472492078858883,
+   "acknowledgment_key_output": 0.18765220410560662,
+   "constant_key_layer22": 0.973910973941629,
+   "constant_key_layer25": 1.0080359637977852
+  },
+  {
+   "id": "development:113",
+   "end_of_turn_key_output": 0.4032514165286308,
+   "acknowledgment_key_output": 0.033362725669131434,
+   "constant_key_layer22": 0.9921386416173024,
+   "constant_key_layer25": 0.9940042723623543
+  },
+  {
+   "id": "development:114",
+   "end_of_turn_key_output": 0.45400907274195895,
+   "acknowledgment_key_output": 0.04094699360907945,
+   "constant_key_layer22": 1.0003898562757847,
+   "constant_key_layer25": 1.0009183170200886
+  },
+  {
+   "id": "development:115",
+   "end_of_turn_key_output": 0.05965778263719793,
+   "acknowledgment_key_output": 0.12309677782824664,
+   "constant_key_layer22": 0.9838686896713512,
+   "constant_key_layer25": 1.010938023539687
+  },
+  {
+   "id": "development:116",
+   "end_of_turn_key_output": 0.1657785460150152,
+   "acknowledgment_key_output": 0.1384349916799773,
+   "constant_key_layer22": 0.9921576775391744,
+   "constant_key_layer25": 1.011485105283783
+  },
+  {
+   "id": "development:117",
+   "end_of_turn_key_output": 0.40078630169224677,
+   "acknowledgment_key_output": 0.13809572281929822,
+   "constant_key_layer22": 0.9672354780037886,
+   "constant_key_layer25": 0.9993633383421413
+  },
+  {
+   "id": "development:118",
+   "end_of_turn_key_output": 0.4513747737532159,
+   "acknowledgment_key_output": 0.10687542531594069,
+   "constant_key_layer22": 1.000203745818867,
+   "constant_key_layer25": 1.0035257132062954
+  },
+  {
+   "id": "development:119",
+   "end_of_turn_key_output": 0.1626868661118532,
+   "acknowledgment_key_output": 0.3063921070044082,
+   "constant_key_layer22": 0.9404471652787871,
+   "constant_key_layer25": 0.9858401238249015
+  },
+  {
+   "id": "development:120",
+   "end_of_turn_key_output": 0.6485052459106718,
+   "acknowledgment_key_output": 0.13196213058957998,
+   "constant_key_layer22": 0.9859106557031629,
+   "constant_key_layer25": 0.9908610613560846
+  },
+  {
+   "id": "development:121",
+   "end_of_turn_key_output": 0.5363191784323239,
+   "acknowledgment_key_output": 0.20059887140854213,
+   "constant_key_layer22": 0.9982124087567275,
+   "constant_key_layer25": 0.9943095460103528
+  },
+  {
+   "id": "development:122",
+   "end_of_turn_key_output": 0.6621338921970853,
+   "acknowledgment_key_output": 0.6238959923173584,
+   "constant_key_layer22": 0.9943009139562115,
+   "constant_key_layer25": 0.976963510528621
+  },
+  {
+   "id": "development:123",
+   "end_of_turn_key_output": 0.9792888941817229,
+   "acknowledgment_key_output": 0.04149614934696788,
+   "constant_key_layer22": 0.9941051535559375,
+   "constant_key_layer25": 0.9646408727693394
+  },
+  {
+   "id": "development:124",
+   "end_of_turn_key_output": 0.5270146102156139,
+   "acknowledgment_key_output": 0.14414804274841783,
+   "constant_key_layer22": 1.0105045738874514,
+   "constant_key_layer25": 1.004059198951497
+  },
+  {
+   "id": "development:125",
+   "end_of_turn_key_output": 0.7063379238812562,
+   "acknowledgment_key_output": 0.21716445723350533,
+   "constant_key_layer22": 0.9831806875229422,
+   "constant_key_layer25": 0.9737405000060229
+  },
+  {
+   "id": "development:126",
+   "end_of_turn_key_output": 0.2366205765766159,
+   "acknowledgment_key_output": -0.06587680767279967,
+   "constant_key_layer22": 1.0102227698340607,
+   "constant_key_layer25": 0.9976478985692596
+  },
+  {
+   "id": "development:127",
+   "end_of_turn_key_output": 0.4267783240492432,
+   "acknowledgment_key_output": 0.393704589055416,
+   "constant_key_layer22": 0.9889929164914169,
+   "constant_key_layer25": 0.9947476627950347
+  },
+  {
+   "id": "development:128",
+   "end_of_turn_key_output": 0.9932606906572679,
+   "acknowledgment_key_output": 0.46676134120066853,
+   "constant_key_layer22": 0.9783499592024383,
+   "constant_key_layer25": 0.9573850597548761
+  },
+  {
+   "id": "development:129",
+   "end_of_turn_key_output": 0.671283658063249,
+   "acknowledgment_key_output": 0.2207455739757355,
+   "constant_key_layer22": 0.9686352661752373,
+   "constant_key_layer25": 0.9721292000237509
+  },
+  {
+   "id": "development:130",
+   "end_of_turn_key_output": 0.8045182004619609,
+   "acknowledgment_key_output": 0.31274826238302794,
+   "constant_key_layer22": 1.004006587857188,
+   "constant_key_layer25": 0.9439738885797655
+  },
+  {
+   "id": "development:131",
+   "end_of_turn_key_output": 0.3758319620313674,
+   "acknowledgment_key_output": 0.1545432741446943,
+   "constant_key_layer22": 0.9883608104528092,
+   "constant_key_layer25": 0.9945223478264151
+  },
+  {
+   "id": "development:132",
+   "end_of_turn_key_output": 0.7134941037123994,
+   "acknowledgment_key_output": -0.06915797598955926,
+   "constant_key_layer22": 0.9805323380487516,
+   "constant_key_layer25": 0.988016775542975
+  },
+  {
+   "id": "development:133",
+   "end_of_turn_key_output": 0.767024488558235,
+   "acknowledgment_key_output": 0.20072586829794578,
+   "constant_key_layer22": 0.994706799271987,
+   "constant_key_layer25": 0.9872279457321669
+  },
+  {
+   "id": "development:134",
+   "end_of_turn_key_output": 0.566920066973135,
+   "acknowledgment_key_output": 0.20858459626827644,
+   "constant_key_layer22": 0.9940376065710026,
+   "constant_key_layer25": 0.9871439998785756
+  },
+  {
+   "id": "development:135",
+   "end_of_turn_key_output": 0.6558420909758627,
+   "acknowledgment_key_output": 0.2676371588281372,
+   "constant_key_layer22": 0.9922329293129718,
+   "constant_key_layer25": 0.9854059431708897
+  },
+  {
+   "id": "development:136",
+   "end_of_turn_key_output": 0.8278743678799921,
+   "acknowledgment_key_output": 0.523160363827356,
+   "constant_key_layer22": 0.976158077364603,
+   "constant_key_layer25": 0.9709221225903879
+  },
+  {
+   "id": "development:137",
+   "end_of_turn_key_output": 0.9874373002772772,
+   "acknowledgment_key_output": 0.20220260989517616,
+   "constant_key_layer22": 0.9923437666121858,
+   "constant_key_layer25": 0.9676723175092193
+  },
+  {
+   "id": "development:138",
+   "end_of_turn_key_output": 0.7842721588837566,
+   "acknowledgment_key_output": 0.30134498580708385,
+   "constant_key_layer22": 1.0055470566550024,
+   "constant_key_layer25": 0.9640520311122203
+  },
+  {
+   "id": "development:139",
+   "end_of_turn_key_output": 0.278882348751596,
+   "acknowledgment_key_output": 0.319025422172143,
+   "constant_key_layer22": 0.9738760252952454,
+   "constant_key_layer25": 0.9884257732082351
+  },
+  {
+   "id": "development:140",
+   "end_of_turn_key_output": 0.9273048311406416,
+   "acknowledgment_key_output": 0.07631838158956035,
+   "constant_key_layer22": 0.9857180546898674,
+   "constant_key_layer25": 0.9523150107261595
+  },
+  {
+   "id": "development:141",
+   "end_of_turn_key_output": 0.41641197569027233,
+   "acknowledgment_key_output": 0.722686379588802,
+   "constant_key_layer22": 0.9930218719318313,
+   "constant_key_layer25": 1.0006233256686543
+  },
+  {
+   "id": "development:142",
+   "end_of_turn_key_output": 0.5206423505691383,
+   "acknowledgment_key_output": 0.34765299177279396,
+   "constant_key_layer22": 1.005853619681832,
+   "constant_key_layer25": 0.9912977605149313
+  },
+  {
+   "id": "development:143",
+   "end_of_turn_key_output": 0.8255929974552207,
+   "acknowledgment_key_output": 0.005629270843016766,
+   "constant_key_layer22": 1.007668688955028,
+   "constant_key_layer25": 0.9529341889494494
+  },
+  {
+   "id": "development:144",
+   "end_of_turn_key_output": 0.8452059529421144,
+   "acknowledgment_key_output": 0.27744500422504126,
+   "constant_key_layer22": 0.9875151879285872,
+   "constant_key_layer25": 0.9508628893563005
+  },
+  {
+   "id": "development:145",
+   "end_of_turn_key_output": 0.3358669585043344,
+   "acknowledgment_key_output": 0.5029092778208756,
+   "constant_key_layer22": 0.9692616765333051,
+   "constant_key_layer25": 0.9916599682071741
+  },
+  {
+   "id": "development:146",
+   "end_of_turn_key_output": 0.6850465011224359,
+   "acknowledgment_key_output": 0.33580262559762375,
+   "constant_key_layer22": 0.990852857316056,
+   "constant_key_layer25": 0.9717352388277563
+  },
+  {
+   "id": "development:147",
+   "end_of_turn_key_output": 1.1249986655080644,
+   "acknowledgment_key_output": 0.10730282274025113,
+   "constant_key_layer22": 1.0018189256228927,
+   "constant_key_layer25": 0.963451452305869
+  },
+  {
+   "id": "development:148",
+   "end_of_turn_key_output": 0.47624331796627206,
+   "acknowledgment_key_output": 0.5682003406100384,
+   "constant_key_layer22": 0.9802257446175358,
+   "constant_key_layer25": 0.9884952580862745
+  },
+  {
+   "id": "development:149",
+   "end_of_turn_key_output": 0.7296196166002885,
+   "acknowledgment_key_output": 0.19374453334784306,
+   "constant_key_layer22": 0.9964238842152258,
+   "constant_key_layer25": 0.9635490170087356
+  },
+  {
+   "id": "development:150",
+   "end_of_turn_key_output": 0.4503059987538046,
+   "acknowledgment_key_output": 0.6016381810136683,
+   "constant_key_layer22": 0.9633414343720157,
+   "constant_key_layer25": 1.000484382451437
+  },
+  {
+   "id": "development:151",
+   "end_of_turn_key_output": 0.5356044166278948,
+   "acknowledgment_key_output": 0.28654830081642635,
+   "constant_key_layer22": 0.9565879305033684,
+   "constant_key_layer25": 0.9939002745942331
+  },
+  {
+   "id": "development:152",
+   "end_of_turn_key_output": 0.823270648823224,
+   "acknowledgment_key_output": 0.19848659833550955,
+   "constant_key_layer22": 0.9781455185699504,
+   "constant_key_layer25": 0.9563600665198163
+  },
+  {
+   "id": "development:153",
+   "end_of_turn_key_output": 0.6294483144132725,
+   "acknowledgment_key_output": 0.27630344548962593,
+   "constant_key_layer22": 0.9779142905231065,
+   "constant_key_layer25": 1.004218420842176
+  },
+  {
+   "id": "development:154",
+   "end_of_turn_key_output": 0.6721605312184202,
+   "acknowledgment_key_output": 0.1497612941392745,
+   "constant_key_layer22": 1.0032750409710114,
+   "constant_key_layer25": 0.9970392256791387
+  },
+  {
+   "id": "development:155",
+   "end_of_turn_key_output": 0.7176705114592867,
+   "acknowledgment_key_output": 0.22154059053049427,
+   "constant_key_layer22": 0.9923860519096621,
+   "constant_key_layer25": 0.9844794482199056
+  },
+  {
+   "id": "development:156",
+   "end_of_turn_key_output": 0.4650684269766654,
+   "acknowledgment_key_output": 0.6484811877945061,
+   "constant_key_layer22": 0.9972221948772552,
+   "constant_key_layer25": 0.9902553748780081
+  },
+  {
+   "id": "development:157",
+   "end_of_turn_key_output": 0.48245919535598325,
+   "acknowledgment_key_output": 0.4878318215397471,
+   "constant_key_layer22": 0.989844268773295,
+   "constant_key_layer25": 0.9699449423524586
+  },
+  {
+   "id": "development:158",
+   "end_of_turn_key_output": 0.5724563499156147,
+   "acknowledgment_key_output": 0.3503530826181774,
+   "constant_key_layer22": 1.0208911805958003,
+   "constant_key_layer25": 0.9931680651615535
+  },
+  {
+   "id": "development:159",
+   "end_of_turn_key_output": 0.49122882637058607,
+   "acknowledgment_key_output": 0.5447221814076226,
+   "constant_key_layer22": 0.983609519356436,
+   "constant_key_layer25": 0.9854303679801709
+  },
+  {
+   "id": "development:160",
+   "end_of_turn_key_output": 0.12476634459151673,
+   "acknowledgment_key_output": 1.0143596777889168,
+   "constant_key_layer22": 0.9862797617223751,
+   "constant_key_layer25": 0.9759508189738719
+  },
+  {
+   "id": "development:161",
+   "end_of_turn_key_output": 0.26787679657845953,
+   "acknowledgment_key_output": 1.036576286293166,
+   "constant_key_layer22": 0.9666849486042416,
+   "constant_key_layer25": 0.9777729034881975
+  },
+  {
+   "id": "development:162",
+   "end_of_turn_key_output": 0.10914447013678018,
+   "acknowledgment_key_output": 1.0163920107922177,
+   "constant_key_layer22": 0.9485720443156298,
+   "constant_key_layer25": 0.9670034865471273
+  },
+  {
+   "id": "development:163",
+   "end_of_turn_key_output": 0.752884296480225,
+   "acknowledgment_key_output": 0.6743981659593764,
+   "constant_key_layer22": 0.9939279441532571,
+   "constant_key_layer25": 0.9652595527028784
+  },
+  {
+   "id": "development:164",
+   "end_of_turn_key_output": 0.18610191782545746,
+   "acknowledgment_key_output": 1.0366401946869892,
+   "constant_key_layer22": 0.9623077290348212,
+   "constant_key_layer25": 0.9636544587301954
+  },
+  {
+   "id": "development:165",
+   "end_of_turn_key_output": 0.12835748230246768,
+   "acknowledgment_key_output": 1.0099376100334876,
+   "constant_key_layer22": 0.9753260640011822,
+   "constant_key_layer25": 0.9762814501452254
+  },
+  {
+   "id": "development:166",
+   "end_of_turn_key_output": 0.27247876528446857,
+   "acknowledgment_key_output": 1.070958479357154,
+   "constant_key_layer22": 0.9188925490669355,
+   "constant_key_layer25": 0.9694404562371263
+  },
+  {
+   "id": "development:167",
+   "end_of_turn_key_output": 0.3159151711707125,
+   "acknowledgment_key_output": 1.0100501751048614,
+   "constant_key_layer22": 0.9432968365985663,
+   "constant_key_layer25": 0.9724168646074896
+  },
+  {
+   "id": "development:168",
+   "end_of_turn_key_output": 0.11262908648680608,
+   "acknowledgment_key_output": 1.0202785541151511,
+   "constant_key_layer22": 0.963403087637651,
+   "constant_key_layer25": 0.9669595597850449
+  },
+  {
+   "id": "development:169",
+   "end_of_turn_key_output": 0.016483455354506172,
+   "acknowledgment_key_output": 1.154854177683224,
+   "constant_key_layer22": 0.9643082131268067,
+   "constant_key_layer25": 0.9716406281912461
+  },
+  {
+   "id": "development:170",
+   "end_of_turn_key_output": 0.19340466699956865,
+   "acknowledgment_key_output": 1.0662748907279322,
+   "constant_key_layer22": 0.972040290286647,
+   "constant_key_layer25": 0.9728454077983952
+  },
+  {
+   "id": "development:171",
+   "end_of_turn_key_output": -0.018592815336951063,
+   "acknowledgment_key_output": 1.0554926005811254,
+   "constant_key_layer22": 0.9764189000217369,
+   "constant_key_layer25": 0.9753793029931938
+  },
+  {
+   "id": "development:172",
+   "end_of_turn_key_output": 0.5204152721448049,
+   "acknowledgment_key_output": 0.8220358103379495,
+   "constant_key_layer22": 1.0092918247489533,
+   "constant_key_layer25": 0.9846305549212664
+  },
+  {
+   "id": "development:173",
+   "end_of_turn_key_output": 0.46662720835656873,
+   "acknowledgment_key_output": 0.9744661647488184,
+   "constant_key_layer22": 0.9849653246506265,
+   "constant_key_layer25": 0.9789699434291772
+  },
+  {
+   "id": "development:174",
+   "end_of_turn_key_output": 0.18160376376950163,
+   "acknowledgment_key_output": 1.0116679573928724,
+   "constant_key_layer22": 0.9786818419355161,
+   "constant_key_layer25": 0.9743251485245309
+  },
+  {
+   "id": "development:175",
+   "end_of_turn_key_output": 0.021891428106475132,
+   "acknowledgment_key_output": 1.0703023056264702,
+   "constant_key_layer22": 0.9704323961684698,
+   "constant_key_layer25": 0.9699932851341754
+  },
+  {
+   "id": "development:176",
+   "end_of_turn_key_output": 0.32431319873847575,
+   "acknowledgment_key_output": 0.9749473166001364,
+   "constant_key_layer22": 0.984231693844652,
+   "constant_key_layer25": 0.981455124936959
+  },
+  {
+   "id": "development:177",
+   "end_of_turn_key_output": 0.1547031409375772,
+   "acknowledgment_key_output": 0.7846229642252678,
+   "constant_key_layer22": 1.0171673220460693,
+   "constant_key_layer25": 0.9816728231285612
+  },
+  {
+   "id": "development:178",
+   "end_of_turn_key_output": 0.18155948793749668,
+   "acknowledgment_key_output": 0.16383450178816678,
+   "constant_key_layer22": 0.9663481156330406,
+   "constant_key_layer25": 0.9907397688868963
+  },
+  {
+   "id": "development:179",
+   "end_of_turn_key_output": 0.042793212788203444,
+   "acknowledgment_key_output": 1.0275498397578702,
+   "constant_key_layer22": 0.9816870285511812,
+   "constant_key_layer25": 0.9672491687119338
+  },
+  {
+   "id": "development:180",
+   "end_of_turn_key_output": 0.010076819898324279,
+   "acknowledgment_key_output": 0.7903260580917907,
+   "constant_key_layer22": 0.9483951784216857,
+   "constant_key_layer25": 0.9839473599531933
+  },
+  {
+   "id": "development:181",
+   "end_of_turn_key_output": -0.06214726139696672,
+   "acknowledgment_key_output": 0.8691263336613376,
+   "constant_key_layer22": 0.9914110012686936,
+   "constant_key_layer25": 0.9964083496267286
+  },
+  {
+   "id": "development:182",
+   "end_of_turn_key_output": -0.023107949437395327,
+   "acknowledgment_key_output": 0.8877840585032213,
+   "constant_key_layer22": 0.9367032708826459,
+   "constant_key_layer25": 0.9925301217463118
+  },
+  {
+   "id": "development:183",
+   "end_of_turn_key_output": 0.30392401471037306,
+   "acknowledgment_key_output": 0.8598663625809722,
+   "constant_key_layer22": 0.9916149627299556,
+   "constant_key_layer25": 0.9920514183085511
+  },
+  {
+   "id": "development:184",
+   "end_of_turn_key_output": -0.09144256019329478,
+   "acknowledgment_key_output": 0.7798896113290783,
+   "constant_key_layer22": 0.9808426671059705,
+   "constant_key_layer25": 0.9659215212416392
+  },
+  {
+   "id": "development:185",
+   "end_of_turn_key_output": 0.0969026002423505,
+   "acknowledgment_key_output": 0.9010694726238611,
+   "constant_key_layer22": 0.9823433180674623,
+   "constant_key_layer25": 0.9811496222819062
+  },
+  {
+   "id": "development:186",
+   "end_of_turn_key_output": -0.01872871415420438,
+   "acknowledgment_key_output": 0.6023334964245932,
+   "constant_key_layer22": 0.9847416121219746,
+   "constant_key_layer25": 0.9917657103280653
+  },
+  {
+   "id": "development:187",
+   "end_of_turn_key_output": 0.09160220570793967,
+   "acknowledgment_key_output": 0.7314140556717167,
+   "constant_key_layer22": 0.9438352828468315,
+   "constant_key_layer25": 1.0059319196883774
+  },
+  {
+   "id": "development:188",
+   "end_of_turn_key_output": 0.10956601230844103,
+   "acknowledgment_key_output": 0.6648189641782051,
+   "constant_key_layer22": 1.0043244971556926,
+   "constant_key_layer25": 0.9962337445935601
+  },
+  {
+   "id": "development:189",
+   "end_of_turn_key_output": 0.39659329877916116,
+   "acknowledgment_key_output": 0.7028848113648656,
+   "constant_key_layer22": 0.9914897836223366,
+   "constant_key_layer25": 1.0046586365877115
+  },
+  {
+   "id": "development:190",
+   "end_of_turn_key_output": 0.4371428332650849,
+   "acknowledgment_key_output": 0.7116557308680913,
+   "constant_key_layer22": 0.984202264854268,
+   "constant_key_layer25": 0.9735284134488964
+  },
+  {
+   "id": "development:191",
+   "end_of_turn_key_output": 0.28242131580427554,
+   "acknowledgment_key_output": 0.7394925790301932,
+   "constant_key_layer22": 0.9955850136585392,
+   "constant_key_layer25": 0.9993300223104316
+  },
+  {
+   "id": "development:192",
+   "end_of_turn_key_output": 0.13529829616845493,
+   "acknowledgment_key_output": 0.7703523943220502,
+   "constant_key_layer22": 0.9852198067874832,
+   "constant_key_layer25": 0.978196970816478
+  },
+  {
+   "id": "development:193",
+   "end_of_turn_key_output": 0.18076509509695093,
+   "acknowledgment_key_output": 1.0125817218619235,
+   "constant_key_layer22": 0.9998674896381052,
+   "constant_key_layer25": 0.9616023243493347
+  },
+  {
+   "id": "development:194",
+   "end_of_turn_key_output": 0.4039938443348728,
+   "acknowledgment_key_output": 0.8322553299029682,
+   "constant_key_layer22": 0.9912870887304686,
+   "constant_key_layer25": 0.9885894709900676
+  },
+  {
+   "id": "development:195",
+   "end_of_turn_key_output": 0.059734533477646956,
+   "acknowledgment_key_output": 0.9899190948159251,
+   "constant_key_layer22": 0.9760379195216724,
+   "constant_key_layer25": 0.9744610305216724
+  },
+  {
+   "id": "development:196",
+   "end_of_turn_key_output": 0.18544892391859027,
+   "acknowledgment_key_output": 1.1040533611247858,
+   "constant_key_layer22": 0.961301872014989,
+   "constant_key_layer25": 0.9766346876459988
+  },
+  {
+   "id": "development:197",
+   "end_of_turn_key_output": 0.25879219410100424,
+   "acknowledgment_key_output": 0.8638663727505371,
+   "constant_key_layer22": 0.9855282422115165,
+   "constant_key_layer25": 0.9771971470853311
+  },
+  {
+   "id": "development:198",
+   "end_of_turn_key_output": 0.22392994313151907,
+   "acknowledgment_key_output": 0.6566779219232922,
+   "constant_key_layer22": 0.9780100153345664,
+   "constant_key_layer25": 0.9689394937087108
+  },
+  {
+   "id": "development:199",
+   "end_of_turn_key_output": 0.3265993932136663,
+   "acknowledgment_key_output": 0.8208027797592002,
+   "constant_key_layer22": 0.9870709245796121,
+   "constant_key_layer25": 0.9748081008388176
+  },
+  {
+   "id": "development:200",
+   "end_of_turn_key_output": 0.2925612294845558,
+   "acknowledgment_key_output": 0.15161648369394792,
+   "constant_key_layer22": 1.0169911486820447,
+   "constant_key_layer25": 0.9810739850302767
+  },
+  {
+   "id": "development:201",
+   "end_of_turn_key_output": 0.17771138743191447,
+   "acknowledgment_key_output": 0.01784793506213869,
+   "constant_key_layer22": 0.992094637277561,
+   "constant_key_layer25": 0.9893287977212752
+  },
+  {
+   "id": "development:202",
+   "end_of_turn_key_output": 0.271242289448541,
+   "acknowledgment_key_output": 0.1097498040744564,
+   "constant_key_layer22": 1.0015267651681188,
+   "constant_key_layer25": 0.984886640382501
+  },
+  {
+   "id": "development:203",
+   "end_of_turn_key_output": 0.03052694065451805,
+   "acknowledgment_key_output": 0.20039554078975622,
+   "constant_key_layer22": 1.0128264924206176,
+   "constant_key_layer25": 0.976146306810704
+  },
+  {
+   "id": "development:204",
+   "end_of_turn_key_output": 0.19531146975496894,
+   "acknowledgment_key_output": 0.014144037346730353,
+   "constant_key_layer22": 0.9882910984224319,
+   "constant_key_layer25": 1.0091708657525438
+  },
+  {
+   "id": "development:205",
+   "end_of_turn_key_output": 0.17093188079335747,
+   "acknowledgment_key_output": 0.07777907772378989,
+   "constant_key_layer22": 0.9947442096670885,
+   "constant_key_layer25": 0.9875256043676496
+  },
+  {
+   "id": "development:206",
+   "end_of_turn_key_output": 0.1323686329814656,
+   "acknowledgment_key_output": 0.1375970561784709,
+   "constant_key_layer22": 1.006341109401,
+   "constant_key_layer25": 1.001454843420183
+  },
+  {
+   "id": "development:207",
+   "end_of_turn_key_output": 0.32509819765498216,
+   "acknowledgment_key_output": 0.15016890244825318,
+   "constant_key_layer22": 0.9997958025407503,
+   "constant_key_layer25": 0.9975538813471372
+  },
+  {
+   "id": "development:208",
+   "end_of_turn_key_output": 0.2092537818897215,
+   "acknowledgment_key_output": 0.26992189794573657,
+   "constant_key_layer22": 0.9914116437814171,
+   "constant_key_layer25": 0.9999714242100305
+  },
+  {
+   "id": "development:209",
+   "end_of_turn_key_output": -0.0013066575950275272,
+   "acknowledgment_key_output": -0.040757378574111915,
+   "constant_key_layer22": 1.0096759441450027,
+   "constant_key_layer25": 1.008629840783298
+  },
+  {
+   "id": "development:210",
+   "end_of_turn_key_output": 0.1828999311780664,
+   "acknowledgment_key_output": 0.26023601967095195,
+   "constant_key_layer22": 1.0035986032012467,
+   "constant_key_layer25": 0.9805378655988903
+  },
+  {
+   "id": "development:211",
+   "end_of_turn_key_output": 0.298710449088985,
+   "acknowledgment_key_output": 0.18721318592254405,
+   "constant_key_layer22": 0.9873677000970636,
+   "constant_key_layer25": 0.9956875527564668
+  },
+  {
+   "id": "development:212",
+   "end_of_turn_key_output": 0.23184040723002805,
+   "acknowledgment_key_output": 0.09341926405141027,
+   "constant_key_layer22": 1.0030860371631751,
+   "constant_key_layer25": 0.9834371566816161
+  },
+  {
+   "id": "development:213",
+   "end_of_turn_key_output": 0.41427773663060163,
+   "acknowledgment_key_output": 0.15186748791657015,
+   "constant_key_layer22": 0.9780360811764878,
+   "constant_key_layer25": 0.976913063631166
+  },
+  {
+   "id": "development:214",
+   "end_of_turn_key_output": 0.449503034099004,
+   "acknowledgment_key_output": 0.15448358329387574,
+   "constant_key_layer22": 0.9862179584517003,
+   "constant_key_layer25": 0.9892720752540085
+  },
+  {
+   "id": "development:215",
+   "end_of_turn_key_output": 0.29878924498121145,
+   "acknowledgment_key_output": 0.1880001241280706,
+   "constant_key_layer22": 1.0019036166489248,
+   "constant_key_layer25": 1.017790645003878
+  },
+  {
+   "id": "development:216",
+   "end_of_turn_key_output": 0.04907601812902837,
+   "acknowledgment_key_output": 0.05708768606146028,
+   "constant_key_layer22": 0.9840572406333168,
+   "constant_key_layer25": 0.9926642968686219
+  },
+  {
+   "id": "development:217",
+   "end_of_turn_key_output": 0.21869275452771345,
+   "acknowledgment_key_output": -0.012964953578574129,
+   "constant_key_layer22": 0.9830707032473607,
+   "constant_key_layer25": 1.0190252688814554
+  },
+  {
+   "id": "development:218",
+   "end_of_turn_key_output": 0.24990890572943839,
+   "acknowledgment_key_output": -0.007484337554689795,
+   "constant_key_layer22": 0.9664760796748113,
+   "constant_key_layer25": 0.9966387776441007
+  },
+  {
+   "id": "development:219",
+   "end_of_turn_key_output": 0.11788870931121903,
+   "acknowledgment_key_output": 0.02479588269278662,
+   "constant_key_layer22": 0.9719747543114681,
+   "constant_key_layer25": 0.9953281866626515
+  },
+  {
+   "id": "development:220",
+   "end_of_turn_key_output": 0.264141220347435,
+   "acknowledgment_key_output": 0.07548393697626936,
+   "constant_key_layer22": 0.9508149168916191,
+   "constant_key_layer25": 0.9812367493250163
+  },
+  {
+   "id": "development:221",
+   "end_of_turn_key_output": 0.060591198356095104,
+   "acknowledgment_key_output": 0.007451725391845819,
+   "constant_key_layer22": 0.9988940473356881,
+   "constant_key_layer25": 0.996472305018709
+  },
+  {
+   "id": "development:222",
+   "end_of_turn_key_output": 0.17320105029987723,
+   "acknowledgment_key_output": -0.13301465511169658,
+   "constant_key_layer22": 0.96800901841984,
+   "constant_key_layer25": 0.997781232948066
+  },
+  {
+   "id": "development:223",
+   "end_of_turn_key_output": 0.49985290036652613,
+   "acknowledgment_key_output": -0.03446765773128328,
+   "constant_key_layer22": 0.9716731991400567,
+   "constant_key_layer25": 0.9935983728219328
+  },
+  {
+   "id": "development:224",
+   "end_of_turn_key_output": 0.07904075639506383,
+   "acknowledgment_key_output": -0.017501572899658684,
+   "constant_key_layer22": 0.9854468257434494,
+   "constant_key_layer25": 0.9836991347453092
+  },
+  {
+   "id": "development:225",
+   "end_of_turn_key_output": -0.004620626602157423,
+   "acknowledgment_key_output": 0.10637033189065233,
+   "constant_key_layer22": 0.9918913606510804,
+   "constant_key_layer25": 0.9919812752865076
+  },
+  {
+   "id": "development:226",
+   "end_of_turn_key_output": 0.13007183119575802,
+   "acknowledgment_key_output": -0.026274490944267113,
+   "constant_key_layer22": 0.9904820902805814,
+   "constant_key_layer25": 0.9802790287481156
+  },
+  {
+   "id": "development:227",
+   "end_of_turn_key_output": 0.043064157330024874,
+   "acknowledgment_key_output": 0.07107514207719491,
+   "constant_key_layer22": 1.0009747848227077,
+   "constant_key_layer25": 1.0054341254717696
+  },
+  {
+   "id": "development:228",
+   "end_of_turn_key_output": 0.14555028856466135,
+   "acknowledgment_key_output": -0.39448674959671226,
+   "constant_key_layer22": 0.9738980933853048,
+   "constant_key_layer25": 0.9810008919363383
+  },
+  {
+   "id": "development:229",
+   "end_of_turn_key_output": 0.016004046343451962,
+   "acknowledgment_key_output": 0.03301411388801655,
+   "constant_key_layer22": 0.9839825598550191,
+   "constant_key_layer25": 0.9826507125679791
+  },
+  {
+   "id": "development:230",
+   "end_of_turn_key_output": 0.07744977822300833,
+   "acknowledgment_key_output": 0.4815654406608394,
+   "constant_key_layer22": 0.9943982651481234,
+   "constant_key_layer25": 0.9822410265993977
+  },
+  {
+   "id": "development:231",
+   "end_of_turn_key_output": 0.17074294846071428,
+   "acknowledgment_key_output": -0.15466525127313954,
+   "constant_key_layer22": 0.9954745325901333,
+   "constant_key_layer25": 0.9736159765044248
+  },
+  {
+   "id": "development:232",
+   "end_of_turn_key_output": 0.09403266686172357,
+   "acknowledgment_key_output": 0.06026999206346432,
+   "constant_key_layer22": 0.9741316249290497,
+   "constant_key_layer25": 1.0008023999956859
+  },
+  {
+   "id": "development:233",
+   "end_of_turn_key_output": 0.2061930526769741,
+   "acknowledgment_key_output": 0.09679541620118981,
+   "constant_key_layer22": 0.9583822888185609,
+   "constant_key_layer25": 0.9966595132125745
+  },
+  {
+   "id": "development:234",
+   "end_of_turn_key_output": 0.20949256800805277,
+   "acknowledgment_key_output": 0.029449169950857536,
+   "constant_key_layer22": 0.9905996705910443,
+   "constant_key_layer25": 0.9759937247177564
+  },
+  {
+   "id": "development:235",
+   "end_of_turn_key_output": 0.35563901933508546,
+   "acknowledgment_key_output": 0.0003315989960378214,
+   "constant_key_layer22": 0.9894888673625795,
+   "constant_key_layer25": 0.9669004238069572
+  },
+  {
+   "id": "development:236",
+   "end_of_turn_key_output": 0.11438658060640182,
+   "acknowledgment_key_output": 0.07073104365867035,
+   "constant_key_layer22": 0.9879681218776213,
+   "constant_key_layer25": 0.9940735234104803
+  },
+  {
+   "id": "development:237",
+   "end_of_turn_key_output": 0.2742141025282186,
+   "acknowledgment_key_output": -0.03679168644784006,
+   "constant_key_layer22": 0.96816140937171,
+   "constant_key_layer25": 0.9965183379531196
+  },
+  {
+   "id": "development:238",
+   "end_of_turn_key_output": 0.10000139484479796,
+   "acknowledgment_key_output": -0.03895406662172895,
+   "constant_key_layer22": 0.976300186250517,
+   "constant_key_layer25": 0.9944439608098972
+  },
+  {
+   "id": "development:239",
+   "end_of_turn_key_output": 0.4061140036391097,
+   "acknowledgment_key_output": 0.21826183362842472,
+   "constant_key_layer22": 0.9600102784897885,
+   "constant_key_layer25": 0.9895195201898438
+  },
+  {
+   "id": "development:240",
+   "end_of_turn_key_output": 0.5043201328782743,
+   "acknowledgment_key_output": 0.3302541345789254,
+   "constant_key_layer22": 1.0033141003783799,
+   "constant_key_layer25": 0.9883106097695935
+  },
+  {
+   "id": "development:241",
+   "end_of_turn_key_output": 0.9101608562772413,
+   "acknowledgment_key_output": 0.3500219758668962,
+   "constant_key_layer22": 1.0139652298401503,
+   "constant_key_layer25": 0.9710535888546037
+  },
+  {
+   "id": "development:242",
+   "end_of_turn_key_output": 0.5504974014608236,
+   "acknowledgment_key_output": 0.45695966846887137,
+   "constant_key_layer22": 0.9970772956269063,
+   "constant_key_layer25": 1.007575798559118
+  },
+  {
+   "id": "development:243",
+   "end_of_turn_key_output": 0.38473873355633037,
+   "acknowledgment_key_output": 0.6232644392286384,
+   "constant_key_layer22": 0.996316759208532,
+   "constant_key_layer25": 1.016485854759773
+  },
+  {
+   "id": "development:244",
+   "end_of_turn_key_output": 0.7983207074203328,
+   "acknowledgment_key_output": 0.681442822176038,
+   "constant_key_layer22": 1.005897744683068,
+   "constant_key_layer25": 0.9730911402541649
+  },
+  {
+   "id": "development:245",
+   "end_of_turn_key_output": 0.4907918117985981,
+   "acknowledgment_key_output": 0.8132176915046665,
+   "constant_key_layer22": 1.01173433780504,
+   "constant_key_layer25": 0.9994374702070733
+  },
+  {
+   "id": "development:246",
+   "end_of_turn_key_output": 0.8184911470896381,
+   "acknowledgment_key_output": 0.6967700105293799,
+   "constant_key_layer22": 0.976284847745783,
+   "constant_key_layer25": 0.9714963923031159
+  },
+  {
+   "id": "development:247",
+   "end_of_turn_key_output": 0.8819091885060685,
+   "acknowledgment_key_output": 0.3061788145989303,
+   "constant_key_layer22": 1.000369388106721,
+   "constant_key_layer25": 0.9664687895626843
+  },
+  {
+   "id": "development:248",
+   "end_of_turn_key_output": 1.1157585320051526,
+   "acknowledgment_key_output": 0.41110807774097885,
+   "constant_key_layer22": 1.00462082884129,
+   "constant_key_layer25": 0.9683110186954679
+  },
+  {
+   "id": "development:249",
+   "end_of_turn_key_output": 0.44910131002918996,
+   "acknowledgment_key_output": 0.35951791893370394,
+   "constant_key_layer22": 1.0034815025958093,
+   "constant_key_layer25": 1.0029913148755965
+  },
+  {
+   "id": "development:250",
+   "end_of_turn_key_output": 0.09651557652553397,
+   "acknowledgment_key_output": 1.0246975167932253,
+   "constant_key_layer22": 1.0006322058741257,
+   "constant_key_layer25": 1.003634670490929
+  },
+  {
+   "id": "development:251",
+   "end_of_turn_key_output": 0.27176669069634174,
+   "acknowledgment_key_output": 0.9522301253803476,
+   "constant_key_layer22": 0.968530647902644,
+   "constant_key_layer25": 1.0018302864854705
+  },
+  {
+   "id": "development:252",
+   "end_of_turn_key_output": 0.1502877725748983,
+   "acknowledgment_key_output": 1.0546639858087874,
+   "constant_key_layer22": 0.9660039566527996,
+   "constant_key_layer25": 0.9939702453717212
+  },
+  {
+   "id": "development:253",
+   "end_of_turn_key_output": 0.41846675579001125,
+   "acknowledgment_key_output": 0.9636204236602693,
+   "constant_key_layer22": 1.0255606445264516,
+   "constant_key_layer25": 1.004342448786745
+  },
+  {
+   "id": "development:254",
+   "end_of_turn_key_output": 0.028722394207103666,
+   "acknowledgment_key_output": 1.0304797348153212,
+   "constant_key_layer22": 0.9983215819056875,
+   "constant_key_layer25": 0.9948652495653242
+  },
+  {
+   "id": "development:255",
+   "end_of_turn_key_output": 0.032032836849249645,
+   "acknowledgment_key_output": 0.9976887770381486,
+   "constant_key_layer22": 0.9813127846237577,
+   "constant_key_layer25": 1.0034220574104769
+  },
+  {
+   "id": "development:256",
+   "end_of_turn_key_output": 0.11569435308050859,
+   "acknowledgment_key_output": 0.9705515206392127,
+   "constant_key_layer22": 1.0081438869936965,
+   "constant_key_layer25": 1.008867590396342
+  },
+  {
+   "id": "development:257",
+   "end_of_turn_key_output": 0.0670846438989828,
+   "acknowledgment_key_output": 0.7201297647180627,
+   "constant_key_layer22": 1.0115560536896904,
+   "constant_key_layer25": 0.9987288710539423
+  },
+  {
+   "id": "development:258",
+   "end_of_turn_key_output": 0.2290658573785305,
+   "acknowledgment_key_output": 0.9366555919798089,
+   "constant_key_layer22": 1.0172110004822916,
+   "constant_key_layer25": 1.001582110179208
+  },
+  {
+   "id": "development:259",
+   "end_of_turn_key_output": 0.17571629915652687,
+   "acknowledgment_key_output": 0.9464620862068276,
+   "constant_key_layer22": 1.0158965785922847,
+   "constant_key_layer25": 0.9877676662551405
+  },
+  {
+   "id": "development:260",
+   "end_of_turn_key_output": 0.14110246696167558,
+   "acknowledgment_key_output": 0.09711418463335902,
+   "constant_key_layer22": 1.025098044709622,
+   "constant_key_layer25": 0.9997182549460722
+  },
+  {
+   "id": "development:261",
+   "end_of_turn_key_output": 0.3109470400730019,
+   "acknowledgment_key_output": 0.2585903204673419,
+   "constant_key_layer22": 1.0246890607366532,
+   "constant_key_layer25": 0.9928339155081924
+  },
+  {
+   "id": "development:262",
+   "end_of_turn_key_output": 0.11545543457200164,
+   "acknowledgment_key_output": 0.17755319188596105,
+   "constant_key_layer22": 1.0079514125967353,
+   "constant_key_layer25": 0.9973606629237385
+  },
+  {
+   "id": "development:263",
+   "end_of_turn_key_output": 0.1083724912228418,
+   "acknowledgment_key_output": 0.3452667121814373,
+   "constant_key_layer22": 1.0069667724382516,
+   "constant_key_layer25": 0.9995666733177386
+  },
+  {
+   "id": "development:264",
+   "end_of_turn_key_output": 0.10193046701379117,
+   "acknowledgment_key_output": 0.124524352398915,
+   "constant_key_layer22": 0.9862744645015308,
+   "constant_key_layer25": 1.0137870475945756
+  },
+  {
+   "id": "development:265",
+   "end_of_turn_key_output": 0.17210178681194332,
+   "acknowledgment_key_output": 0.06950524674448835,
+   "constant_key_layer22": 0.9888048690761115,
+   "constant_key_layer25": 1.0149725882343097
+  },
+  {
+   "id": "development:266",
+   "end_of_turn_key_output": 0.028794815997429214,
+   "acknowledgment_key_output": -0.032324090029624414,
+   "constant_key_layer22": 1.0059907510543078,
+   "constant_key_layer25": 0.9973805730341936
+  },
+  {
+   "id": "development:267",
+   "end_of_turn_key_output": 0.00760409543569994,
+   "acknowledgment_key_output": 0.30578045005742543,
+   "constant_key_layer22": 1.0118229701864838,
+   "constant_key_layer25": 0.9965008015566209
+  },
+  {
+   "id": "development:268",
+   "end_of_turn_key_output": 0.20957617705825052,
+   "acknowledgment_key_output": 0.08295564699410332,
+   "constant_key_layer22": 1.0050510560487755,
+   "constant_key_layer25": 0.992833253529738
+  },
+  {
+   "id": "development:269",
+   "end_of_turn_key_output": 0.21506303279244837,
+   "acknowledgment_key_output": 0.07935006658267957,
+   "constant_key_layer22": 1.0184032000841392,
+   "constant_key_layer25": 1.0010123691651915
+  },
+  {
+   "id": "development:270",
+   "end_of_turn_key_output": 0.5104811475496173,
+   "acknowledgment_key_output": 0.6504165444294198,
+   "constant_key_layer22": 0.9967661809671919,
+   "constant_key_layer25": 0.9899657881143928
+  },
+  {
+   "id": "development:271",
+   "end_of_turn_key_output": 0.6524447167175292,
+   "acknowledgment_key_output": 0.5122949791415065,
+   "constant_key_layer22": 1.0047948977548606,
+   "constant_key_layer25": 0.9910074115239178
+  },
+  {
+   "id": "development:272",
+   "end_of_turn_key_output": 0.6447121441311016,
+   "acknowledgment_key_output": 0.46899514809081866,
+   "constant_key_layer22": 1.005818917805641,
+   "constant_key_layer25": 0.9835250117924801
+  },
+  {
+   "id": "development:273",
+   "end_of_turn_key_output": 0.5690473305390034,
+   "acknowledgment_key_output": 0.5059782707246546,
+   "constant_key_layer22": 1.0042032533582161,
+   "constant_key_layer25": 0.9798117545695015
+  },
+  {
+   "id": "development:274",
+   "end_of_turn_key_output": 0.5530367573251215,
+   "acknowledgment_key_output": 0.7239587233689975,
+   "constant_key_layer22": 0.9857793978549914,
+   "constant_key_layer25": 0.9899200739501778
+  },
+  {
+   "id": "development:275",
+   "end_of_turn_key_output": 0.7220878348040853,
+   "acknowledgment_key_output": 0.4085022242680328,
+   "constant_key_layer22": 1.002349615019561,
+   "constant_key_layer25": 0.9753191571982005
+  },
+  {
+   "id": "development:276",
+   "end_of_turn_key_output": 0.6424816912849423,
+   "acknowledgment_key_output": 0.3987772938607663,
+   "constant_key_layer22": 1.0023991900464513,
+   "constant_key_layer25": 0.9939010776019163
+  },
+  {
+   "id": "development:277",
+   "end_of_turn_key_output": 0.5439657686988356,
+   "acknowledgment_key_output": 0.448329195114068,
+   "constant_key_layer22": 1.0009276467106463,
+   "constant_key_layer25": 0.9875135148554335
+  },
+  {
+   "id": "development:278",
+   "end_of_turn_key_output": 0.6739358540011166,
+   "acknowledgment_key_output": 0.5022044396667035,
+   "constant_key_layer22": 1.0105348205864062,
+   "constant_key_layer25": 0.9996687183839681
+  },
+  {
+   "id": "development:279",
+   "end_of_turn_key_output": 0.5939128660997531,
+   "acknowledgment_key_output": 0.4707586045040403,
+   "constant_key_layer22": 1.005334705066877,
+   "constant_key_layer25": 0.9929068890874486
+  },
+  {
+   "id": "development:280",
+   "end_of_turn_key_output": 0.14064309496041683,
+   "acknowledgment_key_output": 0.9505867595009984,
+   "constant_key_layer22": 1.000713433517202,
+   "constant_key_layer25": 1.0119594631151787
+  },
+  {
+   "id": "development:281",
+   "end_of_turn_key_output": 0.2472739481369489,
+   "acknowledgment_key_output": 0.9634838368767727,
+   "constant_key_layer22": 0.9886279804132929,
+   "constant_key_layer25": 1.007557930124743
+  },
+  {
+   "id": "development:282",
+   "end_of_turn_key_output": 0.06838391107287117,
+   "acknowledgment_key_output": 0.9231394623285334,
+   "constant_key_layer22": 1.0134739608083638,
+   "constant_key_layer25": 1.0012354822976226
+  },
+  {
+   "id": "development:283",
+   "end_of_turn_key_output": 0.15875832478782828,
+   "acknowledgment_key_output": 0.8678286037216479,
+   "constant_key_layer22": 1.0143444585557,
+   "constant_key_layer25": 1.0027749807790904
+  },
+  {
+   "id": "development:284",
+   "end_of_turn_key_output": 0.09060280038279712,
+   "acknowledgment_key_output": 0.8285701307073335,
+   "constant_key_layer22": 1.0153613986961512,
+   "constant_key_layer25": 1.0031787898162738
+  },
+  {
+   "id": "development:285",
+   "end_of_turn_key_output": 0.4356848493946419,
+   "acknowledgment_key_output": 0.5075456174944675,
+   "constant_key_layer22": 1.0078275478885788,
+   "constant_key_layer25": 0.9824145629165831
+  },
+  {
+   "id": "development:286",
+   "end_of_turn_key_output": 0.3471065761391097,
+   "acknowledgment_key_output": 0.7632421344743792,
+   "constant_key_layer22": 1.011805848195328,
+   "constant_key_layer25": 0.9859441434656951
+  },
+  {
+   "id": "development:287",
+   "end_of_turn_key_output": 0.1435683122962813,
+   "acknowledgment_key_output": 0.8273986067284084,
+   "constant_key_layer22": 1.0088059338271815,
+   "constant_key_layer25": 1.000802242783023
+  },
+  {
+   "id": "development:288",
+   "end_of_turn_key_output": 0.29229447608403847,
+   "acknowledgment_key_output": 0.8785598939567989,
+   "constant_key_layer22": 0.9941110801736937,
+   "constant_key_layer25": 1.00344562405674
+  },
+  {
+   "id": "development:289",
+   "end_of_turn_key_output": 0.2156138749747647,
+   "acknowledgment_key_output": 0.7901481716339901,
+   "constant_key_layer22": 1.0141581341232941,
+   "constant_key_layer25": 0.9881247419549382
+  },
+  {
+   "id": "development:290",
+   "end_of_turn_key_output": 0.31221774887647974,
+   "acknowledgment_key_output": 0.4780486855297798,
+   "constant_key_layer22": 0.9805468015685552,
+   "constant_key_layer25": 0.9763958086459709
+  },
+  {
+   "id": "development:291",
+   "end_of_turn_key_output": 0.42681065502064464,
+   "acknowledgment_key_output": 0.5077288553466918,
+   "constant_key_layer22": 0.993799304047877,
+   "constant_key_layer25": 0.9806572390131577
+  },
+  {
+   "id": "development:292",
+   "end_of_turn_key_output": 0.1833361709373572,
+   "acknowledgment_key_output": 0.4278791265308098,
+   "constant_key_layer22": 0.9937908053349159,
+   "constant_key_layer25": 0.9773083368299191
+  },
+  {
+   "id": "development:293",
+   "end_of_turn_key_output": 0.2647826279326237,
+   "acknowledgment_key_output": 0.4707614559640511,
+   "constant_key_layer22": 0.9852778338225644,
+   "constant_key_layer25": 0.9760177688590996
+  },
+  {
+   "id": "development:294",
+   "end_of_turn_key_output": 0.19154086249646263,
+   "acknowledgment_key_output": 0.32644920393099264,
+   "constant_key_layer22": 1.0021914266347025,
+   "constant_key_layer25": 0.9774949189628666
+  },
+  {
+   "id": "development:295",
+   "end_of_turn_key_output": 0.3068164784075204,
+   "acknowledgment_key_output": 0.48915375460130567,
+   "constant_key_layer22": 1.0055899108337027,
+   "constant_key_layer25": 0.9770020211960129
+  },
+  {
+   "id": "development:296",
+   "end_of_turn_key_output": 0.27057860627603325,
+   "acknowledgment_key_output": 0.39115420239449267,
+   "constant_key_layer22": 1.007233345552029,
+   "constant_key_layer25": 0.9926598894351539
+  },
+  {
+   "id": "development:297",
+   "end_of_turn_key_output": 0.20627402057990335,
+   "acknowledgment_key_output": 0.39376707655193677,
+   "constant_key_layer22": 1.003144403107618,
+   "constant_key_layer25": 0.9834658792158263
+  },
+  {
+   "id": "development:298",
+   "end_of_turn_key_output": 0.24626985055684003,
+   "acknowledgment_key_output": 0.25781640724163235,
+   "constant_key_layer22": 0.9989872973169363,
+   "constant_key_layer25": 0.9846014164134609
+  },
+  {
+   "id": "development:299",
+   "end_of_turn_key_output": 0.13336472479768927,
+   "acknowledgment_key_output": 0.14258933833859655,
+   "constant_key_layer22": 0.9729395711434762,
+   "constant_key_layer25": 0.9969118780264623
+  },
+  {
+   "id": "development:300",
+   "end_of_turn_key_output": 0.875707495937271,
+   "acknowledgment_key_output": 0.23533030435434418,
+   "constant_key_layer22": 1.0077323111414478,
+   "constant_key_layer25": 0.9585732041612374
+  },
+  {
+   "id": "development:301",
+   "end_of_turn_key_output": 0.6494351965786074,
+   "acknowledgment_key_output": 0.4643226949622239,
+   "constant_key_layer22": 1.0001529266396278,
+   "constant_key_layer25": 0.9863408598248369
+  },
+  {
+   "id": "development:302",
+   "end_of_turn_key_output": 0.5378246007567097,
+   "acknowledgment_key_output": 0.45128889836298003,
+   "constant_key_layer22": 0.988340204503104,
+   "constant_key_layer25": 1.0052006181682729
+  },
+  {
+   "id": "development:303",
+   "end_of_turn_key_output": 0.3514608504835735,
+   "acknowledgment_key_output": 0.28124741973951806,
+   "constant_key_layer22": 0.9890437457036901,
+   "constant_key_layer25": 1.0058014382255154
+  },
+  {
+   "id": "development:304",
+   "end_of_turn_key_output": 0.6896716275495132,
+   "acknowledgment_key_output": 0.25861632376321747,
+   "constant_key_layer22": 1.0059667179143492,
+   "constant_key_layer25": 0.9979961592938871
+  },
+  {
+   "id": "development:305",
+   "end_of_turn_key_output": 0.866238496746582,
+   "acknowledgment_key_output": 0.44577292210601843,
+   "constant_key_layer22": 0.9966921547019902,
+   "constant_key_layer25": 0.9664349723985566
+  },
+  {
+   "id": "development:306",
+   "end_of_turn_key_output": 0.9698430969476431,
+   "acknowledgment_key_output": 0.21862507760809774,
+   "constant_key_layer22": 1.009162420326958,
+   "constant_key_layer25": 0.9565611413640103
+  },
+  {
+   "id": "development:307",
+   "end_of_turn_key_output": 0.7250144329446728,
+   "acknowledgment_key_output": 0.35734553800635294,
+   "constant_key_layer22": 1.0146098264038996,
+   "constant_key_layer25": 0.9704193571120535
+  },
+  {
+   "id": "development:308",
+   "end_of_turn_key_output": 0.47181677459656846,
+   "acknowledgment_key_output": 0.1739362581683956,
+   "constant_key_layer22": 1.0061220347074458,
+   "constant_key_layer25": 0.998208551731139
+  },
+  {
+   "id": "development:309",
+   "end_of_turn_key_output": 0.5130094188797426,
+   "acknowledgment_key_output": 0.3086720465404135,
+   "constant_key_layer22": 1.0062966193363163,
+   "constant_key_layer25": 0.9998346718062309
+  },
+  {
+   "id": "development:310",
+   "end_of_turn_key_output": 0.18252639713641264,
+   "acknowledgment_key_output": 0.9464087911061145,
+   "constant_key_layer22": 1.0026222955796098,
+   "constant_key_layer25": 1.0033033720142779
+  },
+  {
+   "id": "development:311",
+   "end_of_turn_key_output": 0.07794951396589911,
+   "acknowledgment_key_output": 0.9777043320227518,
+   "constant_key_layer22": 1.0069282595492284,
+   "constant_key_layer25": 1.0116094466074632
+  },
+  {
+   "id": "development:312",
+   "end_of_turn_key_output": 0.031164678299563483,
+   "acknowledgment_key_output": 1.061770224303716,
+   "constant_key_layer22": 1.0071575454581687,
+   "constant_key_layer25": 0.9993799463262625
+  },
+  {
+   "id": "development:313",
+   "end_of_turn_key_output": 0.4037042655284383,
+   "acknowledgment_key_output": 0.8052806238668688,
+   "constant_key_layer22": 1.0146609806407465,
+   "constant_key_layer25": 0.9992890327635324
+  },
+  {
+   "id": "development:314",
+   "end_of_turn_key_output": -0.005642535874693699,
+   "acknowledgment_key_output": 0.9757567309621606,
+   "constant_key_layer22": 1.0109653285216074,
+   "constant_key_layer25": 0.9999494238000342
+  },
+  {
+   "id": "development:315",
+   "end_of_turn_key_output": 0.13984787548129665,
+   "acknowledgment_key_output": 0.8261428121758596,
+   "constant_key_layer22": 1.0162468335375423,
+   "constant_key_layer25": 1.0085515093415256
+  },
+  {
+   "id": "development:316",
+   "end_of_turn_key_output": -0.1799132249432713,
+   "acknowledgment_key_output": 0.8783188712163401,
+   "constant_key_layer22": 0.9634627504782247,
+   "constant_key_layer25": 1.0059540682850003
+  },
+  {
+   "id": "development:317",
+   "end_of_turn_key_output": 0.19329005506304006,
+   "acknowledgment_key_output": 0.8220486645271895,
+   "constant_key_layer22": 1.0188294624902856,
+   "constant_key_layer25": 0.9967684901310587
+  },
+  {
+   "id": "development:318",
+   "end_of_turn_key_output": 0.09508955480204075,
+   "acknowledgment_key_output": 0.8170467455161277,
+   "constant_key_layer22": 1.0043797582709149,
+   "constant_key_layer25": 1.0027752874762734
+  },
+  {
+   "id": "development:319",
+   "end_of_turn_key_output": 0.057781361560922,
+   "acknowledgment_key_output": 0.7645759731222569,
+   "constant_key_layer22": 0.9984135536305255,
+   "constant_key_layer25": 0.997707547399579
+  },
+  {
+   "id": "development:320",
+   "end_of_turn_key_output": 0.23041272212808928,
+   "acknowledgment_key_output": 0.1334775870180979,
+   "constant_key_layer22": 0.9979894095994285,
+   "constant_key_layer25": 0.986368350082488
+  },
+  {
+   "id": "development:321",
+   "end_of_turn_key_output": 0.22414952943174282,
+   "acknowledgment_key_output": 0.1570974522197859,
+   "constant_key_layer22": 1.0187805839045936,
+   "constant_key_layer25": 1.0043862014465117
+  },
+  {
+   "id": "development:322",
+   "end_of_turn_key_output": -0.00548098857969106,
+   "acknowledgment_key_output": 0.19840017774242655,
+   "constant_key_layer22": 1.0001024561496887,
+   "constant_key_layer25": 1.0046691987476184
+  },
+  {
+   "id": "development:323",
+   "end_of_turn_key_output": 0.1145086911755611,
+   "acknowledgment_key_output": 0.1875015229670961,
+   "constant_key_layer22": 0.9872122645287196,
+   "constant_key_layer25": 1.0016548730431318
+  },
+  {
+   "id": "development:324",
+   "end_of_turn_key_output": 0.15588357358067817,
+   "acknowledgment_key_output": 0.17316078197871365,
+   "constant_key_layer22": 0.9985452288253092,
+   "constant_key_layer25": 1.0044800443432564
+  },
+  {
+   "id": "development:325",
+   "end_of_turn_key_output": 0.13385632448876447,
+   "acknowledgment_key_output": 0.1355623047387971,
+   "constant_key_layer22": 0.9947114454407457,
+   "constant_key_layer25": 1.0097298643958381
+  },
+  {
+   "id": "development:326",
+   "end_of_turn_key_output": 0.12148690201647287,
+   "acknowledgment_key_output": -0.24266419296745606,
+   "constant_key_layer22": 0.9274331877735092,
+   "constant_key_layer25": 0.9553697639301116
+  },
+  {
+   "id": "development:327",
+   "end_of_turn_key_output": -0.03851823342087681,
+   "acknowledgment_key_output": -0.13901153747474748,
+   "constant_key_layer22": 1.0099258759303633,
+   "constant_key_layer25": 0.9942431511436796
+  },
+  {
+   "id": "development:328",
+   "end_of_turn_key_output": 0.15363805425035715,
+   "acknowledgment_key_output": -0.06270084782218142,
+   "constant_key_layer22": 0.9896157075757491,
+   "constant_key_layer25": 0.9733250511388729
+  },
+  {
+   "id": "development:329",
+   "end_of_turn_key_output": 0.11879668883794567,
+   "acknowledgment_key_output": 0.024953487857156027,
+   "constant_key_layer22": 1.0200146868995132,
+   "constant_key_layer25": 0.9855440008307961
+  },
+  {
+   "id": "development:330",
+   "end_of_turn_key_output": 0.612561929081865,
+   "acknowledgment_key_output": 0.49942118977201927,
+   "constant_key_layer22": 1.0060845447854487,
+   "constant_key_layer25": 0.9923641041548078
+  },
+  {
+   "id": "development:331",
+   "end_of_turn_key_output": 0.8389850342726762,
+   "acknowledgment_key_output": 0.4332942066075951,
+   "constant_key_layer22": 1.0179603210778028,
+   "constant_key_layer25": 0.9538857530642366
+  },
+  {
+   "id": "development:332",
+   "end_of_turn_key_output": 0.7622280742594835,
+   "acknowledgment_key_output": 0.47248380231947695,
+   "constant_key_layer22": 1.0142260599132624,
+   "constant_key_layer25": 0.9824289606265773
+  },
+  {
+   "id": "development:333",
+   "end_of_turn_key_output": 0.6562501874579016,
+   "acknowledgment_key_output": 0.4798199696682538,
+   "constant_key_layer22": 1.0114283936496902,
+   "constant_key_layer25": 0.9856101346434344
+  },
+  {
+   "id": "development:334",
+   "end_of_turn_key_output": 0.5969776163102477,
+   "acknowledgment_key_output": 0.46196208101803227,
+   "constant_key_layer22": 1.0203038129436146,
+   "constant_key_layer25": 0.9945725167154627
+  },
+  {
+   "id": "development:335",
+   "end_of_turn_key_output": 0.7551217139259995,
+   "acknowledgment_key_output": 0.40176333625044447,
+   "constant_key_layer22": 1.0125894531349457,
+   "constant_key_layer25": 0.9744431530719133
+  },
+  {
+   "id": "development:336",
+   "end_of_turn_key_output": 0.3458015920862132,
+   "acknowledgment_key_output": 0.6537546845058435,
+   "constant_key_layer22": 1.0099346475070283,
+   "constant_key_layer25": 1.0069863302856885
+  },
+  {
+   "id": "development:337",
+   "end_of_turn_key_output": 0.6976472226184761,
+   "acknowledgment_key_output": 0.4579528646127631,
+   "constant_key_layer22": 1.022112370821909,
+   "constant_key_layer25": 0.9836749784622123
+  },
+  {
+   "id": "development:338",
+   "end_of_turn_key_output": 0.7049888793041243,
+   "acknowledgment_key_output": 0.4305261574318253,
+   "constant_key_layer22": 1.012417898460781,
+   "constant_key_layer25": 0.9955607085260739
+  },
+  {
+   "id": "development:339",
+   "end_of_turn_key_output": 0.7058612462945877,
+   "acknowledgment_key_output": 0.5414112778383523,
+   "constant_key_layer22": 1.009407917900308,
+   "constant_key_layer25": 0.9741478032829616
+  },
+  {
+   "id": "development:340",
+   "end_of_turn_key_output": 0.22232983028429823,
+   "acknowledgment_key_output": 0.9543764722930512,
+   "constant_key_layer22": 0.9646589023259343,
+   "constant_key_layer25": 1.0099859853841258
+  },
+  {
+   "id": "development:341",
+   "end_of_turn_key_output": 0.22497871329481434,
+   "acknowledgment_key_output": 0.8897166673525747,
+   "constant_key_layer22": 1.0238865302709712,
+   "constant_key_layer25": 1.0005775959247076
+  },
+  {
+   "id": "development:342",
+   "end_of_turn_key_output": 0.23860645814911113,
+   "acknowledgment_key_output": 0.9456506765840424,
+   "constant_key_layer22": 1.0034748901171575,
+   "constant_key_layer25": 1.0096092751640895
+  },
+  {
+   "id": "development:343",
+   "end_of_turn_key_output": 0.3325520311941819,
+   "acknowledgment_key_output": 0.8735096645979507,
+   "constant_key_layer22": 1.0044398164507966,
+   "constant_key_layer25": 1.0010635983592258
+  },
+  {
+   "id": "development:344",
+   "end_of_turn_key_output": 0.07499009013980965,
+   "acknowledgment_key_output": 0.9847500481886942,
+   "constant_key_layer22": 1.0190333771470415,
+   "constant_key_layer25": 1.0055679625973846
+  },
+  {
+   "id": "development:345",
+   "end_of_turn_key_output": 0.12132345779846754,
+   "acknowledgment_key_output": 0.8743923243038483,
+   "constant_key_layer22": 1.0084654851347001,
+   "constant_key_layer25": 1.002352616785525
+  },
+  {
+   "id": "development:346",
+   "end_of_turn_key_output": 0.17165869441775786,
+   "acknowledgment_key_output": 0.7177107932005429,
+   "constant_key_layer22": 1.0142691885318338,
+   "constant_key_layer25": 1.010103192763613
+  },
+  {
+   "id": "development:347",
+   "end_of_turn_key_output": 0.26269515622108824,
+   "acknowledgment_key_output": 0.7356196876196821,
+   "constant_key_layer22": 1.0142796439610853,
+   "constant_key_layer25": 1.0110081847206174
+  },
+  {
+   "id": "development:348",
+   "end_of_turn_key_output": 0.43584986953155075,
+   "acknowledgment_key_output": 0.8073917711319217,
+   "constant_key_layer22": 1.016571124631277,
+   "constant_key_layer25": 1.0022851937274886
+  },
+  {
+   "id": "development:349",
+   "end_of_turn_key_output": 0.20914706948165243,
+   "acknowledgment_key_output": 0.9919473424115286,
+   "constant_key_layer22": 1.013874572770427,
+   "constant_key_layer25": 0.9898953255764458
+  },
+  {
+   "id": "development:350",
+   "end_of_turn_key_output": 0.3654016628535339,
+   "acknowledgment_key_output": 0.38916952726754317,
+   "constant_key_layer22": 1.0044407278216492,
+   "constant_key_layer25": 0.9910535001305043
+  },
+  {
+   "id": "development:351",
+   "end_of_turn_key_output": 0.5204926922663132,
+   "acknowledgment_key_output": 0.4280508000789339,
+   "constant_key_layer22": 1.009087956184131,
+   "constant_key_layer25": 0.9900148259519174
+  },
+  {
+   "id": "development:352",
+   "end_of_turn_key_output": 0.25838944542608316,
+   "acknowledgment_key_output": 0.3747761393652711,
+   "constant_key_layer22": 1.0029904723138583,
+   "constant_key_layer25": 1.001606273647093
+  },
+  {
+   "id": "development:353",
+   "end_of_turn_key_output": 0.3229723385959811,
+   "acknowledgment_key_output": 0.43725260499114044,
+   "constant_key_layer22": 0.9979664023232775,
+   "constant_key_layer25": 1.0032583672711985
+  },
+  {
+   "id": "development:354",
+   "end_of_turn_key_output": 0.33696353060246115,
+   "acknowledgment_key_output": 0.453665885576423,
+   "constant_key_layer22": 1.007302221476351,
+   "constant_key_layer25": 0.9957797277130399
+  },
+  {
+   "id": "development:355",
+   "end_of_turn_key_output": 0.3716450056072999,
+   "acknowledgment_key_output": 0.4229768865978435,
+   "constant_key_layer22": 1.0219874297368683,
+   "constant_key_layer25": 1.0009901188496018
+  },
+  {
+   "id": "development:356",
+   "end_of_turn_key_output": 0.2625915199018933,
+   "acknowledgment_key_output": 0.3427562255604496,
+   "constant_key_layer22": 1.0072020098779841,
+   "constant_key_layer25": 0.9996399954991401
+  },
+  {
+   "id": "development:357",
+   "end_of_turn_key_output": 0.07490074588736306,
+   "acknowledgment_key_output": 0.36460569105369783,
+   "constant_key_layer22": 1.0087147354704147,
+   "constant_key_layer25": 1.002456702478274
+  },
+  {
+   "id": "development:358",
+   "end_of_turn_key_output": 0.30058364202296106,
+   "acknowledgment_key_output": 0.26621499959346173,
+   "constant_key_layer22": 1.0147257159920207,
+   "constant_key_layer25": 0.9994453023637546
+  },
+  {
+   "id": "development:359",
+   "end_of_turn_key_output": 0.17470937194246594,
+   "acknowledgment_key_output": 0.1847596525513205,
+   "constant_key_layer22": 1.0198226226957214,
+   "constant_key_layer25": 1.0153892712786847
+  }
+ ]
+}

@@ -286,5 +286,569 @@
    22,
    7.579904634236201e-20
   ]
+ },
+ "case9": {
+  "development_original_keys": {
+   "first_turn": {
+    "correct": 282,
+    "of": 300,
+    "no_reply_correct": [
+     25,
+     30
+    ],
+    "end_of_turn_key_output_median": 0.962,
+    "failed_no_reply": 5,
+    "failed_with_key_output_below_0.8": 3,
+    "vector_added_directly_empty": [
+     30,
+     30
+    ]
+   },
+   "second_turn": {
+    "correct": 87,
+    "of": 120,
+    "no_reply_correct": [
+     11,
+     40
+    ],
+    "end_of_turn_key_output_median": 0.669,
+    "failed_no_reply": 29,
+    "failed_with_key_output_below_0.8": 23,
+    "vector_added_directly_empty": [
+     23,
+     40
+    ]
+   },
+   "third_turn_or_later": {
+    "correct": 83,
+    "of": 120,
+    "no_reply_correct": [
+     8,
+     40
+    ],
+    "end_of_turn_key_output_median": 0.659,
+    "failed_no_reply": 32,
+    "failed_with_key_output_below_0.8": 29,
+    "vector_added_directly_empty": [
+     26,
+     40
+    ]
+   },
+   "system_prompt_seen_role": {
+    "correct": 45,
+    "of": 60,
+    "no_reply_correct": [
+     6,
+     20
+    ],
+    "end_of_turn_key_output_median": 0.618,
+    "failed_no_reply": 14,
+    "failed_with_key_output_below_0.8": 14,
+    "vector_added_directly_empty": [
+     20,
+     20
+    ]
+   },
+   "system_prompt_unseen_role": {
+    "correct": 47,
+    "of": 60,
+    "no_reply_correct": [
+     7,
+     20
+    ],
+    "end_of_turn_key_output_median": 0.694,
+    "failed_no_reply": 13,
+    "failed_with_key_output_below_0.8": 13,
+    "vector_added_directly_empty": [
+     19,
+     20
+    ]
+   }
+  },
+  "eval": {
+   "first_turn": {
+    "original_keys": [
+     110,
+     120
+    ],
+    "rebuilt_keys": [
+     108,
+     120
+    ],
+    "system_prompt": [
+     113,
+     120
+    ],
+    "no_edit": [
+     40,
+     120
+    ],
+    "probe_all_shapes": [
+     117,
+     120
+    ],
+    "probe_first_turn_only": [
+     117,
+     120
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     0,
+     2,
+     0.5
+    ],
+    "system_prompt_vs_original_keys": [
+     6,
+     3,
+     0.5078125
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     3,
+     8,
+     0.2265625
+    ],
+    "no_reply_correct": {
+     "original_keys": 31,
+     "rebuilt_keys": 29,
+     "system_prompt": 34
+    }
+   },
+   "later_turns": {
+    "original_keys": [
+     170,
+     240
+    ],
+    "rebuilt_keys": [
+     198,
+     240
+    ],
+    "system_prompt": [
+     211,
+     240
+    ],
+    "no_edit": [
+     80,
+     240
+    ],
+    "probe_all_shapes": [
+     236,
+     240
+    ],
+    "probe_first_turn_only": [
+     222,
+     240
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     29,
+     1,
+     5.774199962615967e-08
+    ],
+    "system_prompt_vs_original_keys": [
+     52,
+     11,
+     1.6734991187261627e-07
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     20,
+     33,
+     0.09837064844049181
+    ],
+    "no_reply_correct": {
+     "original_keys": 21,
+     "rebuilt_keys": 46,
+     "system_prompt": 62
+    }
+   },
+   "second_turn": {
+    "original_keys": [
+     88,
+     120
+    ],
+    "rebuilt_keys": [
+     102,
+     120
+    ],
+    "system_prompt": [
+     107,
+     120
+    ],
+    "no_edit": [
+     40,
+     120
+    ],
+    "probe_all_shapes": [
+     117,
+     120
+    ],
+    "probe_first_turn_only": [
+     111,
+     120
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     14,
+     0,
+     0.0001220703125
+    ],
+    "system_prompt_vs_original_keys": [
+     26,
+     7,
+     0.0013187271542847157
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     11,
+     16,
+     0.44206833839416504
+    ],
+    "no_reply_correct": {
+     "original_keys": 14,
+     "rebuilt_keys": 26,
+     "system_prompt": 34
+    }
+   },
+   "third_turn_or_later": {
+    "original_keys": [
+     82,
+     120
+    ],
+    "rebuilt_keys": [
+     96,
+     120
+    ],
+    "system_prompt": [
+     104,
+     120
+    ],
+    "no_edit": [
+     40,
+     120
+    ],
+    "probe_all_shapes": [
+     119,
+     120
+    ],
+    "probe_first_turn_only": [
+     111,
+     120
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     15,
+     1,
+     0.000518798828125
+    ],
+    "system_prompt_vs_original_keys": [
+     26,
+     4,
+     5.947612226009369e-05
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     9,
+     17,
+     0.16863754391670227
+    ],
+    "no_reply_correct": {
+     "original_keys": 7,
+     "rebuilt_keys": 20,
+     "system_prompt": 28
+    }
+   },
+   "system_prompt_seen_role": {
+    "original_keys": [
+     89,
+     120
+    ],
+    "rebuilt_keys": [
+     112,
+     120
+    ],
+    "system_prompt": [
+     114,
+     120
+    ],
+    "no_edit": [
+     40,
+     120
+    ],
+    "probe_all_shapes": [
+     118,
+     120
+    ],
+    "probe_first_turn_only": [
+     91,
+     120
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     26,
+     3,
+     1.5236437320709229e-05
+    ],
+    "system_prompt_vs_original_keys": [
+     28,
+     3,
+     4.649162292480469e-06
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     3,
+     5,
+     0.7265625
+    ],
+    "no_reply_correct": {
+     "original_keys": 14,
+     "rebuilt_keys": 38,
+     "system_prompt": 38
+    }
+   },
+   "system_prompt_unseen_role": {
+    "original_keys": [
+     91,
+     120
+    ],
+    "rebuilt_keys": [
+     107,
+     120
+    ],
+    "system_prompt": [
+     113,
+     120
+    ],
+    "no_edit": [
+     40,
+     120
+    ],
+    "probe_all_shapes": [
+     114,
+     120
+    ],
+    "probe_first_turn_only": [
+     69,
+     120
+    ],
+    "rebuilt_keys_vs_original_keys": [
+     17,
+     1,
+     0.00014495849609375
+    ],
+    "system_prompt_vs_original_keys": [
+     24,
+     2,
+     1.049041748046875e-05
+    ],
+    "rebuilt_keys_vs_system_prompt": [
+     3,
+     9,
+     0.14599609375
+    ],
+    "no_reply_correct": {
+     "original_keys": 18,
+     "rebuilt_keys": 31,
+     "system_prompt": 34
+    }
+   },
+   "wrongly_empty_of_400": {
+    "original_keys": 0,
+    "rebuilt_keys": 5,
+    "system_prompt": 0
+   },
+   "degraded_acknowledgments_later_turns": {
+    "original_keys": 29,
+    "rebuilt_keys": 29
+   }
+  }
+ },
+ "case10": {
+  "cause": {
+   "common": 256,
+   "degraded": {
+    "marker_only": 51,
+    "vector_at_position0": 63,
+    "fish": 68
+   },
+   "vector_at_position0_vs_marker_only": [
+    19,
+    7,
+    0.028959274291992188
+   ],
+   "fish_vs_vector_at_position0": [
+    14,
+    9,
+    0.4048728942871094
+   ]
+  },
+  "eval": {
+   "no_edit": {
+    "correct": 200,
+    "degraded_acknowledgments": 1,
+    "acknowledgment_length_median": null,
+    "acknowledgments_of_one_sentence": 0,
+    "S1_shorter_than_half": 0,
+    "S2_same_first_30": 200,
+    "S3_facts": 38,
+    "wrongly_empty": 0
+   },
+   "part2_form": {
+    "correct": 379,
+    "degraded_acknowledgments": 47,
+    "acknowledgment_length_median": 96.0,
+    "acknowledgments_of_one_sentence": 1,
+    "S1_shorter_than_half": 3,
+    "S2_same_first_30": 169,
+    "S3_facts": 38,
+    "wrongly_empty": 0
+   },
+   "fish": {
+    "correct": 376,
+    "degraded_acknowledgments": 45,
+    "acknowledgment_length_median": 103.0,
+    "acknowledgments_of_one_sentence": 1,
+    "S1_shorter_than_half": 1,
+    "S2_same_first_30": 167,
+    "S3_facts": 38,
+    "wrongly_empty": 3
+   },
+   "system_prompt": {
+    "correct": 382,
+    "degraded_acknowledgments": 0,
+    "acknowledgment_length_median": 12,
+    "acknowledgments_of_one_sentence": 20,
+    "S1_shorter_than_half": 197,
+    "S2_same_first_30": 0,
+    "S3_facts": 31,
+    "wrongly_empty": 0
+   },
+   "lower_marker": {
+    "correct": 376,
+    "degraded_acknowledgments": 58,
+    "acknowledgment_length_median": 91.0,
+    "acknowledgments_of_one_sentence": 6,
+    "S1_shorter_than_half": 5,
+    "S2_same_first_30": 146,
+    "S3_facts": 38,
+    "wrongly_empty": 3
+   },
+   "end_after_sentence": {
+    "correct": 376,
+    "degraded_acknowledgments": 18,
+    "acknowledgment_length_median": 8.0,
+    "acknowledgments_of_one_sentence": 135,
+    "S1_shorter_than_half": 6,
+    "S2_same_first_30": 155,
+    "S3_facts": 38,
+    "wrongly_empty": 3
+   },
+   "end_after_sentence_stage2": {
+    "correct": 377,
+    "degraded_acknowledgments": 18,
+    "acknowledgment_length_median": 8.0,
+    "acknowledgments_of_one_sentence": 137,
+    "S1_shorter_than_half": 3,
+    "S2_same_first_30": 158,
+    "S3_facts": 39,
+    "wrongly_empty": 3
+   },
+   "end_after_sentence_vs_fish": {
+    "accuracy": [
+     0,
+     0,
+     1.0
+    ],
+    "degraded": [
+     0,
+     27,
+     1.4901161193847656e-08
+    ],
+    "facts": [
+     0,
+     0,
+     1.0
+    ]
+   },
+   "end_after_sentence_vs_part2_form": {
+    "accuracy": [
+     0,
+     3,
+     0.25
+    ],
+    "degraded": [
+     0,
+     29,
+     3.725290298461914e-09
+    ],
+    "facts": [
+     0,
+     0,
+     1.0
+    ]
+   },
+   "system_prompt_vs_fish": {
+    "accuracy": [
+     17,
+     11,
+     0.34492845088243484
+    ],
+    "degraded": [
+     0,
+     45,
+     5.684341886080802e-14
+    ],
+    "facts": [
+     0,
+     7,
+     0.015625
+    ]
+   },
+   "lower_marker_vs_fish": {
+    "accuracy": [
+     0,
+     0,
+     1.0
+    ],
+    "degraded": [
+     36,
+     23,
+     0.11747735024505848
+    ],
+    "facts": [
+     0,
+     0,
+     1.0
+    ]
+   }
+  },
+  "evaluators": {
+   "by_condition": {
+    "end_after_sentence": {
+     "G": 82,
+     "E": 56,
+     "M": 9,
+     "B": 13
+    },
+    "system_prompt": {
+     "G": 139,
+     "E": 15,
+     "M": 0,
+     "B": 6
+    },
+    "lower_marker": {
+     "G": 46,
+     "E": 29,
+     "M": 28,
+     "B": 57
+    },
+    "fish": {
+     "G": 82,
+     "E": 35,
+     "M": 22,
+     "B": 21
+    }
+   },
+   "agreement": [
+    38,
+    40
+   ]
+  },
+  "english": {
+   "no_edit": 0,
+   "fish": 0,
+   "end_after_sentence": 1,
+   "end_after_sentence_stage2": 0
+  }
  }
 }

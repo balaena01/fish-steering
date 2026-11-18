@@ -11,6 +11,12 @@ What is recounted:
   case5/  sorting remarks: accuracy in the first comparison and on the new remarks (empty replies count as wrong, and as before),
           paired tests, replies that start like the unedited model's, breakage after a marker; silence with the end-of-reply token
   case6/  answering only when called by name
+  case9/  (added 2026-11-18) routing in second turns, third turns or later and under role system prompts: where the original keys break
+          (development set: accuracy, key outputs, the vector added directly), and the evaluation of the rebuilt keys against the original keys,
+          the system prompt and a linear probe (accuracy per conversation shape, paired tests, wrongly empty replies)
+  case10/ (added 2026-11-18) the output after the acknowledgment marker: the three conditions that separate the causes, the evaluation of the
+          switch that ends an acknowledgment after one sentence (degraded replies, accuracy, length, the three side effects), the blind
+          evaluators' sorting, and the 40 English inputs
 """
 import json
 import re
@@ -114,6 +120,126 @@ c6["fish_vs_instruction"] = mcnemar(c6["fish_called_by_name"]["_ok"], c6["instru
 for c in ("no_edit", "instruction_chosen", "fish_called_by_name"):
     del c6[c]["_ok"]
 OUT["case6"] = c6
+
+# ---- case9 and case10 (added 2026-11-18) ---------------------------------------------------------------------------
+ACK_K = ["thanks", "praise", "report", "greet"]
+REPLY_K = ["fact", "howto", "consult", "invite", "request"]
+
+
+def route3(text, empty_is_wrong=False):
+    """Empty = no reply (or wrong, for the form with "■"), ◇ = acknowledgment, ■ = no reply, anything else = answer."""
+    t = (text or "").strip()
+    if not t:
+        return "empty" if empty_is_wrong else "none"
+    return "ack" if t.startswith("◇") else ("none" if t.startswith("■") else "reply")
+
+
+def strip_mk(text):
+    t = (text or "").strip()
+    while t[:1] in ("◇", "■"):
+        t = t[1:].lstrip()
+    return t
+
+
+def n_sentences(text):
+    return len([x for x in re.split(r"[。！？!?…]+|\n+", strip_mk(text)) if x.strip()])
+
+
+degraded = lambda x: bool(((x["text"] or "").strip() and "◇" in (x["text"] or "").strip()[1:]) or x["loop"])
+
+
+def median(v):
+    v = sorted(v); n = len(v)
+    return None if n == 0 else (v[n // 2] if n % 2 else (v[n // 2 - 1] + v[n // 2]) / 2)
+
+
+def mc_counts(x, y):
+    n = x + y
+    return [x, y, 1.0 if n == 0 else min(1.0, 2 * sum(comb(n, k) for k in range(min(x, y) + 1)) / 2 ** n)]
+
+
+c9 = {}
+dev = jl("case9/replies/development/original_keys.json")["rows"]
+kout = {x["id"]: x for x in jl("case9/replies/development/original_keys.key_outputs.json")["rows"]}
+forced = {(x["id"], x["vector"]): x for x in jl("case9/replies/development/vector_added_directly.json")["rows"]}
+d9 = {}
+for sh in ("first_turn", "second_turn", "third_turn_or_later", "system_prompt_seen_role", "system_prompt_unseen_role"):
+    rows = [x for x in dev if x["shape"] == sh]
+    ok = [route3(x["text"]) == ROUTE[x["kind"]] for x in rows]
+    rho = sorted(kout[x["id"]]["end_of_turn_key_output"] for x in rows if x["kind"] == "partial")
+    fail = [kout[x["id"]]["end_of_turn_key_output"] for x, o in zip(rows, ok) if x["kind"] == "partial" and not o]
+    fe = [forced[(x["id"], "end_of_turn")] for x in rows if x["kind"] == "partial"]
+    d9[sh] = {"correct": sum(ok), "of": len(rows), "no_reply_correct": [sum(o for x, o in zip(rows, ok) if x["kind"] == "partial"), sum(1 for x in rows if x["kind"] == "partial")],
+              "end_of_turn_key_output_median": round(median(rho), 3), "failed_no_reply": len(fail), "failed_with_key_output_below_0.8": sum(r < 0.8 for r in fail),
+              "vector_added_directly_empty": [sum(1 for z in fe if not (z["text"] or "").strip()), len(fe)]}
+c9["development_original_keys"] = d9
+E9 = {c: jl(f"case9/replies/eval/{c}.json")["rows"] for c in ("original_keys", "rebuilt_keys", "system_prompt", "no_edit")}
+ids9 = [x["id"] for x in E9["original_keys"]]
+assert all([x["id"] for x in v] == ids9 for v in E9.values())
+OK9 = {c: [int(route3(x["text"]) == ROUTE[x["kind"]]) for x in rows] for c, rows in E9.items()}
+PB9 = jl("case9/probe/eval.json")
+for nm in ("all_shapes", "first_turn_only"):
+    OK9[f"probe_{nm}"] = [PB9[nm]["ok"][i] for i in ids9]
+shape9 = [x["shape"] for x in E9["original_keys"]]
+G9 = {"first_turn": ["first_turn"], "later_turns": ["second_turn", "third_turn_or_later"], "second_turn": ["second_turn"], "third_turn_or_later": ["third_turn_or_later"],
+      "system_prompt_seen_role": ["system_prompt_seen_role"], "system_prompt_unseen_role": ["system_prompt_unseen_role"]}
+ev9 = {}
+for g, shs in G9.items():
+    idx = [i for i, sh in enumerate(shape9) if sh in shs]
+    ev9[g] = {c: [sum(OK9[c][i] for i in idx), len(idx)] for c in OK9}
+    for a_, b_ in (("rebuilt_keys", "original_keys"), ("system_prompt", "original_keys"), ("rebuilt_keys", "system_prompt")):
+        ev9[g][f"{a_}_vs_{b_}"] = mcnemar([OK9[a_][i] for i in idx], [OK9[b_][i] for i in idx])
+    ev9[g]["no_reply_correct"] = {c: sum(OK9[c][i] for i in idx if E9[c][i]["kind"] == "partial") for c in ("original_keys", "rebuilt_keys", "system_prompt")}
+ev9["wrongly_empty_of_400"] = {c: sum(1 for x in E9[c] if x["kind"] != "partial" and not (x["text"] or "").strip()) for c in ("original_keys", "rebuilt_keys", "system_prompt")}
+ev9["degraded_acknowledgments_later_turns"] = {c: sum(int(degraded(x)) for x, sh in zip(E9[c], shape9) if sh in G9["later_turns"] and x["kind"] in ACK_K) for c in ("original_keys", "rebuilt_keys")}
+c9["eval"] = ev9
+OUT["case9"] = c9
+
+c10 = {}
+CA = {c: {x["id"]: x for x in jl(f"case10/replies/cause/{c}.json")["rows"]} for c in ("marker_only", "vector_at_position0", "fish", "no_edit")}
+k280 = list(CA["marker_only"])
+started_ = lambda x: (x["text"] or "").strip().startswith("◇")
+common = [k for k in k280 if all(started_(CA[c][k]) for c in ("marker_only", "vector_at_position0", "fish"))]
+cause = {"common": len(common), "degraded": {c: sum(int(degraded(CA[c][k])) for k in common) for c in ("marker_only", "vector_at_position0", "fish")}}
+for a_, b_ in (("vector_at_position0", "marker_only"), ("fish", "vector_at_position0")):
+    cause[f"{a_}_vs_{b_}"] = mcnemar([degraded(CA[a_][k]) for k in common], [degraded(CA[b_][k]) for k in common])
+c10["cause"] = cause
+EV10 = jl("case10/sets/eval.json")["groups"]
+ans10 = {f"eval:{k}:{i}": x.get("answer") for k, v in EV10.items() for i, x in enumerate(v)}
+R10 = {c: jl(f"case10/replies/eval/{c}.json")["rows"] for c in ("no_edit", "part2_form", "fish", "system_prompt", "lower_marker", "end_after_sentence", "end_after_sentence_stage2")}
+base10 = R10["no_edit"]
+ack_i = [i for i, x in enumerate(base10) if x["kind"] in ACK_K]; rep_i = [i for i, x in enumerate(base10) if x["kind"] in REPLY_K]
+fact_i = [i for i, x in enumerate(base10) if x["kind"] == "fact" and ans10.get(x["id"])]
+ev10, OK10, DG10, FC10 = {}, {}, {}, {}
+for c, rows in R10.items():
+    OK10[c] = [int(route3(x["text"], empty_is_wrong=(c == "part2_form")) == ROUTE[x["kind"]]) for x in rows]
+    DG10[c] = [int(degraded(x)) for x in rows]
+    FC10[c] = [int(bool(re.search(ans10[rows[i]["id"]], rows[i]["text"] or ""))) for i in fact_i]
+    lens = [rows[i]["n_tokens"] for i in ack_i if route3(rows[i]["text"]) == "ack" and rows[i]["finish"] == "eog"]
+    ev10[c] = {"correct": sum(OK10[c]), "degraded_acknowledgments": sum(DG10[c][i] for i in ack_i), "acknowledgment_length_median": median(lens),
+               "acknowledgments_of_one_sentence": sum(1 for i in ack_i if strip_mk(rows[i]["text"]) and n_sentences(rows[i]["text"]) <= 1),
+               "S1_shorter_than_half": sum(1 for i in rep_i if rows[i]["finish"] == "eog" and strip_mk(rows[i]["text"]) and rows[i]["n_tokens"] < 0.5 * (base10[i]["n_tokens"] if base10[i]["finish"] == "eog" else 2048)),
+               "S2_same_first_30": sum(1 for i in rep_i if (rows[i]["text"] or "").strip()[:30] == (base10[i]["text"] or "").strip()[:30]),
+               "S3_facts": sum(FC10[c]), "wrongly_empty": sum(1 for x in rows if x["kind"] != "partial" and not (x["text"] or "").strip())}
+for a_, b_ in (("end_after_sentence", "fish"), ("end_after_sentence", "part2_form"), ("system_prompt", "fish"), ("lower_marker", "fish")):
+    ev10[f"{a_}_vs_{b_}"] = {"accuracy": mcnemar(OK10[a_], OK10[b_]), "degraded": mcnemar([DG10[a_][i] for i in ack_i], [DG10[b_][i] for i in ack_i]), "facts": mcnemar(FC10[a_], FC10[b_])}
+c10["eval"] = ev10
+key10 = jl("case10/labels/key.json")["items"]; ov10 = set(jl("case10/labels/overlap.json")["items"])
+lab10, agree10 = {}, []
+for n in (1, 2):
+    for i, v in jl(f"case10/labels/answers_{n}.json").items():
+        v = str(v).strip()[:1].upper()
+        if i in lab10 and i in ov10:
+            agree10.append(lab10[i] == v)
+        elif i not in lab10:
+            lab10[i] = v
+by10 = {}
+for i, v in lab10.items():
+    by10.setdefault(key10[i]["condition"], {"G": 0, "E": 0, "M": 0, "B": 0})[v] += 1
+c10["evaluators"] = {"by_condition": by10, "agreement": [sum(agree10), len(agree10)]}
+EN10 = {c: jl(f"case10/replies/english/{c}.json")["rows"] for c in ("no_edit", "fish", "end_after_sentence", "end_after_sentence_stage2")}
+c10["english"] = {c: sum(1 for x, b in zip(rows, EN10["no_edit"]) if x["kind"] != "ack" and x["finish"] == "eog" and x["n_tokens"] < 0.5 * (b["n_tokens"] if b["finish"] == "eog" else 2048)) for c, rows in EN10.items()}
+OUT["case10"] = c10
 
 (HERE / "recount.json").write_text(json.dumps(OUT, ensure_ascii=False, indent=1), encoding="utf-8")
 print(json.dumps(OUT, ensure_ascii=False, indent=1))

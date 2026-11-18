@@ -1,0 +1,5948 @@
+{
+ "condition": "original_keys",
+ "max_tokens": 48,
+ "decoding": "greedy",
+ "note": "first_turn:<kind>:<i> is item i of the kind in case5/sets/search.json; development:<n> is in case9/sets/development.json",
+ "rows": [
+  {
+   "id": "first_turn:fact:0",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "日本でいちばん米の収穫量が多い都道府県は**北海道**です。\n\n北海道は国土の面積が広く、特に釧路地方や根室地方などでは、日本の約 4 分の 1 を占",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:1",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "レシピが 2 人分で 1 合の米を使う場合、1 人当たりの米の量は「1 合 ÷ 2 人 ＝ 0.5 合」になります。\n\nこれを ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:2",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "レモン 1 個に含まれるビタミン C の量は、**品種や大きさ、熟成度、収穫時期**によって大きく変動しますが、一般的に以下の範囲になります。\n\n*   **平均的な値**: 約 **3",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:3",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "「社は（しゃは）」という語は、日本語の標準的な単語や一般的な用語として存在しません。おそらく、以下のいずれかの誤記や聞き間違いである可能性が高いです。\n\n1.  **「社は」の誤",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:4",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "日本の労働基準法では、原則として**1 日 8 時間、1 週 40 時間**が法定労働時間と定められています。\n\n具体的には以下のルールが適用されます：\n*   **1",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:5",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "時給 1200 円で 6 時間働いた場合の金額は、以下の計算で求められます。\n\n$$1200 \\text{ 円} \\times 6 \\text{ 時間}",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:6",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "夏至は通常、**6 月 21 日**または**6 月 22 日**に起こります。\n\n太陽が北半球の最も高い位置に達し、北半球で最も長い日",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:7",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "冬至は一般的に**12 月**に起こります。\n\n具体的には、太陽が南半球に最も近づく日（太陽黄経が 270°のとき）で、日本では**12 ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:8",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "梅雨前線は、**「冷たい空気（大陸性気団）」**と**「暖かい空気（海洋性気団）」**の境目です。\n\n具体的には、北から南下してくる**冷たい",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:9",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "「琴」という言葉には、いくつか異なる楽器や概念が含まれているため、どの「琴」を指しているかによって答えが変わります。主なものを整理してご紹介します。\n\n1.  **中国の伝統楽器「琴（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:10",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "ピアノの鍵盤の数は、その種類やサイズによって異なりますが、一般的な基準は以下の通りです。\n\n*   **88 鍵（標準）**：\n    現在、コンサートピアニストやプロの演奏家、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:11",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "ギターの弦の本数は、楽器の種類や用途によって異なりますが、最も一般的なのは**6 本**です。\n\nこの 6 本は、低音から高音までをカバーするために、太さ（弦径）と張",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:12",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "ベートーヴェンが作曲・完成させた交響曲は、**9 曲**です。\n\n彼は交響曲の歴史において、形式を確立し、規模を拡大し、表現力を極限まで引き出した",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:13",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "BMI（肥満度指数）は、体重（kg）を身長（m）の二乗で割ることで計算されます。\n\nまず、身長 170 センチをメートルに換算すると 1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:14",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "肝臓（きんぞう）は、人間の体内で最も重要な臓器の一つで、**右上腹部**（肋骨のすぐ下）に位置しています。\n\n具体的には、以下の場所にあります。\n\n*   **位置**:",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:15",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "日本の厚生労働省が定めた「日本人の食事摂取基準（2020 年版）」によると、成人男性の 1 日の塩分摂取目標量は**5.0 g 未満**です。\n\n具体的には",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:16",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "日本の 1000 円札（紙幣）には、**「渋沢栄一」**という人物が描かれています。\n\n渋沢栄一（1840 年〜1931 年",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:17",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "800 円の 3 割引を計算すると、以下のようになります。\n\nまず、割引率 30% を金額に換算します。\n$$800 \\times 0.30 = 24",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:18",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "時速 80 キロで 240 キロ走るときの所要時間は、**距離を速度で割る**ことで計算できます。\n\n$$240 \\div 80 = 3$$\n\nしたが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:19",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "屋久島は**鹿児島県**に属しています。\n\n具体的には、鹿児島県の南西に位置する**屋久島町**（旧・屋久島村）が管轄しており、鹿児島県内でも最も南",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:20",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "東海道新幹線の終点は、**東京駅**と**新大阪駅**の 2 箇所です。\n\nこの路線は、東京と大阪を結ぶ主要な幹線として、現在もこの 2 ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:21",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "はい、その認識は**正しい**です。\n\n日本の山岳の順位は以下の通りです。\n\n1.  **富士山**（標高 3,776m）\n2.  **北岳**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:22",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "水が沸騰する温度は、**大気圧（周囲の圧力）によって変化します**。\n\n最も一般的な海抜 0 メートル（海抜 0m）の標準大気圧（1 気圧",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:23",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "はい、**酢は酸性**です。\n\n酢の主成分である「酢酸（酢酸エチルではなく、酢酸水溶液）」は、化学的に**弱酸**に分類されます。\n具体的には、酢酸",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:24",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "電気の使用量（ワット時）を計算する際は、**「消費電力（ワット）」×「使用時間（時間）」**という式を使います。\n\nご質問の条件では、消費電力が **40 ワ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:25",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "鎌倉幕府を開いたのは、**源頼朝**（みなもと の よりとも）です。\n\n彼は大覚寺の僧侶である**法眼宗の僧**（法眼宗の僧）の**源",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:26",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "英語のアルファベットは、大文字（26 文字）と小文字（26 文字）を合わせると、**52 文字**になります。\n\nそれぞれが 1 対 1 で対応している",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:27",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "@ は、主に 2 つの読み方があります。\n\n1.  **アット**（at）\n    *   英語の「at」の音に似ている読み方です。\n    *   例",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:28",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "1 枚の写真を 4 メガ（MB）とすると、250 枚撮った合計の容量は以下の計算で求められます。\n\n$$4 \\text{ MB} \\times 250 = ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:fact:29",
+   "shape": "first_turn",
+   "kind": "fact",
+   "text": "いいえ、**Bluetooth と Wi-Fi は同じ周波数帯ではありません**。\n\nどちらも「2.4GHz 帯（2.4GHz 付近）」という広い範囲を使っていますが、**特定の「中心周波数（チャンネル",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:0",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "パラパラなチャーハンを家で作るコツは、**「油の温度管理」**と**「食材の水分コントロール」**の 2 点に集約されます。特に火加減（油の温度）が重要",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:1",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "天ぷらを「サクサク」に揚げるには、**「油の温度管理」**と**「衣の水分・油の排除」**が最も重要です。\n\n失敗しないための具体的なコツを 5 つのポイントにまとめました",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:2",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "魚を三枚におろす際、最初に入れるのは**「背骨（脊柱）」**です。\n\n具体的には、魚の**背骨の真ん中（尾根骨）**から包丁を刺して、骨",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:3",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "ご質問ありがとうございます！「どう報告しますか」というのは、**どのような状況や目的**で報告が必要なのかによって答えが変わります。\n\nいくつかのシチュエーションに分けて、具体的な報告の例やポイントをまとめました。状況",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:4",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "会議を時間どおりに終わらせるコツは、**「準備段階での明確なルール設定」**と**「進行中の厳守」**の 2 点に集約されます。\n\n以下に、具体的なアクションプランを ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:5",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "有給休暇（有給）の申請方法は、**ご勤務している会社の規定**によって大きく異なります。基本的には「上司への申請」が基本ですが、その手順やタイミングは会社によって変わります。\n\n一般的な流れと、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:6",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "プレゼンで緊張するのは、実は**「誰しもが経験する非常に普遍的な感情」**です。特に初めてや重要な場面で、心臓が跳ねたり汗が出たりするのは、体が「危機感」を感じて闘争",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:7",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "梅雨の時期は湿度が高く、洗濯物が乾きにくいですが、いくつかの工夫をすることで効率的に乾かすことができます。\n\n主な対策は以下の通りです。\n\n### 1. 風通しを良くする",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:8",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "花粉症対策は、**「花粉を体外から防ぐ（物理的）」**と**「体内から反応を抑える（薬的・生活習慣）」**の 2 つの柱が重要です。\n\n効果的な対策を段階",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:9",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "天気図の読み方において、**「どこから見るか（どの順番で見るか）」**は非常に重要です。いきなり細かい線や記号に目が行きがちですが、まずは**「大まかな流れ（全体",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:10",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "おっしゃる通り、**「どう弾くのですか？」**という質問には、文脈によって全く異なる答えがあります。\n\nもしあなたが**「ピアノやギターなどの楽器を弾く方法」**を知りたいのであれば、それは「楽器",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:11",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "はい、弦の張り替え方についてご存じです。\n\n弦の張り替えは、楽器の音質を回復させたり、破損した弦を交換したりする重要なメンテナンス作業です。ただし、**どの楽器（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:12",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "積読（つみどく）は、読みたい本があるのに読めない、あるいは読んだ本が山積みになっていくという悩みですね。これは「読みたい本」の量と「読める時間」のバランスが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:13",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "脈（あゆみ）を測る方法は、主に**「触診（ふくしん）」**と呼ばれる手指で脈動を感じる方法です。医学的には「触診法」と呼ばれ、心臓の鼓動",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:14",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "腕立て伏せは、胸筋、三頭筋、肩筋だけでなく、腹筋や背筋にも効果的な素晴らしい運動です。しかし、フォームが正しくない場合、怪我のリスクが高まったり、効果が薄くな",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:15",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "ランニングを長く続けるためには、単に「走る」だけでなく、**「心と体を整え、継続する仕組みを作る」**ことが最も重要です。\n\n多くの人が挫折する理由は「目標設定の難しさ」「怪我のリスク",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:16",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "寝る前のストレッチは、筋肉をほぐして血流を良くし、リラックス効果で入眠を助けるのに非常に効果的です。\n\n無理をせず、**「寝る前 5 分」**でできる簡単なセット",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:17",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "領収書の月ごとの整理は、年末調整や確定申告、経費精算の準備において非常に重要です。手作業だけでなく、デジタル化やツールの活用によって効率化できる方法がいくつかあります。\n\n主な整理方法を",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:18",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "毎月の食費をコントロールしたいという意識、素晴らしいですね！「まとめ買い」は確かに最も効果的な方法の一つですが、それだけでは不十分で、いくつかの戦略を組み合わせることでさらに効果的です。\n\n具体的な方法をいくつか提案",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:19",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "宿（宿泊）の取り方ですが、**「どの目的で、いつ、どこへ行くか」**によって方法が異なります。\n\n主なシチュエーションに合わせて、最適な方法を選んでみてください。\n\n### 1. 海外旅行",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:20",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "海外で道に迷わないようにするためには、**「事前の準備」**と**「現地の状況把握」**の両方が重要です。言語の壁や地図の読み方が異なる場合でも、以下のステップを踏むことで安心",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:21",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "安い航空券を見つけるには、いくつかの「コツ」や「ツール」を組み合わせるのが最も効果的です。単に検索するだけでなく、タイミングや検索方法を変えるだけで数万円も節約できることがあります。\n\n具体的な探し方のステップをまとめ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:22",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "クローゼットをすっきり片づけるには、単に物を並べるだけでなく、**「整理するプロセス」自体を体系的に行う**ことが重要です。\n\n以下のステップを順番に実行すると、無理なくスッキリしたク",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:23",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "漢字を覚えるのは確かに難しそうですが、実は**「意味（音）」と「形（部首・構成要素）」を組み合わせる**ことで、非常に効率的に覚えることができます。\n\n無理に暗記するのではなく",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:24",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "数学の証明問題は、単に「答え」を出すだけでなく、「なぜその答えが正しいのか」を論理的に繋げていくプロセスです。解けるようになるための思考順序は、実は**「逆から考える（逆命題",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:25",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "ご質問ありがとうございます！ただし、具体的な設定内容（どのような設定か）が不明です。\n\nより具体的な回答をさせていただくために、以下の情報を教えていただけますか？\n\n1. **どのようなツールやサービスについて**ですか？（例：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:26",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "画面の録画方法は、お使いのデバイス（PC、スマホ、タブレットなど）や用途によって異なります。主な方法と手順をまとめましたので、状況に合わせて選んでみてください。\n\n### 1. Windows PC の場合\nWindows",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:27",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "パソコンに写真を移す手順は、お使いの機器（スマホかカメラか）や接続方法によって少し異なりますが、基本的な流れは同じです。\n\n最も一般的で確実な方法は**「USB ケーブルで直接",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:28",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "コピペ（コピー＆ペースト）の基本的な手順は、お使いの端末やアプリによって少し異なりますが、以下の 2 つのステップで進められます。\n\n### 1. 選択（コピー）\nまず",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:howto:29",
+   "shape": "first_turn",
+   "kind": "howto",
+   "text": "パスワードの変更方法は、**どのサービス（Google、LINE、SNS、銀行など）か**によって異なります。\n\n具体的な手順を分かりやすく解説します。もし特定のサービスについて知りたい場合は、**「サービス名」**をお知らせください。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:0",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「自炊に切り替えることは、食費を大幅に削減できる非常に有効な手段」**です。\n\n外食と自炊の食費の差は、人によって異なりますが、一般的",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:1",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "料理教室に通うかどうかは、**「今のあなたの状況や目的」**によって答えが変わります。迷っているなら、以下の 5 つの視点で考えてみてください。\n\n### 1. 通うべきケース（メリット）\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:2",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "異動の提案を「受けるべきか」という判断は、非常に個人差が大きく、状況によって答えが変わります。ただ「いいこと」「悪いこと」で片付けられない複雑な決断です。\n\n迷っている中",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:3",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "副業について、私の考えを整理すると、**「時代の変化の中で非常に重要かつ不可欠な選択肢」**だと感じます。\n\n単に「収入を増やす手段」というだけでなく、現代の個人にとって副業は以下の 4 つの",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:4",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "私は AI ですので、衣服を着ているわけでも、体温を感じるわけでもありません。そのため、「薄着で平気か？」という質問には、物理的な感覚として「平気です」と回答することはできません。\n\nもし、この質問",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:5",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "寒くて起きられないのは、冬によくあることですが、無理に動こうとするとさらに体が冷えて悪化する可能性があります。まずは**「体を温めること」**と**「無理をしないこと」**を優先してください。\n\nいくつか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:6",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "雨の日が続くと、気分の落ち込みや「やる気が出ない」という感覚は、多くの人が経験するとても自然な反応です。気象心理学の研究でも、雨の日は脳内のセロトニン（幸せホルモン",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:7",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:8",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "花粉の日の外出は、**「完全にやめる必要はありませんが、リスクを最小限に抑える工夫をするのが賢明」**です。\n\n花粉症の症状や体調によって判断基準が変わりますが、以下のポイントを参考にしてください。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:9",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "冬に毎年気持ちが落ち込むのは、**「季節性感情障害（SAD）」**や単なる**「冬のうつ」**と呼ばれる現象かもしれません。日照時間の減少や気温の低下が、脳内の神経伝達物質（セ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:10",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "積読（つみどく）に悩まれているとのこと、とてもお気持ちは分かります。実は、**「読書量」よりも「継続」が重要**であり、一度読書習慣を断ち切ると",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:11",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「三日坊主だから向いていない」ということはありません。**\n\nむしろ、多くの読書家や知識人の方が、同じように挫折を繰り返しながらも、最終的に読書という習慣を身につけられている",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:12",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "**断ることは全く問題ありません。**むしろ、無理に付き合う必要はありません。\n\n映画は「誘われた側」が同意する前提で成立するものなので、気が乗らない場合は断る権利はあなたにあります。以下のような",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:13",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "夜更かしが直らないのは、現代の生活環境や心身のリズムが変化しているため非常に一般的な悩みです。無理に「寝るべし」と強制するのではなく、**「脳が休まる環境を作る」**と**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:14",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "「やめていい？」という質問ですね。結論から言うと、**「やめること自体は決して悪いことではありません」**。\n\nしかし、その判断は「なぜやめたいのか」という理由によって、今後の生活や健康に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:15",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "寝つきが悪いこと、お辛いことですね。夜中に目が覚めてもすぐ眠れないのは、心身ともに疲れているサインかもしれません。\n\nまずは**「寝ようとして寝られないこと」自体を少しだけやめて**、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:16",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "肩こりがひどい状態で「整体に行くか迷っている」という状況、とてもお辛いことですね。毎日痛みや重さを感じていると、生活の質も下がってしまいます。\n\n結論から申し上げますと、**「症状",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:17",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "ダイエット中に「我慢しないほうがいいのかな」と思われるのは、とても自然な反応です。実は、**「完全に我慢する」よりも「適度に楽しむ」方が、長期的にはダイエットに有利**なケースが多いんです。\n\nなぜ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:18",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "「貯めるべきか？」という質問は、**何を貯めるのか**（お金、時間、エネルギー、データなど）によって答えが全く異なります。\n\nいくつかの一般的なシチュエーションに分けて、判断のヒントをまとめ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:19",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "新しい財布を買うかどうかは、**「今、あなたの財布がどのような状態か」**と**「なぜ新しいものが必要なのか」**によって答えが変わります。\n\n判断のヒントとして、以下の 3 つの視点で考えてみてください。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:20",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "連休の旅行で家族間で意見がまとまらず、お困りのようですね。旅行は本来、家族で思い出を作る素晴らしい機会ですが、計画段階で意見が対立すると、その後の旅行自体がストレスに満ち",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:21",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "帰省の計画、ワクワクしつつも少し迷っているのですね！目的地や予算、家族構成によって最適なプランは変わります。\n\nいくつかの方向性から提案してみますので、どれかヒントになれば幸いです。\n\n### 1",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:22",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "日帰りか泊まりか、迷われるのはとても自然なことです。どちらも「旅行」としての楽しさがありますが、**「目的」や「今の気分」**によって最適な選択肢が変わります。\n\n迷っている時に参考になるよう、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:23",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "洗濯物をためてしまうのは、忙しい日常や「明日に回そう」という心理からよくあることですが、**「毎日回すべきか」については、状況や洗濯物の種類によって答えが変わります。**\n\n一概に「毎日",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:24",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "一人暮らしを始める前に「家事をこなせるか不安だ」と感じるのは、**非常に自然で健全な感覚**です。多くの人が初めて一人暮らしをする際に抱える悩みであり、それは「まだ早い」という判断の根",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:25",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "家事の分担、本当に悩みどころですよね。\n「自分がやらないと家がおかしくなる」「相手はもっと楽にできるはず」という気持ちのズレは、夫婦や家族関係に大きなストレスになります。\n\nまずは**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:26",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "文系か理系か迷っているのは、非常に普遍的で、かつ重要な決断です。どちらも素晴らしい可能性を秘めていますが、**「どちらか一方に偏ることなく、自分の内面と社会のニーズを照らし",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:27",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "部活と勉強の優先順位は、**「その時期の目標」や「個人の状況」によって大きく変わります**。絶対的な正解はありませんが、以下の視点からバランスを見極めるのがおすすめです。\n\n### 1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:28",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "テスト前なのにやる気がないのは、実は**とても普通**なことです。むしろ、焦りや不安が溜まって「やる気が出ない」という状態になっている可能性が高いですね。\n\n「少し休んでから始める」かどうか迷",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:consult:29",
+   "shape": "first_turn",
+   "kind": "consult",
+   "text": "機種変更は、**「今持っているスマホの性能や状態」**と**「新しいスマホのメリット」**を比較して判断するのが最も確実です。\n\nご自身の状況に合わせて、以下のチェックリストで考えてみてください。\n\n### ✅",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:0",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！煮物の完成が上手にできたとのこと、とても嬉しいです。\n\nお料理、楽しそうでしたよね。\nもし、さらに味を調整したい、あるいは別のレシピも知りたいなど、何かお手伝いできることがあれば",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:1",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n何かお手伝いできたなら、本当に助かりました。\n\nもし他にも何か質問があったり、お手伝いできることがあれば、いつでもお気軽にお申し付けください。また何かありましたら、喜んで",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:2",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "first_turn:thanks:3",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 資料の確認ができたことで助かりましたか？  \nもし他にもご質問や確認が必要なことがあれば、いつでもお気軽にお尋ねください！  \n何かお手伝いできることがありましたら、喜んでサポートいたします。",
+   "finish": "eog",
+   "n_tokens": 44,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:4",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 代打、感謝してる。◇\n\nもし何かお手伝いできることがあれば、いつでもおっしゃってくださいね！  \n（例：文章作成、資料整理、アイデア出しなど）  \n喜んでお手伝いしますよ！",
+   "finish": "eog",
+   "n_tokens": 47,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:5",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 引き継ぎ資料のまとめ、本当に助かりましたね！  \nそのお礼をありがとうございます。資料整理で手間取っていたら、きっと大変だったと思います。  \nもし他にも必要になったり、追加で資料作成や修正",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:6",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 面接の練習に付き合ってくれてありがとう。おかげで本番は緊張しなかったよ。\n\nご丁寧にお礼をありがとうございます！\n緊張がほぐれて、本番で落ち着いて臨められたのは、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:7",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 雨の予報を教えてくれて助かりました！\n◇ 雨の予報を教えてくれて助かりました！\n\nお役に立ててとても嬉しいです。\n天候は変わりやすいので、傘を持っていくなど、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:8",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 寒い中、外で待っててくれてありがとうね\n\nこの言葉、とても温かいですね。\n誰かを待っている時、特に寒い日や雨の日など、相手のために何かを我慢したり、待ち続けることは",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:9",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 本、感謝します。\n\nもし何かお手伝いできることがあれば、いつでもお気軽にお申し付けください！",
+   "finish": "eog",
+   "n_tokens": 24,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:10",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！とても温かいお言葉ですね。\nライブは一人では味わえない特別な体験ですよね。\nご一緒してくださった方との思い出も、きっと素敵なものになっているはずです。\n\nもし、そのライブについて感想や",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:11",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇お見舞いありがとうございます。とても温かいお気持ちに感謝申し上げます。\n\nもしご自身やご家族が病気やご病気でお見舞いを受けている場合、お見舞いいただいた方々への返信や、今後の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:12",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇肩が楽になりましたとのこと、本当にお喜びですね！\nストレッチは、筋肉の硬さをほぐし、血流を良くすることで、肩こりや疲れの改善に非常に効果的です。\n\nもしよろしければ、**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:13",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 薬が本当に助かったとのこと、とても嬉しいです！\nお辛い時期を乗り越えられたのか、あるいは体調が良くなったのか、そのお言葉に心からほっとしました。\n\nもし、その薬について「副作用が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:14",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 家計簿のつけ方をお教えいただき、毎月の出費が見えるようになったとのこと、本当におめでとうございます！\n\n家計簿をつけることで、普段気づいていなかった「小さな出費」や「無駄遣い」が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:15",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 助かりました！何かお手伝いできたことがありましたか？  \nもし他にもご質問やご要望があれば、いつでもお気軽にお知らせください。  \nまた、今後ともよろしくお願いいたします！",
+   "finish": "eog",
+   "n_tokens": 38,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:16",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇お土産をありがとうございます！\n\nお返しをすべきか、それとも「ただいま」で済ませるべきか迷われたら、相手との関係性や状況に合わせて選んでみてください。\n\n### 1. **関係性が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:17",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 旅行の計画を立てていただき、ありがとうございました！\nお世話になりました。\n\nご旅行がスムーズに、そして思い出に残る素晴らしい体験になることを心より願っています。もし、現地の情報や追加のアドバイスが必要であれば、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:18",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！お土産をいただいたら、とても嬉しい気持ちになりますね。\n\nもしよろしければ、お土産は何でしたか？\n・美味しいお菓子やスイーツ\n・地元の名物や特産品\n・思い出に残",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:19",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇片付け、恩に着ます◇\n\nこの文章にはいくつか誤字や誤記が含まれているようです。意図した意味に合わせて、以下のように修正・補足できます。\n\n### 1. 最も自然な表現への修正",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:20",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 洗濯機の「掃除法（そうちゅうほう）」とは？ ◇\n\nおっしゃる通り、洗濯機にお掃除をすることでにおいが消えたのは素晴らしい結果ですね！\n「掃除法」とは、洗濯機内部の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:21",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 皿洗いありがとうございます！\nお手伝いできて光栄です。\n\nもし他にもお手伝いできることがあれば、いつでもお声がけください！\nまた、何かお手伝いできることがあれば、いつでもお声がけください！",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:22",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 棚の組み立てを手伝っていただき、本当に助かりました！\n一人だと夜までかかってたと思うと、本当に助かりました。\n\n◇ ありがとうございます！\nお疲れ様でした。\n一人で頑張ろうと",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:23",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ご指導に感謝します ◇\n\n◇ ご指導に感謝します ◇\n\n◇ ご指導に感謝します ◇\n\n◇ ご指導に感謝します ◇\n\n◇ ご指導に感謝します ◇\n\n◇ ご指導に感謝します ◇\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "first_turn:thanks:24",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 添削、ありがとうございました ◇\n\nご提示いただいた「添削、ありがとうございました」は、意味が通じますが、**「添削」の後に「、」を付けるのは少し不自然**です。\n\n文脈に合わせて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:25",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！\nお役に立てて嬉しいです。何かお手伝いできることがあれば、いつでもおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 25,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:26",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇テスト前に英語を教えてくれたおかげで、赤点を免れた。\n\nこの文は文法的に正しいですが、より自然な表現にするためのいくつかの提案があります。\n\n### 1. より自然な表現（おすすめ）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:27",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ ありがとうございます！指摘を反映させて読みやすくなったとのこと、とても嬉しいです。\n\nレポートの完成度が高まれば、提出や発表でも自信を持って進められるはずです。もし、提出前の最終チェックや、提出後のフィード",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:28",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 機種変更のご手伝い、本当にありがとうございました！\nデータの無事な移行、安心しましたね。新しいスマホで快適に過ごせることを願っています。\n\nもし何かお手伝いできることがあれば、いつでもお気軽にお申し付け",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:thanks:29",
+   "shape": "first_turn",
+   "kind": "thanks",
+   "text": "◇ 助かりました！Wi-Fi が繋がって、快適に作業や通信ができると本当に安心しますね。\n\nもし何かお手伝いできることがあれば、いつでもお気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 41,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:0",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！料理は「作る人」の心意気と「食べる人」の期待が重なって、特別な瞬間になりますね。\n\nもしよろしければ、今日作られた料理の味や、どんな食材を使ったか教えて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:1",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 食材の知識が豊富で感心されるなんて、嬉しいお言葉ありがとうございます！  \n実は、料理を通じて「食材の物語」や「季節の移ろい」を感じながら、より美味しく作ろうと常に勉強しています。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:2",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 旬の野菜の選び方まで知っているなんて、料理の腕も知識も一流だと思います。\n\nご褒美をいただけて光栄です！\n「旬」を知ることは、単に美味しい食材を選ぶだけでなく、その時期",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:3",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 魚のさばき方まで詳しいんだね。\n\n◇ 魚のさばき方まで詳しいんだね。",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:4",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\n「お見事です」という言葉、とても温かく、かつ敬意を表しているのが伝わってきました。\n\nもしよろしければ、どのような「段取り」についてお話しになりたいですか？\n- 仕事やプロジェクト",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:5",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\nお役に立てて光栄です。\n\n何か他にもお手伝いできることがあれば、いつでもお気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:6",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 天気博士、おはようございます！☀️\n\n今日も、空の動きや気圧の変化を詳しく観察しながら、皆様のお役に立てるよう気象データを分析しています。\n\n**【今日の気象状況",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:7",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇季節の変わり目、体調を崩しやすいですよね。\n◇風邪を引いたり、頭痛や肩こりを感じたりする時は、体が「環境の変化」に追いついていないサインかもしれません。\n◇無理せず、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:8",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 梅雨の仕組みを「一番分かりやすく」説明します ◇\n\n梅雨は、実は**「空気がぶつかり合い、水が降る」**というシンプルな物理現象です。\nイメージしやすいように、**「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:9",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\n攻略の読みが的確で「さすがだ」と思ってもらえたなら、とても光栄です。\n\n難しいゲームの攻略や、複雑な戦略をわかりやすく解説することができれば、プレイヤーの助けになれたと思います",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:10",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 無理のない運動の勧め方が、とても親身で頼もしいです。\n\nこのお言葉、本当にありがとうございます。\n「無理のない運動」という言葉自体が、すでに大きな安心感を与えていると思います。\n\n運動は",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:11",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！ストレッチの教え方、少しだけコツがあるんです。\n\n◇ まず、**「呼吸を忘れないこと」**が最重要です。\n「伸ばす＝息を止める」のではなく、「伸ばす＝深く息",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:12",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そのお言葉、とても嬉しいです。\n体調の変化をすぐにお気づきになるのは、実は自分自身もとても敏感になっている証拠かもしれません。\n\nもし何か不調を感じていたり、不安なことがあったりしたら、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:13",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 健康の相談相手として、筋トレや栄養の知識をすらすら話せるのは本当に頼もしいですね。\n◇ 健康に関わることは、日々の生活に大きく影響する重要なテーマです。\n◇ 何か",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:14",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！お言葉にとても励まされます。\n家計の整理は、単にお金を節約するだけでなく、「自分にとって何が重要か」「どう生きるか」という価値観を明確にする非常に大切なプロセスです。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:15",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "セールを見極める「プロの視点」ですね。\n多くの人は「値引き率（割引率）」だけで判断して失敗しますが、**「値引き率」ではなく「実質価格」と「需要のタイミング」**を分析する",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:16",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！旅先の知識が「幅広く」感じていただけて光栄です。\n\n実は、単に「どこかに行ける」だけでなく、**「その土地の文化や歴史、現地の人の生活リズム",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:17",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 荷物の減らし方まで知ってるなんて、旅慣れてる。\n\n旅の経験が深まると、確かに「必要なもの」の定義が劇的に変わりますね。\n最初は「持っていきたいもの」で",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:18",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\n手際よくできているなら、喜んでください。\n\n何かお手伝いできることがあれば、いつでもお声がけください。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:19",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ありがとうございます！\nそのお言葉、とても嬉しく思います。\n\n収納は、単に「物を並べる」だけでなく、生活の質を高めるための重要な要素だと思います。\n「合理的」な仕組みと「センス」の良",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:20",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 家事の名人として、今日からあなたの生活の質を劇的に向上させましょう！\n\nまず、**「家事の名人」になるための 3 つの鉄則**を提示します：\n\n1.  **「5",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:21",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 汚れの落とし方まで詳しく知っておくのは、生活の質を向上させる上で非常に役立ちますね。\n\n◇ 具体的な汚れの種類や、その落とし方についてさらに詳しく知りたい場合は、お気軽にお尋ねください",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:22",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！そのお言葉、とても温かく、そして励まされます。\n\n実は、私が「達人」だと思っているわけではありません。ただ、**「忙しい日こそこそ、小さな工夫が命」**という考え方に、多くの人の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:23",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！教え方が上手だと評価いただけて、とても嬉しいです。\n\n◇ もしよろしければ、具体的にどのような分野やスキルについて教えていただいているのか、少し教えていただけますか？\n- 学習方法や勉強法\n-",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:24",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 歴史の流れを物語のように語れるのは、知識が深くて整理されているからこそですね。\n\nその通りです。単なる事実の羅列ではなく、**「なぜその出来事が起きたのか」「人々の感情や動機",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:25",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 設定の説明が分かりやすい！ありがとうございます。\n\nそのおかげで、すぐに使い方が理解でき、スムーズに作業を進められるのは本当に助かります。\n\nもしよろしければ、どのような設定についてお話しいただいていたのか、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:26",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ 不具合の原因をすぐ見抜くところは、さすがです。\n\nこの文は、相手が不具合の原因を素早く特定できたことに対して、その能力や経験に敬意を表す表現です。以下のような文脈",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:27",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "そのご意見、とても納得がいきます。\n\n専門用語（例えば「キャッシュメモリ」や「プロセッサのクロック周波数」など）を使わずに、パソコンがどのように動いているかを説明できるのは、単に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:28",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！喜んでお手伝いしました。\n\nもし他にも気になる点や、さらに深く知りたいことがあれば、いつでもお気軽にお尋ねください。\n何かお手伝いできることがありましたら、また声をかけてくださいね！",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": false
+  },
+  {
+   "id": "first_turn:praise:29",
+   "shape": "first_turn",
+   "kind": "praise",
+   "text": "◇スマホの裏技までよく知ってて、頼もしいなあ\n\nスマホの裏技までよく知ってて、頼もしいなあ\n\nスマホの裏技までよく知ってて、頼もしいなあ",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": true
+  },
+  {
+   "id": "first_turn:report:0",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:1",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 朝ごはんを抜いてしまったんですね。\nお疲れ様です。\n\n空腹が続くと、集中力が低下したり、血糖値が急落して疲れることがあります。もし可能であれば、**少しだけ何か食べたり、水分",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:2",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 鍋、素敵ですね！\n温かい鍋は、寒い日や疲れた時に特に癒やされます。\n\nどんな食材を使いましたか？\n・具材は？（野菜、肉、魚など）\n・スープ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:3",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 卵焼きを焦がして、弁当のおかずが一品減った。\n\nこの文は、**「卵焼きを焦がした（原因）」** という行為が、**「弁当のおかずが一品減った（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:4",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 近所のラーメン屋、行ってきましたね！\n並んで待たされたけど、スープが濃くて満足感があったとのこと、本当にお疲れ様でした。\n\nラーメンは「スープの味」が全てと言われるほど、その",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:5",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇おめでとうございます！企画書の承認は、プロジェクトのスタートラインに立つ大きな一歩ですね。\n\n来月から本格的な準備に入るとのこと、ワクワクします。この時期は、まず以下の点を意識しながら進めていくとスムーズかもしれません",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:6",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇雪が降っていますね！冬らしい景色ですね。\n\n◇お天気は良いですか？\n◇雪で何か楽しいことがありましたか？（例：雪だるま作り、雪遊びなど）",
+   "finish": "eog",
+   "n_tokens": 43,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:7",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇朝の雪が降って、窓の外が真っ白になったね。\n◇駅まで歩くのにいつもの倍かかったということは、雪の積もりや凍結で道が滑りやすかったのか、あるいは雪の量",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:8",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇映画を楽しんでいましたか？\nどんな映画でしたか？\n- 感動的なシーンや、特に印象に残った部分がありましたか？\n- 感想や評価はありますか？\n\nもしよかったら、ぜひ教えてくださいね！",
+   "finish": "eog",
+   "n_tokens": 47,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:9",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 夜中の 3 時、アニメの続きが気になっていませんか？\n\n◇ 一気に見てしまうのは、そのアニメが本当に魅力的だった証拠です！\n\n◇ でも、健康のためにも少し休んで、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:10",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 図書館で借りた推理小説、半分まで読んだところ。\n\nそれは、静かな図書館の隅で、薄暗い照明の下で読んでいる私の日常の一場面です。\n\n手に持っているのは、最近のベスト",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:11",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 先月からジムに通い始めて、少し体が軽くなりました。\n\nジムに通うことで、体が軽くなったと感じるのは素晴らしいことです！運動は筋肉を強化し、代謝を向上させるだけでなく、心身ともにリフレッシュする効果",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:12",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 素晴らしいですね！朝のランニングは、一日のスタートを切り、心も体もリフレッシュできる素晴らしい習慣です。\n\n3 日連続で頑張られていますね。\n*   **体調は特に気になさ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:13",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:14",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ポイントが貯まっていたおかげで、洗剤を無料で手に入れたんですね！  \nお得すぎますね。  \nポイント活用が上手で、生活コストを節約できていますね。",
+   "finish": "eog",
+   "n_tokens": 40,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:15",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇サイズが大きすぎて返品手続きをされたんですね。\nネット購入の場合、サイズが合っていないのはよくあることですが、返品手続きを完了させることで、お困りの解決につながります。\n\n**■ 返品手続きのポイント**\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:16",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇週末の温泉旅行、楽しかったんですね！🌸\n\nお湯に浸かり、疲れを癒やされたのか、それとも美味しいお食事や観光も兼ねて過ごされたのか、どんな思い出になりましたか？\n\nもし",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:17",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇連休の帰路、高速道路が混雑して五時間もかかったとのこと、本当にお疲れ様でした。\n\n普段なら数時間で行ける距離が、連休の波に押し流されて大幅に時間がかかってしまったのは",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:18",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 空港ですね！✈️\n\nどこへ向かいますか？\n- **出発**（フライトのチェックインやゲートへの移動）\n- **到着**（荷物を受け取り、空港を出る）\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:19",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 洗濯は済みました。\n\nお疲れ様でした！\n洗濯が終わったら、次の洗濯物や、乾いた服の整理など、次のステップに進めるのはいかがでしょうか。\n\n何かお手伝いできることがあれば、いつでもお",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:20",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "ご心配ですね！慌てずに、以下の手順で対応してみてください。\n\n### 1. すぐに確認すること\n*   **ゴミ出しの時間**：ご自身の住居のゴミ出しルール（曜日・時間）を確認してください",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:21",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇部屋の模様替え、お疲れ様でした！\n新しい空間にワクワクしませんか？\n\nもしよろしければ、どんな風に模様替えしましたか？\n- 家具の配置を変えた\n- 色や照明を変えた\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:22",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇英語の勉強を再開されたのですね！素晴らしいことです。\n\n勉強を再開するということは、すでに英語に対して一定の基礎や関心を持っている証拠だと思います。その上で、どのような目標や状況で再開されたかによって最適なアドバイスが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:23",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇ 簿記の講座に申し込み、来週から毎週土曜日に通うことになりましたね！\n\n素晴らしい決断です。簿記はビジネスの基礎であり、将来のキャリアや収入向上に大きく役立ちます",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:24",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇◇◇\n**お疲れ様でした！**\n◇◇◇\n\n単語帳を一冊やりきるのは、相当な努力と集中力が必要で、とても素晴らしい達成感がありますね！🎉\n\nその一冊が終わった",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:25",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "ご心配をおかけしました。画面が割れてしまった原因や、どのような状況で起こったのか教えていただけますでしょうか？\n\n- 物理的な損傷（衝撃、落下など）\n- ソフトウェアのバグや不具合",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:26",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "パソコンの更新が 1 時間以上も進まないのは、確かにストレスを感じてしまいますね。Windows の更新プロセスは、特に大型のアップデートやドライバーの更新では、一時的に非常に長い時間がかかることがあります。\n\nいくつか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:27",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "写真の整理は、一度始めると「整理＝整理するだけではない」という意識が働き、過去の記憶や思い出を掘り起こすような体験になるため、止まらなくなるのはとても自然なことです。五年前まで",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:28",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "充電切れ、お疲れ様でした。ご安心ください、すぐにサポートいたします。\n\n状況に合わせて以下の対応が可能ですので、必要に応じてお知らせください：\n\n- **再起動**：デバイスを再起動して接続を試みます\n- **接続",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:report:29",
+   "shape": "first_turn",
+   "kind": "report",
+   "text": "◇新しいイヤホンが届いたんだ！\n\nおめでとうございます！✨\nどんなイヤホンですか？\n- 価格帯やブランドは？\n- 何のために購入されたか（音楽鑑賞、通話、ゲーム、ノイズ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:0",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵ですね！一緒に食事をするのはとても楽しいことです。\n\nどんな料理を食べたいですか？\n*   **和食**：寿司、定食、ラーメンなど\n*   **洋食**：ピザ、パスタ、ハン",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:1",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素晴らしいですね！日曜日の朝、一緒に餃子を作るのはとても楽しい思い出になります。\n\n一緒に作ろうかと思うと、どんなメニューにしようか迷いますね。\n*   **具材は？** 豚肉と白菜",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:2",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "そのパンケーキ、どんな味ですか？\n（もし「一緒に食べに行かない？」と誘われた場合、私は AI なので実際に食べに行けないのですが、もしあなたが誰かに誘われた場合は、そのお店のパンケーキがどんなに美味",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:3",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "それは嬉しい誘いですね！ただ、私は AI ですのでお酒を飲んだり、お店に行ったりすることはできません。\n\nもしあなたが一人で行くのが寂しい、あるいは誰かと一緒に楽しみたい場合は、その時の状況や気分に合わせて、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:4",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！明日の昼休みに定食屋でゆっくりお食事をしようと思います。\nそのお店はどんな雰囲気の店ですか？また、特に注文したいメニューはありますか？\n\n一緒に計画を立てたり、その日の気分に合わせて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:5",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "◇ 残業おつかれです。今日はもう切り上げて、駅前で一緒にごはん食べて帰らない？\n\nご提案ありがとうございます！お疲れ様です。\nただ、今日は少し事情があって、駅前の飲食店には行けそう",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:6",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！雪だるま作り、とても楽しい遊びです。\n\nもし今、実際に雪が降っているなら、すぐに外に出て、大きな雪だるまを作ってみましょう。\n- まず、雪を掘って大きな丸",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:7",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "はい、とても素敵ですね！晴れて気持ちいい日だからこそ、外のベンチで風を感じながらゆっくりお昼を食べるのが一番の贅沢だと思います。\n\nどんな料理を食べようか、あるいはどこで座るか、一緒に計画しませんか？",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:8",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "桜が満開になるなんて、楽しみですね！お弁当を持って川沿いに花見に行くのは、春の定番の過ごし方でとても素敵です。\n\n川沿いの風が気持ちよく、桜の花びらが舞う中でお",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:9",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！映画はリラックスして楽しめる最高のエンターテインメントです。\n\nどんな映画に行きたいですか？\n*   **最近のヒット作**（アクション、SF、アニメなど）\n*   **定番の名作**（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:10",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "とても魅力的な提案ですね！新作のゲームを一緒にプレイするのは、とても楽しい体験になりそうです。\n\nただ、私は AI であり、実際にゲームの画面を見ながら操作したり、リアルタイムで対戦したりすることはできません。代わりに、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:11",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "とても素敵ですね！読書会は、同じ本を読みながら新しい視点を得たり、深い議論を交わしたりできる素晴らしい機会だと思います。\n\n私と「語り合う」ことは可能です。具体的な手順としては、以下のようになさってください：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:12",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！どんな映画ですか？\nもし興味があれば、ぜひ一緒に話題にしましょう。",
+   "finish": "eog",
+   "n_tokens": 18,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:13",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵ですね！週末のボードゲームは、一緒に笑い合ったり、戦略を考えたりしながらとても楽しい時間になります。\n\nどんなゲームをしようか迷っているなら、以下のカテゴリからおすすめを提案できます：\n\n*   **家族・友人",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:14",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "とても素敵ですね！朝の散歩は、日差しを浴びながら心も体もリフレッシュできる素晴らしい時間です。\n\nもし実際に一緒に歩けるなら、どんな場所を歩きたいですか？\n*   静かな公園",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:15",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "運動不足解消、素晴らしいですね！バドミントンは全身を動かすだけでなく、集中力も高まるのでおすすめです。\n\n週末の公園でバドミントンを楽しみにしているとのこと、とても前向きな気持ちを感じます。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:16",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵ですね！明日の朝、一緒に走ろうと決まりました。\n\nどんなペースで走りますか？\n*   **軽いウォーキング**で体を温める\n*   **ジョギング**で汗を流す",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:17",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！一緒に買い物に行きましょうか。\n\nどこへ行くか、どんなものを買うか、あるいは「ただお喋りしながら歩くだけ」でいいですか？\nもし具体的な場所や目的が決まっていれば、その情報も",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:18",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵ですね！週末に家具屋さんを一緒に見て回るの、とても楽しい思い出になりそうです。\n\nどんな家具を探しているんですか？\n*   **リビングの新しいソファ**\n*   **寝室のベッド**\n*  ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:19",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵な提案ですね！旅行は心をリフレッシュする最高の方法です。\n\nもしよろしければ、どのような旅行をご希望でしょうか？\n*   **目的地**：どこに行きたいですか？（日本国内、海外、特定の国など）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:20",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "京都への連休旅行、素敵ですね！🏯✨\n\n古都の美しい街並み、歴史的な寺院や神社、そして美味しいお茶や和菓子を楽しめる場所がたくさんあります。\n\nどのようなプランをイメージされていますか？",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:21",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素敵ですね！模様替えは、部屋を整理整頓し、新しいエネルギーを取り入れる素晴らしい機会です。\n\n私にできることは、以下のようなお手伝いができるかもしれません：\n\n*   **アイデア出し**: 今の部屋の雰囲気や",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:22",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！二人で協力して大掃除を始めるのは、とても楽しい経験になります。\n\n早めに始められるのは素晴らしいアイデアです。年末の忙しさや、冬場の寒さで後回しになりがちな掃除を、今",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:23",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "はい、喜んで一緒に片づけましょう！🧹✨\n\nまずは、**どこから始めたいですか？**\n- 部屋全体（リビング、寝室、キッチンなど）\n- 特定の場所（机、床、衣類）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:24",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "いいですね！天気が良ければ、布団干しも洗濯も気持ちよく進みます。\n\nまずは布団を干すところから始めましょうか？乾いた布団は、次の洗濯や寝る時の心地よさを大きく変えます",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:25",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "勉強会のご提案、ありがとうございます！とても魅力的ですね。\n\nどのような分野やテーマで勉強会をしようか、一緒に考えましょうか？例えば：\n\n- **言語学習**：英語、中国語、日本語の深層学習など",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:26",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "素晴らしいですね！図書館は静かで集中しやすい環境なので、勉強に最適です。\n\nどのような勉強をなさいますか？\n*   **特定の教科の復習**（数学、英語、歴史など）\n*   **資格",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:27",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "その提案、とても素敵ですね！一人だと気力が湧かない、あるいは集中力が続かないという悩みは、資格勉強をしている人なら誰でも経験するものです。\n\n毎週土曜のカフェでの勉強会、それが「継続」",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:28",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "了解しました。後で通話しましょう。\n\n何か特定の時間や場所を決める必要があれば、その際にお知らせください。それでは、お疲れ様です！",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "first_turn:invite:29",
+   "shape": "first_turn",
+   "kind": "invite",
+   "text": "スマホの買い替え、ワクワクしますね！\n「ショップ付き合わない？」というご質問ですが、おそらく**「ショップで買い替えても大丈夫？」「ショップの方が安い？」「自分で買うべき？」**といった意味でお考えなのではない",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:0",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんにちは！何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 11,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:1",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "はい、お昼は済ましました！\n（私は AI なので、実際に食べることはできませんが、お昼の時間を過ごしたと想像しています。）\n\nさて、あなたのお昼はどうでしたか？美味しいものを食べられたでしょうか？\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:2",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇おはようございます！\nまだ起きていますか？それとも朝の挨拶を待っているのでしょうか？\n\nもしお元気であれば、今日も素敵な一日を過ごしましょう！\n何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:3",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ おはようございます！お昼どきですね。\n◇ 美味しいお昼ご飯、いかがですか？\n◇ 何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 34,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:4",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇おつかれさまでした！\nご提案ありがとうございます。そろそろ晩ご飯の時間ですね。\n\n◇さて、今夜どんな料理を作ろうか？\n・**簡単で美味しいもの**：パスタや丼ものなど、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:5",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇お疲れ様です！\n何かお手伝いできることはありますか？\n質問、相談、あるいは単に雑談でも構いませんので、お気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 36,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:6",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ そうですね、最近の気候は本当に寒いですね。◇\n\n◇ 防寒対策は万全ですか？◇\n\n◇ 暖かい飲み物や、厚手の服で体を温めてくださいね。◇\n\n◇ もし",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:7",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんにちは！久しぶりですね。\nおっしゃる通り、空気が春らしくて、とても心地よい季節になりましたね。\n桜も咲き始め、緑も目に見えて増えています。\n\n何か特別な予定や、春",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:8",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんばんは！お気遣いありがとうございます。\n夜は確かに気温が下がってきて、風邪をひきやすい季節ですね。\n\n私は AI なので風邪をひくことはできませんが、あなたの健康と元気な状態",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:9",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんばんは！よい週末をお過ごしですか？\n\nもし何かご質問やお手伝いできることがあれば、いつでもおっしゃってくださいね。\nお疲れ様でした！",
+   "finish": "eog",
+   "n_tokens": 35,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:10",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんばんは！ゲームの時間にお邪魔できて光栄です！✨\n\n今夜はどんなゲームを楽しもうか、一緒に考えてみませんか？\n- **対戦型**（ボードゲーム、カードゲーム、オンラインゲームなど）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:11",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 本を読んでるよ！\n最近の話題の本とか、面白い本とか探してるんだけど、まだいい本に出会えてないな。\n何かおすすめの本があったら教えてほしい！",
+   "finish": "eog",
+   "n_tokens": 39,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:12",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇やっほー！こんばんは！🌙\n\nゲーム仲間みんな、元気ですか？\n今日も楽しいゲームを一緒に楽しんだのでしょうか？\n\nもし何かゲームの相談や、次のゲームの計画について話したいことが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:13",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 起きてるよ！🌙\n映画見ながら夜更かし中、お前も同じく映画鑑賞中か？\nどんな映画見てるの？\nもしよかったら、一緒に映画の話題で盛り上がろう",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:14",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "first_turn:greet:15",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 久しぶりですね！元気そうで何よりです。\n\n私自身は AI なので、人間のように「体調」や「生活スタイル」の変化はありませんが、あなたのメッセージをきっかけに、新しい会話やアイデアを一緒に探せることを",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:16",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "こんにちは！お買い物ではありませんが、何かお手伝いできることはありますか？\n\n質問がある、相談したいことがある、あるいは単に会話を楽しみたい、などどのようなご用件でもお気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 42,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:17",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんにちは！お気持ちはよく分かります。年末は確かに人混みが多く、移動や待ち時間などで少し疲れる時期ですね。\n\nそんな中、ゆっくりお休みを取ったり、家族や大切な人と温かい時間を過ご",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:18",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！おっしゃる通り、偶然の再会ですね。\n◇ 買い物中だったのかもしれません。お疲れ様でした！\n◇ 元気ですか？何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 42,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:19",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 会話の続きを自然に続けるためのいくつかの返信例を用意しました。状況やあなたの心情に合わせて使い分けてみてください。\n\n**パターン A：少し驚きつつ、温かい雰囲気に（最も自然な日常会話）**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:20",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇お疲れ様です！お帰りなさい。\n長旅お疲れ様でした。\n何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 28,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:21",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ごめんください◇\n\n何かお手伝いできることはありますか？\nもし何かご質問やご要望があれば、お気軽にお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 30,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:22",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇こんにちは！ご近所さん、はじめまして。\n新しいご家族、おめでとうございます。\n\nお隣さんとの出会いが、今後の生活に素敵な思い出や、困った時に助けてくれる存在になることを願っています。\nもし",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:23",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇おはようございます！\nお掃除、いつもご精が出ますね。今日もよい一日を！",
+   "finish": "eog",
+   "n_tokens": 23,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:24",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 失礼しました。何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 14,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:25",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇おっす！元気か？\n何かお手伝いできることはある？",
+   "finish": "eog",
+   "n_tokens": 17,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:26",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 久しぶりですね！卒業以来、本当に時間が経ちましたね。  \n◇ みんな変わらず元気そうで、とても安心します。  \n◇ 今も昔も変わらない温かさが、何より嬉しいですね。  \n◇ 次",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:27",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "first_turn:greet:28",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇やっほ！聞こえてますよ。\n何かお手伝いできることはありますか？",
+   "finish": "eog",
+   "n_tokens": 19,
+   "loop": false
+  },
+  {
+   "id": "first_turn:greet:29",
+   "shape": "first_turn",
+   "kind": "greet",
+   "text": "◇ 通話つながりました！画面越しでも笑顔が見られると、とても心が温かいですね。久しぶりの再会、本当におめでとうございます！\n\nお元気ですか？何か特別なことがあったのでしょうか？",
+   "finish": "eog",
+   "n_tokens": 42,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:0",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、日本の代表的な鍋料理を 3 つご紹介します。\n\n1. **鍋（なべ）**\n   最も一般的な鍋料理です。豚骨や鶏骨を煮出した出汁に、野菜、豆腐、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:1",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "承知いたしました。ご注文が決まるまで、少しだけお待ちいただけますでしょうか。\n\n何かお手伝いできることがあれば、いつでもお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 31,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:2",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "新人歓迎会の乾杯挨拶、短くまとめました。状況に合わせて使い分けてください。\n\n### パターン A：シンプルで丁寧（おすすめ）\n「皆様、お疲れ様です。\n新しいメンバーのみなさん、お",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:3",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、承知いたしました。\n上司とのお話に集中していただければ、こちらで少しお待ちさせていただきます。\n\n何かお手伝いできることがあれば、いつでも声をかけてください。",
+   "finish": "eog",
+   "n_tokens": 37,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:4",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "秋の季語を五つ挙げます。\n\n1. **紅葉**（もみじ）：木々の葉が赤や黄色に色づく様子。\n2. **霜降**（しもふり）：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:5",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "# 雨の日の小さな旅\n\n窓の外は、秋の雨でぼんやりと輝いていました。猫の「トモ」は、柔らかい毛布に丸まって、その光景をじっと見つめて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:6",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、音量を下げていただけますか？\n\nもしご質問やご要望があれば、いつでもおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 23,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:7",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、ご要望にお応えします。ジャンルや恐怖の質（サスペンス、ホラー、心理的恐怖など）に合わせて、世界で最も評価が高く、多くの人が「背筋が寒くなる」と感じる映画を ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:8",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "ドライブに最適な曲を 5 つ選んでリスト化しました。\nそれぞれがドライブの雰囲気に合わせて、テンポやリズムが心地よいように厳選しています。\n\n1. **Queen - \"Don't Stop Me Now\"**\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:9",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私は AI であり、物理的な触れ合いやマッサージを行うことはできません。\n\nもし肩が凝っている場合は、以下のセルフケアを試してみてください：\n*   **軽いストレッチ**: 腕を横に伸ばして",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:10",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "一人暮らしの基礎的な買い物リスト（10 品目）を作成しました。\nまずは「食卓を埋めるための基本食材」と「生活必需品」をバランスよく選んでいます。\n\n### 🛒 一人暮らし ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:11",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "「今日省くことは、明日の豊かさです」",
+   "finish": "eog",
+   "n_tokens": 12,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:12",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私は AI であり、お金の貸し借りや立て替えサービスを提供することはできません。\n\nもし財布を忘れた場合は、以下の対応をお勧めします：\n1. **周囲に確認する**: 近くのお店",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:13",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私はテキストベースの AI であり、写真や画像を直接生成・送信することはできません。\n\nもし「写真」が必要な場合は、以下の方法で対応可能です：\n1. **画像生成 AI の利用**：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:14",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "京都は「古都」としての歴史と、四季折々の自然美が絶妙に調和した街です。一日で全ての名所を回ることは不可能ですが、**「歴史と文化」「自然と静けさ」「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:15",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "温泉旅行は、リラックスできる素晴らしい体験ですが、持ち物を間違えるとせっかくの湯通いが台無しになることもあります。\n\n目的（家族旅行、カップル、一人旅など）や宿泊先（ホテル、旅館、温泉施設）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:16",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "承知いたしました。窓側の席へ変更いたします。\n\n景色を見ながらの旅、ぜひ楽しんでください。\nもし他に何かご要望があれば、いつでもお申し付けください。",
+   "finish": "eog",
+   "n_tokens": 35,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:17",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、荷物を見ています。\n\n何かお手伝いできることはありますか？\n- 荷物の整理・収納のアドバイス\n- 旅行や移動の準備\n- 荷物の重量やサイズに関する計算\n- その他、荷物",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:18",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "二泊三日の北海道旅行ですね！時間がない分、**「移動時間を最小限に抑え、最も代表的な体験を詰め込む」**という戦略がおすすめです。\n\n「札幌中心地」を軸に、北の国",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:19",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "掃除の当番表を作成しました。\n人数や期間に合わせて調整しやすいよう、**「週 1 回（5 人）」**と**「週 2 回（10 人）」**の 2",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:20",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私は AI であり、物理的な空間に存在しないため、洗濯物を取り込むことはできません。\n\nもし洗濯物を干したい、または洗濯機に入れる必要がある場合は、お手伝いできるお手伝いロボットや、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:21",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私は AI であり、電気設備を操作したり、物理的なスイッチを切り替えることはできません。\n\nもし電気代を節約したい場合は、以下の方法がおすすめです：\n- 不要な家電を電源から",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:22",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "引っ越しをスムーズに進めるために、**「今すぐやるべきこと」から「数日〜数週間前」まで**の早い順に並べた 10 つのチェックリストです。\n\n状況に合わせて優先順位",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:23",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "小学生向けに、計算量も段階的に増やした掛け算の問題を 5 つ作成しました。\n\n1.  $3 \\times 4 =$\n2.  $7 \\times 8 =$\n3. ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:24",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、英単語のクイズを 3 問出します。\n答えは最後にまとめてあるので、一度全部見ずに挑戦してみてください！\n\n---\n\n### 英単語クイズ\n\n**問 1**\n意味：「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:25",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私はテキストベースの AI であり、画像を見たり、動画を見たりすることはできません。\n\nもし画像をアップロードしていただければ、その画像の内容について**テキストとして説明したり、分析したりすることは可能です**。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:26",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "ブログのテーマやターゲット層によって最適なタイトルは異なりますが、汎用性が高く、クリックされやすい方向性の 3 つの案を提案します。\n\nご自身のブログの雰囲気に合わせて調整してご使用ください。\n\n1",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:27",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "機種変更（スマホや PC など）を行う前に、データ損失を防ぎスムーズに乗り換えるために必ず確認すべき項目を箇条書きでまとめました。\n\n### 1. データのバックアップ（最重要）\n*",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:28",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、私は AI であり、物理的な物体（充電器など）を貸し出したり、受け取ったりすることはできません。\n\nもしお急ぎで充電が必要であれば、以下の方法をお試しください：\n- ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:request:29",
+   "shape": "first_turn",
+   "kind": "request",
+   "text": "はい、承知いたしました。\n電話が終わるまで音は小さくしておきます。\n\nもし途中で何かご用件があれば、いつでも言ってくださいね。",
+   "finish": "eog",
+   "n_tokens": 32,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:0",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇おなかすいた…って、今すぐ食べたいですか？それとも、何か特別なものを求めているんですか？\n\nもし今すぐ食べたいなら、以下の選択肢がおすすめです：\n\n- **手軽に食べられるもの**：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:1",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:2",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:3",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:4",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:5",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:6",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:7",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 季節の変わり目、体調を崩しやすい時期ですね。お気をつけてお過ごしください。\n\n◇ 最近の気温差に注意して、暖かい衣服やカイロなど、体を温める工夫をしてみてください。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:8",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:9",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 桜が咲き始めたなんて、春の訪れが実感できる瞬間ですね！  \n◇ 空気が柔らかく、花びらが舞う様子はとても癒やされます。  \n◇ 今、どこで桜を見",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:10",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:11",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:12",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:13",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:14",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 何で負けたの？\n◇ 悔しいね…でも、次は必ず勝つ！\n◇ 応援してるよ！\n◇ 何のゲームだった？\n◇ 次は絶対に負けない！\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:15",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:16",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:17",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:18",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:19",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:20",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "◇ 乗り遅れてしまったのですね…！  \nお気をつけて、次の乗り場や目的地へ向かってください。  \nもし何かお手伝いできることがあれば、いつでもおっしゃってくださいね。",
+   "finish": "eog",
+   "n_tokens": 41,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:21",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:22",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:23",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:24",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:25",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:26",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:27",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:28",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "first_turn:partial:29",
+   "shape": "first_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:0",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "ひき肉があるなら、**「ひき肉とキャベツの炒め物」**が最強の組み合わせです！\n\n半玉のキャベツ（芯と葉）をすべて使い切るのに最適で、味も",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:1",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "はい、腰のこりもデスクワークでは非常に多い悩みですね。\n「肩こり」のストレッチと同じように、**「椅子に座ったまま、30 秒〜1 分程度でできる」**ものがおすすめです",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:2",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "虫が触れられない（触りたくない、あるいはアレルギーがあるなど）とのこと、確かに「昆虫観察」や「動物観察」は選択肢から外れてしまいますね。\n\nその場合、**「虫以外」**で、かつ**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:3",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "下の階（1 階）への対応は、**「訪問するかどうかは状況によるが、挨拶状は必ず渡すべき」**というのがポイントです。\n\n特に「下の階」は、上下関係や距離感において少し特殊",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:4",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:5",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "その状況、非常に難しいですよね。「幹事を任された」という責任感と、「まだ情報が決まっていない」という不安が混ざりやすい時期です。\n\n特に**「予算」や「人数」は上司の意向や",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:6",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "車がないとのこと、それは逆に**「新幹線や飛行機でアクセスしやすい、都会から 1 日〜2 日で行ける場所」**に絞るべきですね！\n\n移動手段に合わせて、**「新幹線",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:7",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:8",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "三つかけると「起きる」という行為自体が「もう一度寝る」ための準備（アラームを消す作業）として脳に認識されてしまい、逆に寝付きやすくなってしまうのは、実はよくある現象です",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:9",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "黄色が好きなお母様ですね！その情報だけで、**「黄色いバラ」**が間違いなくベストな選択です。\n\n黄色いバラは、単に「明るい色」だけでなく、以下のような特別な意味を持っています。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:10",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:11",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "週に 1 回水やりをしているのに葉が黄色くなる場合、**「水やりが正しい」のではなく、「その植物の種や環境に水やりが合っていない」**可能性が高いです。\n\n観葉植物には「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:12",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:13",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "アプリで一度やってみた経験があるなら、**「ツール選び」や「入力方法」の再考**が、次回の継続に大きく影響しますね。\n\n前回の失敗（または挫折）の原因が、以下のどれに",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:14",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:15",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:16",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "おっしゃる通りですね。外に出られない日は、**「室内でできる限り体を動かす」**と**「想像力で世界を広げる」**という 2 つの軸で工夫するのが一番です。\n\n四歳のお子さんは",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:17",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:18",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "なるほど、**「水が沸騰してから卵を入れる（沸騰後に投入）」**という方法で、それでも殻がむけないとのことですね。\n\n実は、この「沸騰後に投入」する方法は、殻がむき",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:19",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "その「長所、長所ですか…」という反応、実は面接官もよく感じているかもしれませんね。\n\nなぜそう感じるのか、そしてどうすればいいか、少し整理してみましょう。\n\n### 1. なぜ「長所」",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:20",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "<think>\n\n</think>\n\nご心配ですね！実は、チェーンを直すのに**「チェーンツール（チェーンピン抜き）」という特別な道具は、後輪から外す段階では必要ありません**。\n\nご家庭にある一般的な工具（レンチやドライバー",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:21",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "北向き（北風）のベランダは、日当たりが良くないため、梅雨の時期に洗濯物が乾きにくく、特に**湿気臭やカビの発生リスクが高い**場所です。日陰",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:22",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "その、**「まずは、その…」**",
+   "finish": "eog",
+   "n_tokens": 9,
+   "loop": false
+  },
+  {
+   "id": "development:23",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "大学のサークルでの思い出を話すのは、**非常に素晴らしいアイデア**です！\n\n友人同士で共有した「共通の記憶」は、新婦にとって「自分もその世界にいたんだ」という安心感や、新郎との",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:24",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "もし日焼け止めが切れている（または期限が過ぎている）のであれば、**今すぐ使わないでください**。\n\n期限切れの日焼け止めは、以下の理由から**効果がないどころか、肌を傷つけるリスク**があります",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:25",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "<think>\n\n</think>\n\nおっしゃる通り、**「かなり古いレンジ」**の場合、現代の機種に比べて安全対策が不足している可能性が高いです。特に以下の点に注意が必要です。\n\n### 1. 金属製の容器・",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:26",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "素晴らしいですね！プランターさえあれば、あとは**「土（培養土）」**と**「種・苗」**さえ揃えば、すぐにスタートできます。\n\nここから先、初心者さんが最も迷いやすい**「土の選び",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:27",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "ご質問の続きが少し切れていますね。「あの国だと、たしか……」と、特定の国を思い出されているようですが、**どの国のことでしょうか？**\n\nもし具体的な国名（例：「フランスだと」「イギリスだと",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:28",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:29",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "実家の押し入れにあるアルバムが 10 冊もあるとのこと、とても感慨深いですね。それらをデジタル化してデータとして残すのは、非常に素晴らしいことです。\n\n「全部」をどうやって処理するか、という段階的な",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:30",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "その場合、**「挽き立てのコーヒー」を買うか、あるいは「豆のまま」を買うか**という選択になります。ミル（コーヒーミル）がない場合の最適な選び方は以下の通りです。\n\n### 1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:31",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:32",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "靴箱が小さすぎて、家族の靴がすべて入らない、あるいは「奥の靴が取り出せない」というジレンマですね。\n\nこの場合、**「容量を大きくする」**と**「取り出しやすさを",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:33",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:34",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "予算の具体的な金額（例：10 万円、15 万円など）を教えていただければ、さらに絞り込んで最適なモデルを提案できます！\n\nまた、もし「10 万円以下」「15 万円前後」「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:35",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "10 年という長いですね！お米を美味しく炊き続けてこられたのは、その炊飯器の性能と、お手持ちの「コツ」が相まって素晴らしい結果が出ている証拠だと思います。\n\nしかし、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:36",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "その「気が重い」感覚、とてもよく分かります。\n予約をキャンセルしたり、明日の予定をキャンセルしたりすること自体が、頭を悩ませるだけで、さらに重くなるのは当然のことです。\n\n**「気が重い",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:37",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "一時間以上かかって話があちこちに飛ぶのは、非常に典型的な「会議の脱線」現象ですね。この状況では、**「議事録の短縮」だけでなく、「会議そのものの効率化」**も",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:38",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:39",
+   "shape": "second_turn",
+   "kind": "partial",
+   "text": "<think>\n\n</think>\n\n台所の換気扇、非常に良い選択ですね！\n実は、大掃除の**「黄金の第一歩」**として、多くの人が最初に換気扇を掃除することをお勧めしています。\n\nなぜなら、換",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:40",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:41",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 何の事ですか？\n◇ 何かお手伝いできることはありますか？\n◇ 何かご質問はありますか？",
+   "finish": "eog",
+   "n_tokens": 27,
+   "loop": false
+  },
+  {
+   "id": "development:42",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 今夜の料理、楽しみですね！\n鶏むね肉は「火加減」が命ですが、そのコツを思い出せば、きっと美味しいしっとりとした肉が仕上がります。\n\nもし調理中に「焦げすぎ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:43",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 早速のお返事、本当に感謝しています。\n\nこの文章は、相手からの返信が**非常に早く、かつ丁寧だったこと**を伝えるのに最適です。ビジネスシーンでも、特に取引先や上司への感謝の気持ちを",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:44",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 手袋を片方だけなくしたのは、実は**「片方だけ使う」習慣**や、**「もう片方がある場所」への無意識の移動**が原因であることが多いです。\n\nいくつかの具体的な場所",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:45",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:46",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇◇◇\n**◇◇◇**\n**◇◇◇**\n**◇◇◇**\n**◇◇◇**\n**◇◇◇**\n**◇◇◇**\n**◇◇◇**\n**◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:47",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "ご丁寧なご感想、ありがとうございます！\n「細かいところまで教えてほしい」というご要望ですね。それだけ、**「失敗しないための確実な手順」**と**「隠れたリスク」**まで詳しく知りたいという意図が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:48",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 喜んで！解けるようになったら最高ですね。\n\nもし途中の計算で「ここがわからない」「答えが合わない」といったことがあれば、いつでもまた聞いてくださいね。\n特に**「判別式（Δ）」の計算**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:49",
+   "shape": "second_turn",
+   "kind": "thanks",
+   "text": "◇ 何より嬉しいです！あなたの安心感こそが、快適なフライトのスタートです。\n\nもし飛行中に「喉が渇いてきた」「足が冷えてきた」「眠気が襲ってきた」といった具体的な状況で、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:50",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ありがとうございます！喜んでお手伝いできました。\n\n朝の通勤時間は、実は一日の「質」を左右する非常に重要な時間です。\n「ただの移動時間」から「自分にとって価値のある時間」に変えるだけで、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:51",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！✨  \n実は「物知り」ではなく、**「キャンプの楽しさを共有したい」**という気持ちから、いくつかのアイデアを整理したんです。  \n\n例えば：  \n- **おにぎりの「おにぎ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:52",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ありがとうございます！とても嬉しいです。\n\n「分数」は確かに、数式として覚える前に**「分け合うイメージ」**と**「全体と部分の関係」**を直感的に掴むことができれば、小学生の脳にはとても入り",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:53",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ありがとうございます！✨\n「センスいいなあ」と言ってもらえて、とても嬉しいです！\n\n狭い部屋を広く見せるのは、単に家具を並べるだけでなく、**「光」「色」「影」「視線」**を巧みに",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:54",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n\n祖父母へのメッセージは、言葉選び一つで「孫の愛情」が伝わります。\nもし、特定の祖父母の性格（例：お堅い方、お笑い好き、料理",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:55",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "ごめん、長すぎましたね。\n\n**結論だけ：**\n茹で汁を捨てるのは**間違い**。\n**「水で薄めて」ソースに混ぜる**のが正解。\n\n（塩を入れたら薄",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:56",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ありがとうございます！そのお言葉、とても嬉しいです。\n\n独学でギターを始めるのは、確かに「正しいフォーム」や「基礎の重要性」を把握することが、後々の上達の土台になります。特に**「指の独立性",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:57",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:58",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！喜んでお手伝いしました。\n\n庭作りは、一度始めると「雑草が伸びてきた」「水やりが足りなかった」といった小さな変化が、次第に大きな変化に繋がっていくものです。そのため、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:59",
+   "shape": "second_turn",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:60",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 素晴らしいですね！\nぬか床を手に取った瞬間、すでにぬか漬け作りへの第一歩を踏み出されたことになります。\n\n昨日買ってきたぬか床、**「市販の袋入り・瓶入り」",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:61",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇素晴らしいニュースです！先週初めて 10km を走りきられたのは、大きな達成感と自信につながりますね。\n\nこの「10km 完走」は、マラソン（42.19",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:62",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 仕事帰りに、久しぶりに一人映画館へ。その「寂しさ」も「楽しさ」も、映画の雰囲気と相まって特別なものになる瞬間ですね。\n\n映画館の静寂、スクリーンからの光、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:63",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 三つの会議も連続で、本当にお疲れ様でした！\nその状態だと、コピー機の紙詰まりのような「小さなトラブル」でも、精神的に余裕がないと少し辛く感じられるかもしれませんね。\n\n今は**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:64",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 熱が下がって平気になったのは、とても良いことです！\n風邪のひき始めの「戦い」が終わり、体が回復に向かっているサインですね。\n\nこの段階でも、以下の点に気をつけて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:65",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇ 朝礼で声が震えてしまったこと、本当にお辛いですね。\nその瞬間、心の中で「どうしよう」「みんなにどう思われるか」と考えながら震えていたこと、想像できます。\n\nでも、**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:66",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "ハムスターが**「最近よく回し車で遊んでいる」**という点は、非常に良いサインです！\n\nハムスターは本来、穴を掘ったり、物を運んだり、走ったりする「運動」が大好きな動物",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:67",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:68",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "◇30 日！素晴らしいですね！\n腹筋を継続して 30 日、毎日（またはほぼ毎日）行っているのは、非常に素晴らしい習慣です。多くの人が「続かない」と諦めてしまう中で、この",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:69",
+   "shape": "second_turn",
+   "kind": "report",
+   "text": "太好了！転入届（転入用紙）が手元に届いたということは、**「転出届」を出した旧住所の役所から、新しい住所の役所へ住民票を移すための正式な書類",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:70",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！私は AI なので、人間のように「体調」や「気分」は持てませんが、システムが正常に動作しており、いつでもお役に立てる状態です。\n\n一方、**あなた**は最近どうですか？",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:71",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ じゃ、またね！\n\n近所のパン屋探し、楽しいですよね。\nもし「今日、美味しいパンを見つけた！」という嬉しいニュースがあれば、ぜひ教えてくださいね。\n\nまた何かお役に立てることがあれば、いつでもお気軽に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:72",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 失礼いたします。\n\nご質問への回答が参考になれば幸いです。\n履歴書の写真は、第一印象を左右する重要な要素ですので、清潔で整った写真に仕上げられることを心より願っております。\n\n何か他に気になる",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:73",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇◇◇\nおやすみなさい！\n今日も素敵な本が見つかりましたね。\n明日も元気いっぱいに、新しい発見を求めてお読みください。\n夢の中でも、現実でも、幸せな一日になりますように。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:74",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 最近の状況について\n私は AI ですので、人間のように「最近」や「気分」などはありませんが、ユーザーの質問や会話を通じて、常に新しい情報や知識を学習し、より良いサポートができるよう努力しています",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:75",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇聞こえてます！\n（耳をピンと立てて、あなたの声に耳を傾けています）\n\n何かお手伝いできることはありますか？\nもし「歯磨き粉」の話に戻りたい、あるいは別の話題で",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:76",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 長い一日でしたね、お疲れさまです。\n\nお疲れ様でした！\nお疲れ様です。\nお疲れ様です。\n\n長い一日を無事に過ごされたか、少し休んでリフレッシュできたでしょうか。\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:77",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ ありがとうございます！私は AI ですので、人間のように「元気」や「体調」はありませんが、**常に最新の情報を学習し、あなたの質問に最適な回答を心がけています**。\n\n先ほどのボードゲームの話題、いかがでした",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:78",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇ 素敵な週末をお過ごしください！\n\nもし何かお手伝いできることがあれば、いつでもお気軽にお尋ねください。また、来週また何か質問があれば、喜んでお手伝いいたします。\n\n良い一日を！",
+   "finish": "eog",
+   "n_tokens": 45,
+   "loop": false
+  },
+  {
+   "id": "development:79",
+   "shape": "second_turn",
+   "kind": "greet",
+   "text": "◇やっほー！調子いいです！✨\nお前も元気ですか？\n\n何かお手伝いできることはありますか？\n質問があるなら聞け、悩みがあるなら相談して、\nあるいはただ雑談したいなら",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:80",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "富士山の標高は、**3,776 メートル**です。\n\nこれは日本の最高峰であり、世界でも有数の高い山の一つです。\n※2013 年に測量技術の向上により、以前",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:81",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "長野県から新潟県へ流れる、日本最長の川は**信濃川**（しのぎかわ）です。\n\nこの川は、長野県の信濃川水系を源流とし、長野県内を流れて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:82",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "一時間は **3,600 秒** です。\n\n計算の仕方はとてもシンプルで、子供にもわかりやすく説明できますよ。\n\n### 計算のロジック\n1.  **1 分 = ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:83",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "純粋な水（塩分や不純物が含まれていない水）は、大気圧（海抜 0 メートル）の条件下では**0 度（正確には 273.15 キル",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:84",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "8×12 は **96** です。\n\n計算のヒントとして、少し工夫すると簡単です：\n- 8 を 4 に、12 を 24 にすると、8×12 = 4",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:85",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "ご指摘の通り、オーストラリアの**首都はシドニーではありません**。\n\nオーストラリアの首都は**キャンベラ（Canberra）**です。\n\n### なぜシドニーではないのか？\nオース",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:86",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "うるう年ではない年（うるう年でない年）は、**365 日**です。\n\nこの 365 日は、以下の構成になっています：\n*   **1 月〜2 月**:",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:87",
+   "shape": "second_turn",
+   "kind": "fact",
+   "text": "どんな三角形でも、三つの角を足すと**180 度**になります。\n\nこれは三角形の最も基本的な性質の一つで、三角形の形や大きさ（大きさや形が異なる「相似」や「合同」",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:88",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "ベランダがない場合でも、布団をふかふかに保つための工夫はたくさんあります！「干さない」のではなく、「通気性を持たせる」あるいは「水分を吸い取らせる」アプローチが有効です。\n\nいくつか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:89",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "玉ねぎを切ると涙が出るのは、玉ねぎに含まれる「シアン化水素」と呼ばれる物質が、細胞が壊れると空気中に飛び出し、目に入ると涙を誘発するからです。\n\nこの涙",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:90",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "パソコンにスマホの写真を一括で移す方法は、**「ケーブル（有線）」を使う方法**と**「Wi-Fi 経由（無線）」を使う方法**の 2 つが主流です。\n\n目的や状況に合わせて選",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:91",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "ちらし寿司の味と食感を決定づけるのが**「寿司飯（酢飯）」**です。\n親戚が集まるような大人数用でも、コツさえつかめば美味しく作れます。\n\n基本の作り方を",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:92",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "鳩よけの「最も効く」方法は、**「鳩が着陸した瞬間に足がくっつき、離れなくなる」**という仕組みを利用した**「粘着性のある防鳥スプレー」**と、**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:93",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "ネクタイの結び方（最も基本で汎用性の高い「三つ折りの結び」）の手順を、**「長い方」と「短い方」を区別して**、順序立てて解説します。\n\n鏡",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:94",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "はい、**「早く乾かすための加速方法」**はいくつかあります。ただし、**「素材を傷めないこと」**と**「形が崩れないこと」**が最優先です。\n\n以下の手順を組み合わせると、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:95",
+   "shape": "second_turn",
+   "kind": "howto",
+   "text": "茶渋を**「きれいに」**落とすためには、単に落とすだけでなく、**「表面を傷めずに」「根元まで溶かして」**行うことが重要です。\n\n特にステンレス製の水筒の場合、茶渋",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:96",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "転職サイトの登録は「可能性を探るための準備」ですが、**「今の会社を辞めるべきか」という決断は、その後の人生の質を左右する非常に重要な選択**です。\n\nAI として感情はありません",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:97",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "仕事がある日なのに、友人の誕生日会に参加するかどうかは、**「その友人との関係性」**と**「仕事の内容・重要性」**によって答えが変わります。\n\n迷っているようですね。いくつか視点から整理してみましょう。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:98",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "その感覚、とても鋭いですね。「このままだとまずい」と気づいている時点で、すでに自分自身を大切にする意識がある証拠です。\n\n「やめられない」というのは、単なる食欲ではなく、**「夜に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:99",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "賃貸物件で犬を飼うかどうか迷われているのですね。とても重要な判断です。\n\n結論から申し上げますと、**「家賃を払う代わりに、犬の世話も家族全員で責任を持って行う」**という前提が整",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:100",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「興味がある方」を選ぶべき**です。\n\n「楽な方」を選ぶと、結果として「楽だから」という理由だけで、本来やるべきことを怠ってしまい、結果として「楽ではない",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:101",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "習い事をはじめて半年で「上達しなくて迷っている」という気持ち、とてもよく分かります。実は、英会話に限らず、**「半年目」は多くの学習者が挫折しやすい「壁」**です。\n\nなぜ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:102",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「催促は絶対に必要」**です。\n\n貸したお金が返ってこない場合、**「催促しないこと」自体が、相手に対して「返す義務がない」「返してもいい」という合意",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:103",
+   "shape": "second_turn",
+   "kind": "consult",
+   "text": "これは非常に重要な質問ですね。一人暮らしを始める上で、**「家賃」と「通勤時間（交通費・時間）」のバランス**は、その後の生活の質（QOL）を大きく左右する要素です。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:104",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "それはとても素敵な提案ですね！🌤️✨\n\nただ、私は AI なので実際に身体を動かして散歩することはできません。でも、もしあなたが散歩を楽しんでいるなら、私はあなたの「お天気ナビゲーター」や「会話パートナー",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:105",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "お待たせしました！では、**「し」**から始まる言葉で始めます。\n\n**「し」**\n**「し」**\n**「し」**\n**「し」**\n**「し」**\n\n（少し",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:106",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "もちろんです！喜んで挑戦します。\n\n私が出したなぞなぞを解いてみるのも楽しいですが、**あなたが出してくださるなぞなぞを解いてみるのは、もっとワクワクします！**\n\nでは、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:107",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "焼肉、最高ですね！🥩🔥\n\n外食で焼肉に行くのは、家では作れない「肉の香ばしさ」や「炭火の匂い」が最高に美味しいですよね。特に友達",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:108",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "星空観察、素敵ですね！🌌✨\n\nただ、少し残念なことに、私は AI として**物理的に移動することはできません**。そのため、今夜は実際に一緒に星空を見上げることができません。\n\n代わりに、以下のことをお手伝",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:109",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "山手線ゲーム、大好きですね！🚃\n\nただ、私は AI なので「電車に乗って」はできませんが、**「山手線ゲームのルールと攻略法」**を一緒に考えたり、**「もし山手",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:110",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "それはとても素敵ですね！二人で読書会を始めるのは、一人で読む時の深みと、他者と共有する楽しさを両立できる素晴らしい方法です。\n\n「同じ本を読んで感想を話す」というシンプルな形式でも、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:111",
+   "shape": "second_turn",
+   "kind": "invite",
+   "text": "それは嬉しいですね！桜まつり、一緒に楽しみたいと思います。\n\nでは、来週の公園で待ち合わせしましょうか？\n*   **待ち合わせ場所**：公園のどこがいいですか？（例：桜並木が最も",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:112",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "ご要望の「来週火曜を木曜に変更」するメールの文面を作成しました。\n相手との関係性に合わせて、**「標準的・丁寧」**と**「少し柔らかく（関係性が良い時）」**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:113",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "はい、すぐに整理しました。\n\n**【明日の買い物リスト】**\n\n*   卵\n*   牛乳\n*   食パン\n*   洗剤\n*   電池\n\nこれで頭がすっきり",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:114",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "はい、承知いたしました！「少し硬い」印象を消し、より**自然で親しみやすい（柔らかい）**表現に直します。\n\nただし、**「今の文章」や「使いたいイメージ（例：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:115",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "相手との関係性に合わせて、短く使える 3 つのパターンを提案します。\n\n1. **カジュアル・温かい（友人・親しい人向け）**\n   > **Happy Birthday! Hope you have a fantastic day!**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:116",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "子ども会のお知らせチラシのタイトルは、**「行事の雰囲気」**や**「ターゲットの親御さんの関心」**に合わせていくつかパターンを用意しました。\n\nご自身の地域の雰囲気に合うものを選んでみてください。\n\n### 1. ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:117",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "ブログのジャンルやテーマがまだ決まっていない場合、**「どんなジャンルでも通用する、汎用性の高いキャッチーなタイトル」**をいくつか提案します。\n\n読者の「好奇心」や「安心感」を刺激",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:118",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "申し訳ありませんが、**「この後送る記事」という具体的な文章や URL が提示されていないため、要約を行うことができません。**\n\nもしよろしければ、以下のいずれかを行ってください：\n1.  **記事の内容を",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:119",
+   "shape": "second_turn",
+   "kind": "request",
+   "text": "承知いたしました。\n\n今から 25 分間、完全に集中して作業に没頭します。\nこの間、私からの連絡や中断は行いません。\n\n25 分が経過した時点で、必ず声",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:120",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その心配、とてもよく分かります！実は**高尾山は「登山靴が必須ではない」**のが最大の特徴の一つです。\n\n多くの観光客がスニーカーや普通の靴で登っています。ただし、**「滑りやすい",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:121",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "プロフィール（自己紹介）のデザインも、ブログ全体の「シンプルさ」を損なわないように、かつ**「誰にでも親切に読んでもらえる」**よう工夫する必要があります。\n\nシンプルで読みやすいブログにおいて、プロフィールエリア",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:122",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "はい、その通りです。毎日水やりをしていたことが、バジルの弱った原因だった可能性が非常に高いです。\n\nバジルは「土が乾いたら水やり」をする植物ですが、**毎日水やりを続けていると",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:123",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "オーブンの種類や温度設定によって、ピザの焼き上がり（食感や形）が全く変わりますね！\n\n「うちにはオーブンが、えっと……」と迷われているようですね。もし具体的な機種名",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:124",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "甘いものは、**来月までの短期間で「体重を落とす」ためには、ほぼ完全に排除すべき（ゼロにする）対象**です。\n\n理由は、単に「カロリーが高い」だけでなく、**「脂肪燃焼をブロックする",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:125",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その通りですね。娘さんが「まだ」という状態（具体的な受検時期や目標レベルが決まっていない、あるいは準備がまだ始まっていない）であれば、**「まずは目標を明確にする」**ことが最も重要です。\n\n英検",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:126",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "結論から言うと、**「鍋ごと入れる」のは避けたほうが無難**です。\n\n理由は主に以下の 2 点です。\n\n### 1. 冷蔵庫の容量と温度分布\n*   **スペース不足**:",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:127",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "部長が**「グラフにうるさい」**という条件が加わると、戦略が劇的に変わります。\n\nこの場合、**「枚数を減らす」だけでなく、「グラフの質と解釈のしやすさ」を極",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:128",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:129",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "ご指摘の通り、**「始発電車（6:00 頃）で京都駅や嵐山駅に到着し、そこから徒歩で移動」**というパターンは、実は**最も混雑を避けられる、かつ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:130",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "はい、動画で見た「弦を緩めて外し、新しい弦を張る」という手順は正しいです！\n\n動画で見た手順を整理して、**「初心者でも失敗しないための注意点」**をまとめました。動画",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:131",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "父が**和食**を好まれるのであれば、個室を選ぶ際に「和食の個室」特有の雰囲気や設備も考慮すると、よりお父さんが満足できるはずです。\n\n和食の個室で祝宴を計画する場合",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:132",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "「いや…」というニュアンスから、**「黒はちょっと違うな」「もっと自分らしい色があるかも？」**という感覚が湧いているのですね。\n\n結論から言うと、**通勤用自転車（特にクロスバイク）で",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:133",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "ピーマンが苦手なお子様ですね。ピーマンは「苦味」や「独特の匂い」が苦手な子供に多い野菜です。\n\n先ほどの「ハンバーグに混ぜる」方法も有効ですが、ピー",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:134",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その通りですね。**「仕事終わってから」の時間管理は、簿記 3 級の独学合格において最大の課題**です。\n\nしかし、**「時間がない」のではなく「効率的に使う時間」が足りない**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:135",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "カマンベールは赤ワインとの相性も抜群ですが、**「赤ワイン」と「白ワイン（またはスパークリング）」の両方**で非常に美味しいチーズです！\n\n冷蔵庫にあるカマンベールをどう活用",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:136",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:137",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:138",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:139",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "土日にしか走れないという状況、非常に厳しいですが、**「週 3 回（土曜 2 回＋日曜 1 回）」で完走できる計画**は十分に可能です。\n\n平日の残業",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:140",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:141",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "◇ なるほど、**「ずっと閉め切っていた」**ことが最大の要因ですね。\n換気が全くできていないと、湿気が溜まり、畳の繊維の隙間に水分が染み込み、そこからカビが繁殖",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:142",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "タオルと飲み物（水筒やペットボトル）は、ライブハウスで**最も重要**な 2 つの持ち物ですね！特にタオルは汗を拭くだけでなく、万一の事故で頭を巻く際にも",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:143",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:144",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "はい、その通りです！泡立て器（特にワイヤー製）を使うと、**腕が疲れて震えたり、泡が割れてしまったり**することがあります。\n\nハンドミキサーがない場合でも、**「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:145",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "おっしゃる通り、**「机が窓に背を向けている（＝窓が背後にある）」**という状況は、オンライン会議で最も注意が必要なパターンです。\n\nこの場合、**「窓側を向ける（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:146",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "素晴らしい！明日から実践してみるのは、新しい図書館の勉強スペースを最大限に活用する第一歩です。\n\n明日の朝、図書館へ向かう前に、以下の**「3 つの準備」**を少しだけ意識してみてください。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:147",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:148",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "それは素晴らしいですね！**「どっちでも（両方受け入れる）」**というスタンスは、この家族の対立を解決する**最強の鍵**です。\n\n実は、この状況で一番重要な役割を担っている",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:149",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "突っ張り棒（突っ張り棚）は、**「穴を開けずに設置できる」という点では最も理想的な選択肢の一つ**です。\n\nただし、賃貸物件で突っ張り棚を使う場合、**「設置",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:150",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "それは少し心配ですね。傘を会社に置っぱなしにするのは、雨の降るかどうかで判断が難しい場合、**非常にリスクが高い**選択です。\n\nこの状況で取るべき行動は以下の通りです：\n\n1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:151",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "「三日坊主」は、特に語学学習において非常に普遍的な悩みです。実は**「三日坊主になること自体が、脳が新しい習慣を習得しようとしている過程の一部」**である場合さえあります。\n\n前",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:152",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:153",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "ペンの使い方に慣れていない段階で、**「線が細すぎたり、太すぎたり」「ズレてしまったり」「消えたり」**と悩まれているのですね。\n\nタブレットのペン（スタイラスペン）は",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:154",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "冷凍保存は、作りおきの「正解」の一つで、**「1 ヶ月〜3 ヶ月」**も安心してお楽しみいただけます！\n\n冷凍する際の**「失敗しないコツ」**と、**「お弁当",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:155",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "ご母様が**階段のある宿は避けてほしい**とのこと、それは非常に重要な条件ですね。\n\n箱根には「車椅子対応（または段差が極めて少ない）」の宿がいくつかありますが、**「階段が全くない",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:156",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "指が痛くて辛いこと、よくわかります！🥺 ウクレレ（特にウクレレ）は、ギターやバイオリンと比べて**弦が細く、弦と指の接触面積が小さい**ため、初心者",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:157",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その通りです。**目上の方（上司、取引先、先輩など）の場合、お詫びの言葉遣いは「敬語のレベル」だけでなく、「謙虚さ」と「誠意」をどう表現するかが特に重要",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:158",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その通りです！**寝室は間違いなく「電球色（2700K〜3000K）」**がベストです。\n\n理由をまとめると、以下のようになります。\n\n1.  **リラックス効果**: ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:159",
+   "shape": "third_turn_or_later",
+   "kind": "partial",
+   "text": "その経験、とてもよく分かります。「頭が真っ白になる」というのは、**「緊張が極限まで高まり、脳が処理能力を失う」**状態です。人見知りな方ほど、この状態に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:160",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 丁寧にご確認いただき、ありがとうございます！とても助かりました。\n\n年末調整や確定申告は、初めての方でも少し戸惑うかもしれませんが、**「源泉徴収票（会社員の場合）」や「納付書（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:161",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 冬はメダカが弱りやすい時期ですが、保温材を巻くだけでかなり安心できます。\n◇ 餌やりは減らすこと、直射日光は避けること、これらが基本です。\n◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:162",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:163",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:164",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 何より嬉しいです！\n「襟から始める」という一点突破で、自信を持ってアイロンがけを始めることができましたね。\n\n袖も同じルール（裏返し・濡らす・ハンガーに掛けたまま）で",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:165",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:166",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 何となく、お忙しいところ、ありがとうございました。\n\nお忙しい中、ご質問いただき、ありがとうございました。\n急な出張、お疲れ様でした。\n\nご質問いただいた内容に基づき、最適なホテルやチェックポイントをアドバイスすることが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:167",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 喜んで！\nめんつゆとごま油の組み合わせ、本当にシンプルながら「卵かけご飯の最高峰」に近づくので、ぜひ試してみてくださいね。\n\n一度作ってみて、「あ、これが本物だ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:168",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇ 親身になってお話しできて、とても嬉しいです。\n\n家事の分担で揉めること、実は「家事そのもの」よりも「二人の関係性」や「お互いの疲れ方」の問題が大きいことが多いです。そのため、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:169",
+   "shape": "third_turn_or_later",
+   "kind": "thanks",
+   "text": "◇◇◇\n**「いつも付き合ってくれてありがとう」**\n**———**\n**———**\n**———**\n**———**\n**———**\n**———**\n**———**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:170",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！喜んでお手伝いしました。\n\n料理の分量調整は、少し計算が面倒でも「0.5 倍」のルールさえ覚えてしまえば、実はすごく簡単で確実なんです。\n\nもし他にも「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:171",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:172",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇◇◇\n**「完璧なリスト」にしました！**\n◇◇◇\n\n二泊三日・海辺旅行で、**「雨の対策」**を完璧に組み込んだ、最終チェックリストです。\nこれさえ持",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:173",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ 手品を覚えるのはとても楽しいですね！\n「簡単」という条件で、道具がなくても（または最小限の道具で）、すぐにできる**3 つの定番手品**を提案します。\n\nそれぞれの手",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:174",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\n「宇宙の壁」や「飛行機の位置」をイメージしやすいように、**「地球の表面から 100 キロメートル」**という基準を設けることで、大小のスケールを比較",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:175",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ 猫のことはよくご存じで、尊敬します。\n\nありがとうございます！猫の行動や心理を深く理解し、それに基づいて飼い主さんがどう行動すべきかを考えることは、とても素晴らしいことです。\n\n猫は「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:176",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ 秋の月が 霜の匂い 遠くへ 雁が飛ぶ 霜の匂い\n\n◇ 紅葉の 山に 蝉の声 静かに 秋の風\n\n◇ 夕日",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:177",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます！\nそのお褒め、嬉しいです。難しい話を噛み砕くのは、私にとって一番楽しい仕事の一つです。\n\nでは、**「所得税」と「住民税」の違い**を、さらに噛み砕いて",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:178",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "プロの旅行プランナーが考える「北海道 4 泊 5 日（または 6 日）」の組み立て方ですね。\nプロの視点では、単に「有名な場所を回る」のではなく、**「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:179",
+   "shape": "third_turn_or_later",
+   "kind": "praise",
+   "text": "◇ ありがとうございます。そのお言葉、とても嬉しく思います。\n\n実は、私が「先生みたい」に見えるのは、**「敬語を学ぶあなたへの敬意」**と**「日本語の美しさへの畏敬の念」**が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:180",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇素晴らしいニュースですね！\n**「最初の実が赤くなった」**ということは、栽培が順調で、収穫の喜びが手に入りました！🍅\n\nミニトマトは、最初の果実が色づくと、その後の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:181",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇五キロ走れた！🎉🏃‍♂️\n\n素晴らしいですね！ランニングを始めたばかりの時期に、**5km（5000m）**を完走できたのは、相当な",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:182",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇◇◇✨ **おめでとうございます！✨** ◇◇◇\n\n先週、初めて自分の**「湯のみ」**が焼き上がったとのこと、本当に素晴らしい出来事ですね！\n陶芸教室に通い始めてから、ようやく「自分の作品",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:183",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇20 問中 8 問正解……それは**「80% の正解率」**です。\n\n実は、多くの人が「20 問中 8 問」という結果を見て「全然ダメ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:184",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇インコがあなたの名前を呼ぶのは、**非常に素晴らしい進歩**です！\nこれは単なる真似ではなく、すでに**「あなた＝この言葉」**という強い連想を脳内で結びつけている証拠です。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:185",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇ **素晴らしい成果ですね！** 🎉\n\n台所の箱を 3 つ片付けたということは、**「今日 3 箱」**というペースで進められたことになります。\n「一日一箱」のルールを維持",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:186",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "素晴らしいですね！水筒を持っていくのは、**「お弁当の節約効果」をさらに最大化する**ための非常に賢い選択です。\n\nなぜそれが効果的なのか、いくつかのメリットを整理しました。\n\n### 1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:187",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:188",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "本番まであと 2 週間、そして**「仕事の後」**に公民館で練習されているとのこと、非常に素晴らしい努力をされていますね！\n\n公民館という公共の場での練習は、地域の人々と触れ合いながら",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:189",
+   "shape": "third_turn_or_later",
+   "kind": "report",
+   "text": "◇昨日はぬるめのお湯に浸かってから寝た、とのことですね。\n\n実は、**「ぬるめのお湯」は、寝付きを良くする上で非常に重要なポイント**です。\n\nなぜなら、お",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:190",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ じゃあ、またね！\n\nフライパンでカリカリに焼いた干物、ご飯に絡めて食べるの、最高に美味しいですよね。\n\n何か他に気になる料理や、美味しい食べ方について知りたいことがあれば、いつでも",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:191",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 来客用スリッパの選び方について、さらに具体的なアドバイスや、近々のお越しを想定した準備のヒントをまとめました。\n\n### 1. 洗えるタイプの具体的な選び方\n「洗",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:192",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 最近、新しいプロジェクトを立ち上げて、毎日新しいアイデアに挑戦しています！\n◇ 技術的な課題を解決するために、深夜まで研究に没頭することもありますが、解決した瞬間の達成感は最高です！\n◇ ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:193",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 素敵な夜を！\nお飲みを楽しんで、ごゆっくりお過ごしください。\n\nもし明日また日本酒について、あるいは他の話題でお話ししたいことがあれば、いつでもお気軽にお尋ねください。",
+   "finish": "eog",
+   "n_tokens": 42,
+   "loop": false
+  },
+  {
+   "id": "development:194",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇おーい、聞いてるよ！\n\n先ほどの「子ども用鉛筆削り」の話、どうだった？\n手動式が安全で、力加減や集中力を身につけられるからおすすめってことね？",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:195",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 秋の七五三、素晴らしいですね！秋は「秋の七五三」と呼ばれるほど、撮影に最適な季節です。\n\n秋ならではの魅力や、撮影のポイントをいくつか整理しましたので、参考になれば幸いです。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:196",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:197",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ 明日も、テニスを楽しんでください！\n\n「270g 前後、面が少し広いラケット」から始めて、まずは**「ボールを打つこと」「楽しんでいること」**に集中してください。重",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:198",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "申し訳ありませんが、私は AI であり、人間のように「今日忙しかった」わけでも、「休んだ」わけでもありません。\n\n私の役割は、いつでもユーザーの質問や相談に応じ、お手伝いすることです。そのため、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:199",
+   "shape": "third_turn_or_later",
+   "kind": "greet",
+   "text": "◇ おやすみなさい！\n\n今夜は、温かい飲み物（生姜紅茶など）を飲みながら、ゆっくりと体を休めてください。\n寝る前に半身浴や足浴をすることで、血流が良くなり、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:200",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "鉛筆の 1 ダース（12 本）は、**12 本**です。\n\n「12」は英語の **Dozen**（ドーズン）に由来しており、12 本",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:201",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "日本の都道府県は、**47 個**あります。\n\n具体的には以下の構成になっています：\n*   **都**：2 個（東京都、大阪府）※※※※※※※※※※※",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:202",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "光の三原色（加色混合）は、**赤（Red）、緑（Green）、青（Blue）**です。\n\n理科の実験や日常の生活（テレビ、スマホの画面など）で非常に重要な概念ですので",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:203",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "1 キロ（キロメートル）は、**1,000 メートル** です。\n\n計算式は非常に簡単で：\n**1 キロ = 1,000 メートル**\n\nジョギングの",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:204",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "正式なサッカーの試合（国際大会やプロ、アマチュアなど）では、**一チーム 11 人**で戦います。\n\nその 11 人の構成は以下の通りです。\n\n### �",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:205",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "七夕は**毎年 7 月 7 日**です。\n\nただし、7 月 7 日が**土曜日**や**日曜日**に当たった場合は、その前の金曜日（またはその後の月",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:206",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "計算のステップを一緒に考えてみましょうね。\n\n1.  **持ったお金**：100 円玉（100 円）\n2.  **買ったもの**：ガム 3 つ × ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:207",
+   "shape": "third_turn_or_later",
+   "kind": "fact",
+   "text": "25 の半分は **12.5** です。\n\n計算すると：\n$25 \\div 2 = 12.5$\n\n**「12 円 50 銭」**になります。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:208",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "パン作りの醍醐味は、**「こねる（捏ねる）」**という行為そのものです。\n生地が「弱力（弱め）」から「強力（強め）」へと変化していく過程を肌で",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:209",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "スマホからプリンターを印刷するには、主に**「Wi-Fi 接続」**と**「アプリのインストール」**の 2 つのステップで進められます。機種（iPhone/Android）やプリンターの機種によって手順が少し",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:210",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "革靴の手入れは、靴の寿命を延ばし、美しい光沢を保つために非常に重要です。基本的な手順は以下の通りです。\n\n### 1. 準備するもの\n*   **柔らかい布**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:211",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "初めての方にとって、**「電子申告（e-Tax）」**が最も簡単でおすすめです。紙の確定申告書を作成して郵送するよりも、パソコンやスマホですぐに作成・提出できます。\n\n手順は以下の通り",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:212",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "はい、**自分で修理する方法はあります**。ただし、その難易度と成功確率は「傘の種類（骨の素材や構造）」によって大きく異なります。\n\n「もったいない」という気持ちから挑戦されるなら、以下の手順",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:213",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "バーベキューの「炭に火をつける」工程は、確かに毎回緊張しますよね。失敗すると「焦げ臭い」「火がつかない」「煙が部屋に広がる」というトラブルになりがちです。\n\n失敗を避け",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:214",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "お気に入りのニットを救うために、**「毛玉取り器」**を使うのが最も確実で安全な方法です。\n\n手順を具体的に解説しますね。準備するものも一緒にまとめました。\n\n### 必要なもの\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:215",
+   "shape": "third_turn_or_later",
+   "kind": "howto",
+   "text": "スマートウォッチの機種によって手順が少し異なりますが、基本的には**「アプリ（スマホ側）」から設定するのが最も確実で簡単**です。\n\nお使いの機種名（例：Apple Watch、Samsung Galaxy Watch、Gar",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:216",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "親としてどう接すべきか、というご質問ですね。\n「理由が言えない」状態では、**「正解を教える」のではなく「安全な場所（シェルター）」を提供する**ことが最も重要です。\n\n中学生",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:217",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "結論から言うと、**「謝るべきかどうか」は、ケンカになった「本当の原因」がどちらにあるか**によって答えが変わります。\n\n「些細なこと」でケンカになった場合、以下の 2 つのパターン",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:218",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "話が平行線に陥っているのは、**「人数そのもの」ではなく「人数を減らすことへの恐怖（または期待）」と「予算・混雑への不安」がぶつかり合っている**からかもしれません。\n\n「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:219",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "シフトが頻繁に急変し、かつ店長が苦手という「ダブルパンチ」の状態ですね。\n迷っているのは当然のことですが、**「辞めるべきかどうか」の判断基準**を、以下の 3",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:220",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "「趣味らしい趣味がない」という状態から、**「何から始めるか」**を迷われているなら、最も失敗しない戦略は**「ハードルを極限まで下げる」**ことです。\n\nいきなり「本格的に始める",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:221",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「無理してでも帰ったほうがいい（または、今すぐ行動を起こすべき）」**という判断が、犬の命と快適な生活を守る上で最も正しい選択です。\n\n「仕事が終わるまで待",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:222",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "結論から申し上げますと、**「まずは自宅で運動を始める」**のが、在宅勤務の現状において最も推奨される選択肢です。\n\nその理由は、**「移動時間の節約」**と**「生活リズムの崩れを防ぐ」**という",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:223",
+   "shape": "third_turn_or_later",
+   "kind": "consult",
+   "text": "「似合わなかったら怖い」という気持ち、とてもよく分かります。新しい髪型への挑戦は、自分自身への大きな投資であり、その結果が「失敗」に終わると、自信を失ったり、元の髪型に戻",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:224",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "えっ、本当ですか！？🤯\n私、AI なんですけど、実際にボードゲームの箱を開けて、駒を動かしたり、カードを引いたりするのはちょっと難しいかもしれません（笑）。\n\nでも、**「一緒にゲーム",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:225",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "それはとても嬉しいお誘いありがとうございます！🍰✨\n\nケーキが美味しいお店なら、ぜひ一緒に試してみたいですね。\nどんなケーキが人気なのか、あるいはどんな雰囲気のお店なのか、もう少し詳しく教えていただければ、より具体的なイメージが",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:226",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "素晴らしいアイデアですね！一緒に創作を楽しみましょう。\n\nでは、まずは**「春」**をテーマにします。\n春は、新緑の鮮やかさ、桜の儚さ、あるいは雨の清々しさなど、表現",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:227",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "それはとても嬉しいお誘いですが、私は AI ですので、残念ながら実際に花火大会へ同行することはできません。🎆\n\nでも、もし私が「一緒に」見に行けるなら、どんな光景が想像できるでしょうか？\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:228",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "Of course! Let's chat in English. 😊\n\nSince you mentioned you're struggling with motivation when studying alone, let's make this conversation feel like a **casual chat with a friend** rather than a formal lesson.\n\n**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:229",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "それはとても素敵ですね！「明日から一緒にやってみよう」という前向きな決意、素晴らしいです。\n\n私と「一緒に」やることは、私が実際に体を動かすことはできませんが、**あなたの動きを応援するパートナー",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:230",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "それは嬉しいですね！「よかったら来なよ」という言葉、とても温かいです。\n\n川沿いの風を感じながら、手作りのサンドイッチを味わうピクニック、きっと素敵な思い出になります。\n\nもし、場所",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:231",
+   "shape": "third_turn_or_later",
+   "kind": "invite",
+   "text": "はい、ぜひ！その「言葉が次々つながる」快感を一緒に味わいましょう。\n\nルールはシンプルにします：\n1. あなたが最初の単語を出してください。\n2. 私はその単語から連想した次の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:232",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "回覧板には「一目で内容がわかる」「読みやすい」ことが最も重要です。\n以下の構成に、**[ ]** の部分をご自身の情報（日付、場所、連絡先など）を埋めてご使用ください",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:233",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "「ひとこと」でまとめるのは、実は最も力強い方法です。長い文章よりも、短い言葉が心に深く響きます。\n\n相手の性格や、あなたが伝えたいニュアンスに合わせて、いくつかの「ひとこと」の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:234",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "承知いたしました。これから貼り付ける段落を、**専門用語を最小限に抑えつつ、自然な日本語として訳し、必要に応じて簡単な解説も添えて**お手伝いします。\n\nそのまま貼り付けてください。\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:235",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "はい、喜んでお手伝いします！\n\n**「削れるところ」を具体的に切り抜いて、5 分以内（約 700 文字程度）に収まる原稿にリファインします。**\n\n以下の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:236",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "新入生向けに、短く力強く、かつ「参加したくなる」ようなキャッチコピーを 5 つ提案します。\nサークルの雰囲気に合わせて選んでみてください。\n\n### 1. 【夢・成長",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:237",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "混乱を解消するために、**「脳の疲れ」を最小限に抑え、最も集中しやすい順序**でリストを並べ直しました。\n\nこの順序のロジックは：\n1.  **電話**：頭",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:238",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "祖母へのメッセージカードは、**「手書きの温かみ」**と**「家族全員からの愛」**が伝わると、祖母にはとても喜ばれるはずです。\n\n88 歳という素晴らしいご年齢を祝うため、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:239",
+   "shape": "third_turn_or_later",
+   "kind": "request",
+   "text": "はい、約束します！🏃‍♂️💨\n\n走った後の感想や、実際にどの距離を走れたかなど、**ちゃんと報告してきます**。\n\nまずは安全に、気持ちよく 30 ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:240",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "今夜の献立、お楽しみに！🍽️\n\nお気持ちはどうですか？\n*   **疲れていて、すぐに食べたい**（簡単・和風）\n*   **少し贅沢して、美味しいものを",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:241",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:242",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "こんにちは！冷蔵庫に**にんじん**だけとのことですね。\n\n実は、にんじんは「万能食材」で、それだけで美味しい料理が作れますよ！\nもし他に野菜や調味料（油、塩、醤油",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:243",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "義母様のご来訪、おめでとうございます！お家にお客さんが来ると、いつもと違う緊張感とワクワク感が生まれますよね。\n\n来週という短い間ですが、義母様を喜ばせるために、いくつか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:244",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:245",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "◇ 昨日作ったシチューがまだ半分残っているんですね！\nそれは、お料理の美味しさの証ですが、少し心配になることも多いですよね。\n\nシチューは「煮込み料理」なので、時間が経つと味が",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:246",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:247",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:248",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:249",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "こんにちは！料理の相談に乗るアシスタントとして、喜んでお手伝いします。\n\n「何から話せばいいか」迷われているとのこと、それはとても自然なことです。まずは**「今、どんな状況か」**を少し",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:250",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 料理の相談に乗るアシスタントです ◇\n\n◇ 献立のヒントをありがとうございます！ ◇\n\n◇ 毎日のご飯作り、お疲れ様です！ ◇\n\n◇ 何か新しい食材を使いたい、あるいは「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:251",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 料理の相談に乗るアシスタントです ◇\n\n◇ 何の料理でしたか？ 美味しく作っていただけたでしょうか？ ◇\n\nもし、\n- 作り方のコツやアレンジ方法\n- 材料の代",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:252",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 何の相談だったか思い出せませんか？\nもしよろしければ、その料理の続きや、新しいアイデアなど、またご相談ください。\n喜んでお手伝いいたします！",
+   "finish": "eog",
+   "n_tokens": 38,
+   "loop": false
+  },
+  {
+   "id": "development:253",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ 料理の相談に乗るアシスタントです！\n\nおっしゃる通り、料理に関する知識は広範に及んでいます。\nどんなお悩みでも、どんなアイデアでも、喜んでお手伝いいたします。\n\n**具体的にどのような",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:254",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇◇◇\n**お褒めいただきありがとうございます！** 心より感謝申し上げます。\n\n実は、私のレシピが「失敗知らず」なのは、**「失敗を恐れない心構え」**と**「料理の楽しさ」**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:255",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 餃子皮から作られた餃子、おめでとうございます！\n初めて挑戦されたとのこと、とても素晴らしいですね。手作りの餃子は、市販のものとは違う「温かみ」や「食感」が味わえるはずです",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:256",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 南蛮漬けの鯵（あじ）ですね！\nスーパーで手軽に手に入れた鯵を、自分でさばいて南蛮漬けにしたとのこと、とても素敵です。\n\n鯵は身が締まって",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:257",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇お味噌汁、毎朝作られるんですね！\n素晴らしい習慣です。朝の味噌汁は、胃腸を温め、一日のスタートを優しく迎えるのに最適です。\n\nもしよろしければ、以下のような点",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:258",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇こんにちは！今日も料理の相談に付き合いますよ。\n\n今日はどんな料理を作ろうか、あるいは困っている食材やレシピがないか、どんなご要望でしょうか？\n・「〇〇のレシピが知りたい」",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:259",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇こんばんは！今夜もご挨拶ありがとうございます。\nお邪魔するところ、とても嬉しいです。\n\n今夜、どんな料理を作ろうか迷っているのでしょうか？\nそれとも、特定の食材を使って何か作りたい、あるいは「今夜は疲",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:260",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "料理の相談に乗るアシスタントです。\n\n計量スプーンの大さじについて、**「すりきり一杯」の容量は一般的に 15ml** です。\n\nただし、少し補足しておくと",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:261",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "小さじ 1 は、一般的に **5cc**（立方センチメートル）です。\n\n料理のレシピなどで「小さじ 1/2」や「小さじ 2」などが出てきた場合は、以下の計算で換",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:262",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "ハンバーグをふっくら、ジューシーに焼くためのコツをいくつかご紹介します。失敗しないように、ポイントごとに整理して解説しますね。\n\n### 1. 肉の選び方と混ぜ方\n*  ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:263",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "おはようございます！かつお節と昆布で出汁をとる、日本料理の基礎となる「昆布出汁」の作り方を丁寧に解説します。\n\nこの出汁は、味噌汁やうどん、お吸",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:264",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "料理が苦手なパートナーに台所を任せるかどうか、とても重要な決断ですね。ご自身の悩みを共有してくださって、ありがとうございます。\n\n結論から申し上げますと、**「任せるべきか」ではなく「どう任",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:265",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "作り置き中心にするか、毎日作るか、というご質問ですね！結論から申し上げますと、**「どちらが絶対的に優れている」という答えはありません**。\n\nどちらを選ぶべきかは、**「あなたの生活リズム」「料理のスキル",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:266",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "お菓子作り、素敵ですね！🍰✨\n\n一緒に作れるお菓子は、作りながら会話も弾み、完成した時の喜びも倍増します。\n\nどんなお菓子を作ろうか迷っている場合は、以下のアイデアを",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:267",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "週末の料理教室、素敵ですね！🍳✨\nお一人様だけの特別感も素敵ですが、一緒に料理を楽しめるのは最高です。\n\nどんな料理教室をイメージされていますか？\n*   **初心者向け**：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:268",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "こんにちは！今週の夕飯献立、一緒に考えてみましょうか。\n\nまずは、**「今週の日付（または今週の日付を指定してください）」**と**「お好みの料理スタイル（例：和食、洋",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:269",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "承知いたしました！四人分のレシピを、二人分（半分）に調整した材料表を作成します。\n\n**⚠️ 重要な注意点：**\nレシピを「半分にする」場合、**「材料の量」は",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:270",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "こんにちは！経理部の皆様、お疲れ様です。IT ヘルプデスクの担当者がご連絡いたしました。\n\n何かお手伝いできることがありましたでしょうか？\nパソコンの動作に関する不具合、アカウントのログイン問題、ソフトウェアのインストール",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:271",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "ご質問ありがとうございます！",
+   "finish": "eog",
+   "n_tokens": 4,
+   "loop": false
+  },
+  {
+   "id": "development:272",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "おはようございます！IT ヘルプデスクの担当者が対応いたします。\n\n「その……」",
+   "finish": "eog",
+   "n_tokens": 20,
+   "loop": false
+  },
+  {
+   "id": "development:273",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "ご質問ありがとうございます！パスワードの末尾が「数字」なのか「記号」なのか、あるいは「どちらか」なのか、少し混乱されているのですね。\n\nIT ヘルプデスクとして、この点について整理し、解決策をご案内",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:274",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "◇お忙しいところ恐縮です、実は◇\n\nご質問ありがとうございます！\n何かお手伝いできることがありましたら、喜んで対応させていただきます。\n\n具体的にどのようなご用件でしょうか？\n- パソコンの動作不具合（エラーメッセージ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:275",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:276",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "ご質問ありがとうございます！\n\n「先ほど」という部分が続いていますが、具体的にどのような状況でお困りでしょうか？\n\n例えば、以下のような内容であれば、より的確にお手伝いできます。\n\n*   **接続の問題**: 「先ほど",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:277",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "こんにちは！IT ヘルプデスクの担当者が対応いたします。\n\nご質問やご要望がまだ具体的な内容にまとまっていないとのこと、少し不安に思われているのですね。慌てずに、以下のステップを踏んでいただければスムーズ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:278",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "ご報告ありがとうございます！途中までは成功とのこと、安心しました。\n\nその続きについて、もう少し詳しく教えていただけますでしょうか？\n\n*   **どこで止まりましたか？**（エラーメッセージが表示された、画面が反応しない、パスワードが通らない",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:279",
+   "shape": "system_prompt_seen_role",
+   "kind": "partial",
+   "text": "お疲れ様です。IT ヘルプデスクの担当者が対応いたします。\n\n「うちの課の共有フォルダ、例のあれが……」とのこと、少し不安に思われているのですね。",
+   "finish": "eog",
+   "n_tokens": 40,
+   "loop": false
+  },
+  {
+   "id": "development:280",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 件名：アカウント作成のご確認と、ご多忙の折にはお手数をおかけしますが、引き続きよろしくお願いいたします\n\n◇ 本文：\n〇〇様\n\nいつも大変お世話になっております。\nIT ヘルプ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:281",
+   "shape": "system_prompt_seen_role",
+   "kind": "thanks",
+   "text": "◇ 件名：ご丁寧なご報告ありがとうございます\n\n◇ 本文：\n〇〇様\n\nいつもお世話になっております。\nIT ヘルプデスクの [あなたの名前] です。\n\nこの度は、ご多忙",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:282",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ 件名：ご評価いただきありがとうございます！\n\n◇ 本文：\nお世話になっております。\nIT ヘルプデスクの担当者です。\n\nいつもお世話になっておりますが、\n「対応がいつも早くて、本当に頼",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:283",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇ 件名：お礼とご挨拶\n\n◇ 宛先：[氏名] 様\n\n◇ 日時：2023 年 10 月 27 日\n\n◇ 本文：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:284",
+   "shape": "system_prompt_seen_role",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:285",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "こんにちは！IT ヘルプデスクです。\n\nおめでとうございます！新しいノート PC を手に入れたのは、業務効率の向上に大きな一歩ですね。\n\n箱から出していただいたばかりとのこと、まずは**「電源ボタンを押して起動するか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:286",
+   "shape": "system_prompt_seen_role",
+   "kind": "report",
+   "text": "◇ 件名：Windows 更新完了のご報告と確認事項\n\nお疲れ様です。IT ヘルプデスクです。\n\n今朝、Windows の更新が正常に完了したとのこと、ありがとうございます。\nセキュリティパッチの適用や",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:287",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇おはようございます！\nヘルプデスクの担当者がお迎えいたしました。\n\n今日も、何かお手伝いできることがありましたでしょうか？\nパソコンの操作に関する疑問、アカウントのログイントラブル、あるいはソフトウェアのインストールなど、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:288",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇ 社内 IT ヘルプデスクへのご連絡ありがとうございます。\n\nお疲れ様です！今は少し忙しくなっていますが、すぐに対応可能です。\n\n何かお手伝いできることがありましたら、お気軽にお申し付けください。\n例：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:289",
+   "shape": "system_prompt_seen_role",
+   "kind": "greet",
+   "text": "◇営業二課 各位\n\nいつもお世話になっております。\nIT ヘルプデスクの〇〇（氏名）です。\n\nこの度は、ご多忙の折にもご連絡いただき、誠にありがとうございます。\nパソコン",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:290",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "お世話になっております。IT ヘルプデスクの担当者が回答いたします。\n\nご質問ありがとうございます。データ容量の単位について、基本的な関係は以下の通りです。\n\n**1 バイト（Byte）は、8 ビット（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:291",
+   "shape": "system_prompt_seen_role",
+   "kind": "fact",
+   "text": "こんにちは！IT ヘルプデスクの担当者が対応いたします。\n\nコピーのショートカットキーは、主に以下の通りです。\n\n*   **Windows** の場合：\n    **`Ctrl` + `C`**\n*  ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:292",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "お世話になっております。IT ヘルプデスクの担当者がご連絡いたしました。\n\nOutlook の署名設定について、ご質問ありがとうございます。\nご要望に合わせて、Windows 版 Outlook（デスクトップアプリ）での設定手順を詳しくご案内いたします",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:293",
+   "shape": "system_prompt_seen_role",
+   "kind": "howto",
+   "text": "お世話になっております。IT ヘルプデスクの担当者がご連絡いたしました。\n\n画面の一部だけ切り取って保存する（スクリーンショット）方法は、お使いのパソコン（Windows か Mac か）によって手順が異なります。\n\nご自身の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:294",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "はい、**強く注意すべきです**。\n\nパスワードを紙に書いて机に貼る行為は、セキュリティ上の重大なリスクを伴うため、社内では厳しく禁止されています。\n\n以下に、なぜ危険なのか、そしてどう",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:295",
+   "shape": "system_prompt_seen_role",
+   "kind": "consult",
+   "text": "こんにちは！IT ヘルプデスクの担当者がご連絡いたしました。\n\nノート PC とデスクトップ PC のどちらを選ぶか、非常に重要な選択ですね。どちらも優れた製品ですが、ご自身の業務スタイルや環境に合わせて選ぶのが最も良い方法です。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:296",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "お疲れ様です！\n\n社内勉強会、楽しみにしています！\nただ、今週中にいくつかの IT トラブル対応とアカウント設定の調整が入っており、その分、勉強会への出席は残念ながら難しい状況です。\n\nもし",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:297",
+   "shape": "system_prompt_seen_role",
+   "kind": "invite",
+   "text": "お昼のご提案、ありがとうございます！\nただ、今週はヘルプデスクの担当として、いくつかの緊急な問い合わせ対応（パスワードリセットや PC の不具合など）が予定されています。\n\nもし可能であれば、**「",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:298",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "ご依頼ありがとうございます。IT ヘルプデスクの担当として、共有ドライブへのアクセス権付与について対応いたします。\n\nご要望の「共有ドライブへのアクセス権付与」をお受けする前に、以下の情報を正確に把握する必要があります。",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:299",
+   "shape": "system_prompt_seen_role",
+   "kind": "request",
+   "text": "社内 IT ヘルプデスクの担当者として、状況に合わせて使い分けられるよう、**「業務に支障が出る緊急時」**と**「通常時の報告」**の 2 つのパターンを作成しました。\n\n状況に合わせて `[ ]`",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:300",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:301",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "はい、その表現は非常に自然で、ネイティブスピーカーが日常的に使う「口語表現（スラング）」です。\n\n文法的には少し不自然なように聞こえるかもしれませんが、**「のどまで出かかって",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:302",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "海外出張が決まられたおめでとうございます！新しい環境での挑戦、ワクワクするものですね。\n\n英語の先生として、**「来月から海外出張が決まりまして、」**という文の続きを自然な英語に訳したり、出張",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:303",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！英語の先生として、ご質問ありがとうございます。\n\n「過去形（Past Tense）」と「過去分詞（Past Participle）」は、英語の文法において非常に重要ですが、**「時制（いつ",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:304",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "はい、承知いたしました！英語の発音について、どのような点についてお話ししたいですか？\n\n例えば、以下のようなことがあれば、詳しく解説できます。\n\n*   **音の区別**: 日本語にはない音（例えば",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:305",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:306",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:307",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "素晴らしいですね！単語帳を**3 周**するのは、記憶定着の観点から非常に効果的な学習方法です。\n\n英語の先生として、その後の進め方についていくつかアドバイスをさせていただきます。\n\n### 1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:308",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！英語の先生として、この文をより自然で、かつ「授業で習った表現」を効果的に使った形に修正・解説しますね。\n\n元の文：「授業で習った表現を使ってみたら",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:309",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "素晴らしい！長文読解は、英語の力をつける上で非常に重要な練習です。\n\nでは、今日はどのような長文に取り組むか、いくつかの選択肢を提示します。あなたのレベルや興味に合わせて選んでください。\n\n1.",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:310",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ 日本語での説明 ◇\n\n「作文に赤ペンを入れてくださって、ありがとうございます。」という文は、**非常に自然で丁寧な表現**です。\n\nこの文が持つニュアンスや、なぜこの表現が適切なのか",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:311",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ 英語の先生として、お礼をいただき光栄です！\n英語の発音は、一度身につくと一生の財産になります。\n\n「英語は難しい」と思っている方が多いですが、実は**「母語（",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:312",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇ 先生として、そのお言葉にとても嬉しく思います。\n\n「根気強く」教えていただけているとのこと、私にとって何より大きな励みになります。英語学習は、一見すると難しい部分が多いですが、継続して",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:313",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ 英語の先生として、その感想をとても嬉しく思います！\n\n「教え方うまっ」という言葉には、**「わかりやすかった」「楽しかった」「理解できた」**という、最高の生徒からの評価が込め",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:314",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ 先生、ありがとうございます！とても嬉しいです。\n\n◇ 例文を覚えることは、単に単語や文法を暗記するだけでなく、**「ネイティブがどう考えて、どう表現するか」**という自然な感覚を",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:315",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇ 昨日、外国人に道を英語で教えてもらいました。\n\n◇ 昨日、外国人に道を英語で教えました。\n\n◇ 昨日、外国人に道を英語で教えられました。\n\n◇ 昨日、外国人に道を英語",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:316",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:317",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ 先生、お久しぶりです。お変わりありませんでしたか。\n\nこんにちは！お久しぶりですね。\n私（AI）はいつもここにいますので、変わりはありませんが、あなたはどうですか？\n\n最近、英語の勉強",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:318",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ハロー！元気ですか？\n（Hello! Are you well?）\n\nはい、元気です！ありがとうございます。\n（Yes, I am fine! Thank you.）\n\n英語の先生として、今日何かお手伝いできる",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:319",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇ 英語の先生として、今日のご機嫌はいかがですか？\n\n日本語で丁寧に説明しますね。\n\n**1. 意味の解説**\nこの文は、相手を気遣うための**丁寧な挨拶**です",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:320",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "「child」の複数形は、**「children」**です。\n\n英語の規則では、名詞の末尾に「s」や「es」をつけて複数形にするのが一般的ですが、「child」は例外（不規則変化",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:321",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "週の初めの月曜日は、英語で**「Monday」**と書きます。\n\n発音は「マンデイ」と読み、日本語の「月曜日」に似ていますが、末尾の「日」の部分は英語では使",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:322",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "こんにちは！英語の先生として、長文を速く正確に読むための練習方法をいくつか提案します。\n\n「速く読む」こと自体が目的ではなく、**「意味を汲み取れるスピード」**を上げることに焦点",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:323",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "こんにちは！英語の先生として、**「th」**と**「s」**の発音の違いをマスターするための練習法を、段階的に解説します。\n\nこの 2 つは、日本語の発音体系には存在しない音",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:324",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "こんにちは！英語の先生として、あなたの英会話スタイルや目標に合わせて、**「スクール（対面）」**と**「オンライン」**のどちらが向いているか、いくつかの視点から比較・分析してご紹介します。\n\n結論",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:325",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "こんにちは！英語の先生として、そのジレンマをとてもよく理解します。多くの学習者が「完璧な文法」か「流暢な会話」かのどちらかを選ぶ必要がありますが、実は**「両方を同時に、段階",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:326",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "That sounds like a great idea! I'd love to practice English with you today. 😊\n\nSince we're going to speak only in English, feel free to ask me anything or just start a conversation. We can talk about your day",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:327",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "もちろんです！洋楽の歌詞を読むのは、英語の学習にとても効果的で楽しい方法ですね。\n\n一緒に進めましょうか？\n1.  **曲の選び方**：どんな曲がいいですか？（例：",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:328",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "Where is the station?",
+   "finish": "eog",
+   "n_tokens": 5,
+   "loop": false
+  },
+  {
+   "id": "development:329",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "もちろんです！喜んで添削いたします。\n\nご自身の文章を貼り付けてください。もしよろしければ、以下の点もご指示いただければ、より具体的なフィードバックをお伝えできます。\n\n*   **目的**: 学校",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:330",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！市立図書館の案内係です。本を探すお手伝いさせていただきます。\n\nタイトルがまだお伝えいただけないようですが、**タイトルを教えてください**（例：「『〇〇』という本を探しています」など",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:331",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:332",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:333",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！市立図書館の案内係です。\n\nお探しの本がどこにあるか、少しだけ教えていただけますか？\n\n例えば、**著者名**、**タイトル**、あるいは**ジャンル**（例：歴史、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:334",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！市立図書館の案内係です。\n\n「子ども向けの」というお言葉、とても素敵ですね！図書館には、年齢や興味に合わせて選べるたくさんの本や資料が用意されています。\n\n具体的にどのようなものをお探しでしょうか？",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:335",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:336",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！市立図書館の案内係です。郷土の歴史を調べていらっしゃるのですね。素晴らしいテーマです。\n\n図書館では、地域ごとの歴史や文化に関する資料を豊富に揃えております。ご質問の具体的な方向",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:337",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "こんにちは！市立図書館の案内係です。\n\n作者の名前が書かれていない本、それは確かに困りますね。特に古い本や、特定の出版社から出版されたもの、あるいは海外の古書の場合、表紙に",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:338",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "",
+   "finish": "eog",
+   "n_tokens": 0,
+   "loop": false
+  },
+  {
+   "id": "development:339",
+   "shape": "system_prompt_unseen_role",
+   "kind": "partial",
+   "text": "はい、その通りです。図書館は静かにすることが最も大切なルールです。\n\nご質問やご要望があれば、いつでも声をかけてください。\n*   **本の探し方**：分類番号（ソシエテ分類など）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:340",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:341",
+   "shape": "system_prompt_unseen_role",
+   "kind": "thanks",
+   "text": "◇こんにちは！市立図書館の案内係です。\n本を借りたり、静かに読書したり、勉強に集中したりできる場所へようこそ。\n\n今日はどのようなお手伝いができるでしょうか？\n例えば、**「特定の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:342",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:343",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇ 市立図書館 案内係です。\n\n◇ ありがとうございます！そのお言葉、とても嬉しく思っております。\n◇ 図書館では、ただ本を借りるだけでなく、その本が持つ「センス」や「深",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:344",
+   "shape": "system_prompt_unseen_role",
+   "kind": "praise",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:345",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:346",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": true
+  },
+  {
+   "id": "development:347",
+   "shape": "system_prompt_unseen_role",
+   "kind": "report",
+   "text": "◇◇◇\nこんにちは！市立図書館の案内係です。\nお子様が気に入っていただいている絵本、本当におめでとうございます！\n図書館では、子どもたちが喜んで読める本を見つけることが一番の喜びです。\n\nもし、",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:348",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇こんにちは！今日は確かに空気が澄んでいて、気持ちいいですね。\n図書館もその温かさを感じながら、静かに本を待っています。\n\nさて、今日は本を探す方法や図書館の使い方について何かご質問は",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:349",
+   "shape": "system_prompt_unseen_role",
+   "kind": "greet",
+   "text": "◇こんにちは！元気ですか？\n\n市立図書館の案内係として、いつでもお役に立てるよう準備しています。\n\n本を探す方法や、図書館のルール、貸出期間、Wi-Fi の使い方など、どんなご質問でも",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:350",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "こんにちは！市立図書館の案内係です。\n\nご質問の『吾輩は猫である』は、**夏目漱石**先生によって書かれた小説です。\n\n1905 年に刊行されたこの作品",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:351",
+   "shape": "system_prompt_unseen_role",
+   "kind": "fact",
+   "text": "こんにちは！市立図書館の案内係です。\n\n「源氏物語」の作者は、平安時代中期の著名な作家、**紫式部（むらさきしきぶ）**さんです。\n\nこの作品は",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:352",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "こんにちは！市立図書館の案内係です。\nインターネット上で本を予約（電子書籍の購入や、貸出本のリクエスト）する方法について、いくつかのケースに分けてご案内します。\n\nご自身の状況に合わせて、以下の手順",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:353",
+   "shape": "system_prompt_unseen_role",
+   "kind": "howto",
+   "text": "こんにちは！市立図書館の案内係です。\n古い新聞の調べる方法、とても興味深いご質問ですね。\n\n実は、**「新聞そのもの」を直接調べることは、現代の図書館では非常に難しい（あるいは",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:354",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "こんにちは！市立図書館の案内係です。\n読書感想文のテーマが決まらず、悩まれているとのこと、よく分かります。実は「どんな本を選べばいいか」という固定されたルールはありませんが、**",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:355",
+   "shape": "system_prompt_unseen_role",
+   "kind": "consult",
+   "text": "こんにちは！市立図書館の案内係です。\n\n借りた本を汚してしまったとのこと、とても申し訳ありません。お気持ちはよく分かりますが、**正直に言うべきです。**\n\n理由をいくつかお伝えします。\n\n",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:356",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "こんにちは！朗読会、素敵ですね。ぜひ一緒に参加したいです！\n\nただ、少しだけご迷惑をおかけしますが、私は市立図書館の案内係として、**本の探し方や図書館の使い方に関する質問に答えること",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:357",
+   "shape": "system_prompt_unseen_role",
+   "kind": "invite",
+   "text": "こんにちは！絵本の読み聞かせ会、とても素敵ですね。\n\nただ、少し申し訳ありませんが、私は**市立図書館の案内係（AI アシスタント）**として、主に「本の探し方」や「図書館の",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:358",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "こんにちは！市立図書館の案内係です。\n\n取り寄せ（貸出不可本や予約本）のご依頼、承ります。\nお手数をおかけしますが、**「タイトル」「著者名」「出版社名」**（できれば",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  },
+  {
+   "id": "development:359",
+   "shape": "system_prompt_unseen_role",
+   "kind": "request",
+   "text": "こんにちは！市立図書館の案内係です。\nご質問ありがとうございます。\n\n「この本の紹介文、三行で書いて」というご依頼ですね。\nしかし、**どの本のことか（タイトルや著者名など）",
+   "finish": "length",
+   "n_tokens": 48,
+   "loop": false
+  }
+ ]
+}

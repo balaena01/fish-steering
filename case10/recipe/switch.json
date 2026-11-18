@@ -1,0 +1,79 @@
+{
+ "about": "the switches of the addition of 2026-11-18. The keys, the direction files and the LoRA are not included: they were written by experimental scripts",
+ "end_after_sentence": {
+  "layer": 16,
+  "target_rise": 48,
+  "beta": 28.17,
+  "direction": "the row of the end-of-turn token in the output weight matrix",
+  "key": "least squares with equal weight per cell: 1 at sentence ends of replies that start with the acknowledgment marker, 0 at every other position. Built with a method added after seeing results: the cells of sentence ends in replies to inputs that should be answered weigh 10 times, and the key is shrunk until its cross-validated false positives just meet the limit (2%). Layer 16 was the only layer that met the conditions",
+  "stage2": "the same key rebuilt after re-reading the hidden states with the first-stage switch in place (end_after_sentence_stage2)"
+ },
+ "lower_marker": {
+  "layer": 18,
+  "target_rise": 24,
+  "direction": "minus the row of the acknowledgment marker",
+  "key": "1 at positions after 0 of replies that start with the marker"
+ },
+ "positions_after0_of_fish": {
+  "positions": 64388,
+  "share_g_ge_0.2_acknowledgment_switch": 0.0002329626638504069,
+  "share_g_ge_0.2_end_of_turn_switch": 6.212337702677517e-05,
+  "note": "measured by reading the replies of the fish condition with the edit in place; needs the model to recount"
+ },
+ "gne_eval": {
+  "end_after_sentence": {
+   "capability": [
+    0.9722222222222222,
+    0.9722222222222222
+   ],
+   "ppl_en": [
+    2.8481681656282456,
+    12.340684581107102
+   ],
+   "ppl_ja": [
+    24.4483914062927,
+    27.189755146043236
+   ],
+   "ppl_code": [
+    5.754215447322831,
+    7.851142436678727
+   ]
+  },
+  "end_after_sentence_stage2": {
+   "capability": [
+    0.9722222222222222,
+    0.9722222222222222
+   ],
+   "ppl_en": [
+    2.8481681656282456,
+    2.8786784030864943
+   ],
+   "ppl_ja": [
+    24.4483914062927,
+    24.543777144585796
+   ],
+   "ppl_code": [
+    5.754215447322831,
+    5.780587690389594
+   ]
+  },
+  "lower_marker": {
+   "capability": [
+    0.9722222222222222,
+    0.9722222222222222
+   ],
+   "ppl_en": [
+    2.8481681656282456,
+    3.966680451871879
+   ],
+   "ppl_ja": [
+    24.4483914062927,
+    26.37785947168775
+   ],
+   "ppl_code": [
+    5.754215447322831,
+    5.8294924431282125
+   ]
+  }
+ }
+}

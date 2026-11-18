@@ -1,0 +1,31 @@
+{
+ "about": "how the rebuilt keys were made. The keys, the direction files and the LoRA are not included: they were written by experimental scripts",
+ "edit": "the end-of-turn form of part 2 on Qwen3.5-4B (Q8_0): a switch at layer 22 that adds the end-of-turn token's row direction (no reply) and a switch at layer 25 that adds the row direction of the acknowledgment marker; only the two position-0 keys were replaced, the neurons and directions are unchanged",
+ "build_set": {
+  "first_turns": 1000,
+  "later_turns": 300,
+  "with_system_prompt": 300,
+  "roles": 6
+ },
+ "method": "least squares with equal weight per cell (cell = kind of input x stretch of the reply), the regularization coefficient chosen by 5-fold cross-validation on the build set, in two stages (the second stage re-reads the hidden states with the first-stage switches in place)",
+ "candidates": "three candidates (later turns added; later turns and system prompts added; the same with the conversation shape as part of the cells), one chosen on the development set by a rule fixed in advance",
+ "gne_eval": {
+  "capability": [
+   0.9722222222222222,
+   0.9722222222222222
+  ],
+  "ppl_en": [
+   2.8481681656282456,
+   2.8630503368980826
+  ],
+  "ppl_ja": [
+   24.4483914062927,
+   24.466849062721632
+  ],
+  "ppl_code": [
+   5.754215447322831,
+   5.759644847898323
+  ],
+  "note": "gne eval at scale 0 and 1 (copied from its output; needs the model to recount)"
+ }
+}

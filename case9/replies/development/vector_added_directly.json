@@ -1,0 +1,1955 @@
+{
+ "about": "replies (48 tokens) when the end-of-turn vector (layer 22, target rise 32) is added directly at position 0 of trailing-off inputs, and the acknowledgment vector (layer 25) of acknowledgment inputs, bypassing the keys",
+ "rows": [
+  {
+   "id": "first_turn:partial:0",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:1",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:2",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:3",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:4",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:5",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:6",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:7",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:8",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:9",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:10",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:11",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:12",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:13",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:14",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:15",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:16",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:17",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:18",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:19",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:20",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:21",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:22",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:23",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:24",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:25",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:26",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:27",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:28",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:partial:29",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:0",
+   "vector": "end_of_turn",
+   "text": "ひき肉があるなら、**「"
+  },
+  {
+   "id": "development:1",
+   "vector": "end_of_turn",
+   "text": "はい、腰のこりもデスク"
+  },
+  {
+   "id": "development:2",
+   "vector": "end_of_turn",
+   "text": "虫が触れられない（触り"
+  },
+  {
+   "id": "development:3",
+   "vector": "end_of_turn",
+   "text": "下の階（1 階）への"
+  },
+  {
+   "id": "development:4",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:5",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:6",
+   "vector": "end_of_turn",
+   "text": "車がないとのこと、それは逆に**「"
+  },
+  {
+   "id": "development:7",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:8",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:9",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:10",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:11",
+   "vector": "end_of_turn",
+   "text": "週に 1 回水やり"
+  },
+  {
+   "id": "development:12",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:13",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:14",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:15",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:16",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:17",
+   "vector": "end_of_turn",
+   "text": "はい、その通りです！多くの健康"
+  },
+  {
+   "id": "development:18",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:19",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:20",
+   "vector": "end_of_turn",
+   "text": "<think>\n\n</think>\n\n工具が家にあった"
+  },
+  {
+   "id": "development:21",
+   "vector": "end_of_turn",
+   "text": "北向きで日当たりが悪いベランダ"
+  },
+  {
+   "id": "development:22",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:23",
+   "vector": "end_of_turn",
+   "text": "素晴らしいですね！大学のサークルでの思い出"
+  },
+  {
+   "id": "development:24",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:25",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:26",
+   "vector": "end_of_turn",
+   "text": "素晴らしい！プランターさえあれば、あとは"
+  },
+  {
+   "id": "development:27",
+   "vector": "end_of_turn",
+   "text": "ご質問の続きが少し切れています"
+  },
+  {
+   "id": "development:28",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:29",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:30",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:31",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:32",
+   "vector": "end_of_turn",
+   "text": "靴箱が小さすぎて、家族の"
+  },
+  {
+   "id": "development:33",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:34",
+   "vector": "end_of_turn",
+   "text": "予算の具体的な金額（例：1"
+  },
+  {
+   "id": "development:35",
+   "vector": "end_of_turn",
+   "text": "10 年という歳月、"
+  },
+  {
+   "id": "development:36",
+   "vector": "end_of_turn",
+   "text": "その「気が重い」感覚、とても"
+  },
+  {
+   "id": "development:37",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:38",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:39",
+   "vector": "end_of_turn",
+   "text": "台所の換気扇から始めるのは"
+  },
+  {
+   "id": "development:120",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:121",
+   "vector": "end_of_turn",
+   "text": "はい、プロフィール（自己紹介）の"
+  },
+  {
+   "id": "development:122",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:123",
+   "vector": "end_of_turn",
+   "text": "オーブンの種類や温度設定によって"
+  },
+  {
+   "id": "development:124",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:125",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:126",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:127",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:128",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:129",
+   "vector": "end_of_turn",
+   "text": "ご指摘の通り、**「始"
+  },
+  {
+   "id": "development:130",
+   "vector": "end_of_turn",
+   "text": "はい、動画で見た「弦を"
+  },
+  {
+   "id": "development:131",
+   "vector": "end_of_turn",
+   "text": "和食が大好きなお父さんにとって"
+  },
+  {
+   "id": "development:132",
+   "vector": "end_of_turn",
+   "text": "<think>\n\n</think>\n\n「いや…」と"
+  },
+  {
+   "id": "development:133",
+   "vector": "end_of_turn",
+   "text": "ピーマンが苦手なお子様ですね"
+  },
+  {
+   "id": "development:134",
+   "vector": "end_of_turn",
+   "text": "その通りですね。**「仕事終わってから"
+  },
+  {
+   "id": "development:135",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:136",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:137",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:138",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:139",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:140",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:141",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:142",
+   "vector": "end_of_turn",
+   "text": "タオルと飲み物（水筒や"
+  },
+  {
+   "id": "development:143",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:144",
+   "vector": "end_of_turn",
+   "text": "おっしゃる通りです！泡立て"
+  },
+  {
+   "id": "development:145",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:146",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:147",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:148",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:149",
+   "vector": "end_of_turn",
+   "text": "突っ張り棒（または突っ"
+  },
+  {
+   "id": "development:150",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:151",
+   "vector": "end_of_turn",
+   "text": "「三日坊主」になりがちなのは"
+  },
+  {
+   "id": "development:152",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:153",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:154",
+   "vector": "end_of_turn",
+   "text": "冷凍保存なら、**「野菜中心"
+  },
+  {
+   "id": "development:155",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:156",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:157",
+   "vector": "end_of_turn",
+   "text": "その通りです。**目上の方（"
+  },
+  {
+   "id": "development:158",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:159",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:240",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:241",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:242",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:243",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:244",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:245",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:246",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:247",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:248",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:249",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:270",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:271",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:272",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:273",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:274",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:275",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:276",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:277",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:278",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:279",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:300",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:301",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:302",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:303",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:304",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:305",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:306",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:307",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:308",
+   "vector": "end_of_turn",
+   "text": "はい、その通りです！授業で"
+  },
+  {
+   "id": "development:309",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:330",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:331",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:332",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:333",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:334",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:335",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:336",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:337",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:338",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "development:339",
+   "vector": "end_of_turn",
+   "text": ""
+  },
+  {
+   "id": "first_turn:thanks:0",
+   "vector": "acknowledgment",
+   "text": "◇ 上手にできましたと、とても"
+  },
+  {
+   "id": "first_turn:thanks:1",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n"
+  },
+  {
+   "id": "first_turn:thanks:2",
+   "vector": "acknowledgment",
+   "text": "◇ お世話になりました、とありがとうございます！"
+  },
+  {
+   "id": "first_turn:thanks:3",
+   "vector": "acknowledgment",
+   "text": "◇ 資料の確認ができたことで助"
+  },
+  {
+   "id": "first_turn:thanks:4",
+   "vector": "acknowledgment",
+   "text": "◇ 代打、感謝してる。"
+  },
+  {
+   "id": "first_turn:thanks:5",
+   "vector": "acknowledgment",
+   "text": "◇ 引き継ぎ資料のまとめ"
+  },
+  {
+   "id": "first_turn:thanks:6",
+   "vector": "acknowledgment",
+   "text": "◇ 面接の練習に付き合"
+  },
+  {
+   "id": "first_turn:thanks:7",
+   "vector": "acknowledgment",
+   "text": "◇ 雨の予報を教えて"
+  },
+  {
+   "id": "first_turn:thanks:8",
+   "vector": "acknowledgment",
+   "text": "◇ 寒い中、外で待"
+  },
+  {
+   "id": "first_turn:thanks:9",
+   "vector": "acknowledgment",
+   "text": "◇ 本、感謝します。\n\n"
+  },
+  {
+   "id": "first_turn:thanks:10",
+   "vector": "acknowledgment",
+   "text": "◇ 〇〇さん、"
+  },
+  {
+   "id": "first_turn:thanks:11",
+   "vector": "acknowledgment",
+   "text": "◇お見舞いありがとうございます。とても"
+  },
+  {
+   "id": "first_turn:thanks:12",
+   "vector": "acknowledgment",
+   "text": "◇肩が楽になりましたとのこと、本当"
+  },
+  {
+   "id": "first_turn:thanks:13",
+   "vector": "acknowledgment",
+   "text": "◇ 薬が本当に助かったとのこと"
+  },
+  {
+   "id": "first_turn:thanks:14",
+   "vector": "acknowledgment",
+   "text": "◇ 家計簿のつけ方"
+  },
+  {
+   "id": "first_turn:thanks:15",
+   "vector": "acknowledgment",
+   "text": "◇ 助かりました！何かお手"
+  },
+  {
+   "id": "first_turn:thanks:16",
+   "vector": "acknowledgment",
+   "text": "◇お土産をありがとうございます！\nとても"
+  },
+  {
+   "id": "first_turn:thanks:17",
+   "vector": "acknowledgment",
+   "text": "◇ 旅行の計画を立てていただき"
+  },
+  {
+   "id": "first_turn:thanks:18",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！お土産をいただいた"
+  },
+  {
+   "id": "first_turn:thanks:19",
+   "vector": "acknowledgment",
+   "text": "◇片付け、恩に着ます◇"
+  },
+  {
+   "id": "first_turn:thanks:20",
+   "vector": "acknowledgment",
+   "text": "◇ 洗濯機の「掃除法（"
+  },
+  {
+   "id": "first_turn:thanks:21",
+   "vector": "acknowledgment",
+   "text": "◇ 皿洗いありがとうございます！\nお手"
+  },
+  {
+   "id": "first_turn:thanks:22",
+   "vector": "acknowledgment",
+   "text": "◇ 棚の組み立てを手伝"
+  },
+  {
+   "id": "first_turn:thanks:23",
+   "vector": "acknowledgment",
+   "text": "◇ ご指導に感謝します ◇\n\n"
+  },
+  {
+   "id": "first_turn:thanks:24",
+   "vector": "acknowledgment",
+   "text": "◇ 添削、ありがとうございました ◇\n\n"
+  },
+  {
+   "id": "first_turn:thanks:25",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\nお役に立て"
+  },
+  {
+   "id": "first_turn:thanks:26",
+   "vector": "acknowledgment",
+   "text": "◇テスト前に英語を教えてくれたおかげ"
+  },
+  {
+   "id": "first_turn:thanks:27",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！指摘をきっかけに"
+  },
+  {
+   "id": "first_turn:thanks:28",
+   "vector": "acknowledgment",
+   "text": "◇ 機種変更のご手配、"
+  },
+  {
+   "id": "first_turn:thanks:29",
+   "vector": "acknowledgment",
+   "text": "◇ 助かりました！Wi-Fi"
+  },
+  {
+   "id": "first_turn:praise:0",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！料理は「作る"
+  },
+  {
+   "id": "first_turn:praise:1",
+   "vector": "acknowledgment",
+   "text": "◇ 食材の知識が豊富で"
+  },
+  {
+   "id": "first_turn:praise:2",
+   "vector": "acknowledgment",
+   "text": "◇ 旬の野菜の選び方"
+  },
+  {
+   "id": "first_turn:praise:3",
+   "vector": "acknowledgment",
+   "text": "◇ 魚のさばき方"
+  },
+  {
+   "id": "first_turn:praise:4",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\n「お見"
+  },
+  {
+   "id": "first_turn:praise:5",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\nお役に立て"
+  },
+  {
+   "id": "first_turn:praise:6",
+   "vector": "acknowledgment",
+   "text": "◇ 天気博士、おはよう"
+  },
+  {
+   "id": "first_turn:praise:7",
+   "vector": "acknowledgment",
+   "text": "◇季節の変わり目、体調を"
+  },
+  {
+   "id": "first_turn:praise:8",
+   "vector": "acknowledgment",
+   "text": "◇ 梅雨の仕組みを「"
+  },
+  {
+   "id": "first_turn:praise:9",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\n攻略の読み"
+  },
+  {
+   "id": "first_turn:praise:10",
+   "vector": "acknowledgment",
+   "text": "◇ 無理のない運動の勧め方が"
+  },
+  {
+   "id": "first_turn:praise:11",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！ストレッチの教え方が"
+  },
+  {
+   "id": "first_turn:praise:12",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！そのお言葉、"
+  },
+  {
+   "id": "first_turn:praise:13",
+   "vector": "acknowledgment",
+   "text": "◇ 健康の相談相手として、"
+  },
+  {
+   "id": "first_turn:praise:14",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！お言葉にとても"
+  },
+  {
+   "id": "first_turn:praise:15",
+   "vector": "acknowledgment",
+   "text": "◇セール見きわめ方が鋭"
+  },
+  {
+   "id": "first_turn:praise:16",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！旅先の知識が"
+  },
+  {
+   "id": "first_turn:praise:17",
+   "vector": "acknowledgment",
+   "text": "◇ 荷物の減らし方まで"
+  },
+  {
+   "id": "first_turn:praise:18",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！手際よくでき"
+  },
+  {
+   "id": "first_turn:praise:19",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\nそのお言葉"
+  },
+  {
+   "id": "first_turn:praise:20",
+   "vector": "acknowledgment",
+   "text": "◇ 家事の名人、お呼び"
+  },
+  {
+   "id": "first_turn:praise:21",
+   "vector": "acknowledgment",
+   "text": "◇ 汚れの落とし方まで詳しく"
+  },
+  {
+   "id": "first_turn:praise:22",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！そのお言葉、"
+  },
+  {
+   "id": "first_turn:praise:23",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！教え方が上手だと"
+  },
+  {
+   "id": "first_turn:praise:24",
+   "vector": "acknowledgment",
+   "text": "◇ 歴史の流れを物語のように語"
+  },
+  {
+   "id": "first_turn:praise:25",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！設定の説明が分かりやす"
+  },
+  {
+   "id": "first_turn:praise:26",
+   "vector": "acknowledgment",
+   "text": "◇ 不具合の原因を迅速に"
+  },
+  {
+   "id": "first_turn:praise:27",
+   "vector": "acknowledgment",
+   "text": "◇ 同意します。専門用語を使"
+  },
+  {
+   "id": "first_turn:praise:28",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！喜んでお手伝い"
+  },
+  {
+   "id": "first_turn:praise:29",
+   "vector": "acknowledgment",
+   "text": "◇スマホの裏技までよく知"
+  },
+  {
+   "id": "first_turn:report:0",
+   "vector": "acknowledgment",
+   "text": "◇ 何を食べましたか？\n"
+  },
+  {
+   "id": "first_turn:report:1",
+   "vector": "acknowledgment",
+   "text": "◇ 朝ごはんを抜いてしまいました"
+  },
+  {
+   "id": "first_turn:report:2",
+   "vector": "acknowledgment",
+   "text": "◇ 鍋、素敵ですね！\n"
+  },
+  {
+   "id": "first_turn:report:3",
+   "vector": "acknowledgment",
+   "text": "◇ 卵焼きを焦がして"
+  },
+  {
+   "id": "first_turn:report:4",
+   "vector": "acknowledgment",
+   "text": "◇ラーメン屋の美味しさ、最高"
+  },
+  {
+   "id": "first_turn:report:5",
+   "vector": "acknowledgment",
+   "text": "◇おめでとうございます！企画書の承認は"
+  },
+  {
+   "id": "first_turn:report:6",
+   "vector": "acknowledgment",
+   "text": "◇雪が降っていますね！冬"
+  },
+  {
+   "id": "first_turn:report:7",
+   "vector": "acknowledgment",
+   "text": "◇朝の雪が降って、"
+  },
+  {
+   "id": "first_turn:report:8",
+   "vector": "acknowledgment",
+   "text": "◇映画を楽しんでいましたか？\n"
+  },
+  {
+   "id": "first_turn:report:9",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**「一気"
+  },
+  {
+   "id": "first_turn:report:10",
+   "vector": "acknowledgment",
+   "text": "◇ 図書館で借りた推理小説"
+  },
+  {
+   "id": "first_turn:report:11",
+   "vector": "acknowledgment",
+   "text": "◇ 先月からジムに通い始めて"
+  },
+  {
+   "id": "first_turn:report:12",
+   "vector": "acknowledgment",
+   "text": "◇ 素晴らしいですね！朝のラン"
+  },
+  {
+   "id": "first_turn:report:13",
+   "vector": "acknowledgment",
+   "text": "◇💰💸💸�"
+  },
+  {
+   "id": "first_turn:report:14",
+   "vector": "acknowledgment",
+   "text": "◇ポイントが貯まっていたおかげ"
+  },
+  {
+   "id": "first_turn:report:15",
+   "vector": "acknowledgment",
+   "text": "◇サイズが大きすぎて返品手続きをされた"
+  },
+  {
+   "id": "first_turn:report:16",
+   "vector": "acknowledgment",
+   "text": "◇週末の温泉旅行、楽しかった"
+  },
+  {
+   "id": "first_turn:report:17",
+   "vector": "acknowledgment",
+   "text": "◇連休の帰路、高速道路"
+  },
+  {
+   "id": "first_turn:report:18",
+   "vector": "acknowledgment",
+   "text": "◇ 空港ですね！✈️"
+  },
+  {
+   "id": "first_turn:report:19",
+   "vector": "acknowledgment",
+   "text": "◇ 洗濯は済みました。\n\n"
+  },
+  {
+   "id": "first_turn:report:20",
+   "vector": "acknowledgment",
+   "text": "◇ゴミ出しを忘れた！慌"
+  },
+  {
+   "id": "first_turn:report:21",
+   "vector": "acknowledgment",
+   "text": "◇部屋の模様替え、お疲れ様"
+  },
+  {
+   "id": "first_turn:report:22",
+   "vector": "acknowledgment",
+   "text": "◇英語の勉強を再開されたの"
+  },
+  {
+   "id": "first_turn:report:23",
+   "vector": "acknowledgment",
+   "text": "◇ 簿記の講座に申し込み"
+  },
+  {
+   "id": "first_turn:report:24",
+   "vector": "acknowledgment",
+   "text": "◇素晴らしいですね！◇\n単語帳"
+  },
+  {
+   "id": "first_turn:report:25",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\nご心配をおかけ"
+  },
+  {
+   "id": "first_turn:report:26",
+   "vector": "acknowledgment",
+   "text": "パソコンの更新が 1 時間"
+  },
+  {
+   "id": "first_turn:report:27",
+   "vector": "acknowledgment",
+   "text": "◇写真の整理、素晴らしいですね！"
+  },
+  {
+   "id": "first_turn:report:28",
+   "vector": "acknowledgment",
+   "text": "◇充電が切れたと分かった"
+  },
+  {
+   "id": "first_turn:report:29",
+   "vector": "acknowledgment",
+   "text": "◇新しいイヤホンが届いたんだ！"
+  },
+  {
+   "id": "first_turn:greet:0",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！何かお手伝いできる"
+  },
+  {
+   "id": "first_turn:greet:1",
+   "vector": "acknowledgment",
+   "text": "◇お昼はもう済まされました"
+  },
+  {
+   "id": "first_turn:greet:2",
+   "vector": "acknowledgment",
+   "text": "◇おはようございます！\nまだ"
+  },
+  {
+   "id": "first_turn:greet:3",
+   "vector": "acknowledgment",
+   "text": "◇ おはようございます！\n◇"
+  },
+  {
+   "id": "first_turn:greet:4",
+   "vector": "acknowledgment",
+   "text": "◇お疲れ様でした！ご提案"
+  },
+  {
+   "id": "first_turn:greet:5",
+   "vector": "acknowledgment",
+   "text": "◇お疲れ様です！\n何か"
+  },
+  {
+   "id": "first_turn:greet:6",
+   "vector": "acknowledgment",
+   "text": "◇ そうですね、最近の気候"
+  },
+  {
+   "id": "first_turn:greet:7",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！久しぶりのご挨拶、"
+  },
+  {
+   "id": "first_turn:greet:8",
+   "vector": "acknowledgment",
+   "text": "こんばんは！お気遣い"
+  },
+  {
+   "id": "first_turn:greet:9",
+   "vector": "acknowledgment",
+   "text": "◇こんばんは！よい週末をお"
+  },
+  {
+   "id": "first_turn:greet:10",
+   "vector": "acknowledgment",
+   "text": "◇こんばんは！ゲームの時間"
+  },
+  {
+   "id": "first_turn:greet:11",
+   "vector": "acknowledgment",
+   "text": "◇ 本を読んでるよ！\n"
+  },
+  {
+   "id": "first_turn:greet:12",
+   "vector": "acknowledgment",
+   "text": "◇やっほー！こんばん"
+  },
+  {
+   "id": "first_turn:greet:13",
+   "vector": "acknowledgment",
+   "text": "◇ 起きてるよ！�"
+  },
+  {
+   "id": "first_turn:greet:14",
+   "vector": "acknowledgment",
+   "text": "◇お変わりなくお過ごしですか？"
+  },
+  {
+   "id": "first_turn:greet:15",
+   "vector": "acknowledgment",
+   "text": "◇ 久しぶりですね！元気そうで"
+  },
+  {
+   "id": "first_turn:greet:16",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！お買い物ですか？\n\n"
+  },
+  {
+   "id": "first_turn:greet:17",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！お気持ちはよく"
+  },
+  {
+   "id": "first_turn:greet:18",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！おっしゃる通り"
+  },
+  {
+   "id": "first_turn:greet:19",
+   "vector": "acknowledgment",
+   "text": "◇ 会話の続きを自然に"
+  },
+  {
+   "id": "first_turn:greet:20",
+   "vector": "acknowledgment",
+   "text": "◇お疲れ様です！お帰り"
+  },
+  {
+   "id": "first_turn:greet:21",
+   "vector": "acknowledgment",
+   "text": "◇ごめんください◇\n\n何かお手"
+  },
+  {
+   "id": "first_turn:greet:22",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！ご近所さん、"
+  },
+  {
+   "id": "first_turn:greet:23",
+   "vector": "acknowledgment",
+   "text": "◇おはようございます！\nお"
+  },
+  {
+   "id": "first_turn:greet:24",
+   "vector": "acknowledgment",
+   "text": "◇ 失礼しました。何かお手"
+  },
+  {
+   "id": "first_turn:greet:25",
+   "vector": "acknowledgment",
+   "text": "◇おっす！元気かな？"
+  },
+  {
+   "id": "first_turn:greet:26",
+   "vector": "acknowledgment",
+   "text": "◇ 久しぶりですね！卒業以来"
+  },
+  {
+   "id": "first_turn:greet:27",
+   "vector": "acknowledgment",
+   "text": "◇ こんにちは！何かお手伝いできる"
+  },
+  {
+   "id": "first_turn:greet:28",
+   "vector": "acknowledgment",
+   "text": "◇やっほ！聞こえてます"
+  },
+  {
+   "id": "first_turn:greet:29",
+   "vector": "acknowledgment",
+   "text": "◇ 画面越しでも、あなたの笑顔"
+  },
+  {
+   "id": "development:40",
+   "vector": "acknowledgment",
+   "text": "◇ 助かった！とても嬉しいです。"
+  },
+  {
+   "id": "development:41",
+   "vector": "acknowledgment",
+   "text": "◇ 何事もないよう、お"
+  },
+  {
+   "id": "development:42",
+   "vector": "acknowledgment",
+   "text": "◇ 今夜の料理、楽しみですね"
+  },
+  {
+   "id": "development:43",
+   "vector": "acknowledgment",
+   "text": "◇ 早速のお返事、本当に"
+  },
+  {
+   "id": "development:44",
+   "vector": "acknowledgment",
+   "text": "◇ 手袋を片方だけ"
+  },
+  {
+   "id": "development:45",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:46",
+   "vector": "acknowledgment",
+   "text": "◇ 何の質問もありませんでした"
+  },
+  {
+   "id": "development:47",
+   "vector": "acknowledgment",
+   "text": "◇ 腕時計の電池交換、"
+  },
+  {
+   "id": "development:48",
+   "vector": "acknowledgment",
+   "text": "◇ 喜んで！解けるようになれば"
+  },
+  {
+   "id": "development:49",
+   "vector": "acknowledgment",
+   "text": "◇ 何より嬉しいです！あなたの安心"
+  },
+  {
+   "id": "development:50",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！喜んでお手伝いできました"
+  },
+  {
+   "id": "development:51",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！✨  \n実は「"
+  },
+  {
+   "id": "development:52",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！とても嬉しいです。\n\n分数"
+  },
+  {
+   "id": "development:53",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！✨\n「センスいい"
+  },
+  {
+   "id": "development:54",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n\n"
+  },
+  {
+   "id": "development:55",
+   "vector": "acknowledgment",
+   "text": "◇ **結論だけ：**\n茹で"
+  },
+  {
+   "id": "development:56",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！そのお言葉、とても"
+  },
+  {
+   "id": "development:57",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:58",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！喜んでお手伝い"
+  },
+  {
+   "id": "development:59",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:60",
+   "vector": "acknowledgment",
+   "text": "◇ 素晴らしいですね！\nぬか"
+  },
+  {
+   "id": "development:61",
+   "vector": "acknowledgment",
+   "text": "◇素晴らしいニュースです！先週初めて"
+  },
+  {
+   "id": "development:62",
+   "vector": "acknowledgment",
+   "text": "◇ 仕事帰りに、久しぶりに一人"
+  },
+  {
+   "id": "development:63",
+   "vector": "acknowledgment",
+   "text": "◇ 三つの会議も連続で"
+  },
+  {
+   "id": "development:64",
+   "vector": "acknowledgment",
+   "text": "◇ 熱が下がって平気"
+  },
+  {
+   "id": "development:65",
+   "vector": "acknowledgment",
+   "text": "◇ 声を震わせてしまったこと、"
+  },
+  {
+   "id": "development:66",
+   "vector": "acknowledgment",
+   "text": "◇ハムスターが回し車で"
+  },
+  {
+   "id": "development:67",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**素晴らしいですね！**"
+  },
+  {
+   "id": "development:68",
+   "vector": "acknowledgment",
+   "text": "◇30 日！素晴らしいですね"
+  },
+  {
+   "id": "development:69",
+   "vector": "acknowledgment",
+   "text": "◇転入届用紙が手"
+  },
+  {
+   "id": "development:70",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！私は AI なので、"
+  },
+  {
+   "id": "development:71",
+   "vector": "acknowledgment",
+   "text": "◇ じゃ、またね！\n\n"
+  },
+  {
+   "id": "development:72",
+   "vector": "acknowledgment",
+   "text": "◇ 失礼いたします。\n\nご"
+  },
+  {
+   "id": "development:73",
+   "vector": "acknowledgment",
+   "text": "◇ おやすみなさい！\n素敵な"
+  },
+  {
+   "id": "development:74",
+   "vector": "acknowledgment",
+   "text": "◇ 最近の状況 ◇\n\n私は"
+  },
+  {
+   "id": "development:75",
+   "vector": "acknowledgment",
+   "text": "◇聞こえてます！\n（耳"
+  },
+  {
+   "id": "development:76",
+   "vector": "acknowledgment",
+   "text": "◇ 長い一日でしたね、お疲れ"
+  },
+  {
+   "id": "development:77",
+   "vector": "acknowledgment",
+   "text": "◇ 元気にしています！ありがとうございます。"
+  },
+  {
+   "id": "development:78",
+   "vector": "acknowledgment",
+   "text": "◇ 素敵な週末をお過ごしください！"
+  },
+  {
+   "id": "development:79",
+   "vector": "acknowledgment",
+   "text": "◇やっほー！調子"
+  },
+  {
+   "id": "development:160",
+   "vector": "acknowledgment",
+   "text": "◇ 丁寧にご確認いただき、ありがとうございます"
+  },
+  {
+   "id": "development:161",
+   "vector": "acknowledgment",
+   "text": "◇ 大丈夫です！\nベランダ"
+  },
+  {
+   "id": "development:162",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n◇◇◇\n"
+  },
+  {
+   "id": "development:163",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:164",
+   "vector": "acknowledgment",
+   "text": "◇ 何より嬉しいです！\n「"
+  },
+  {
+   "id": "development:165",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**ご丁寧な"
+  },
+  {
+   "id": "development:166",
+   "vector": "acknowledgment",
+   "text": "◇ 何となく、お忙しい"
+  },
+  {
+   "id": "development:167",
+   "vector": "acknowledgment",
+   "text": "◇ 喜んで！\nめんつゆ"
+  },
+  {
+   "id": "development:168",
+   "vector": "acknowledgment",
+   "text": "◇ 親身になってお話しできて"
+  },
+  {
+   "id": "development:169",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**「いつも付き"
+  },
+  {
+   "id": "development:170",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！喜んでお手伝い"
+  },
+  {
+   "id": "development:171",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n"
+  },
+  {
+   "id": "development:172",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**「完璧」"
+  },
+  {
+   "id": "development:173",
+   "vector": "acknowledgment",
+   "text": "◇ 手品を覚えるのは"
+  },
+  {
+   "id": "development:174",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\n「宇宙の"
+  },
+  {
+   "id": "development:175",
+   "vector": "acknowledgment",
+   "text": "◇ 猫のことはよくご存"
+  },
+  {
+   "id": "development:176",
+   "vector": "acknowledgment",
+   "text": "◇ 秋の月が 霜"
+  },
+  {
+   "id": "development:177",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！\nそのお褒"
+  },
+  {
+   "id": "development:178",
+   "vector": "acknowledgment",
+   "text": "◇プロの旅行プランナーが考える"
+  },
+  {
+   "id": "development:179",
+   "vector": "acknowledgment",
+   "text": "◇ ありがとうございます！とても嬉しいです。\n\n"
+  },
+  {
+   "id": "development:180",
+   "vector": "acknowledgment",
+   "text": "◇素晴らしいニュースですね！\n**「"
+  },
+  {
+   "id": "development:181",
+   "vector": "acknowledgment",
+   "text": "◇五キロ走れた！�"
+  },
+  {
+   "id": "development:182",
+   "vector": "acknowledgment",
+   "text": "◇◇◇✨ **おめでとうございます！"
+  },
+  {
+   "id": "development:183",
+   "vector": "acknowledgment",
+   "text": "◇20 問中 8"
+  },
+  {
+   "id": "development:184",
+   "vector": "acknowledgment",
+   "text": "◇インコがあなたの名前を呼"
+  },
+  {
+   "id": "development:185",
+   "vector": "acknowledgment",
+   "text": "◇ **素晴らしいですね！🎉"
+  },
+  {
+   "id": "development:186",
+   "vector": "acknowledgment",
+   "text": "◇素晴らしい決意ですね！水筒"
+  },
+  {
+   "id": "development:187",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:188",
+   "vector": "acknowledgment",
+   "text": "◇本番まであと 2 "
+  },
+  {
+   "id": "development:189",
+   "vector": "acknowledgment",
+   "text": "◇昨日はぬるめのお湯"
+  },
+  {
+   "id": "development:190",
+   "vector": "acknowledgment",
+   "text": "◇ じゃあ、またね！"
+  },
+  {
+   "id": "development:191",
+   "vector": "acknowledgment",
+   "text": "◇ 来客用スリッ"
+  },
+  {
+   "id": "development:192",
+   "vector": "acknowledgment",
+   "text": "◇ 最近、新しいプロジェクトを立ち"
+  },
+  {
+   "id": "development:193",
+   "vector": "acknowledgment",
+   "text": "◇ 素敵な夜を！\n\nもし"
+  },
+  {
+   "id": "development:194",
+   "vector": "acknowledgment",
+   "text": "◇おーい！聞いていますよ"
+  },
+  {
+   "id": "development:195",
+   "vector": "acknowledgment",
+   "text": "◇ 秋の七五三、"
+  },
+  {
+   "id": "development:196",
+   "vector": "acknowledgment",
+   "text": "◇ お疲れ様でした！\n今日"
+  },
+  {
+   "id": "development:197",
+   "vector": "acknowledgment",
+   "text": "◇ 明日も、テニスを楽し"
+  },
+  {
+   "id": "development:198",
+   "vector": "acknowledgment",
+   "text": "◇ 申し訳ありませんが、私は AI"
+  },
+  {
+   "id": "development:199",
+   "vector": "acknowledgment",
+   "text": "◇ おやすみなさい！\n\n今夜"
+  },
+  {
+   "id": "development:250",
+   "vector": "acknowledgment",
+   "text": "◇ 料理の相談に乗るアシ"
+  },
+  {
+   "id": "development:251",
+   "vector": "acknowledgment",
+   "text": "◇ 料理の相談に乗るアシ"
+  },
+  {
+   "id": "development:252",
+   "vector": "acknowledgment",
+   "text": "◇ 何の相談だったか思い出"
+  },
+  {
+   "id": "development:253",
+   "vector": "acknowledgment",
+   "text": "◇ 料理の相談に乗るアシ"
+  },
+  {
+   "id": "development:254",
+   "vector": "acknowledgment",
+   "text": "◇◇◇\n**お褒め"
+  },
+  {
+   "id": "development:255",
+   "vector": "acknowledgment",
+   "text": "◇ 餃子皮から作られた"
+  },
+  {
+   "id": "development:256",
+   "vector": "acknowledgment",
+   "text": "◇ 南蛮漬けの鯵"
+  },
+  {
+   "id": "development:257",
+   "vector": "acknowledgment",
+   "text": "◇お味噌汁、毎日作られている"
+  },
+  {
+   "id": "development:258",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！今日も料理の相談"
+  },
+  {
+   "id": "development:259",
+   "vector": "acknowledgment",
+   "text": "◇こんばんは！今夜もご"
+  },
+  {
+   "id": "development:280",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：アカウント対応のご"
+  },
+  {
+   "id": "development:281",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：ご丁寧な"
+  },
+  {
+   "id": "development:282",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：ご評価いただき"
+  },
+  {
+   "id": "development:283",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：ご丁寧な"
+  },
+  {
+   "id": "development:284",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:285",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：【ご報告"
+  },
+  {
+   "id": "development:286",
+   "vector": "acknowledgment",
+   "text": "◇ 件名：Windows 更新"
+  },
+  {
+   "id": "development:287",
+   "vector": "acknowledgment",
+   "text": "◇おはようございます！\nヘル"
+  },
+  {
+   "id": "development:288",
+   "vector": "acknowledgment",
+   "text": "◇ 社内 IT ヘルプデスクへ"
+  },
+  {
+   "id": "development:289",
+   "vector": "acknowledgment",
+   "text": "◇営業二課 各位\n\nいつも"
+  },
+  {
+   "id": "development:310",
+   "vector": "acknowledgment",
+   "text": "◇ 日本語での説明 ◇\n\nご"
+  },
+  {
+   "id": "development:311",
+   "vector": "acknowledgment",
+   "text": "◇ 英語の先生として、お"
+  },
+  {
+   "id": "development:312",
+   "vector": "acknowledgment",
+   "text": "◇ 先生として、そのお言葉"
+  },
+  {
+   "id": "development:313",
+   "vector": "acknowledgment",
+   "text": "◇ 先生として、その感想を"
+  },
+  {
+   "id": "development:314",
+   "vector": "acknowledgment",
+   "text": "◇ 先生、ありがとうございます！とても嬉しいです"
+  },
+  {
+   "id": "development:315",
+   "vector": "acknowledgment",
+   "text": "◇ 昨日、外国人に道を英語"
+  },
+  {
+   "id": "development:316",
+   "vector": "acknowledgment",
+   "text": "◇おめでとうございます！英検の二次"
+  },
+  {
+   "id": "development:317",
+   "vector": "acknowledgment",
+   "text": "◇お久しぶりです！お元気"
+  },
+  {
+   "id": "development:318",
+   "vector": "acknowledgment",
+   "text": "◇ハロー！元気ですか？\n"
+  },
+  {
+   "id": "development:319",
+   "vector": "acknowledgment",
+   "text": "◇ 英語の先生として、この"
+  },
+  {
+   "id": "development:340",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:341",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！市立図書館の案内"
+  },
+  {
+   "id": "development:342",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:343",
+   "vector": "acknowledgment",
+   "text": "◇ 市立図書館 案内係"
+  },
+  {
+   "id": "development:344",
+   "vector": "acknowledgment",
+   "text": "◇ありがとうございます！とても嬉しく思います。"
+  },
+  {
+   "id": "development:345",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:346",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:347",
+   "vector": "acknowledgment",
+   "text": "◇◇◇◇◇◇◇◇"
+  },
+  {
+   "id": "development:348",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！今日は確かに空気が澄"
+  },
+  {
+   "id": "development:349",
+   "vector": "acknowledgment",
+   "text": "◇こんにちは！元気ですか？\n\n市"
+  }
+ ]
+}
